@@ -1,0 +1,10 @@
+{
+  "name": "dependent",
+  "url": "https://github.com/magicco/magiclib/commit/b0215d5", 
+  "versions": {
+    "1.0.0": {
+      "url": "git@github.com:njlr/dependent-lib.git#cdb17d8a8f129bfefe1d88c4959277ec77a45461", 
+      "target": "dependent"
+    }
+  }
+}
