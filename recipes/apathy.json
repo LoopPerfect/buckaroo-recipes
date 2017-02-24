@@ -1,0 +1,10 @@
+{
+  "name": "apathy",
+  "license": "MIT",
+  "url": "https://github.com/dlecocq/apathy", 
+  "versions": {
+    "1.0.0": {
+      "url": "git@github.com:dlecocq/apathy.git#92fc1c69a84fb1a7c0bad11ac7d5b24c0ece2ecb", 
+    }
+  }
+}
