@@ -1,0 +1,13 @@
+{
+  "name": "json",
+  "license": "MIT",
+  "url": "https://github.com/nlohmann/json", 
+  "versions": {
+    "2.1.1": {
+      "url": "git@github.com:nlohmann/json.git#9ff0cc0f0212cb1e85b83ce5d2907ba9531b6cae", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/json/75050ed8d697ba1827551e108d84bbe589345826/BUCK"
+      }
+    }
+  }
+}
