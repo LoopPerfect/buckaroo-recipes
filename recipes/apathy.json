@@ -5,6 +5,9 @@
   "versions": {
     "1.0.0": {
       "url": "git@github.com:dlecocq/apathy.git#92fc1c69a84fb1a7c0bad11ac7d5b24c0ece2ecb", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/apathy/e49a7560d4a9d8c963362b151605015eddf16b10/BUCK"
+      }
     }
   }
 }
