@@ -1,0 +1,13 @@
+{
+  "name": "observable",
+  "license": "Apache-2.0",
+  "url": "https://github.com/ddinu/observable", 
+  "versions": {
+    "1.0.0": {
+      "url": "git@github.com:ddinu/observable.git#6910c0002091d669ca5e2b28582726ac215ec7c5", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/eigen/c277da1b12affabb33c68aa7539c5795a69066ef/BUCK"
+      }
+    }
+  }
+}
