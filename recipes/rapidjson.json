@@ -1,7 +1,7 @@
 {
   "name": "rapidjson",
   "license": "MIT",
-  "url": "https://github.com/dlecocq/apathy", 
+  "url": "http://rapidjson.org/", 
   "versions": {
     "1.1.0": {
       "url": "git@github.com:miloyip/rapidjson.git#2fb78f9cee01996f020d5af7592b37c5a0693b31", 
