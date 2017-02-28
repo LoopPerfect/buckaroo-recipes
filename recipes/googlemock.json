@@ -1,0 +1,13 @@
+{
+  "name": "googlemock",
+  "license": "BSD-2-Clause",
+  "url": "https://github.com/google/googletest", 
+  "versions": {
+    "1.8.0": {
+      "url": "git@github.com:google/googletest.git#ec44c6c1675c25b9827aacd08c02433cccde7780", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/googletest/bc5c9cb652619234bdc5026fe0e7763b8dbab349/BUCK"
+      }
+    }
+  }
+}
