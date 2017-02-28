@@ -1,0 +1,13 @@
+{
+  "name": "glog",
+  "license": "BSD-2-Clause",
+  "url": "https://github.com/google/glog", 
+  "versions": {
+    "0.3.4": {
+      "url": "git@github.com:google/glog.git#d8cb47f77d1c31779f3ff890e1a5748483778d6a", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/glog/fbdb5d4dafa67f8995dd6c23aa0ba30abbe8313f/BUCK"
+      }
+    }
+  }
+}
