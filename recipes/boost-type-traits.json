@@ -6,7 +6,12 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/type_traits.git#f6c6a3ef9fe8edd69f9e2a455d3eac0c31f01fe5", 
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/type_traits/553931cdd0b36e8f76736a920df65f1a7e396c1f/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/type_traits/f380df87889c2d4b31c5b80ef3909b646a14fead/BUCK"
+      },
+      "dependencies": {
+        "boost-config": "1.63.0",
+        "boost-detail": "1.63.0",
+        "boost-static-assert": "1.63.0"
       }
     }
   }
