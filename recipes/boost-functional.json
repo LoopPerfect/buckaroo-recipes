@@ -6,7 +6,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/functional.git#8f59ebc2d1d84a98d43d04c2eb15129ae3db8451", 
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/functional/09d31d10c7ff8e9ae52a890dd0db8b1dda12b639/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/functional/670f9e2ed9b317cd404ddc5280ab3dbc0ee34087/BUCK"
       },
       "dependencies": {
         "boost-assert": "1.63.0",
