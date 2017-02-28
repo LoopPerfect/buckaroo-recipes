@@ -1,0 +1,13 @@
+{
+  "name": "boost-smart-ptr",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/smart_ptr", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/smart_ptr.git#1e9e2ed6aa623f74c5a69b3dd2beb5decf93faa8", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/smart_ptr/ab0f15ddbf9bf864aa8269d8957c8af58318fb2d/BUCK"
+      }
+    }
+  }
+}
