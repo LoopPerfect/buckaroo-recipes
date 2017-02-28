@@ -1,0 +1,13 @@
+{
+  "name": "boost-utility",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/utility", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/utility.git#9ae6492af96eabe0df1b09d6ad5ee9128a434d46", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/utility/2e30591e62e310b85d6ac6250a38a68d2e0d2f51/BUCK"
+      }
+    }
+  }
+}
