@@ -1,5 +1,5 @@
 {
-  "name": "googlemock",
+  "name": "gmock",
   "license": "BSD-2-Clause",
   "url": "https://github.com/google/googletest", 
   "versions": {
