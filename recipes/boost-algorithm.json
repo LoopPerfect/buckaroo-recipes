@@ -1,0 +1,33 @@
+{
+  "name": "boost-algorithm",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/algorithm", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/algorithm.git#d029402f05c942b5d55b4e42060fc73fd07aaa21", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/a54782c12c9ecfbd71a84381d714039d56bfb1ee/BUCK"
+      }, 
+      "dependencies": {
+        "boost-utility": "1.63.0",
+        "boost-type-traits": "1.63.0",
+        "boost-assert": "1.63.0",
+        "boost-static-assert": "1.63.0",
+        "boost-regex": "1.63.0",
+        "boost-iterator": "1.63.0",
+        "boost-detail": "1.63.0",
+        "boost-mpl": "1.63.0",
+        "boost-throw-exception": "1.63.0",
+        "boost-exception": "1.63.0",
+        "boost-core": "1.63.0",
+        "boost-tuple": "1.63.0",
+        "boost-array": "1.63.0",
+        "boost-concept-check": "1.63.0",
+        "boost-config": "1.63.0",
+        "boost-range": "1.63.0",
+        "boost-unordered": "1.63.0",
+        "boost-function": "1.63.0"
+      }
+    }
+  }
+}
