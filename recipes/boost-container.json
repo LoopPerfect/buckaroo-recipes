@@ -1,0 +1,19 @@
+{
+  "name": "boost-container",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/container", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/container.git#a51e11560a94c76984747653a117d644b74d1984", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/container/a4885ab4100c8df4cca46856f9068da435da769e/BUCK"
+      },
+      "dependencies": {
+        "boost-config": "1.63.0",
+        "boost-move": "1.63.0",
+        "boost-core": "1.63.0",
+        "boost-intrusive": "1.63.0"
+      }
+    }
+  }
+}
