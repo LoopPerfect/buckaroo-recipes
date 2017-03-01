@@ -7,7 +7,7 @@
       "url": "git@github.com:boostorg/math.git#0b1d59cc128bfaa6da39561b8388dec58e408cc1", 
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/math/047e3b322b10f2410148a845bc356e56b58e9523/BUCK"
-      },
+      }
     }
   }
 }
