@@ -6,7 +6,18 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/smart_ptr.git#1e9e2ed6aa623f74c5a69b3dd2beb5decf93faa8", 
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/smart_ptr/62bc0913f9e67f00c1569f9965040d5d9f310400/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/smart_ptr/2297536b9cf685423763057427107ad84a15fc1f/BUCK"
+      },
+      "dependencies": {
+        "boost-config": "1.63.0",
+        "boost-static-assert": "1.63.0",
+        "boost-type-traits": "1.63.0",
+        "boost-assert": "1.63.0",
+        "boost-predef": "1.63.0",
+        "boost-detail": "1.63.0",
+        "boost-throw-exception": "1.63.0",
+        "boost-core": "1.63.0",
+        "boost-move": "1.63.0"
       }
     }
   }
