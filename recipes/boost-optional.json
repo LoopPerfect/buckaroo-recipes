@@ -1,0 +1,25 @@
+{
+  "name": "boost-optional",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/optional", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/optional.git#2124f712998f097dc504f332b8a7df310df041e7", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/optional/fb27e8c31daf3deb52be5325532da9c03abea350/BUCK"
+      },
+      "dependencies": {
+        "boost-detail": "1.63.0",
+        "boost-mpl": "1.63.0",
+        "boost-type-traits": "1.63.0",
+        "boost-config": "1.63.0",
+        "boost-core": "1.63.0",
+        "boost-assert": "1.63.0",
+        "boost-static-assert": "1.63.0",
+        "boost-throw-exception": "1.63.0",
+        "boost-utility": "1.63.0",
+        "boost-move": "1.63.0"
+      }
+    }
+  }
+}
