@@ -1,0 +1,28 @@
+{
+  "name": "boost-lexical-cast",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/lexical_cast", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/lexical_cast.git#011368959810416adf1016276f4e0129a35489c2", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lexical_cast/ed7f83e5791f66f6100111e66f7ea9cd23453732/BUCK"
+      },
+      "dependencies": {
+        "boost-config": "1.63.0",
+        "boost-range": "1.63.0",
+        "boost-mpl": "1.63.0",
+        "boost-type-traits": "1.63.0",
+        "boost-integer": "1.63.0",
+        "boost-assert": "1.63.0",
+        "boost-static-assert": "1.63.0",
+        "boost-detail": "1.63.0",
+        "boost-utility": "1.63.0",
+        "boost-array": "1.63.0",
+        "boost-throw-exception": "1.63.0",
+        "boost-numeric-conversion": "1.63.0",
+        "boost-container": "1.63.0"
+      }
+    }
+  }
+}
