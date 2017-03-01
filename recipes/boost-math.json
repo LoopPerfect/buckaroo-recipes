@@ -1,0 +1,27 @@
+{
+  "name": "boost-math",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/math", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/math.git#0b1d59cc128bfaa6da39561b8388dec58e408cc1", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/047e3b322b10f2410148a845bc356e56b58e9523/BUCK"
+      },
+      "dependencies": {
+        "boost-config": "1.63.0",
+        "boost-static-assert": "1.63.0",
+        "boost-predef": "1.63.0",
+        "boost-type-traits": "1.63.0",
+        "boost-mpl": "1.63.0",
+        "boost-preprocessor": "1.63.0",
+        "boost-assert": "1.63.0",
+        "boost-array": "1.63.0",
+        "boost-utility": "1.63.0",
+        "boost-core": "1.63.0",
+        "boost-lexical-cast": "1.63.0",
+        "boost-container": "1.63.0"
+      }
+    }
+  }
+}
