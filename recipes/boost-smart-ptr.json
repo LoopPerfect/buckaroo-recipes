@@ -17,7 +17,8 @@
         "boost-detail": "1.63.0",
         "boost-throw-exception": "1.63.0",
         "boost-core": "1.63.0",
-        "boost-move": "1.63.0"
+        "boost-move": "1.63.0",
+        "boost-align": "1.63.0"
       }
     }
   }
