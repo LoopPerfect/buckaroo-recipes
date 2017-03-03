@@ -1,0 +1,13 @@
+{
+  "name": "capnproto",
+  "license": "MIT",
+  "url": "https://capnproto.org/", 
+  "versions": {
+    "0.5.3": {
+      "url": "git@github.com:sandstorm-io/capnproto.git#133b496e09fdb9937a364a12b69385f2dbcc9cdb", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/capnproto/c3bc08512425cc4c74348c68aeef2607c8537dea/BUCK"
+      }
+    }
+  }
+}
