@@ -6,7 +6,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/context.git#7b74a799e22d7046fd68da360adec84617346918", 
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/context/61d5eef2772597702eae8cc4a28909a6a693a4cb/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/context/84fbc66adb94ef4b1b5b723cc23182850f8f1c2a/BUCK"
       },
       "dependencies": {
         "boost-config": "1.63.0",
