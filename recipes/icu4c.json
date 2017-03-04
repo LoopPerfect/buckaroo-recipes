@@ -3,7 +3,7 @@
   "license": "",
   "url": "http://site.icu-project.org/", 
   "versions": {
-    "1.63.0": {
+    "58.2.0": {
       "url": "git@github.com:njlr/icu4c.git#d387cd9a5c9411af4b073e643c155f790bd2bcb9"
     }
   }
