@@ -6,7 +6,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/phoenix.git#04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6", 
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/phoenix/a84063554cc15f7c465a6cd846f038d6661e5ac2/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/89c2edc7d7f3652373a9617b01b3e6a0fdd95cde/BUCK"
       },
       "dependencies": {
         "boost-type-traits": "1.63.0",
