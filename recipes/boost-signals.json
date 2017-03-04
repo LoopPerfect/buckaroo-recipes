@@ -1,0 +1,22 @@
+{
+  "name": "boost-signals",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/signals", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/signals.git#613b2a55b602501bf6dfe3da8fb2218e1ffc2862", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals/774842b0dd61d0e5aab3c53016dd0635d0b64751/BUCK"
+      },
+      "dependencies": {
+        "boost-type-traits": "1.63.0",
+        "boost-core": "1.63.0",
+        "boost-smart-ptr": "1.63.0",
+        "boost-any": "1.63.0",
+        "boost-function": "1.63.0",
+        "boost-bind": "1.63.0",
+        "boost-iterator": "1.63.0"
+      }
+    }
+  }
+}
