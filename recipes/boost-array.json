@@ -13,7 +13,8 @@
         "boost-config": "1.63.0",
         "boost-static-assert": "1.63.0",
         "boost-throw-exception": "1.63.0",
-        "boost-utility": "1.63.0"
+        "boost-utility": "1.63.0",
+        "boost-functional": "1.63.0"
       }
     }
   }
