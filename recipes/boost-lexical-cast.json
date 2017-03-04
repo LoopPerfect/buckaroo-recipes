@@ -21,7 +21,7 @@
         "boost-array": "1.63.0",
         "boost-throw-exception": "1.63.0",
         "boost-numeric-conversion": "1.63.0",
-        "boost-container": "1.63.0",
+        "boost-container": "1.63.0"
       }
     }
   }
