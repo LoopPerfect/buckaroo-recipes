@@ -1,0 +1,20 @@
+{
+  "name": "boost-iostreams",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/iostreams", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/iostreams.git#379ec3b4ca33375d5cc4ef24a90f3a0163a6479e", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iostreams/32330fff6db33c04f791e9fb1293b100003e55f3/BUCK"
+      },
+      "dependencies": {
+        "boost-config": "1.63.0",
+        "boost-throw-exception": "1.63.0",
+        "boost-mpl": "1.63.0",
+        "boost-preprocessor": "1.63.0",
+        "boost-range": "1.63.0"
+      }
+    }
+  }
+}
