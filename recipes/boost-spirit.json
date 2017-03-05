@@ -6,7 +6,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/spirit.git#1e2054aab4856f652e722d1bfc2465d935d4b39c", 
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/spirit/48a62cccfa171eda517135d0653285a9f7ce6b19/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/spirit/9d53329a887dce230b10c1d50008b19420aa255f/BUCK"
       },
       "dependencies": {
         "boost-config": "1.63.0",
@@ -47,7 +47,6 @@
         "boost-tti": "1.63.0",
         "boost-filesystem": "1.63.0",
         "boost-locale": "1.63.0",
-        "boost-serialization-headers": "1.63.0",
         "boost-phoenix": "1.63.0",
         "boost-bind": "1.63.0"
       }
