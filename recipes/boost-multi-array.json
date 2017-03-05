@@ -6,7 +6,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/multi_array.git#d259f853b5bfd90fec2b0d1a4367c62a6e1b4d02", 
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/multi_array/a409643a29b6348a51b18f12a0dab24cc64990ba/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/multi_array/26528126a5110a8e3787dd500fd596bf4e74077f/BUCK"
       },
       "dependencies": {
         "boost-array": "1.63.0",
