@@ -1,0 +1,13 @@
+{
+  "name": "leveldb",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/google/leveldb", 
+  "versions": {
+    "1.20.0": {
+      "url": "git@github.com:google/leveldb.git#a53934a3ae1244679f812d998a4f16f2c7f309a6", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/leveldb/9d565dd7b758be96de3298bc8d829e6c1b524b14/BUCK"
+      }
+    }
+  }
+}
