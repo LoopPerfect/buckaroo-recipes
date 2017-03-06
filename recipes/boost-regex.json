@@ -18,6 +18,7 @@
         "boost-mpl": "1.63.0",
         "boost-type-traits": "1.63.0",
         "boost-integer": "1.63.0",
+        "boost-iterator": "1.63.0",
         "boost-preprocessor": "1.63.0",
         "boost-functional": "1.63.0"
       }
