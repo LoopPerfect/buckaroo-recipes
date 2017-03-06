@@ -1,0 +1,13 @@
+{
+  "name": "double-conversion",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/google/double-conversion", 
+  "versions": {
+    "1.1.5": {
+      "url": "git@github.com:google/double-conversion.git#57b1e094dbd12152f4daf8c6e91184fabf603906", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/double-conversion/d86d087d51794b24f588b3d2d27c13097d3f3328/BUCK"
+      }
+    }
+  }
+}
