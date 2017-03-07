@@ -1,0 +1,31 @@
+{
+  "name": "boost-property-tree",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/property_tree", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/property_tree.git#bdfe275d172ac30bc5e89a6375a5a64dea20b3c0", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/property_tree/62acf7993e88f1c5d674d128e4cc7793e1315fca/BUCK"
+      }, 
+      "dependencies": {
+        "boost-config": "1.63.0",
+        "boost-optional": "1.63.0",
+        "boost-any": "1.63.0",
+        "boost-multi-index": "1.63.0",
+        "boost-iterator": "1.63.0",
+        "boost-assert": "1.63.0",
+        "boost-mpl": "1.63.0",
+        "boost-utility": "1.63.0",
+        "boost-type-traits": "1.63.0",
+        "boost-range": "1.63.0",
+        "boost-locale": "1.63.0",
+        "boost-bind": "1.63.0",
+        "boost-static-assert": "1.63.0",
+        "boost-throw-exception": "1.63.0",
+        "boost-serialization": "1.63.0",
+        "boost-core": "1.63.0"
+      }
+    }
+  }
+}
