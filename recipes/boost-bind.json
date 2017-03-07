@@ -6,7 +6,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/bind.git#b4ff3ca54144ab7d519385f3df54ba1adb732a11", 
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/bind/ea944c9255dbc444ac4d3e7455e7e1d14428eff1/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/bind/605722eb689a910b1515e3b1239abc101be5aa44/BUCK"
       }, 
       "dependencies": {
         "boost-config": "1.63.0",
