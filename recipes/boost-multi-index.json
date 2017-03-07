@@ -6,7 +6,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/multi_index.git#0a0e7284c7a75ab4513f8558d5388ea9724bbb0a", 
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/multi_index/133dbfbfe0a7ed619cb02927d664b0de75ae8430/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/multi_index/f166e42848a5e3e695cffd5a7f3b05efc784c3df/BUCK"
       }, 
       "dependencies": {
         "boost-config": "1.63.0",
