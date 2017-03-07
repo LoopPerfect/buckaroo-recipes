@@ -1,0 +1,13 @@
+{
+  "name": "cpython",
+  "license": "",
+  "url": "https://www.python.org/", 
+  "versions": {
+    "3.6.0": {
+      "url": "git@github.com:python/cpython.git#5c4568a05a0a62b5947c55f68f9f2ecfb90a4f12", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/cpython/03edc79f3b9774614805a9cf0556c54e9730bade/BUCK"
+      }
+    }
+  }
+}
