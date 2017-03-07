@@ -1,0 +1,13 @@
+{
+  "name": "boost-python-headers",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/python", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/python.git#aaf90227703cf29d81ed83a1212890ede45d64fb", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/python/8168c77fde534dc39f01484d2ff2621d4ea89dc8/BUCK"
+      }
+    }
+  }
+}
