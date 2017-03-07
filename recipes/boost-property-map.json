@@ -1,0 +1,34 @@
+{
+  "name": "boost-property-map",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/property_map", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/property_map.git#76251f9402f12c997d8443c8c6842638b110388e", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/property_map/d6bb014ffdab2dab35b917cc850baf4fc10afeee/BUCK"
+      }, 
+      "dependencies": {
+        "boost-type-traits": "1.63.0",
+        "boost-config": "1.63.0",
+        "boost-throw-exception": "1.63.0",
+        "boost-lexical-cast": "1.63.0",
+        "boost-any": "1.63.0",
+        "boost-function": "1.63.0",
+        "boost-mpl": "1.63.0",
+        "boost-core": "1.63.0",
+        "boost-smart-ptr": "1.63.0",
+        "boost-utility": "1.63.0",
+        "boost-bind": "1.63.0",
+        "boost-assert": "1.63.0",
+        "boost-iterator": "1.63.0",
+        "boost-integer": "1.63.0",
+        "boost-static-assert": "1.63.0",
+        "boost-concept-check": "1.63.0",
+        "boost-serialization": "1.63.0",
+        "boost-optional": "1.63.0",
+        "boost-math": "1.63.0"
+      }
+    }
+  }
+}
