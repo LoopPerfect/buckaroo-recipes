@@ -15,7 +15,10 @@
         "boost-preprocessor": "1.63.0",
         "boost-smart-ptr": "1.63.0",
         "boost-lexical-cast": "1.63.0",
-        "boost-tokenizer": "1.63.0"
+        "boost-tokenizer": "1.63.0",
+        "boost-math": "1.63.0",
+        "boost-io": "1.63.0",
+        "boost-algorithm": "1.63.0"
       }
     }
   }
