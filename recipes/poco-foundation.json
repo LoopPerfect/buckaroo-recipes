@@ -1,0 +1,13 @@
+{
+  "name": "poco-foundation",
+  "license": "BSL-1.0",
+  "url": "https://pocoproject.org/", 
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:pocoproject/poco.git#4403634bef7990ff0dff9f12a12a03b4d32006b6", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/poco/92e33942eb0a9f39278e4f9759ab1f8bdca82ab2/BUCK"
+      }
+    }
+  }
+}
