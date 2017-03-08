@@ -1,0 +1,13 @@
+{
+  "name": "chaiscript",
+  "license": "BSD-3-Clause",
+  "url": "http://chaiscript.com/", 
+  "versions": {
+    "6.0.0": {
+      "url": "git@github.com:ChaiScript/ChaiScript.git#064a385a645c89c8b958b754f0d5e8399b9b6df9", 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ChaiScript/bd4a458c319dbc160d49e38afb4d7ad11ae65b41/BUCK"
+      }
+    }
+  }
+}
