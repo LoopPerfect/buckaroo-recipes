@@ -3,7 +3,7 @@
   "license": "MIT",
   "url": "https://github.com/taocpp/sequences",
   "versions": {
-    "1.0.0": {
+    "0.0.1": {
       "url": "git@github.com:taocpp/sequences.git#e376e2fb35fef11e5379614b94c6f7da6c33a75f",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/sequences/6cf293ae53c35656fa1507c58235e5bed5368886/BUCK"
