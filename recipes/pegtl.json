@@ -1,0 +1,13 @@
+{
+  "name": "pegtl",
+  "license": "MIT",
+  "url": "https://github.com/ColinH/PEGTL",
+  "versions": {
+    "1.3.1": {
+      "url": "git@github.com:zeux/pugixml.git#5b137f3c2f7fa5fa833f2c3a5ea8d5fb21d2a3b7",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/PEGTL/2b2147ca4f8e9129454bf45d7b3a4c166c62be4e/BUCK"
+      }
+    }
+  }
+}
