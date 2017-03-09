@@ -1,0 +1,13 @@
+{
+  "name": "pugixml",
+  "license": "MIT",
+  "url": "http://www.pugixml.org/",
+  "versions": {
+    "1.8.1": {
+      "url": "git@github.com:zeux/pugixml.git#d2deb420bc70369faa12785df2b5dd4d390e523d",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pugixml/d70fc3fb346e59222b8e01324cb1d4d1f03da352/BUCK"
+      }
+    }
+  }
+}
