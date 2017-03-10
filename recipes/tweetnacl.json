@@ -1,0 +1,10 @@
+{
+  "name": "tweetnacl",
+  "license": "",
+  "url": "https://tweetnacl.cr.yp.to/",
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:njlr/tweetnacl.git#a2d28c18f0046fcf3b401a2048ea96cdcb6241c0"
+    }
+  }
+}
