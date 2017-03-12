@@ -1,16 +1,16 @@
 {
-  "name": "cgal-installation",
+  "name": "cgal-profiling-tools",
   "license": "LGPL-3.0",
   "url": "http://www.cgal.org/",
   "versions": {
     "4.9.0": {
       "url": "git@github.com:CGAL/cgal.git#4e50c9c138855075bb668cc3eceaa60bbbe05cdd",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/cgal/6f9ef73174d16be2bea6bd60375136ca63976ef9/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/cgal/8b4ee63fd84587f0c3e821e0af487f326a3ec22e/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-predef": "1.63.0"
+        "cgal-installation": "4.9.0",
+        "boost-static-assert": "1.63.0"
       }
     }
   }
