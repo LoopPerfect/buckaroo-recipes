@@ -1,0 +1,13 @@
+{
+  "name": "flatbuffers",
+  "license": "Apache-2.0",
+  "url": "http://google.github.io/flatbuffers/",
+  "versions": {
+    "1.6.0": {
+      "url": "git@github.com:google/flatbuffers.git#cebdad4d2381ca4d6325121c4189ce0b754ecfeb",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/flatbuffers/bbe43d5163aa58ce02a720ec094fd664c5cb2866/BUCK"
+      }
+    }
+  }
+}
