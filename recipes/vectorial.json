@@ -1,0 +1,13 @@
+{
+  "name": "vectorial",
+  "license": "BSD-2-Clause",
+  "url": "https://github.com/scoopr/vectorial",
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:scoopr/vectorial.git#ae7dc88215e14c812786dc7a1f214610ae8540f5",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/vectorial/4749e680086c74a2899d9bde777cd9eabd2e140f/BUCK"
+      }
+    }
+  }
+}
