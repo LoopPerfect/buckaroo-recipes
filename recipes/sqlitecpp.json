@@ -1,0 +1,13 @@
+{
+  "name": "sqlitecpp",
+  "license": "MIT",
+  "url": "https://github.com/cuberite/SQLiteCpp",
+  "versions": {
+    "0.7.0": {
+      "url": "git@github.com:cuberite/SQLiteCpp.git#8322d32ea8433279bb3713eaf6ebb0dfac66f74b",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/SQLiteCpp/e3fb561a82033035d19af209c967222b5b977bd1/BUCK"
+      }
+    }
+  }
+}
