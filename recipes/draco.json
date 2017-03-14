@@ -1,0 +1,13 @@
+{
+  "name": "draco",
+  "license": "Apache-2.0",
+  "url": "https://github.com/google/draco",
+  "versions": {
+    "0.9.0": {
+      "url": "git@github.com:google/draco.git#e648e1bde5d9a90572bb0866bbfa0ec71e65009a",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/draco/df3ea3a32caf579b4016427fc6f742a74121c491/BUCK"
+      }
+    }
+  }
+}
