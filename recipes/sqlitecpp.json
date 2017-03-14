@@ -6,7 +6,7 @@
     "0.7.0": {
       "url": "git@github.com:cuberite/SQLiteCpp.git#8322d32ea8433279bb3713eaf6ebb0dfac66f74b",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/SQLiteCpp/e3fb561a82033035d19af209c967222b5b977bd1/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/SQLiteCpp/aab84f0235d5033afc1ba8eeef733ba483c11e2c/BUCK"
       }
     }
   }
