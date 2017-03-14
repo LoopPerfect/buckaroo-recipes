@@ -1,0 +1,13 @@
+{
+  "name": "turf",
+  "license": "BSD-2-Clause",
+  "url": "https://github.com/preshing/turf",
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:preshing/turf.git#9ae0d4b984fa95ed5f823274b39c87ee742f6650",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/turf/637b3e30f07915262b2f1ac69ef6b435d3ff5aed/BUCK"
+      }
+    }
+  }
+}
