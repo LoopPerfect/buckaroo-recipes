@@ -1,0 +1,13 @@
+{
+  "name": "stb",
+  "license": "MIT",
+  "url": "https://github.com/nothings/stb",
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:nothings/stb.git#6f6e11f85fd5c14bc9e9eb5edafb1b5dabd515d0",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/stb/ca3aff9f5ed1f3a1f66f29b7b37b6a343e28c34e/BUCK"
+      }
+    }
+  }
+}
