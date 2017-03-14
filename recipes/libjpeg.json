@@ -1,0 +1,13 @@
+{
+  "name": "libjpeg",
+  "license": "",
+  "url": "http://www.ijg.org/",
+  "versions": {
+    "9.1.0": {
+      "url": "git@github.com:LuaDist/libjpeg.git#6c0fcb8ddee365e7abc4d332662b06900612e923",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libjpeg/aebd4380f3b5b348b0bcc4d5ce225102709d9939/BUCK"
+      }
+    }
+  }
+}
