@@ -1,12 +1,15 @@
 {
   "name": "gmock",
   "license": "BSD-2-Clause",
-  "url": "https://github.com/google/googletest", 
+  "url": "https://github.com/google/googletest",
   "versions": {
     "1.8.0": {
-      "url": "git@github.com:google/googletest.git#ec44c6c1675c25b9827aacd08c02433cccde7780", 
+      "url": "git@github.com:google/googletest.git#ec44c6c1675c25b9827aacd08c02433cccde7780",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/googletest/bc5c9cb652619234bdc5026fe0e7763b8dbab349/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/googletest/a9384dbf3d795e730f942b468dae38158e6be863/BUCK"
+      },
+      "dependencies": {
+        "gtest": "1.8.0"
       }
     }
   }
