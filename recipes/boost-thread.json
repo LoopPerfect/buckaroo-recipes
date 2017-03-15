@@ -1,12 +1,12 @@
 {
   "name": "boost-thread",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/thread", 
+  "url": "http://boost.org/libs/thread",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/thread.git#3391bf87c68717e3d6ef1cdfa868a8fcc01ec7b5", 
+      "url": "git@github.com:boostorg/thread.git#3391bf87c68717e3d6ef1cdfa868a8fcc01ec7b5",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/thread/f60ec608045a30b2a2db0c2faa64dc31c0cd98f3/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/thread/e23fd129dd7bf67b7f2d55e2e109c53c94b7f6fc/BUCK"
       },
       "dependencies": {
         "boost-config": "1.63.0",
