@@ -1,0 +1,16 @@
+{
+  "name": "vrm-core",
+  "license": "AFL-3.0",
+  "url": "https://github.com/SuperV1234/vrm_core",
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:SuperV1234/vrm_core.git#38d353f56098dc29bdcc416d969a5540b20cc27a",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/vrm_core/f87288afcb648efa870bdc500b47c307c2499f54/BUCK"
+      },
+      "dependencies": {
+        "vrm-pp": "0.0.1"
+      }
+    }
+  }
+}
