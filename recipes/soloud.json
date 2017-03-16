@@ -1,0 +1,13 @@
+{
+  "name": "soloud",
+  "license": "Zlib",
+  "url": "https://github.com/jarikomppa/soloud",
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:jarikomppa/soloud.git#87134b73fdc87686e646c8e790d3fde5ca82718b"
+    },
+    "buck": {
+      "url": "https://raw.githubusercontent.com/njlr/soloud/cd5138159eed5843108b60f576bd110b3aa09e7a/BUCK"
+    }
+  }
+}
