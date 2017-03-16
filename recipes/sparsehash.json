@@ -1,0 +1,13 @@
+{
+  "name": "sparsehash",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/sparsehash/sparsehash",
+  "versions": {
+    "2.0.3": {
+      "url": "git@github.com:sparsehash/sparsehash.git#6af4bcf4ded7cf270ebb190470b8854c6531fa14",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/sparsehash/c8de39d3063fb22fb4c2c3f8f5eab077383ad160/BUCK"
+      }
+    }
+  }
+}
