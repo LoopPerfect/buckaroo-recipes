@@ -1,0 +1,13 @@
+{
+  "name": "openal-soft",
+  "license": "LGPL-2.1",
+  "url": "https://github.com/kcat/openal-soft",
+  "versions": {
+    "1.17.2": {
+      "url": "git@github.com:kcat/openal-soft.git#0189b923a233e269b4c8f9d17f6475ace5e2e4de",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/openal-soft/721f2446571005eae452e12bcc3a444bbda411e4/BUCK"
+      }
+    }
+  }
+}
