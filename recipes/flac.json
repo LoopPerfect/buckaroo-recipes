@@ -1,0 +1,17 @@
+{
+  "name": "flac",
+  "license": "BSD-3-Clause",
+  "url": "https://xiph.org/flac/",
+  "github": "https://github.com/xiph/flac",
+  "versions": {
+    "1.3.2": {
+      "url": "git@github.com:xiph/flac.git#ac39d3719f16dfb6e08d2fbde8ccaf34a266c81d",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/flac/8e25de5d178a71b4d362b17c1517b4ec40288d2f/BUCK"
+      },
+      "dependencies": {
+        "ogg": "1.3.2"
+      }
+    }
+  }
+}
