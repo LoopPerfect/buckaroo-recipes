@@ -1,0 +1,13 @@
+{
+  "name": "guetzli",
+  "license": "Apache-2.0",
+  "url": "https://github.com/google/guetzli",
+  "versions": {
+    "1.0.0": {
+      "url": "git@github.com:google/guetzli.git#835cf275db1fbcc823c29767ae7e395abdb08375",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/guetzli/67c7a9b7db7963667b13e42d89520679150cd64e/BUCK"
+      }
+    }
+  }
+}
