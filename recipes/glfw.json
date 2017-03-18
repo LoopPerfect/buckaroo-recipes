@@ -1,0 +1,14 @@
+{
+  "name": "glfw",
+  "license": "Zlib",
+  "url": "http://www.glfw.org/",
+  "github": "https://github.com/glfw/glfw",
+  "versions": {
+    "3.2.1": {
+      "url": "git@github.com:glfw/glfw.git#999f3556fdd80983b10051746264489f2cb1ef16",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/glfw/e0adff2dbcafe27bf0b5349a9290df5f81697b97/BUCK"
+      }
+    }
+  }
+}
