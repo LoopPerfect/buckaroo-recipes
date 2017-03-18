@@ -1,0 +1,13 @@
+{
+  "name": "libgraphqlparser",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/graphql/libgraphqlparser",
+  "versions": {
+    "0.6.0": {
+      "url": "git@github.com:graphql/libgraphqlparser.git#ea529629f46bd992a4e1b790ab2e1e00a0ff700e",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libgraphqlparser/e3e7565b779a45828d04df396860d959323e60a3/BUCK"
+      }
+    }
+  }
+}
