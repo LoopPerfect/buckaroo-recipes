@@ -6,7 +6,7 @@
     "5.3.4": {
       "url": "git@github.com:lua/lua.git#e354c6355e7f48e087678ec49e340ca0696725b1",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/lua/3a2ef983a34acbff1a9817962aad22521d04490f/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/lua/2c563ff4520388984137ae15a342c078abbd42a0/BUCK"
       }
     }
   }
