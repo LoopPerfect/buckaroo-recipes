@@ -2,6 +2,7 @@
   "name": "cpython",
   "license": "",
   "url": "https://www.python.org/", 
+  "github": "python/cpython",
   "versions": {
     "3.6.0": {
       "url": "git@github.com:python/cpython.git#5c4568a05a0a62b5947c55f68f9f2ecfb90a4f12", 
