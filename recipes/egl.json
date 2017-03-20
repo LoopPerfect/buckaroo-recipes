@@ -2,7 +2,7 @@
   "name": "egl",
   "license": "",
   "url": "https://www.khronos.org/registry/EGL/",
-  "github": "https://github.com/KhronosGroup/EGL-Registry",
+  "github": "KhronosGroup/EGL-Registry",
   "versions": {
     "0.0.1": {
       "url": "git@github.com:KhronosGroup/EGL-Registry.git#0ec0be17fe877978805efbbbc86165adf2b7b2c5",
