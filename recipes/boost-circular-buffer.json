@@ -2,7 +2,7 @@
   "name": "boost-circular-buffer",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/circular_buffer",
-  "github": "boostorg/circular-buffer",
+  "github": "boostorg/circular_buffer",
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/circular_buffer.git#0b9a59f2707ddadc113effa0bedfd36c1a8f78a0",
