@@ -2,7 +2,7 @@
   "name": "libyuv",
   "license": "BSD-3-Clause",
   "url": "https://chromium.googlesource.com/libyuv/libyuv",
-  "github": "https://github.com/lemenkov/libyuv",
+  "github": "lemenkov/libyuv",
   "versions": {
     "0.0.1": {
       "url": "git@github.com:lemenkov/libyuv.git#7e936044d154b9fe159a67f9562e10b1ef1cb590",
