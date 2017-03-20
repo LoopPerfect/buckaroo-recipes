@@ -2,6 +2,7 @@
   "name": "fruit",
   "license": "Apache-2.0",
   "url": "https://github.com/google/fruit/wiki",
+  "github": "google/fruit",
   "versions": {
     "2.0.4": {
       "url": "git@github.com:google/fruit.git#56251baef684f98548b4e53456b27512492fe169",
