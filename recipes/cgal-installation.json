@@ -2,6 +2,7 @@
   "name": "cgal-installation",
   "license": "LGPL-3.0",
   "url": "http://www.cgal.org/",
+  "github": "CGAL/cgal",
   "versions": {
     "4.9.0": {
       "url": "git@github.com:CGAL/cgal.git#4e50c9c138855075bb668cc3eceaa60bbbe05cdd",
