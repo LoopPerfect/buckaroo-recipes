@@ -2,6 +2,7 @@
   "name": "boost-crc",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/crc",
+  "github": "boostorg/crc",
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/crc.git#e77694d0acb1ce9c1fa38d0965f13b53a9949ca3",

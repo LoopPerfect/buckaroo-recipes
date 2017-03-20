@@ -1,13 +1,14 @@
 {
   "name": "boost-property-map",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/property_map", 
+  "url": "http://boost.org/libs/property_map",
+  "github": "boostorg/property_map",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/property_map.git#76251f9402f12c997d8443c8c6842638b110388e", 
+      "url": "git@github.com:boostorg/property_map.git#76251f9402f12c997d8443c8c6842638b110388e",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/property_map/d6bb014ffdab2dab35b917cc850baf4fc10afeee/BUCK"
-      }, 
+      },
       "dependencies": {
         "boost-type-traits": "1.63.0",
         "boost-config": "1.63.0",

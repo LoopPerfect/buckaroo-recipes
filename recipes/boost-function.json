@@ -1,10 +1,11 @@
 {
   "name": "boost-function",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/function", 
+  "url": "http://boost.org/libs/function",
+  "github": "boostorg/function",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/function.git#6976d15f744283659a15bdeafa4a3284103d82bb", 
+      "url": "git@github.com:boostorg/function.git#6976d15f744283659a15bdeafa4a3284103d82bb",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/function/a9829599668954d765a0b4c08c51ca8c1a53e9c4/BUCK"
       },

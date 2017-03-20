@@ -1,10 +1,11 @@
 {
   "name": "boost-ublas",
   "license": "BSL-1.0",
-  "url": "http://www.boost.org/doc/libs/1_63_0/libs/numeric/ublas/doc/index.html", 
+  "url": "http://www.boost.org/doc/libs/1_63_0/libs/numeric/ublas/doc/index.html",
+  "github": "boostorg/ublas",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/ublas.git#e8607b3eea238e590eca93bfe498c21f470155c1", 
+      "url": "git@github.com:boostorg/ublas.git#e8607b3eea238e590eca93bfe498c21f470155c1",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/ublas/92d1eb9921d1aaf944c46a94cb41f9e71718acfe/BUCK"
       },

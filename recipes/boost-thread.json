@@ -2,6 +2,7 @@
   "name": "boost-thread",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/thread",
+  "github": "boostorg/thread",
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/thread.git#3391bf87c68717e3d6ef1cdfa868a8fcc01ec7b5",

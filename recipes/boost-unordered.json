@@ -1,10 +1,11 @@
 {
   "name": "boost-unordered",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/unordered", 
+  "url": "http://boost.org/libs/unordered",
+  "github": "boostorg/unordered",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/unordered.git#76127b6e42651571b9b9555f48d52ae89317d8d5", 
+      "url": "git@github.com:boostorg/unordered.git#76127b6e42651571b9b9555f48d52ae89317d8d5",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/unordered/7cbfe07b8b00c62deb76b869e1f164869a5e0670/BUCK"
       },

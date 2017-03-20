@@ -1,10 +1,11 @@
 {
   "name": "boost-preprocessor",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/preprocessor", 
+  "url": "http://boost.org/libs/preprocessor",
+  "github": "boostorg/preprocessor",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/preprocessor.git#c2beb74b90969f369c62d0dea68aa5f0e203268e", 
+      "url": "git@github.com:boostorg/preprocessor.git#c2beb74b90969f369c62d0dea68aa5f0e203268e",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/preprocessor/06aba63d124795402c1de1283c060f3fbe1ffd88/BUCK"
       }

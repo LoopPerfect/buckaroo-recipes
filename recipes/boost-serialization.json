@@ -1,10 +1,11 @@
 {
   "name": "boost-serialization",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/serialization", 
+  "url": "http://boost.org/libs/serialization",
+  "github": "boostorg/serialization",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/serialization.git#3eb2bda80b19da0b98418746ba9806acdac7d8b9", 
+      "url": "git@github.com:boostorg/serialization.git#3eb2bda80b19da0b98418746ba9806acdac7d8b9",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/serialization/d8e0df7f73aee5ae3e4813ea01b423207c3ece84/BUCK"
       },

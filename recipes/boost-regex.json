@@ -1,10 +1,11 @@
 {
   "name": "boost-regex",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/regex", 
+  "url": "http://boost.org/libs/regex",
+  "github": "boostorg/regex",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/regex.git#ed556985d71452a1349701affbb56897c786088e", 
+      "url": "git@github.com:boostorg/regex.git#ed556985d71452a1349701affbb56897c786088e",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/regex/5af75067ddc437bb2fb1c5c2ed2c328c92aa0347/BUCK"
       },
