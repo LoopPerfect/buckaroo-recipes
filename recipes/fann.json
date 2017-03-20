@@ -2,6 +2,7 @@
   "name": "fann",
   "license": "LGPL-2.1",
   "url": "http://leenissen.dk/fann/wp/",
+  "github": "libfann/fann",
   "versions": {
     "2.2.0": {
       "url": "git@github.com:libfann/fann.git#f9158258a66a5515d291cf18e5b9a109f5007507",
