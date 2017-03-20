@@ -1,7 +1,8 @@
 {
   "name": "eigen",
   "license": "MPL2",
-  "url": "http://eigen.tuxfamily.org", 
+  "url": "http://eigen.tuxfamily.org",
+  "github": "PX4/eigen",
   "versions": {
     "3.2.9": {
       "url": "git@github.com:PX4/eigen.git#240599e1488da540c2ae8753dea0907f6cfac8ee", 
