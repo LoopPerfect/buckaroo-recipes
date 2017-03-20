@@ -2,6 +2,7 @@
   "name": "wykobi",
   "license": "MIT",
   "url": "http://www.wykobi.com/", 
+  "github": "ArashPartow/wykobi",
   "versions": {
     "0.0.5": {
       "url": "git@github.com:ArashPartow/wykobi.git#744a0afe336dad0d4e30c033241e3d41d3b5aac2", 
