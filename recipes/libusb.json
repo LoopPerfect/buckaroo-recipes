@@ -2,7 +2,7 @@
   "name": "libusb",
   "license": "LGPL-2.1",
   "url": "http://libusb.info/",
-  "github": "https://github.com/libusb/libusb",
+  "github": "libusb/libusb",
   "versions": {
     "1.0.21": {
       "url": "git@github.com:libusb/libusb.git#09e75e98b4d9ea7909e8837b7a3f00dda4589dc3",
