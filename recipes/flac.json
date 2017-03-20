@@ -2,7 +2,7 @@
   "name": "flac",
   "license": "BSD-3-Clause",
   "url": "https://xiph.org/flac/",
-  "github": "https://github.com/xiph/flac",
+  "github": "xiph/flac",
   "versions": {
     "1.3.2": {
       "url": "git@github.com:xiph/flac.git#ac39d3719f16dfb6e08d2fbde8ccaf34a266c81d",
