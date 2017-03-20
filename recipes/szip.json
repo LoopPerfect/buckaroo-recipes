@@ -2,6 +2,7 @@
   "name": "szip",
   "license": "",
   "url": "https://support.hdfgroup.org/doc_resource/SZIP/", 
+  "github": "erdc-cm/szip",
   "versions": {
     "2.1.0": {
       "url": "git@github.com:erdc-cm/szip.git#87863577a4656d5414b0d598c91fed1dd227f74a"
