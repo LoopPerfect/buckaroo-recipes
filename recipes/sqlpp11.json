@@ -2,6 +2,7 @@
   "name": "sqlpp11",
   "license": "BSD-2-Clause",
   "url": "https://github.com/rbock/sqlpp11/wiki",
+  "github": "rbock/sqlpp11",
   "versions": {
     "0.45.0": {
       "url": "git@github.com:rbock/sqlpp11.git#4d22202fe5f40a849f325d9da31fadaabe66fee4",
