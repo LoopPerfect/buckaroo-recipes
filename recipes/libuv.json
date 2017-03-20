@@ -2,6 +2,7 @@
   "name": "libuv",
   "license": "MIT",
   "url": "http://libuv.org/", 
+  "github": "libuv/libuv",
   "versions": {
     "1.11.0": {
       "url": "git@github.com:libuv/libuv.git#7452ef4e06a4f99ee26b694c65476401534f2725", 
