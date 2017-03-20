@@ -2,6 +2,7 @@
   "name": "cppzmq",
   "license": "MIT",
   "url": "http://www.zeromq.org/",
+  "github": "zeromq/cppzmq",
   "versions": {
     "4.2.1": {
       "url": "git@github.com:zeromq/cppzmq.git#178a910ae1abaad59467ee38884289b8a29c5710",
