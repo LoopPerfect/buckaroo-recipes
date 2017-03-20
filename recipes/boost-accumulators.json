@@ -2,6 +2,7 @@
   "name": "boost-accumulators",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/accumulators", 
+  "github": "boostorg/accumulators",
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/accumulators.git#d022c85123683138ebec9149f0dc9aec6f3839cf", 
