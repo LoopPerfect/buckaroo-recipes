@@ -2,6 +2,7 @@
   "name": "capnproto",
   "license": "MIT",
   "url": "https://capnproto.org/", 
+  "github": "sandstorm-io/capnproto",
   "versions": {
     "0.5.3": {
       "url": "git@github.com:sandstorm-io/capnproto.git#133b496e09fdb9937a364a12b69385f2dbcc9cdb", 
