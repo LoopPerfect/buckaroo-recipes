@@ -2,6 +2,7 @@
   "name": "chaiscript",
   "license": "BSD-3-Clause",
   "url": "http://chaiscript.com/", 
+  "github": "ChaiScript/ChaiScript",
   "versions": {
     "6.0.0": {
       "url": "git@github.com:ChaiScript/ChaiScript.git#064a385a645c89c8b958b754f0d5e8399b9b6df9", 
