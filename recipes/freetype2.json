@@ -2,6 +2,7 @@
   "name": "freetype2",
   "license": "FTL, GPL-2.0",
   "url": "https://freetype.org/freetype2/docs/index.html",
+  "github": "aseprite/freetype2",
   "versions": {
     "2.6.3": {
       "url": "git@github.com:aseprite/freetype2.git#44accb9e2e5b00696cf50a869b68afa2ce3dd389",
