@@ -2,6 +2,7 @@
   "name": "iodbc",
   "license": "LGPL-2.1, BSD-3-Clause",
   "url": "http://www.iodbc.org/", 
+  "github": "openlink/iODBC",
   "versions": {
     "3.52.12": {
       "url": "git@github.com:openlink/iODBC.git#eff60b46b6ed0967264d42680d4b91bdf80d8102", 
