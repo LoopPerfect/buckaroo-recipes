@@ -1,10 +1,11 @@
 {
   "name": "boost-lexical-cast",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/lexical_cast", 
+  "url": "http://boost.org/libs/lexical_cast",
+  "github": "boostorg/lexical_cast",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/lexical_cast.git#011368959810416adf1016276f4e0129a35489c2", 
+      "url": "git@github.com:boostorg/lexical_cast.git#011368959810416adf1016276f4e0129a35489c2",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/lexical_cast/ed7f83e5791f66f6100111e66f7ea9cd23453732/BUCK"
       },

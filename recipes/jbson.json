@@ -2,6 +2,7 @@
   "name": "jbson",
   "license": "BSL-1.0",
   "url": "http://www.chrismanning.me.uk/jbson/",
+  "github": "chrismanning/jbson",
   "versions": {
     "1.0.0": {
       "url": "git@github.com:chrismanning/jbson.git#2e5ca71f3300d9d5d7e59e64f2d9ece32d96716f",

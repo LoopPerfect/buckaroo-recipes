@@ -1,10 +1,11 @@
 {
   "name": "boost-tuple",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/tuple", 
+  "url": "http://boost.org/libs/tuple",
+  "github": "boostorg/tuple",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/tuple.git#d77e569c899f7eb3d1f255889e739d586ba5900f", 
+      "url": "git@github.com:boostorg/tuple.git#d77e569c899f7eb3d1f255889e739d586ba5900f",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tuple/5f2e860b1b5bdc57424ca22241fafb99fdbe1617/BUCK"
       },

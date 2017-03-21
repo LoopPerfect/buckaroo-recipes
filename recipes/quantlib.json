@@ -2,6 +2,7 @@
   "name": "quantlib",
   "license": "",
   "url": "http://quantlib.org/", 
+  "github": "lballabio/QuantLib",
   "versions": {
     "1.9.1": {
       "url": "git@github.com:lballabio/QuantLib.git#16d064a304db5f0a7dafec2c20633d6c1d602932", 

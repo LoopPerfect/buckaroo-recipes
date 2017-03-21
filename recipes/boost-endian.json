@@ -1,10 +1,11 @@
 {
   "name": "boost-endian",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/endian", 
+  "url": "http://boost.org/libs/endian",
+  "github": "boostorg/endian",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/endian.git#2db73ab893a61b74e73c0c644c2819241beef95a", 
+      "url": "git@github.com:boostorg/endian.git#2db73ab893a61b74e73c0c644c2819241beef95a",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/endian/79f0b265fd831adaa5c7a4b1be383f341332c0a7/BUCK"
       },

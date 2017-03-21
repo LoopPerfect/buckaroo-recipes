@@ -1,10 +1,11 @@
 {
   "name": "boost-tokenizer",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/tokenizer", 
+  "url": "http://boost.org/libs/tokenizer",
+  "github": "boostorg/tokenizer",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/tokenizer.git#6b83489ede7c2bf25073a05abb62655cd1235e26", 
+      "url": "git@github.com:boostorg/tokenizer.git#6b83489ede7c2bf25073a05abb62655cd1235e26",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tokenizer/a014f16b79e554afcd2a936de5bf67f24b6254ad/BUCK"
       },

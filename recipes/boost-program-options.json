@@ -2,6 +2,7 @@
   "name": "boost-program-options",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/program_options",
+  "github": "boostorg/program_options",
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/program_options.git#abbb5c12a62f2211e645755ed9c4b65e1c1552d8",

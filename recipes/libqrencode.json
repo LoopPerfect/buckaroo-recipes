@@ -2,6 +2,7 @@
   "name": "libqrencode",
   "license": "LGPL-2.1",
   "url": "http://fukuchi.org/works/qrencode/",
+  "github": "fukuchi/libqrencode",
   "versions": {
     "3.4.4": {
       "url": "git@github.com:fukuchi/libqrencode.git#8d4585d98b723de7e74762d1a78989a29c829fd9",

@@ -1,10 +1,11 @@
 {
   "name": "boost-proto",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/proto", 
+  "url": "http://boost.org/libs/proto",
+  "github": "boostorg/proto",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/proto.git#d70c74c3a8d2abe746fe017edee564e6e8ae0efc", 
+      "url": "git@github.com:boostorg/proto.git#d70c74c3a8d2abe746fe017edee564e6e8ae0efc",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/proto/a5907ab94fc89eeee3f8470eb70f72bcb9226cd0/BUCK"
       },

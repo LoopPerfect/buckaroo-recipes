@@ -1,10 +1,11 @@
 {
   "name": "boost-tti",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/tti", 
+  "url": "http://boost.org/libs/tti",
+  "github": "boostorg/tti",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/tti.git#d8f005e9063da1cfaf3b047d3ebda24e6b627af0", 
+      "url": "git@github.com:boostorg/tti.git#d8f005e9063da1cfaf3b047d3ebda24e6b627af0",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tti/d9f1f9083d9fcee8e97fc9cffa43d8ad4752df8e/BUCK"
       },

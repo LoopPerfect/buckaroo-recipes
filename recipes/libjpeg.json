@@ -2,6 +2,7 @@
   "name": "libjpeg",
   "license": "",
   "url": "http://www.ijg.org/",
+  "github": "LuaDist/libjpeg",
   "versions": {
     "9.1.0": {
       "url": "git@github.com:LuaDist/libjpeg.git#6c0fcb8ddee365e7abc4d332662b06900612e923",

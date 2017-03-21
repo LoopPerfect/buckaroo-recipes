@@ -1,13 +1,14 @@
 {
   "name": "boost-xpressive",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/xpressive", 
+  "url": "http://boost.org/libs/xpressive",
+  "github": "boostorg/xpressive",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/xpressive.git#f03b7b8a524f00d2ede4dd5efa7abc0815073eb0", 
+      "url": "git@github.com:boostorg/xpressive.git#f03b7b8a524f00d2ede4dd5efa7abc0815073eb0",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/xpressive/928c0394523c0a8ead9c165bec10a7a55f10a82e/BUCK"
-      }, 
+      },
       "dependencies": {
         "boost-config": "1.63.0",
         "boost-mpl": "1.63.0",

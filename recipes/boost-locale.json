@@ -1,13 +1,14 @@
 {
   "name": "boost-locale",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/locale", 
+  "url": "http://boost.org/libs/locale",
+  "github": "boostorg/locale",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/locale.git#7cfa65b2b8114afe44c7a950553620133cd5df15", 
+      "url": "git@github.com:boostorg/locale.git#7cfa65b2b8114afe44c7a950553620133cd5df15",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/locale/65f12d97860417955ce6a373ffa17e4099bd8fa2/BUCK"
-      }, 
+      },
       "dependencies": {
         "boost-config": "1.63.0",
         "boost-thread": "1.63.0",

@@ -1,10 +1,11 @@
 {
   "name": "boost-typeof",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/typeof", 
+  "url": "http://boost.org/libs/typeof",
+  "github": "boostorg/typeof",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/typeof.git#1d3589e9c0057e725b0bee4961d3c94166388889", 
+      "url": "git@github.com:boostorg/typeof.git#1d3589e9c0057e725b0bee4961d3c94166388889",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/typeof/12364606537feb0e17ae962ec7a4a18effac28da/BUCK"
       },

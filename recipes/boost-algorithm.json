@@ -2,6 +2,7 @@
   "name": "boost-algorithm",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/algorithm", 
+  "github": "boostorg/algorithm",
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/algorithm.git#d029402f05c942b5d55b4e42060fc73fd07aaa21", 

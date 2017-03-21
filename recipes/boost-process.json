@@ -1,10 +1,11 @@
 {
   "name": "boost-process",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/process", 
+  "url": "http://boost.org/libs/process",
+  "github": "boostorg/process",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/process.git#cf2a196d40770ac5b52e7a09f86a9e82d48f2480", 
+      "url": "git@github.com:boostorg/process.git#cf2a196d40770ac5b52e7a09f86a9e82d48f2480",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/process/30b03c67d4e4868b3715d50b0309706a7d3590cb/BUCK"
       },

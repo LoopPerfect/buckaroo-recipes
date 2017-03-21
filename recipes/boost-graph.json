@@ -1,10 +1,11 @@
 {
   "name": "boost-graph",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/graph", 
+  "url": "http://boost.org/libs/graph",
+  "github": "boostorg/graph",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/graph.git#7913228c9dab7ed88fb63b6b6214c37763aa2436", 
+      "url": "git@github.com:boostorg/graph.git#7913228c9dab7ed88fb63b6b6214c37763aa2436",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/graph/614174c35c4c71b9469e983563ce717206158150/BUCK"
       },

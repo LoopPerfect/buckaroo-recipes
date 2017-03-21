@@ -1,10 +1,11 @@
 {
   "name": "boost-type-traits",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/type_traits", 
+  "url": "http://boost.org/libs/type_traits",
+  "github": "boostorg/type_traits",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/type_traits.git#f6c6a3ef9fe8edd69f9e2a455d3eac0c31f01fe5", 
+      "url": "git@github.com:boostorg/type_traits.git#f6c6a3ef9fe8edd69f9e2a455d3eac0c31f01fe5",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/type_traits/f380df87889c2d4b31c5b80ef3909b646a14fead/BUCK"
       },

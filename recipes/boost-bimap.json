@@ -1,13 +1,14 @@
 {
   "name": "boost-bimap",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/bimap", 
+  "url": "http://boost.org/libs/bimap",
+  "github": "boostorg/bimap",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/bimap.git#fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8", 
+      "url": "git@github.com:boostorg/bimap.git#fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/bimap/cace25b81e92172473b0f99ca25a2d35d576e161/BUCK"
-      }, 
+      },
       "dependencies": {
         "boost-config": "1.63.0",
         "boost-mpl": "1.63.0",

@@ -2,6 +2,7 @@
   "name": "frozen",
   "license": "GPL-2.0",
   "url": "https://docs.cesanta.com/frozen/master/", 
+  "github": "cesanta/frozen",
   "versions": {
     "1.6.0": {
       "url": "git@github.com:cesanta/frozen.git#ea88e40dd45015cc77f99835282d2b53112e900c", 

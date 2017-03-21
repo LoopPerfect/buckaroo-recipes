@@ -2,6 +2,7 @@
   "name": "libzmq",
   "license": "LGPL-3.0",
   "url": "http://www.zeromq.org/",
+  "github": "zeromq/libzmq",
   "versions": {
     "4.2.2": {
       "url": "git@github.com:zeromq/libzmq.git#8d75d506b6f88265bc0fb57b93385b45e35cdd10",

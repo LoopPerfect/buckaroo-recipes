@@ -1,13 +1,14 @@
 {
   "name": "boost-atomic",
   "license": "BSL-1.0",
-  "url": "http://boost.org/libs/atomic", 
+  "url": "http://boost.org/libs/atomic",
+  "github": "boostorg/atomic",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/atomic.git#41eac78e25e6af9df304987a5b9cf604da972674", 
+      "url": "git@github.com:boostorg/atomic.git#41eac78e25e6af9df304987a5b9cf604da972674",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/atomic/46a55274dc4cf755aa80167f46b6126174ff06cd/BUCK"
-      }, 
+      },
       "dependencies": {
         "boost-config": "1.63.0",
         "boost-assert": "1.63.0"
