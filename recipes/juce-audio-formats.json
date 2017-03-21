@@ -1,6 +1,6 @@
 {
-  "name": "juce-audio-devices",
-  "license": "ISC",
+  "name": "juce-audio-formats",
+  "license": "GPL, Commercial",
   "url": "https://www.juce.com/",
   "github": "https://github.com/julianstorer/JUCE",
   "versions": {
@@ -10,8 +10,7 @@
         "url": "https://raw.githubusercontent.com/njlr/JUCE/b59477c3e0c8d460609c9e51b27df47de8ee5439/BUCK"
       },
       "dependencies": {
-        "juce-audio-basics": "4.3.1",
-        "juce-events": "4.3.1"
+        "juce-audio-basics": "4.3.1"
       }
     }
   }
