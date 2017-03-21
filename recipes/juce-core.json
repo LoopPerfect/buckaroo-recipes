@@ -1,0 +1,14 @@
+{
+  "name": "juce-core",
+  "license": "ISC",
+  "url": "https://www.juce.com/",
+  "github": "https://github.com/julianstorer/JUCE",
+  "versions": {
+    "4.3.1": {
+      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/9d8d349024d557620731f93731b55376c384197d/BUCK"
+      }
+    }
+  }
+}
