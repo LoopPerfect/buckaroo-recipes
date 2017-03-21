@@ -1,0 +1,18 @@
+{
+  "name": "juce-osc",
+  "license": "GPL, Commercial",
+  "url": "https://www.juce.com/",
+  "github": "https://github.com/julianstorer/JUCE",
+  "versions": {
+    "4.3.1": {
+      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/1ddabf6c7745bc3082df692113a781ee02246ee5/BUCK"
+      },
+      "dependencies": {
+        "juce-core": "4.3.1",
+        "juce-events": "4.3.1"
+      }
+    }
+  }
+}
