@@ -1,7 +1,7 @@
 {
   "name": "whereami",
   "license": "WTFPL",
-  "url": "https://github.com/gpakosz/whereami",
+  "url": "gpakosz/whereami",
   "versions": {
     "0.0.1": {
       "url": "git@github.com:gpakosz/whereami.git#523c28a2155d1b56c4cf6314a792bcb0b70a76fc",
