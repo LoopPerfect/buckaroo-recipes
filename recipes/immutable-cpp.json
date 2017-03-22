@@ -1,0 +1,17 @@
+{
+  "name": "immutable-cpp",
+  "license": "MIT",
+  "url": "https://github.com/rsms/immutable-cpp",
+  "github": {
+    "owner": "rsms",
+    "project": "immutable-cpp"
+  },
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:rsms/immutable-cpp.git#a4a32022d895dd0d3c03547a2b2a2b03face01eb",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/immutable-cpp/c400c872618a2a4c029571148ede5e40bdf57b10/BUCK"
+      }
+    }
+  }
+}
