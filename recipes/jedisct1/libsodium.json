@@ -1,0 +1,17 @@
+{
+  "name": "libsodium",
+  "license": "ISC",
+  "url": "https://download.libsodium.org/doc/",
+  "github": {
+    "owner": "jedisct1",
+    "project": "libsodium"
+  },
+  "versions": {
+    "1.0.11": {
+      "url": "git@github.com:jedisct1/libsodium.git#2f4f718cd94adab547c210a78050762cf667dfca",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libsodium/daab6fc5528f35f5addd7f813d959a31d3086e3a/BUCK"
+      }
+    }
+  }
+}

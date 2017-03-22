@@ -1,0 +1,20 @@
+{
+  "name": "toluapp",
+  "license": "MIT",
+  "url": "http://www.codenix.com/~tolua/",
+  "github": {
+    "owner": "LuaDist",
+    "project": "toluapp"
+  },
+  "versions": {
+    "1.0.93": {
+      "url": "git@github.com:LuaDist/toluapp.git#9feb31ab8b97eda9561846508ee9e3a2caff8da7",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/toluapp/e34a577541dcf369d7260647cf83aed636c3e1a2/BUCK"
+      },
+      "dependencies": {
+        "lua": "5.1.0"
+      }
+    }
+  }
+}

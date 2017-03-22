@@ -1,0 +1,17 @@
+{
+  "name": "libuv",
+  "license": "MIT",
+  "url": "http://libuv.org/",
+  "github": {
+    "owner": "libuv",
+    "project": "libuv"
+  },
+  "versions": {
+    "1.11.0": {
+      "url": "git@github.com:libuv/libuv.git#7452ef4e06a4f99ee26b694c65476401534f2725",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libuv/4f416e96a968bb474652aa7690295f164be595e1/BUCK"
+      }
+    }
+  }
+}

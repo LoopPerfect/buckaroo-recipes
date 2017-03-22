@@ -1,0 +1,20 @@
+{
+  "name": "juce-gui-extra",
+  "license": "GPL, Commercial",
+  "url": "https://www.juce.com/",
+  "github": {
+    "owner": "julianstorer",
+    "project": "JUCE"
+  },
+  "versions": {
+    "4.3.1": {
+      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/5c32ca94f2a45997200437bbcb0fa361350c9d86/BUCK"
+      },
+      "dependencies": {
+        "juce-gui-basics": "4.3.1"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "poco-data",
+  "license": "BSL-1.0",
+  "url": "https://pocoproject.org/",
+  "github": {
+    "owner": "pocoproject",
+    "project": "poco"
+  },
+  "versions": {
+    "1.7.8": {
+      "url": "git@github.com:pocoproject/poco.git#4403634bef7990ff0dff9f12a12a03b4d32006b6",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/poco/1f9d81da13f607ec27dd84906a2f98f17b00820b/BUCK"
+      }
+    }
+  }
+}

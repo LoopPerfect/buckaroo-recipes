@@ -1,0 +1,17 @@
+{
+  "name": "rapidjson",
+  "license": "MIT",
+  "url": "http://rapidjson.org/",
+  "github": {
+    "owner": "miloyip",
+    "project": "rapidjson"
+  },
+  "versions": {
+    "1.1.0": {
+      "url": "git@github.com:miloyip/rapidjson.git#2fb78f9cee01996f020d5af7592b37c5a0693b31",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/rapidjson/7ab08294e209ae73d3ecc450fc24a3e9fa46a5a0/BUCK"
+      }
+    }
+  }
+}

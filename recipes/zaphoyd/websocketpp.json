@@ -1,0 +1,21 @@
+{
+  "name": "websocketpp",
+  "license": "BSD-3-Clause-Clear",
+  "url": "https://github.com/zaphoyd/websocketpp",
+  "github": {
+    "owner": "zaphoyd",
+    "project": "websocketpp"
+  },
+  "versions": {
+    "0.7.0": {
+      "url": "git@github.com:zaphoyd/websocketpp.git#378437aecdcb1dfe62096ffd5d944bf1f640ccc3",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/websocketpp/da03c8f4a835a7b70c477a8227da0fcb52593bd6/BUCK"
+      },
+      "dependencies": {
+        "boost-thread": "1.63.0",
+        "boost-asio": "1.63.0"
+      }
+    }
+  }
+}

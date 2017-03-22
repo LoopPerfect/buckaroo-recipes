@@ -1,0 +1,23 @@
+{
+  "name": "juce-audio-utils",
+  "license": "GPL, Commercial",
+  "url": "https://www.juce.com/",
+  "github": {
+    "owner": "julianstorer",
+    "project": "JUCE"
+  },
+  "versions": {
+    "4.3.1": {
+      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/66547b21bd6747336833a8e72668c2e945e2832b/BUCK"
+      },
+      "dependencies": {
+        "juce-gui-basics": "4.3.1",
+        "juce-audio-devices": "4.3.1",
+        "juce-audio-formats": "4.3.1",
+        "juce-audio-processors": "4.3.1"
+      }
+    }
+  }
+}

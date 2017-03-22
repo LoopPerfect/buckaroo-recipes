@@ -1,0 +1,17 @@
+{
+  "name": "cubeb",
+  "license": "ISC",
+  "url": "https://github.com/kinetiknz/cubeb",
+  "github": {
+    "owner": "kinetiknz",
+    "project": "cubeb"
+  },
+  "versions": {
+    "0.2.0": {
+      "url": "git@github.com:kinetiknz/cubeb.git#d238150bbacccfb97e62499b0e79a834fcbbd102",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/cubeb/cd390db7f01f828953c4bb61fabb77154b1f45bb/BUCK"
+      }
+    }
+  }
+}

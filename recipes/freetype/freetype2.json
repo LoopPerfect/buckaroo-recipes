@@ -1,0 +1,20 @@
+{
+  "name": "freetype2",
+  "license": "FTL, GPL-2.0",
+  "url": "https://freetype.org/freetype2/docs/index.html",
+  "github": {
+    "owner": "aseprite",
+    "project": "freetype2"
+  },
+  "versions": {
+    "2.6.3": {
+      "url": "git@github.com:aseprite/freetype2.git#44accb9e2e5b00696cf50a869b68afa2ce3dd389",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/freetype2/bc8cf736bc51f4e38e9f79395fe3641e68aa60b1/BUCK"
+      },
+      "dependencies": {
+        "zlib": "1.2.11"
+      }
+    }
+  }
+}

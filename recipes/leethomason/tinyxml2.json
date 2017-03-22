@@ -1,0 +1,23 @@
+{
+  "name": "tinyxml2",
+  "license": "Zlib",
+  "url": "https://github.com/leethomason/tinyxml2",
+  "github": {
+    "owner": "leethomason",
+    "project": "tinyxml2"
+  },
+  "versions": {
+    "4.0.1": {
+      "url": "git@github.com:leethomason/tinyxml2.git#74d44acb176f8510abf28ee0a70961eb26631988",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tinyxml2/401727ca275900b195e6cda8a0e752e61c8c8927/BUCK"
+      }
+    },
+    "2.1.0": {
+      "url": "git@github.com:leethomason/tinyxml2.git#6ee53e7d49a4dbfd5c1d7e67fb0228703bbe7309",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tinyxml2/401727ca275900b195e6cda8a0e752e61c8c8927/BUCK"
+      }
+    }
+  }
+}

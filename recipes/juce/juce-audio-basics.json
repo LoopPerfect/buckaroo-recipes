@@ -1,0 +1,20 @@
+{
+  "name": "juce-audio-basics",
+  "license": "ISC",
+  "url": "https://www.juce.com/",
+  "github": {
+    "owner": "julianstorer",
+    "project": "JUCE"
+  },
+  "versions": {
+    "4.3.1": {
+      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/04098b75aec227c8f24c406fdf696f45a0d09613/BUCK"
+      },
+      "dependencies": {
+        "juce-core": "4.3.1"
+      }
+    }
+  }
+}

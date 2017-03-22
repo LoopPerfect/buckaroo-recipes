@@ -1,0 +1,39 @@
+{
+  "name": "quantlib",
+  "license": "",
+  "url": "http://quantlib.org/",
+  "github": {
+    "owner": "lballabio",
+    "project": "QuantLib"
+  },
+  "versions": {
+    "1.9.1": {
+      "url": "git@github.com:lballabio/QuantLib.git#16d064a304db5f0a7dafec2c20633d6c1d602932",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/QuantLib/b47b3e81cf81b9658af31486c0ad390622fb6912/BUCK"
+      },
+      "dependencies": {
+        "boost-config": "1.63.0",
+        "boost-assert": "1.63.0",
+        "boost-function": "1.63.0",
+        "boost-iterator": "1.63.0",
+        "boost-bind": "1.63.0",
+        "boost-unordered": "1.63.0",
+        "boost-any": "1.63.0",
+        "boost-random": "1.63.0",
+        "boost-algorithm": "1.63.0",
+        "boost-math": "1.63.0",
+        "boost-lexical-cast": "1.63.0",
+        "boost-atomic": "1.63.0",
+        "boost-date-time": "1.63.0",
+        "boost-io": "1.63.0",
+        "boost-lambda": "1.63.0",
+        "boost-ublas": "1.63.0",
+        "boost-accumulators": "1.63.0",
+        "boost-multi-array": "1.63.0",
+        "boost-assign": "1.63.0",
+        "boost-format": "1.63.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "utfcpp",
+  "license": "BSL-1.0",
+  "url": "http://utfcpp.sourceforge.net/",
+  "github": {
+    "owner": "njlr",
+    "project": "utfcpp"
+  },
+  "versions": {
+    "2.1.0": {
+      "url": "git@github.com:njlr/utfcpp.git#2a13df14e883cc119e3b18c9fe5bf2e4d0e9295e",
+      "target": "utf8"
+    }
+  }
+}

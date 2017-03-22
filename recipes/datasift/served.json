@@ -1,0 +1,23 @@
+{
+  "name": "served",
+  "license": "MIT",
+  "url": "https://github.com/datasift/served",
+  "github": {
+    "owner": "datasift",
+    "project": "served"
+  },
+  "versions": {
+    "1.4.1": {
+      "url": "git@github.com:datasift/served.git#281f81cbaab83ea1079830a17ac5af9497eac4f7",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/served/6c4ba76cc329cf9f2c7f11917fa0b13007a0f76d/BUCK"
+      },
+      "dependencies": {
+        "boost-date-time": "[1.56.0, 1.63.0]",
+        "boost-asio": "[1.56.0, 1.63.0]",
+        "boost-preprocessor": "[1.56.0, 1.63.0]",
+        "re2": "1.0.0"
+      }
+    }
+  }
+}

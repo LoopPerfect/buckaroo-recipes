@@ -1,0 +1,20 @@
+{
+  "name": "vorbis",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/xiph/vorbis",
+  "github": {
+    "owner": "xiph",
+    "project": "vorbis"
+  },
+  "versions": {
+    "1.3.5": {
+      "url": "git@github.com:xiph/vorbis.git#f4093202cb226b360d0edf8a948aa71142cec657",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/vorbis/484cd6c7f20a1d53700bc7462d3ffa75c8191ad6/BUCK"
+      },
+      "dependencies": {
+        "ogg": "1.3.2"
+      }
+    }
+  }
+}
