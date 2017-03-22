@@ -1,5 +1,5 @@
 {
-  "name": "boost-lambda",
+  "name": "lambda",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/lambda",
   "github": "boostorg/lambda",
@@ -10,12 +10,12 @@
         "url": "https://raw.githubusercontent.com/njlr/lambda/58c75d83f6f76ca5c558f78cb5747623cee9592c/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-bind": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-type-traits": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/bind": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/type-traits": "1.63.0"
       }
     }
   }

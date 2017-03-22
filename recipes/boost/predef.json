@@ -1,5 +1,5 @@
 {
-  "name": "boost-predef",
+  "name": "predef",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/predef",
   "github": "boostorg/predef",

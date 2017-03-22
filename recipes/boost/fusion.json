@@ -1,5 +1,5 @@
 {
-  "name": "boost-fusion",
+  "name": "fusion",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/fusion",
   "github": "boostorg/fusion",
@@ -10,15 +10,15 @@
         "url": "https://raw.githubusercontent.com/njlr/fusion/50b1251c8f08e2caec64d33e60d6454edb4acc4b/BUCK"
       },
       "dependencies": {
-        "boost-preprocessor": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-config": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-typeof": "1.63.0",
-        "boost-tuple": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-utility": "1.63.0"
+        "boost/preprocessor": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/typeof": "1.63.0",
+        "boost/tuple": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/utility": "1.63.0"
       }
     }
   }

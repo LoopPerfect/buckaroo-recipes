@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/JUCE/b8dcc655d189cc8a360a7c80370cffbefc4b949c/BUCK"
       },
       "dependencies": {
-        "juce-cryptography": "4.3.1"
+        "juce/juce-cryptography": "4.3.1"
       }
     }
   }

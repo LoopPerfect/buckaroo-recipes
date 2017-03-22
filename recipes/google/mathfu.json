@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/mathfu/31345029bd9b33a9a92d682974c752400da8b4e6/BUCK"
       },
       "dependencies": {
-        "vectorial": "0.0.1"
+        "scoopr/vectorial": "0.0.1"
       }
     }
   }

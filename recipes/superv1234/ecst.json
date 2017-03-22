@@ -13,8 +13,8 @@
         "url": "https://raw.githubusercontent.com/njlr/ecst/c7cab97087c4ab015928e6f8915e14617cdf78f8/BUCK"
       },
       "dependencies": {
-        "vrm-core": "0.0.1",
-        "boost-hana": "1.63.0"
+        "superv1234/vrm-core": "0.0.1",
+        "boost/hana": "1.63.0"
       }
     }
   }

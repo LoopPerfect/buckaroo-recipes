@@ -1,5 +1,5 @@
 {
-  "name": "boost-wave",
+  "name": "wave",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/wave",
   "github": "boostorg/wave",
@@ -10,12 +10,12 @@
         "url": "https://raw.githubusercontent.com/njlr/wave/97c96d3a4f61aacfe39d88d5840cb0a20915f911/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-spirit": "1.63.0",
-        "boost-multi-index": "1.63.0",
-        "boost-thread": "1.63.0",
-        "boost-atomic": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/spirit": "1.63.0",
+        "boost/multi-index": "1.63.0",
+        "boost/thread": "1.63.0",
+        "boost/atomic": "1.63.0"
       }
     }
   }

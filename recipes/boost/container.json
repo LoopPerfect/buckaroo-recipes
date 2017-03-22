@@ -1,5 +1,5 @@
 {
-  "name": "boost-container",
+  "name": "container",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/container",
   "github": "boostorg/container",
@@ -10,10 +10,10 @@
         "url": "https://raw.githubusercontent.com/njlr/container/fc26ff2a4f02427f95e3ac8ffbc646c003b6ac90/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-move": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-intrusive": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/move": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/intrusive": "1.63.0"
       }
     }
   }

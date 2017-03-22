@@ -1,5 +1,5 @@
 {
-  "name": "boost-pool",
+  "name": "pool",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/pool",
   "github": "boostorg/pool",
@@ -10,14 +10,14 @@
         "url": "https://raw.githubusercontent.com/njlr/pool/afde7ada484e74cec4719b621518edbd224a4531/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-thread": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-throw-exception": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-integer": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-type-traits": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/thread": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/integer": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/type-traits": "1.63.0"
       }
     }
   }

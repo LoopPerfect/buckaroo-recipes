@@ -1,5 +1,5 @@
 {
-  "name": "boost-locale",
+  "name": "locale",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/locale",
   "github": "boostorg/locale",
@@ -10,9 +10,9 @@
         "url": "https://raw.githubusercontent.com/njlr/locale/65f12d97860417955ce6a373ffa17e4099bd8fa2/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-thread": "1.63.0",
-        "icu4c": "58.2.0"
+        "boost/config": "1.63.0",
+        "boost/thread": "1.63.0",
+        "icu/icu4c": "58.2.0"
       }
     }
   }

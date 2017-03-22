@@ -1,5 +1,5 @@
 {
-  "name": "boost-bind",
+  "name": "bind",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/bind",
   "github": "boostorg/bind",
@@ -10,9 +10,9 @@
         "url": "https://raw.githubusercontent.com/njlr/bind/605722eb689a910b1515e3b1239abc101be5aa44/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-core": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/core": "1.63.0"
       }
     }
   }

@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/sqlpp11/7824273560ce33369b612eb44c0ea0236f3aba3b/BUCK"
       },
       "dependencies": {
-        "date": "2.1.0"
+        "howardhinnant/date": "2.1.0"
       }
     }
   }

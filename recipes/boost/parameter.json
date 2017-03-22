@@ -1,5 +1,5 @@
 {
-  "name": "boost-parameter",
+  "name": "parameter",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/parameter",
   "github": "boostorg/parameter",
@@ -10,10 +10,10 @@
         "url": "https://raw.githubusercontent.com/njlr/parameter/a4b47e393712912b03d6fa985d00f3f04fd85a19/BUCK"
       },
       "dependencies": {
-        "boost-type-traits": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-detail": "1.63.0"
+        "boost/type-traits": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/detail": "1.63.0"
       }
     }
   }

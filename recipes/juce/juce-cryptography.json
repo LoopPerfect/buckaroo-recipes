@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/JUCE/fe20828130a597e1c670761e1aacfaa74dc3db6d/BUCK"
       },
       "dependencies": {
-        "juce-core": "4.3.1"
+        "juce/juce-core": "4.3.1"
       }
     }
   }

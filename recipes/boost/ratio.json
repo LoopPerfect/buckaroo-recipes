@@ -1,5 +1,5 @@
 {
-  "name": "boost-ratio",
+  "name": "ratio",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/ratio",
   "github": "boostorg/ratio",
@@ -10,12 +10,12 @@
         "url": "https://raw.githubusercontent.com/njlr/ratio/9cc44fe41d94dddd16c96dc0a8fe136c2d7e9866/BUCK"
       },
       "dependencies": {
-        "boost-mpl": "1.63.0",
-        "boost-config": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-integer": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-core": "1.63.0"
+        "boost/mpl": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/integer": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/core": "1.63.0"
       }
     }
   }

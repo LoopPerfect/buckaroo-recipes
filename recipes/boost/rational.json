@@ -1,5 +1,5 @@
 {
-  "name": "boost-rational",
+  "name": "rational",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/rational",
   "github": "boostorg/rational",
@@ -10,15 +10,15 @@
         "url": "https://raw.githubusercontent.com/njlr/rational/57ea8a96ec97d786377b977d49bab60f92e2119e/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-proto": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-integer": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-throw-exception": "1.63.0",
-        "boost-type-traits": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/proto": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/integer": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/type-traits": "1.63.0"
       }
     }
   }

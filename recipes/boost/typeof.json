@@ -1,5 +1,5 @@
 {
-  "name": "boost-typeof",
+  "name": "typeof",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/typeof",
   "github": "boostorg/typeof",
@@ -10,11 +10,11 @@
         "url": "https://raw.githubusercontent.com/njlr/typeof/12364606537feb0e17ae962ec7a4a18effac28da/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-type-traits": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/type-traits": "1.63.0"
       }
     }
   }

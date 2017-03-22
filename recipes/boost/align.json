@@ -1,5 +1,5 @@
 {
-  "name": "boost-align",
+  "name": "align",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/align",
   "github": "boostorg/align",
@@ -10,11 +10,11 @@
         "url": "https://raw.githubusercontent.com/njlr/align/6b022e2136b9b1452bc179af7dd86bf92f744d1f/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-throw-exception": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-assert": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/assert": "1.63.0"
       }
     }
   }

@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/libpng/9dfb3a2b4faf40eae670035e6c65c4a9ce9396bf/BUCK"
       },
       "dependencies": {
-        "zlib": "1.2.11"
+        "madler/zlib": "1.2.11"
       }
     }
   }

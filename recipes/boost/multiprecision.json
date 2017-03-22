@@ -1,5 +1,5 @@
 {
-  "name": "boost-multiprecision",
+  "name": "multiprecision",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/multiprecision",
   "github": "boostorg/multiprecision",
@@ -10,22 +10,22 @@
         "url": "https://raw.githubusercontent.com/njlr/multiprecision/4ca1051083ba48e067d2d947879dacaee8d1be24/BUCK"
       },
       "dependencies": {
-        "boost-integer": "1.63.0",
-        "boost-random": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-lexical-cast": "1.63.0",
-        "boost-functional": "1.63.0",
-        "boost-math": "1.63.0",
-        "boost-rational": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-array": "1.63.0",
-        "boost-config": "1.63.0",
-        "boost-smart-ptr": "1.63.0",
-        "boost-throw-exception": "1.63.0"
+        "boost/integer": "1.63.0",
+        "boost/random": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/lexical-cast": "1.63.0",
+        "boost/functional": "1.63.0",
+        "boost/math": "1.63.0",
+        "boost/rational": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/array": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/smart-ptr": "1.63.0",
+        "boost/throw-exception": "1.63.0"
       }
     }
   }

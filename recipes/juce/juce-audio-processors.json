@@ -13,9 +13,9 @@
         "url": "https://raw.githubusercontent.com/njlr/JUCE/1489112898f183a3caf9da6182c95de14b61dcb9/BUCK"
       },
       "dependencies": {
-        "juce-audio-basics": "4.3.1",
-        "juce-gui-basics": "4.3.1",
-        "juce-gui-extra": "4.3.1"
+        "juce/juce-audio-basics": "4.3.1",
+        "juce/juce-gui-basics": "4.3.1",
+        "juce/juce-gui-extra": "4.3.1"
       }
     }
   }

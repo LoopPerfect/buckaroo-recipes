@@ -1,5 +1,5 @@
 {
-  "name": "boost-unordered",
+  "name": "unordered",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/unordered",
   "github": "boostorg/unordered",
@@ -10,20 +10,20 @@
         "url": "https://raw.githubusercontent.com/njlr/unordered/7cbfe07b8b00c62deb76b869e1f164869a5e0670/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-functional": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-move": "1.63.0",
-        "boost-container": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-throw-exception": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-tuple": "1.63.0",
-        "boost-iterator": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-smart-ptr": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/functional": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/move": "1.63.0",
+        "boost/container": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/tuple": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/smart-ptr": "1.63.0"
       }
     }
   }

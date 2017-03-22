@@ -1,5 +1,5 @@
 {
-  "name": "poco-mongodb",
+  "name": "mongodb",
   "license": "BSL-1.0",
   "url": "https://pocoproject.org/",
   "github": {
@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/poco/014f439178dc018bdf9afff97bf9377270a7b7c9/BUCK"
       },
       "dependencies": {
-        "poco-net": "1.7.8"
+        "pocoproject/net": "1.7.8"
       }
     }
   }

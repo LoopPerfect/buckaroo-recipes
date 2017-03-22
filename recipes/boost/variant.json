@@ -1,5 +1,5 @@
 {
-  "name": "boost-variant",
+  "name": "variant",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/variant",
   "github": "boostorg/variant",
@@ -10,20 +10,20 @@
         "url": "https://raw.githubusercontent.com/njlr/variant/235654dfd412135f911a0eaeccc3c91f75b107b0/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-functional": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-bind": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-throw-exception": "1.63.0",
-        "boost-type-index": "1.63.0",
-        "boost-math": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/functional": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/bind": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/type-index": "1.63.0",
+        "boost/math": "1.63.0"
       }
     }
   }

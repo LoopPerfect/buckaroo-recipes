@@ -1,5 +1,5 @@
 {
-  "name": "boost-preprocessor",
+  "name": "preprocessor",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/preprocessor",
   "github": "boostorg/preprocessor",

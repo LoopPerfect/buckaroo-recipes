@@ -1,5 +1,5 @@
 {
-  "name": "boost-function-types",
+  "name": "function-types",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/function_types",
   "github": "boostorg/function_types",
@@ -10,11 +10,11 @@
         "url": "https://raw.githubusercontent.com/njlr/function_types/dc791db088897722fd27ac0ff1a87beb499044d9/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-preprocessor": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/preprocessor": "1.63.0"
       }
     }
   }

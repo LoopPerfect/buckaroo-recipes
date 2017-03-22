@@ -1,5 +1,5 @@
 {
-  "name": "boost-core",
+  "name": "core",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/core",
   "github": "boostorg/core",
@@ -10,8 +10,8 @@
         "url": "https://raw.githubusercontent.com/njlr/core/9a95d11172ccb2e2bd0bebde9635292a08561880/BUCK"
       },
       "dependencies": {
-        "boost-assert": "1.63.0",
-        "boost-config": "1.63.0"
+        "boost/assert": "1.63.0",
+        "boost/config": "1.63.0"
       }
     }
   }

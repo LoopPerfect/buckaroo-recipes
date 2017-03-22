@@ -1,5 +1,5 @@
 {
-  "name": "boost-chrono",
+  "name": "chrono",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/chrono",
   "github": "boostorg/chrono",
@@ -10,13 +10,13 @@
         "url": "https://raw.githubusercontent.com/njlr/chrono/7bc61aa682ed94efb0c916e3b3f987837809cbf5/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-predef": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-ratio": "1.63.0",
-        "boost-system": "1.63.0",
-        "boost-throw-exception": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/predef": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/ratio": "1.63.0",
+        "boost/system": "1.63.0",
+        "boost/throw-exception": "1.63.0"
       }
     }
   }

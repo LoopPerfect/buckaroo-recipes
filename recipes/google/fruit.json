@@ -13,8 +13,8 @@
         "url": "https://raw.githubusercontent.com/njlr/fruit/9b1c3be4304cec4f9d09b9dac168fb3c006db9dd/BUCK"
       },
       "dependencies": {
-        "boost-unordered": "1.63.0",
-        "boost-integer": "1.63.0"
+        "boost/unordered": "1.63.0",
+        "boost/integer": "1.63.0"
       }
     }
   }

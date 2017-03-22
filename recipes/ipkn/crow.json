@@ -13,8 +13,8 @@
         "url": "https://raw.githubusercontent.com/njlr/crow/a3fc5fa63107d422157a20d2de3b827c66099c70/BUCK"
       },
       "dependencies": {
-        "boost-algorithm": "1.63.0",
-        "boost-asio": "1.63.0"
+        "boost/algorithm": "1.63.0",
+        "boost/asio": "1.63.0"
       }
     }
   }

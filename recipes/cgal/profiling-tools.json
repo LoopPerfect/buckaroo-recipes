@@ -1,5 +1,5 @@
 {
-  "name": "cgal-profiling-tools",
+  "name": "profiling-tools",
   "license": "LGPL-3.0",
   "url": "http://www.cgal.org/",
   "github": "CGAL/cgal",
@@ -10,8 +10,8 @@
         "url": "https://raw.githubusercontent.com/njlr/cgal/8b4ee63fd84587f0c3e821e0af487f326a3ec22e/BUCK"
       },
       "dependencies": {
-        "cgal-installation": "4.9.0",
-        "boost-static-assert": "1.63.0"
+        "cgal/installation": "4.9.0",
+        "boost/static-assert": "1.63.0"
       }
     }
   }

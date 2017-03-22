@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/snappy/e999b9bb2cbc3153118554c5af9c22414d155204/BUCK"
       },
       "dependencies": {
-        "gflags": "2.2.0"
+        "google/gflags": "2.2.0"
       }
     }
   }

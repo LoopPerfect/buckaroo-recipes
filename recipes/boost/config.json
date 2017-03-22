@@ -1,5 +1,5 @@
 {
-  "name": "boost-config",
+  "name": "config",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/config",
   "github": "boostorg/config",

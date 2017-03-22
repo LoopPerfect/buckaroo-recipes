@@ -1,5 +1,5 @@
 {
-  "name": "boost-iterator",
+  "name": "iterator",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/iterator",
   "github": "boostorg/iterator",
@@ -10,18 +10,18 @@
         "url": "https://raw.githubusercontent.com/njlr/iterator/ad79fe69de97b4abfc7d2334f9ac3d01d6b49b4c/BUCK"
       },
       "dependencies": {
-        "boost-fusion": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-config": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-function-types": "1.63.0",
-        "boost-optional": "1.63.0",
-        "boost-concept-check": "1.63.0"
+        "boost/fusion": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/function-types": "1.63.0",
+        "boost/optional": "1.63.0",
+        "boost/concept-check": "1.63.0"
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-  "name": "boost-io",
+  "name": "io",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/io",
   "github": "boostorg/io",
@@ -10,7 +10,7 @@
         "url": "https://raw.githubusercontent.com/njlr/io/9aeb9c1f00848bfccbf7a0648b190f87a72e44d1/BUCK"
       },
       "dependencies": {
-        "boost-detail": "1.63.0"
+        "boost/detail": "1.63.0"
       }
     }
   }

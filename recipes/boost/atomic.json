@@ -1,5 +1,5 @@
 {
-  "name": "boost-atomic",
+  "name": "atomic",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/atomic",
   "github": "boostorg/atomic",
@@ -10,8 +10,8 @@
         "url": "https://raw.githubusercontent.com/njlr/atomic/46a55274dc4cf755aa80167f46b6126174ff06cd/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-assert": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/assert": "1.63.0"
       }
     }
   }

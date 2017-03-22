@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/mstch/5fe942d7d260cc55d7f3e068eb30dc3ced01ecd6/BUCK"
       },
       "dependencies": {
-        "boost-variant": "1.63.0"
+        "boost/variant": "1.63.0"
       }
     }
   }

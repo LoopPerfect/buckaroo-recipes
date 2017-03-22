@@ -13,9 +13,9 @@
         "url": "https://raw.githubusercontent.com/njlr/yaml-cpp/buck/0.5.3/BUCK"
       },
       "dependencies": {
-        "boost-smart-ptr": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-iterator": "1.63.0"
+        "boost/smart-ptr": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/iterator": "1.63.0"
       }
     }
   }

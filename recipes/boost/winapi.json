@@ -1,5 +1,5 @@
 {
-  "name": "boost-winapi",
+  "name": "winapi",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/winapi",
   "github": "boostorg/winapi",
@@ -10,8 +10,8 @@
         "url": "https://raw.githubusercontent.com/njlr/winapi/a31f8780b64864c2792921b9f3f013bfbc461149/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-predef": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/predef": "1.63.0"
       }
     }
   }

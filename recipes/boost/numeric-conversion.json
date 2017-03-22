@@ -1,5 +1,5 @@
 {
-  "name": "boost-numeric-conversion",
+  "name": "numeric-conversion",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/numeric_conversion",
   "github": "boostorg/numeric_conversion",
@@ -10,12 +10,12 @@
         "url": "https://raw.githubusercontent.com/njlr/numeric_conversion/c869f28bdcca104278a276975b6e14a67bacf695/BUCK"
       },
       "dependencies": {
-        "boost-detail": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-throw-exception": "1.63.0",
-        "boost-config": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-integer": "1.63.0"
+        "boost/detail": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/integer": "1.63.0"
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-  "name": "boost-python-headers",
+  "name": "python-headers",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/python",
   "github": "boostorg/python",

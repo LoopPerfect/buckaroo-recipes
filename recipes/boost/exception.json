@@ -1,5 +1,5 @@
 {
-  "name": "boost-exception",
+  "name": "exception",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/exception",
   "github": "boostorg/exception",
@@ -10,11 +10,11 @@
         "url": "https://raw.githubusercontent.com/njlr/exception/2bc2fa601376a0a13dccb96b5b3c2bbb94876155/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-tuple": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/tuple": "1.63.0"
       }
     }
   }

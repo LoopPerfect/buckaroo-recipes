@@ -1,5 +1,5 @@
 {
-  "name": "boost-tokenizer",
+  "name": "tokenizer",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/tokenizer",
   "github": "boostorg/tokenizer",
@@ -10,12 +10,12 @@
         "url": "https://raw.githubusercontent.com/njlr/tokenizer/a014f16b79e554afcd2a936de5bf67f24b6254ad/BUCK"
       },
       "dependencies": {
-        "boost-assert": "1.63.0",
-        "boost-iterator": "1.63.0",
-        "boost-config": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-throw-exception": "1.63.0"
+        "boost/assert": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/throw-exception": "1.63.0"
       }
     }
   }

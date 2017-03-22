@@ -1,5 +1,5 @@
 {
-  "name": "boost-tti",
+  "name": "tti",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/tti",
   "github": "boostorg/tti",
@@ -10,12 +10,12 @@
         "url": "https://raw.githubusercontent.com/njlr/tti/d9f1f9083d9fcee8e97fc9cffa43d8ad4752df8e/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-function-types": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-detail": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/function-types": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/detail": "1.63.0"
       }
     }
   }

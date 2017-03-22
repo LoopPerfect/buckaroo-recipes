@@ -1,5 +1,5 @@
 {
-  "name": "boost-bimap",
+  "name": "bimap",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/bimap",
   "github": "boostorg/bimap",
@@ -10,21 +10,21 @@
         "url": "https://raw.githubusercontent.com/njlr/bimap/cace25b81e92172473b0f99ca25a2d35d576e161/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-concept-check": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-functional": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-serialization": "1.63.0",
-        "boost-multi-index": "1.63.0",
-        "boost-iterator": "1.63.0",
-        "boost-throw-exception": "1.63.0",
-        "boost-property-map": "1.63.0",
-        "boost-lambda": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/concept-check": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/functional": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/serialization": "1.63.0",
+        "boost/multi-index": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/property-map": "1.63.0",
+        "boost/lambda": "1.63.0"
       }
     }
   }

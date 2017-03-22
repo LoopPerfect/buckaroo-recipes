@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/libzmq/6b8c50d72cc2b87e140553c4231146776a8172ba/BUCK"
       },
       "dependencies": {
-        "libsodium": "1.0.11"
+        "jedisct1/libsodium": "1.0.11"
       }
     }
   }

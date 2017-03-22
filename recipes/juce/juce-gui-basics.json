@@ -13,8 +13,8 @@
         "url": "https://raw.githubusercontent.com/njlr/JUCE/8094876932dbadc4d87b71734cce20188b4f8107/BUCK"
       },
       "dependencies": {
-        "juce-graphics": "4.3.1",
-        "juce-data-structures": "4.3.1"
+        "juce/juce-graphics": "4.3.1",
+        "juce/juce-data-structures": "4.3.1"
       }
     }
   }

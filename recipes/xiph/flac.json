@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/flac/df132905af33ba40d39e001db3ac66834b1f5303/BUCK"
       },
       "dependencies": {
-        "ogg": "1.3.2"
+        "xiph/ogg": "1.3.2"
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-  "name": "boost-math",
+  "name": "math",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/math",
   "github": "boostorg/math",
@@ -10,17 +10,17 @@
         "url": "https://raw.githubusercontent.com/njlr/math/db90499b90e8948adec6e97c440871da640d6547/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-predef": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-array": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-container": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/predef": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/array": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/container": "1.63.0"
       }
     }
   }

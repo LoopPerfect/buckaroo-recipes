@@ -13,9 +13,9 @@
         "url": "https://raw.githubusercontent.com/njlr/JUCE/559bffbad6d34ac60ef1851bf7756a26e73b9627/BUCK"
       },
       "dependencies": {
-        "juce-data-structures": "4.3.1",
-        "juce-cryptography": "4.3.1",
-        "juce-gui-extra": "4.3.1"
+        "juce/juce-data-structures": "4.3.1",
+        "juce/juce-cryptography": "4.3.1",
+        "juce/juce-gui-extra": "4.3.1"
       }
     }
   }

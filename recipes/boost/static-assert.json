@@ -1,5 +1,5 @@
 {
-  "name": "boost-static-assert",
+  "name": "static-assert",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/static_assert",
   "github": "boostorg/static_assert",

@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/cppzmq/17750356e9c2fefe81e56327b9d339aba6f915c5/BUCK"
       },
       "dependencies": {
-        "libzmq": "4.2.2"
+        "zeromq/libzmq": "4.2.2"
       }
     }
   }

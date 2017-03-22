@@ -13,8 +13,8 @@
         "url": "https://raw.githubusercontent.com/njlr/JUCE/b59477c3e0c8d460609c9e51b27df47de8ee5439/BUCK"
       },
       "dependencies": {
-        "juce-audio-basics": "4.3.1",
-        "juce-events": "4.3.1"
+        "juce/juce-audio-basics": "4.3.1",
+        "juce/juce-events": "4.3.1"
       }
     }
   }

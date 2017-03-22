@@ -1,5 +1,5 @@
 {
-  "name": "boost-foreach",
+  "name": "foreach",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/foreach",
   "github": "boostorg/foreach",
@@ -10,14 +10,14 @@
         "url": "https://raw.githubusercontent.com/njlr/foreach/8875003c327031803831b7e13fce888e8fd01ee7/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-range": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-iterator": "1.63.0",
-        "boost-utility": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/range": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/utility": "1.63.0"
       }
     }
   }

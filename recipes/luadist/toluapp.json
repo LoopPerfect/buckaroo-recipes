@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/toluapp/e34a577541dcf369d7260647cf83aed636c3e1a2/BUCK"
       },
       "dependencies": {
-        "lua": "5.1.0"
+        "lua/lua": "5.1.0"
       }
     }
   }

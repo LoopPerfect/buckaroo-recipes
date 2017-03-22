@@ -1,5 +1,5 @@
 {
-  "name": "boost-thread",
+  "name": "thread",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/thread",
   "github": "boostorg/thread",
@@ -10,21 +10,21 @@
         "url": "https://raw.githubusercontent.com/njlr/thread/e23fd129dd7bf67b7f2d55e2e109c53c94b7f6fc/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-move": "1.63.0",
-        "boost-system": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-bind": "1.63.0",
-        "boost-atomic": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-date-time": "1.63.0",
-        "boost-chrono": "1.63.0",
-        "boost-io": "1.63.0",
-        "boost-function": "1.63.0",
-        "boost-algorithm": "1.63.0",
-        "boost-winapi": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/move": "1.63.0",
+        "boost/system": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/bind": "1.63.0",
+        "boost/atomic": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/date-time": "1.63.0",
+        "boost/chrono": "1.63.0",
+        "boost/io": "1.63.0",
+        "boost/function": "1.63.0",
+        "boost/algorithm": "1.63.0",
+        "boost/winapi": "1.63.0"
       }
     }
   }

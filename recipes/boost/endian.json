@@ -1,5 +1,5 @@
 {
-  "name": "boost-endian",
+  "name": "endian",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/endian",
   "github": "boostorg/endian",
@@ -10,14 +10,14 @@
         "url": "https://raw.githubusercontent.com/njlr/endian/79f0b265fd831adaa5c7a4b1be383f341332c0a7/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-predef": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-integer": "1.63.0",
-        "boost-system": "1.63.0",
-        "boost-utility": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/predef": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/integer": "1.63.0",
+        "boost/system": "1.63.0",
+        "boost/utility": "1.63.0"
       }
     }
   }

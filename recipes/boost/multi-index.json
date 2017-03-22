@@ -1,5 +1,5 @@
 {
-  "name": "boost-multi-index",
+  "name": "multi-index",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/multi_index",
   "github": "boostorg/multi_index",
@@ -10,24 +10,24 @@
         "url": "https://raw.githubusercontent.com/njlr/multi_index/f166e42848a5e3e695cffd5a7f3b05efc784c3df/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-static-assert": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-detail": "1.63.0",
-        "boost-assert": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-preprocessor": "1.63.0",
-        "boost-utility": "1.63.0",
-        "boost-move": "1.63.0",
-        "boost-core": "1.63.0",
-        "boost-functional": "1.63.0",
-        "boost-serialization": "1.63.0",
-        "boost-tuple": "1.63.0",
-        "boost-bind": "1.63.0",
-        "boost-throw-exception": "1.63.0",
-        "boost-foreach": "1.63.0",
-        "boost-iterator": "1.63.0",
-        "boost-integer": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/move": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/functional": "1.63.0",
+        "boost/serialization": "1.63.0",
+        "boost/tuple": "1.63.0",
+        "boost/bind": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/foreach": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/integer": "1.63.0"
       }
     }
   }

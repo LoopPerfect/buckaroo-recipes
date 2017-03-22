@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/wren/964eaf5618337d95114e4a7bf4fee2c9343f9910/BUCK"
       },
       "dependencies": {
-        "libuv": "1.11.0"
+        "libuv/libuv": "1.11.0"
       }
     }
   }

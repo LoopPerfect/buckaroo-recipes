@@ -13,21 +13,21 @@
         "url": "https://raw.githubusercontent.com/njlr/jbson/71e7955e1ddd3174315ce10e5cf6ccfde33113ac/BUCK"
       },
       "dependencies": {
-        "boost-config": "1.63.0",
-        "boost-algorithm": "1.63.0",
-        "boost-range": "1.63.0",
-        "boost-type-traits": "1.63.0",
-        "boost-spirit": "1.63.0",
-        "boost-io": "1.63.0",
-        "boost-exception": "1.63.0",
-        "boost-lexical-cast": "1.63.0",
-        "boost-math": "1.63.0",
-        "boost-mpl": "1.63.0",
-        "boost-iterator": "1.63.0",
-        "boost-tti": "1.63.0",
-        "boost-optional": "1.63.0",
-        "boost-variant": "1.63.0",
-        "boost-utility": "1.63.0"
+        "boost/config": "1.63.0",
+        "boost/algorithm": "1.63.0",
+        "boost/range": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/spirit": "1.63.0",
+        "boost/io": "1.63.0",
+        "boost/exception": "1.63.0",
+        "boost/lexical-cast": "1.63.0",
+        "boost/math": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/tti": "1.63.0",
+        "boost/optional": "1.63.0",
+        "boost/variant": "1.63.0",
+        "boost/utility": "1.63.0"
       }
     }
   }

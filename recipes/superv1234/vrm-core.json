@@ -13,7 +13,7 @@
         "url": "https://raw.githubusercontent.com/njlr/vrm_core/f87288afcb648efa870bdc500b47c307c2499f54/BUCK"
       },
       "dependencies": {
-        "vrm-pp": "0.0.1"
+        "superv1234/vrm-pp": "0.0.1"
       }
     }
   }

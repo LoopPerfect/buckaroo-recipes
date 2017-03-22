@@ -13,10 +13,10 @@
         "url": "https://raw.githubusercontent.com/njlr/served/6c4ba76cc329cf9f2c7f11917fa0b13007a0f76d/BUCK"
       },
       "dependencies": {
-        "boost-date-time": "[1.56.0, 1.63.0]",
-        "boost-asio": "[1.56.0, 1.63.0]",
-        "boost-preprocessor": "[1.56.0, 1.63.0]",
-        "re2": "1.0.0"
+        "boost/date-time": "[1.56.0, 1.63.0]",
+        "boost/asio": "[1.56.0, 1.63.0]",
+        "boost/preprocessor": "[1.56.0, 1.63.0]",
+        "google/re2": "1.0.0"
       }
     }
   }
