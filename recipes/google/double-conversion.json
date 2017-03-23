@@ -4,7 +4,7 @@
   "url": "https://github.com/google/double-conversion",
   "github": {
     "owner": "google",
-    "project": "double-conversion",
+    "project": "double-conversion"
   },
   "versions": {
     "1.1.5": {
