@@ -1,0 +1,17 @@
+{
+  "name": "openssl",
+  "license": "Apache-1.0, BSD-4-Clause",
+  "url": "https://www.openssl.org/",
+  "github": {
+    "owner": "openssl",
+    "project": "openssl"
+  },
+  "versions": {
+    "1.0.211": {
+      "url": "git@github.com:openssl/openssl.git#081314d07705aa58912845c213a48414d8f616a9",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/openssl/d09a2f62065edae1aa585577f6e245aca1a9b326/BUCK"
+      }
+    }
+  }
+}
