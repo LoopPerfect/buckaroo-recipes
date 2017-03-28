@@ -2,12 +2,15 @@
   "name": "chrono",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/chrono",
-  "github": "boostorg/chrono",
+  "github": {
+    "owner": "boostorg",
+    "project": "chrono"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/chrono.git#959601c34798ca8e93b69403a3ddba903653b3ef",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/chrono/7bc61aa682ed94efb0c916e3b3f987837809cbf5/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

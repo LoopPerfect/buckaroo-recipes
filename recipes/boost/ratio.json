@@ -2,12 +2,15 @@
   "name": "ratio",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/ratio",
-  "github": "boostorg/ratio",
+  "github": {
+    "owner": "boostorg",
+    "project": "ratio"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/ratio.git#ee45b0666f89e2703d8496d243c297082bfc668c",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/ratio/9cc44fe41d94dddd16c96dc0a8fe136c2d7e9866/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/ratio/6c2432bf838a0eb9616b5275ed6eae1391710055/BUCK"
       },
       "dependencies": {
         "boost/mpl": "1.63.0",

@@ -2,12 +2,15 @@
   "name": "math",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/math",
-  "github": "boostorg/math",
+  "github": {
+    "owner": "boostorg",
+    "project": "math"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/math.git#0b1d59cc128bfaa6da39561b8388dec58e408cc1",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/math/db90499b90e8948adec6e97c440871da640d6547/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

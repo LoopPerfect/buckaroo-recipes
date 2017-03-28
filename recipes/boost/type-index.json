@@ -7,7 +7,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/type_index.git#c52fdfe30c63de43251681a31d0de0bc39116e46",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/type_index/5a493898c86904ebcf6d39073f2407b385729af0/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/type_index/0ecb9d7c582a2a43ae518e09d385c9865840473b/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

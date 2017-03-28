@@ -2,12 +2,15 @@
   "name": "crc",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/crc",
-  "github": "boostorg/crc",
+  "github": {
+    "owner": "boostorg",
+    "project": "crc"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/crc.git#e77694d0acb1ce9c1fa38d0965f13b53a9949ca3",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/crc/6f61d2c116bc797869eb40eff54c57082f85f901/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/crc/131ce3b8f2113c0d3aff16e394372e7e9ae537d6/BUCK"
       },
       "dependencies": {
         "boost/array": "1.63.0",

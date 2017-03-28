@@ -2,12 +2,15 @@
   "name": "intrusive",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/intrusive",
-  "github": "boostorg/intrusive",
+  "github": {
+    "owner": "boostorg",
+    "project": "intrusive"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/intrusive.git#190900e1b00f6dcd1132baf584231e69acd70e76",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/intrusive/3ad6e7bc06716a7cad152f1861f956128f9207a0/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK"
       },
       "dependencies": {
         "boost/move": "1.63.0",

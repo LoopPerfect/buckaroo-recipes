@@ -2,12 +2,15 @@
   "name": "ptr-container",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/ptr_container",
-  "github": "boostorg/ptr_container",
+  "github": {
+    "owner": "boostorg",
+    "project": "ptr_container"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/ptr_container.git#b95caec2762fd9835fd6ffb4e477e9cd5d5c4d87",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/ptr_container/f50667375edc9a0dcd93cfe81917946621ec9206/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/ptr_container/6addeb4e144904c4ae812d636ca6a555f4a4dc36/BUCK"
       },
       "dependencies": {
         "boost/assert": "1.63.0",

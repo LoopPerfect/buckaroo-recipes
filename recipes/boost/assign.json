@@ -7,7 +7,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/assign.git#bc3c7bcaf612a58634c19df31aa1212a4cdb6f00",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/assign/28d578f3a87262a5689e5e43e8448c5a3537aa87/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/assign/aa02c25c329df0b54eb54ebd4d45b6990f82785f/BUCK"
       },
       "dependencies": {
         "boost/type-traits": "1.63.0",

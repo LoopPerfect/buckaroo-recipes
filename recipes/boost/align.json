@@ -7,7 +7,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/align.git#469732efb06c285f1ccd31db2002447efb22884f",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/align/6b022e2136b9b1452bc179af7dd86bf92f744d1f/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/align/87d310f862184dbd03a9b7f7e372862e63358148/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

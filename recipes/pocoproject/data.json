@@ -1,5 +1,5 @@
 {
-  "name": "zip",
+  "name": "data",
   "license": "BSL-1.0",
   "url": "https://pocoproject.org/",
   "github": {
@@ -10,10 +10,7 @@
     "1.7.8": {
       "url": "git@github.com:pocoproject/poco.git#4403634bef7990ff0dff9f12a12a03b4d32006b6",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/poco/a070ff5186711cb48173e25066bf2fe0d504871e/BUCK"
-      },
-      "dependencies": {
-        "pocoproject/foundation": "1.7.8"
+        "url": "https://raw.githubusercontent.com/njlr/poco/513d9ae11605f7ff7780a33284ba9841ef589d2b/BUCK"
       }
     }
   }

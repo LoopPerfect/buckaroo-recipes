@@ -2,12 +2,15 @@
   "name": "conversion",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/conversion",
-  "github": "boostorg/conversion",
+  "github": {
+    "owner": "boostorg",
+    "project": "conversion"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/conversion.git#da8b2fe695cffda506059b49a4782ede01fba10f",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/conversion/27db4a11d6c9f10fcac82c8c0f90cd3b908ccbe2/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/conversion/2a302fbb4a7f4945049d68046c1a26782bc42828/BUCK"
       },
       "dependencies": {
        "boost/config": "1.63.0",

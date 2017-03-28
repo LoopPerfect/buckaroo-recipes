@@ -2,12 +2,15 @@
   "name": "iostreams",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/iostreams",
-  "github": "boostorg/iostreams",
+  "github": {
+    "owner": "boostorg",
+    "project": "iostreams"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/iostreams.git#379ec3b4ca33375d5cc4ef24a90f3a0163a6479e",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/iostreams/32330fff6db33c04f791e9fb1293b100003e55f3/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/iostreams/fd9e7d704acb5c86a16add4d989eb24d5c749960/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

@@ -2,12 +2,15 @@
   "name": "lockfree",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/lockfree",
-  "github": "boostorg/lockfree",
+  "github": {
+    "owner": "boostorg",
+    "project": "lockfree"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/lockfree.git#a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/lockfree/3e638eb4132eb3cd96ae84df485e63dee4625d7c/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

@@ -2,12 +2,15 @@
   "name": "graph",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/graph",
-  "github": "boostorg/graph",
+  "github": {
+    "owner": "boostorg",
+    "project": "graph"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/graph.git#7913228c9dab7ed88fb63b6b6214c37763aa2436",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/graph/614174c35c4c71b9469e983563ce717206158150/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK"
       },
       "dependencies": {
         "boost/assert": "1.63.0",

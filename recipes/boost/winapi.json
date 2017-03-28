@@ -7,7 +7,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/winapi.git#e329e1d0d116739ea0083dd01fd08a054785f370",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/winapi/a31f8780b64864c2792921b9f3f013bfbc461149/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

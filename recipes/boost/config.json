@@ -2,12 +2,15 @@
   "name": "config",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/config",
-  "github": "boostorg/config",
+  "github": {
+    "owner": "boostorg",
+    "project": "config"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/config.git#a1a9f07e63d6b6641d462678d87d07863bc4ef56",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/config/ca878bb6399b21e739031d31f491625cc9b9b952/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/config/e75d0fc74b3814c92f5a52127888b0ac7c334efb/BUCK"
       }
     }
   }

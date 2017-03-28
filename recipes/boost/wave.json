@@ -2,12 +2,15 @@
   "name": "wave",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/wave",
-  "github": "boostorg/wave",
+  "github": {
+    "owner": "boostorg",
+    "project": "wave"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/wave.git#1d9bdb7631f79e60cca07f7790457707f176bc23",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/wave/97c96d3a4f61aacfe39d88d5840cb0a20915f911/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

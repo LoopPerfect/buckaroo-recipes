@@ -2,12 +2,15 @@
   "name": "functional",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/functional",
-  "github": "boostorg/functional",
+  "github": {
+    "owner": "boostorg",
+    "project": "functional"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/functional.git#8f59ebc2d1d84a98d43d04c2eb15129ae3db8451",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/functional/670f9e2ed9b317cd404ddc5280ab3dbc0ee34087/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/functional/822cccff0f4eb924f9ccfa880c7ee24a25938652/BUCK"
       },
       "dependencies": {
         "boost/assert": "1.63.0",

@@ -10,7 +10,7 @@
     "1.63.0": {
       "url": "git@github.com:boostorg/accumulators.git#d022c85123683138ebec9149f0dc9aec6f3839cf",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/accumulators/96b208e099673119aa81ef39809235253196d7bc/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

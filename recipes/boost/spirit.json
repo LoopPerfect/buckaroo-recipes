@@ -2,12 +2,15 @@
   "name": "spirit",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/spirit",
-  "github": "boostorg/spirit",
+  "github": {
+    "owner": "boostorg",
+    "project": "spirit"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/spirit.git#1e2054aab4856f652e722d1bfc2465d935d4b39c",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/spirit/9d53329a887dce230b10c1d50008b19420aa255f/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/spirit/945f94164ac2aaa2d89ee43da3d07e8a93322140/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

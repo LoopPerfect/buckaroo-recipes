@@ -2,12 +2,15 @@
   "name": "concept-check",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/concept_check",
-  "github": "boostorg/concept_check",
+  "github": {
+    "owner": "boostorg",
+    "project": "concept_check"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/concept_check.git#b65104932a426148932acec7a41c8f041a9069ca",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/concept_check/5bcd34c68c2f2a0b375a79c0b3af5c2ed3a9528f/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/concept_check/e4f7293a00b37ccd142ff8674d1990337417ebf3/BUCK"
       },
       "dependencies": {
         "boost/type-traits": "1.63.0",

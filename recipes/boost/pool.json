@@ -2,12 +2,15 @@
   "name": "pool",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/pool",
-  "github": "boostorg/pool",
+  "github": {
+    "owner": "boostorg",
+    "project": "pool"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/pool.git#2c44798b606ba3004d791dd3df10ec35be3aceaa",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/pool/afde7ada484e74cec4719b621518edbd224a4531/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

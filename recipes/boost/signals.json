@@ -2,12 +2,15 @@
   "name": "signals",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/signals",
-  "github": "boostorg/signals",
+  "github": {
+    "owner": "boostorg",
+    "project": "signals"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/signals.git#613b2a55b602501bf6dfe3da8fb2218e1ffc2862",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/signals/774842b0dd61d0e5aab3c53016dd0635d0b64751/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/signals/86cb56f38b358c1d684606b7c66488b8ec83ba2a/BUCK"
       },
       "dependencies": {
         "boost/type-traits": "1.63.0",

@@ -2,12 +2,15 @@
   "name": "multi-index",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/multi_index",
-  "github": "boostorg/multi_index",
+  "github": {
+    "owner": "boostorg",
+    "project": "multi_index"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/multi_index.git#0a0e7284c7a75ab4513f8558d5388ea9724bbb0a",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/multi_index/f166e42848a5e3e695cffd5a7f3b05efc784c3df/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/multi_index/42ea410be6d30b0f709f9490ad181e57e3a09138/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

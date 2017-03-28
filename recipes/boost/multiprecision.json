@@ -2,12 +2,15 @@
   "name": "multiprecision",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/multiprecision",
-  "github": "boostorg/multiprecision",
+  "github": {
+    "owner": "boostorg",
+    "project": "multiprecision"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/multiprecision.git#47de2a9787004d33954da5d591987f03a27c8858",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/multiprecision/4ca1051083ba48e067d2d947879dacaee8d1be24/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK"
       },
       "dependencies": {
         "boost/integer": "1.63.0",

@@ -2,12 +2,15 @@
   "name": "range",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/range",
-  "github": "boostorg/range",
+  "github": {
+    "owner": "boostorg",
+    "project": "range"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/range.git#56d470635de63862856b27be36dbf2eb9d75b043",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/range/edf1ea4a03999033d4bc8c13705a4188607fb0a6/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/range/bf89d6ba9871d38e61d4ea990672588511fe9014/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

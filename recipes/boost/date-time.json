@@ -2,12 +2,15 @@
   "name": "date-time",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/date_time",
-  "github": "boostorg/date_time",
+  "github": {
+    "owner": "boostorg",
+    "project": "date_time"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/date_time.git#1e71530fb4405a043548e10483ec652605d6e05e",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/date_time/d12e0603ae18e64c42b4acb1dc5d4164f71e384e/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/date_time/e38b75ca5d0a102a6a8b7271accd2027324a6055/BUCK"
       },
       "dependencies": {
         "boost/config": "1.63.0",

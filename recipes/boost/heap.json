@@ -2,12 +2,15 @@
   "name": "heap",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/heap",
-  "github": "boostorg/heap",
+  "github": {
+    "owner": "boostorg",
+    "project": "heap"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/heap.git#173349cee1942992f322f26fff2b6243319e7d65",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/heap/18a7deffe7b4a088672f80526c9c33ef50715901/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/heap/f4886f8e6ae69bd9049a2d49f06344628a53f6f6/BUCK"
       },
       "dependencies": {
         "boost/assert": "1.63.0",

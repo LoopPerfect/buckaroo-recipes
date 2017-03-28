@@ -2,12 +2,15 @@
   "name": "fusion",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/fusion",
-  "github": "boostorg/fusion",
+  "github": {
+    "owner": "boostorg",
+    "project": "fusion"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/fusion.git#715a7fb729ad69c0ac4b8f3db729a07827dc2476",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/fusion/50b1251c8f08e2caec64d33e60d6454edb4acc4b/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK"
       },
       "dependencies": {
         "boost/preprocessor": "1.63.0",

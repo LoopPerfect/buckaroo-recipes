@@ -2,12 +2,15 @@
   "name": "format",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/format",
-  "github": "boostorg/format",
+  "github": {
+    "owner": "boostorg",
+    "project": "format"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/format.git#614113c40808ca232c81787f031f520fca5a1a17",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/format/2788c7253b8af55f7e7f52c709165013a977018a/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/format/a252c11a3e9ef6b1fb40bc8196f15197b4012a04/BUCK"
       },
       "dependencies": {
         "boost/detail": "1.63.0",

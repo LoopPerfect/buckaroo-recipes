@@ -2,12 +2,15 @@
   "name": "numeric-conversion",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/numeric_conversion",
-  "github": "boostorg/numeric_conversion",
+  "github": {
+    "owner": "boostorg",
+    "project": "numeric_conversion"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/numeric_conversion.git#2009f0d4fc49a6db59b950a3140f8d1f58e1a8c6",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/numeric_conversion/c869f28bdcca104278a276975b6e14a67bacf695/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/numeric_conversion/bc0fa174a9147e606aa25adc6c0af472c4a53811/BUCK"
       },
       "dependencies": {
         "boost/detail": "1.63.0",

@@ -2,12 +2,15 @@
   "name": "detail",
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/detail",
-  "github": "boostorg/detail",
+  "github": {
+    "owner": "boostorg",
+    "project": "detail"
+  },
   "versions": {
     "1.63.0": {
       "url": "git@github.com:boostorg/detail.git#6c111975865d112c11101ef8221695cc4cd57562",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/detail/6c4fe6021cebe24ee6918614fa1a437ee616b511/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK"
       }
     }
   }
