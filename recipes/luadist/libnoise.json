@@ -1,0 +1,17 @@
+{
+  "name": "libnoise",
+  "license": "LGPL-2.1",
+  "url": "https://github.com/LuaDist/libnoise",
+  "github": {
+    "owner": "LuaDist",
+    "project": "libnoise"
+  },
+  "versions": {
+    "1.0.0": {
+      "url": "git@github.com:LuaDist/libnoise.git#c62de71aca401aea06bed84f36d57f1dd49f1c9e",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libnoise/1b60063ec1ebcf894c4215e7859ef2716864b34e/BUCK"
+      }
+    }
+  }
+}
