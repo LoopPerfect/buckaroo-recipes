@@ -1,0 +1,17 @@
+{
+  "name": "libiconv",
+  "license": "GPL-3.0",
+  "url": "https://github.com/LuaDist/libiconv",
+  "github": {
+    "owner": "LuaDist",
+    "project": "libiconv"
+  },
+  "versions": {
+    "1.14.0": {
+      "url": "git@github.com:LuaDist/libiconv.git#dc34c160dce46377e1c5d88b70cadf4508f0ff6a",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libiconv-1/6e0c88c1fe51f104a885842067aa9a96be3c5f03/BUCK"
+      }
+    }
+  }
+}
