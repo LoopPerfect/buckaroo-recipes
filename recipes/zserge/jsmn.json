@@ -1,0 +1,17 @@
+{
+  "name": "jsmn",
+  "license": "MIT",
+  "url": "https://github.com/zserge/jsmn",
+  "github": {
+    "owner": "zserge",
+    "project": "jsmn"
+  },
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:zserge/jsmn.git#1682c32e9ae5990ddd0f0e907270a0f6dde5cbe9",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/jsmn/0c643f891dd6eb49d1b73c1b8a7df2ee6fbd2db1/BUCK"
+      }
+    }
+  }
+}
