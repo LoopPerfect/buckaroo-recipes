@@ -1,0 +1,20 @@
+{
+  "name": "mstch",
+  "license": "MIT",
+  "url": "https://github.com/no1msd/mstch",
+  "github": {
+    "owner": "no1msd",
+    "project": "mstch"
+  },
+  "versions": {
+    "1.0.1": {
+      "url": "git@github.com:no1msd/mstch.git#ff459067bd02e80dc399006bb610238223d41c50",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/mstch/5fe942d7d260cc55d7f3e068eb30dc3ced01ecd6/BUCK"
+      },
+      "dependencies": {
+        "boost/variant": "1.63.0"
+      }
+    }
+  }
+}

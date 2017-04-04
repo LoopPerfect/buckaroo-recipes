@@ -1,0 +1,17 @@
+{
+  "name": "libzzip",
+  "license": "LGPL-2.1",
+  "url": "http://zziplib.sf.net/",
+  "github": {
+    "owner": "LuaDist",
+    "project": "libzzip"
+  },
+  "versions": {
+    "0.13.58": {
+      "url": "git@github.com:LuaDist/libzzip.git#b3ee8657551e3b25d12ff494fe67f84e3cb25e34",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libzzip/b42871440582baf74fa1a62e19a3eeeb030fed28/BUCK"
+      }
+    }
+  }
+}

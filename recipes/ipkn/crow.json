@@ -1,0 +1,21 @@
+{
+  "name": "crow",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/ipkn/crow",
+  "github": {
+    "owner": "ipkn",
+    "project": "crow"
+  },
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:ipkn/crow.git#4e39b23e455e455f1878b3e68d729a1737f3e431",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/crow/a3fc5fa63107d422157a20d2de3b827c66099c70/BUCK"
+      },
+      "dependencies": {
+        "boost/algorithm": "1.63.0",
+        "boost/asio": "1.63.0"
+      }
+    }
+  }
+}

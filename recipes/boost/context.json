@@ -1,0 +1,22 @@
+{
+  "name": "context",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/context",
+  "github": {
+    "owner": "boostorg",
+    "project": "context"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/context.git#7b74a799e22d7046fd68da360adec84617346918",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/context/d3ab92c116c42071fea735e7e0bb2456d787c558/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/thread": "1.63.0"
+      }
+    }
+  }
+}

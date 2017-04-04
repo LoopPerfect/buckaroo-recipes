@@ -1,0 +1,17 @@
+{
+  "name": "fplutil",
+  "license": "Apache-2.0",
+  "url": "http://google.github.io/fplutil",
+  "gihub": {
+    "owner": "google",
+    "project": "fplutil"
+  },
+  "versions": {
+    "1.1.0": {
+      "url": "git@github.com:google/fplutil.git#85707ff7a9f25086872995aef025b666fea120de",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fplutil/24b4b80e8d33fe81fc22554844d9b36eee009dc4/BUCK"
+      }
+    }
+  }
+}

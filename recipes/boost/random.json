@@ -1,0 +1,24 @@
+{
+  "name": "random",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/random",
+  "github": {
+    "owner": "boostorg",
+    "project": "random"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/random.git#cc09e26dd4dde6b8800b79805dfb978e35cfafc9",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/random/7a398f6dd1f76fc5021306d939d045a396bcab9c/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/system": "1.63.0"
+      }
+    }
+  }
+}

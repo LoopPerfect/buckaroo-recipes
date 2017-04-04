@@ -1,0 +1,20 @@
+{
+  "name": "juce-audio-formats",
+  "license": "GPL, Commercial",
+  "url": "https://www.juce.com/",
+  "github": {
+    "owner": "julianstorer",
+    "project": "JUCE"
+  },
+  "versions": {
+    "4.3.1": {
+      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/f12225fa0238c8e986096243d6e625da8a115154/BUCK"
+      },
+      "dependencies": {
+        "juce/juce-audio-basics": "4.3.1"
+      }
+    }
+  }
+}

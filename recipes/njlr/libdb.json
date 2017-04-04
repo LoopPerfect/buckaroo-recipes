@@ -1,0 +1,14 @@
+{
+  "name": "libdb",
+  "license": "GPL-1.0",
+  "url": "https://github.com/njlr/libdb",
+  "github": {
+    "owner": "njlr",
+    "project": "libdb"
+  },
+  "versions": {
+    "5.3.21": {
+      "url": "git@github.com:njlr/libdb.git#577e9743d43396e73b91802344f6ea0bf302e8a8"
+    }
+  }
+}

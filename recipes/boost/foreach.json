@@ -1,0 +1,24 @@
+{
+  "name": "foreach",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/foreach",
+  "github": "boostorg/foreach",
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/foreach.git#bbbfebed8e545724c20d4e4d971e7fb9219aae11",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/range": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/utility": "1.63.0"
+      }
+    }
+  }
+}

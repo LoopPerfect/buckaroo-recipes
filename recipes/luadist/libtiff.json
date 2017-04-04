@@ -1,0 +1,21 @@
+{
+  "name": "libtiff",
+  "license": "",
+  "url": "http://www.libtiff.org/",
+  "github": {
+    "owner": "LuaDist",
+    "project": "libtiff"
+  },
+  "versions": {
+    "3.8.2": {
+      "url": "git@github.com:LuaDist/libtiff.git#4e2b4643b0ab6a00802d5633dff3e59e09f0b144",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libtiff-1/53cf85eb19539f3694b9285ad2f45efdfb2f7ee0/BUCK"
+      },
+      "dependencies": {
+        "ijg/libjpeg": "9.1.0",
+        "madler/zlib": "1.2.11"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "throw-exception",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/throw_exception",
+  "github": {
+    "owner": "boostorg",
+    "project": "throw_exception"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/throw_exception.git#c548923b32735fcbc6cdf34c8e9b382d58b4b407",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/throw_exception/95e0f22e807bc1d4b44c816fbac816d88d583094/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/exception": "1.63.0",
+        "boost/utility": "1.63.0"
+      }
+    }
+  }
+}

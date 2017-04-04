@@ -1,0 +1,20 @@
+{
+  "name": "libpng",
+  "license": "Libpng",
+  "url": "http://libpng.sf.net/",
+  "github": {
+    "owner": "glennrp",
+    "project": "libpng"
+  },
+  "versions": {
+    "1.2.57": {
+      "url": "git@github.com:glennrp/libpng.git#1f0a5824a8437af268ceee17107984d55d0be439",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libpng/9dfb3a2b4faf40eae670035e6c65c4a9ce9396bf/BUCK"
+      },
+      "dependencies": {
+        "madler/zlib": "1.2.11"
+      }
+    }
+  }
+}

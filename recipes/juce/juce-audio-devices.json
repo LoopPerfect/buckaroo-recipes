@@ -1,0 +1,21 @@
+{
+  "name": "juce-audio-devices",
+  "license": "ISC",
+  "url": "https://www.juce.com/",
+  "github": {
+    "owner": "julianstorer",
+    "project": "JUCE"
+  },
+  "versions": {
+    "4.3.1": {
+      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/b59477c3e0c8d460609c9e51b27df47de8ee5439/BUCK"
+      },
+      "dependencies": {
+        "juce/juce-audio-basics": "4.3.1",
+        "juce/juce-events": "4.3.1"
+      }
+    }
+  }
+}

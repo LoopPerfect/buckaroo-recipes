@@ -1,0 +1,21 @@
+{
+  "name": "interprocess",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/interprocess",
+  "github": {
+    "owner": "boostorg",
+    "project": "interprocess"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/interprocess.git#033e5ce0379e343f657050ff3a16e1a219df4fca",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/date-time": "1.63.0"
+      }
+    }
+  }
+}

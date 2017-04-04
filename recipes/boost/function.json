@@ -1,0 +1,30 @@
+{
+  "name": "function",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/function",
+  "github": {
+    "owner": "boostorg",
+    "project": "function"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/function.git#6976d15f744283659a15bdeafa4a3284103d82bb",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/function/6837b8d705bfb7b4ed068749d192f3bde423f5b3/BUCK"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/bind": "1.63.0",
+        "boost/typeof": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/integer": "1.63.0",
+        "boost/type-index": "1.63.0",
+        "boost/core": "1.63.0"
+      }
+    }
+  }
+}

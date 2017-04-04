@@ -1,0 +1,23 @@
+{
+  "name": "fmt",
+  "license": "BSD-2-Clause",
+  "url": "http://fmtlib.net/",
+  "github": {
+    "owner": "fmtlib",
+    "project": "fmt"
+  },
+  "versions": {
+    "3.0.1": {
+      "url": "git@github.com:fmtlib/fmt.git#7fa8f8fa48b0903deab5bb42e6760477173ac485",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fmt/efc3ef51b7a67b88935478d82414c842ce861b89/BUCK"
+      }
+    },
+    "2.1.1": {
+      "url": "git@github.com:fmtlib/fmt.git#ed5a862375e2f7244d4b6f78f67d53d8621525e6",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fmt/efc3ef51b7a67b88935478d82414c842ce861b89/BUCK"
+      }
+    }
+  }
+}

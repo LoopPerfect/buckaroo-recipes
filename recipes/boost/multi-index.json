@@ -1,0 +1,37 @@
+{
+  "name": "multi-index",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/multi_index",
+  "github": {
+    "owner": "boostorg",
+    "project": "multi_index"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/multi_index.git#0a0e7284c7a75ab4513f8558d5388ea9724bbb0a",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multi_index/42ea410be6d30b0f709f9490ad181e57e3a09138/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/move": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/functional": "1.63.0",
+        "boost/serialization": "1.63.0",
+        "boost/tuple": "1.63.0",
+        "boost/bind": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/foreach": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/integer": "1.63.0"
+      }
+    }
+  }
+}

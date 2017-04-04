@@ -1,0 +1,25 @@
+{
+  "name": "program-options",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/program_options",
+  "github": {
+    "owner": "boostorg",
+    "project": "program_options"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/program_options.git#abbb5c12a62f2211e645755ed9c4b65e1c1552d8",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/program_options/cbc85e0426f8d44b6466ad0b789611c91604acb8/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/any": "1.63.0",
+        "boost/function": "1.63.0",
+        "boost/lexical-cast": "1.63.0",
+        "boost/math": "1.63.0",
+        "boost/tokenizer": "1.63.0"
+      }
+    }
+  }
+}

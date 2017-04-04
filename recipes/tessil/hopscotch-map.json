@@ -1,0 +1,17 @@
+{
+  "name": "hopscotch-map",
+  "license": "MIT",
+  "url": "https://github.com/Tessil/hopscotch-map",
+  "github": {
+    "owner": "tessil",
+    "project": "hopscotch-map"
+  },
+  "versions": {
+    "1.3.0": {
+      "url": "git@github.com:Tessil/hopscotch-map.git#fd765fb6bd3349604975408953bac5fd1c7d7709",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/hopscotch-map/4c4618698ed2858110b9905ce57398fc8d818667/BUCK"
+      }
+    }
+  }
+}

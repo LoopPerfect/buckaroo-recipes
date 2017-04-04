@@ -1,0 +1,22 @@
+{
+  "name": "netssl-openssl",
+  "license": "BSL-1.0",
+  "url": "https://pocoproject.org/",
+  "github": {
+    "owner": "pocoproject",
+    "project": "poco"
+  },
+  "versions": {
+    "1.7.8": {
+      "url": "git@github.com:pocoproject/poco.git#4403634bef7990ff0dff9f12a12a03b4d32006b6",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/poco/49baa5f634353693c9ebcfb0114a5b25aa9c3550/BUCK"
+      },
+      "dependencies": {
+        "pocoproject/net": "1.7.8",
+        "pocoproject/crypto": "1.7.8",
+        "pocoproject/util": "1.7.8"
+      }
+    }
+  }
+}

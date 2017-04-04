@@ -1,0 +1,17 @@
+{
+  "name": "libqrencode",
+  "license": "LGPL-2.1",
+  "url": "http://fukuchi.org/works/qrencode/",
+  "github": {
+    "owner": "fukuchi",
+    "project": "libqrencode"
+  },
+  "versions": {
+    "3.4.4": {
+      "url": "git@github.com:fukuchi/libqrencode.git#8d4585d98b723de7e74762d1a78989a29c829fd9",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libqrencode/fdac40e603861d8e1181f5e6fd8fce5132657342/BUCK"
+      }
+    }
+  }
+}

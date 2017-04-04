@@ -1,0 +1,17 @@
+{
+  "name": "libsoundio",
+  "license": "MIT",
+  "url": "http://libsound.io/",
+  "github": {
+    "owner": "andrewrk",
+    "project": "libsoundio"
+  },
+  "versions": {
+    "1.1.0": {
+      "url": "git@github.com:andrewrk/libsoundio.git#85d6d9d254dd2838d3348341614c632bca1ece89",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libsoundio/83107b2e7c64a19bcecafdc33eeccbf4a55618cb/BUCK"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "locale",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/locale",
+  "github": {
+    "owner": "boostorg",
+    "project": "locale"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/locale.git#7cfa65b2b8114afe44c7a950553620133cd5df15",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/locale/d09dfa73e0a9a3fb329b4cbf005aa9118f7ac6b9/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/thread": "1.63.0",
+        "icu/icu4c": "58.2.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "integer",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/integer",
+  "github": {
+    "owner": "boostorg",
+    "project": "integer"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/integer.git#0d964fe6fc65dcbd4772f3a3e5a299f5a320989f",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/integer/a6100a18450214c3244efa24037b6bcf59a6271c/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/detail": "1.63.0"
+      }
+    }
+  }
+}

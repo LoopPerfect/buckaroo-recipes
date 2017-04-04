@@ -1,0 +1,27 @@
+{
+  "name": "filesystem",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/filesystem",
+  "github": {
+    "owner": "boostorg",
+    "project": "filesystem"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/filesystem.git#559188c951e9912b4174a3c63a04e7ba03fa318e",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/filesystem/14ece55bba8a2b4c9413fcc679889d4bf41dafc2/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/system": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/smart-ptr": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/io": "1.63.0",
+        "boost/functional": "1.63.0",
+        "boost/range": "1.63.0"
+      }
+    }
+  }
+}

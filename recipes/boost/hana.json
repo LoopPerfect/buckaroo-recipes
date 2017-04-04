@@ -1,0 +1,24 @@
+{
+  "name": "hana",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/hana",
+  "github": {
+    "owner": "boostorg",
+    "project": "hana"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/hana.git#7a3e0480d442c393ed7bcc1ca72a3e1821319ff0",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/hana/81d75a2c22e9ba083a9d58d108fafacead76d1d2/BUCK"
+      },
+      "dependencies": {
+        "boost/core": "1.63.0",
+        "boost/fusion": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/tuple": "1.63.0"
+      }
+    }
+  }
+}

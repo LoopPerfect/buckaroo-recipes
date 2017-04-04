@@ -1,0 +1,17 @@
+{
+  "name": "btsk",
+  "license": "Zlib",
+  "url": "https://github.com/aigamedev/btsk",
+  "github": {
+    "owner": "aigamedev",
+    "project": "btsk"
+  },
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:aigamedev/btsk.git#8124c3e73719a05638a053782a749d039ae7cedf",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/btsk/efa56629fa9450619d2411e72c2f326433c86255/BUCK"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "enet",
+  "license": "MIT",
+  "url": "http://enet.bespin.org/",
+  "github": {
+    "owner": "lsalzman",
+    "project": "enet"
+  },
+  "versions": {
+    "1.3.13": {
+      "url": "git@github.com:lsalzman/enet.git#f46fee0acc8e243b2b6910b09693f93c3aad775f",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/enet/e67031c1a009b6ac9afc6646c57e4a1f902175a0/BUCK"
+      }
+    }
+  }
+}

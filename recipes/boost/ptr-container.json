@@ -1,0 +1,33 @@
+{
+  "name": "ptr-container",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/ptr_container",
+  "github": {
+    "owner": "boostorg",
+    "project": "ptr_container"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/ptr_container.git#b95caec2762fd9835fd6ffb4e477e9cd5d5c4d87",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ptr_container/6addeb4e144904c4ae812d636ca6a555f4a4dc36/BUCK"
+      },
+      "dependencies": {
+        "boost/assert": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/unordered": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/range": "1.63.0",
+        "boost/serialization": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/smart-ptr": "1.63.0",
+        "boost/array": "1.63.0",
+        "boost/circular-buffer": "1.63.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "tuple",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/tuple",
+  "github": {
+    "owner": "boostorg",
+    "project": "tuple"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/tuple.git#d77e569c899f7eb3d1f255889e739d586ba5900f",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tuple/8e6ecf024bd47350706bae1a0932f92a1434e650/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/detail": "1.63.0"
+      }
+    }
+  }
+}

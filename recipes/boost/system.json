@@ -1,0 +1,23 @@
+{
+  "name": "system",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/system",
+  "github": {
+    "owner": "boostorg",
+    "project": "system"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/system.git#e5da5ce2cfef69630687434b292507af9fda83d9",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/system/977ede6f3656c22ecbe95e07654557fd78e3f7f8/BUCK"
+      },
+      "dependencies": {
+        "boost/predef": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/core": "1.63.0"
+      }
+    }
+  }
+}

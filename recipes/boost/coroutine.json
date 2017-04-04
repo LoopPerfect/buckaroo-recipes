@@ -1,0 +1,23 @@
+{
+  "name": "coroutine",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/coroutine",
+  "github": {
+    "owner": "boostorg",
+    "project": "coroutine"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/coroutine.git#56f0c8ae9f582da17764eb215d739903a615e5ef",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine/80d77f400138ea8d0aa9f9a3bc700c9f2326abae/BUCK"
+      },
+      "dependencies": {
+        "boost/assert": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/context": "1.63.0"
+      }
+    }
+  }
+}

@@ -1,13 +1,5 @@
 {
   "name": "lmdb",
-  "license": "OLDAP-1.3",
-  "url": "https://github.com/LMDB/lmdb", 
-  "versions": {
-    "0.9.19": {
-      "url": "git@github.com:LMDB/lmdb.git#14cff072ec29f48093a9d40cc79934cf5376af4a", 
-      "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/lmdb/3e168897cbff71387516a947af2c185e5bfb1383/BUCK"
-      }
-    }
-  }
+  "url": "https://symas.com/mdb/",
+  "github": "lmdb"
 }

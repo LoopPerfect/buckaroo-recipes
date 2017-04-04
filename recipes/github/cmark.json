@@ -1,0 +1,17 @@
+{
+  "name": "cmark",
+  "license": "BSD-2-Clause",
+  "url": "https://github.com/github/cmark",
+  "github": {
+    "owner": "github",
+    "project": "cmark"
+  },
+  "versions": {
+    "0.27.1": {
+      "url": "git@github.com:github/cmark.git#4d2f310fe6d27edcee81e54b59f3b381c2a7c43a",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/cmark/b75cadbd5d28ba75f38cbbaca2db2d6c4b2a561d/BUCK"
+      }
+    }
+  }
+}

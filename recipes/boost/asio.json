@@ -1,0 +1,27 @@
+{
+  "name": "asio",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/asio",
+  "github": {
+    "owner": "boostorg",
+    "project": "asio"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/asio.git#4fcaabffebfa4c46632e0143b83a6954b0cedb48",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK"
+      },
+      "dependencies": {
+        "boost/date-time": "1.63.0",
+        "boost/system": "1.63.0",
+        "boost/coroutine": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/function": "1.63.0",
+        "boost/bind": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/regex": "1.63.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "fatal",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/facebook/fatal",
+  "github": {
+    "owner": "facebook",
+    "project": "fatal"
+  },
+  "versions": {
+    "0.2.0": {
+      "url": "git@github.com:facebook/fatal.git#17e882f50009ea5839cba20255515b2de1770406",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fatal/093e4fafe623a8042954c7a37da2d9acaa277f00/BUCK"
+      }
+    }
+  }
+}

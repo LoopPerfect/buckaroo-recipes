@@ -1,0 +1,30 @@
+{
+  "name": "multi-array",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/multi_array",
+  "github": {
+    "owner": "boostorg",
+    "project": "multi_array"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/multi_array.git#d259f853b5bfd90fec2b0d1a4367c62a6e1b4d02",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multi_array/885939ddfbd3dc208a2e829ae0805edc131e25b6/BUCK"
+      },
+      "dependencies": {
+        "boost/array": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/concept-check": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/functional": "1.63.0"
+      }
+    }
+  }
+}

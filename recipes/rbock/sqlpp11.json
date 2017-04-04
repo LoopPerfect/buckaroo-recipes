@@ -1,0 +1,20 @@
+{
+  "name": "sqlpp11",
+  "license": "BSD-2-Clause",
+  "url": "https://github.com/rbock/sqlpp11/wiki",
+  "github": {
+    "owner": "rbock",
+    "project": "sqlpp11"
+  },
+  "versions": {
+    "0.45.0": {
+      "url": "git@github.com:rbock/sqlpp11.git#4d22202fe5f40a849f325d9da31fadaabe66fee4",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/sqlpp11/7824273560ce33369b612eb44c0ea0236f3aba3b/BUCK"
+      },
+      "dependencies": {
+        "howardhinnant/date": "2.1.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "juce-opengl",
+  "license": "GPL, Commercial",
+  "url": "https://www.juce.com/",
+  "github": {
+    "owner": "julianstorer",
+    "project": "JUCE"
+  },
+  "versions": {
+    "4.3.1": {
+      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/8dc2b6032d1a327ef4bd72313689b0589a143795/BUCK"
+      },
+      "dependencies": {
+        "juce/juce-gui-extra": "4.3.1"
+      }
+    }
+  }
+}

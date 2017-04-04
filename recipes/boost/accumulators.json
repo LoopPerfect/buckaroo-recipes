@@ -1,0 +1,40 @@
+{
+  "name": "accumulators",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/accumulators",
+  "github": {
+    "owner": "boostorg",
+    "project": "accumulators"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/accumulators.git#d022c85123683138ebec9149f0dc9aec6f3839cf",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/parameter": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/typeof": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/range": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/numeric-conversion": "1.63.0",
+        "boost/tuple": "1.63.0",
+        "boost/array": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/detail": "1.63.0",
+        "boost/circular-buffer": "1.63.0",
+        "boost/concept-check": "1.63.0",
+        "boost/fusion": "1.63.0",
+        "boost/bind": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/ublas": "1.63.0"
+      }
+    }
+  }
+}

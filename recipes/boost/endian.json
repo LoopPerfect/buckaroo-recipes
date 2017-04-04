@@ -1,0 +1,27 @@
+{
+  "name": "endian",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/endian",
+  "github": {
+    "owner": "boostorg",
+    "project": "endian"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/endian.git#2db73ab893a61b74e73c0c644c2819241beef95a",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/predef": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/integer": "1.63.0",
+        "boost/system": "1.63.0",
+        "boost/utility": "1.63.0"
+      }
+    }
+  }
+}

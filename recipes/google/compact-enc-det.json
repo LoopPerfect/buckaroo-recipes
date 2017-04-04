@@ -1,0 +1,17 @@
+{
+  "name": "compact-enc-det",
+  "license": "Apache-2.0",
+  "url": "https://github.com/google/compact_enc_det",
+  "github": {
+    "owner": "google",
+    "project": "compact_enc_det"
+  },
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:google/compact_enc_det.git#e21eb6aed10b9f6e2727f136c52420033214d458",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/compact_enc_det/17f0024b870876396955059c640f21c72ba15863/BUCK"
+      }
+    }
+  }
+}

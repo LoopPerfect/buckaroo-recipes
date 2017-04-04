@@ -1,0 +1,20 @@
+{
+  "name": "juce-tracktion-marketplace",
+  "license": "GPL, Commercial",
+  "url": "https://www.juce.com/",
+  "github": {
+    "owner": "julianstorer",
+    "project": "JUCE"
+  },
+  "versions": {
+    "4.3.1": {
+      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/b8dcc655d189cc8a360a7c80370cffbefc4b949c/BUCK"
+      },
+      "dependencies": {
+        "juce/juce-cryptography": "4.3.1"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "mongodb",
+  "license": "BSL-1.0",
+  "url": "https://pocoproject.org/",
+  "github": {
+    "owner": "pocoproject",
+    "project": "poco"
+  },
+  "versions": {
+    "1.7.8": {
+      "url": "git@github.com:pocoproject/poco.git#4403634bef7990ff0dff9f12a12a03b4d32006b6",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/poco/bd2d27a42c31b32402c9c9bd8e283ef26ed67d73/BUCK"
+      },
+      "dependencies": {
+        "pocoproject/net": "1.7.8"
+      }
+    }
+  }
+}

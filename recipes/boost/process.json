@@ -1,0 +1,33 @@
+{
+  "name": "process",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/process",
+  "github": {
+    "owner": "boostorg",
+    "project": "process"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/process.git#cf2a196d40770ac5b52e7a09f86a9e82d48f2480",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/process/7c1b74da43ac3472d0a19af0a8a40bf0398c4404/BUCK"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/system": "1.63.0",
+        "boost/fusion": "1.63.0",
+        "boost/winapi": "1.63.0",
+        "boost/optional": "1.63.0",
+        "boost/algorithm": "1.63.0",
+        "boost/filesystem": "1.63.0",
+        "boost/tokenizer": "1.63.0",
+        "boost/move": "1.63.0",
+        "boost/core": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/type-index": "1.63.0",
+        "boost/asio": "1.63.0",
+        "boost/detail": "1.63.0"
+      }
+    }
+  }
+}

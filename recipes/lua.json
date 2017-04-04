@@ -1,20 +1,5 @@
 {
   "name": "lua",
-  "license": "MIT",
   "url": "https://www.lua.org/",
-  "github": "lua/lua",
-  "versions": {
-    "5.3.4": {
-      "url": "git@github.com:lua/lua.git#e354c6355e7f48e087678ec49e340ca0696725b1",
-      "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/lua/2c563ff4520388984137ae15a342c078abbd42a0/BUCK"
-      }
-    },
-    "5.1.0": {
-      "url": "git@github.com:lua/lua.git#69ea087dff1daba25a2000dfb8f1883c17545b7a",
-      "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/lua/2c563ff4520388984137ae15a342c078abbd42a0/BUCK"
-      }
-    }
-  }
+  "github": "lua"
 }

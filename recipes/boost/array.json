@@ -1,0 +1,25 @@
+{
+  "name": "array",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/array",
+  "github": {
+    "owner": "boostorg",
+    "project": "array"
+  },
+  "versions": {
+    "1.63.0": {
+      "url": "git@github.com:boostorg/array.git#4c27456a439e6d89336dee32938087907e74bc4f",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/array/7fe5a7868ebaf40bf851ba6d917c2280eb1e3891/BUCK"
+      },
+      "dependencies": {
+        "boost/assert": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/static-assert": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/functional": "1.63.0"
+      }
+    }
+  }
+}

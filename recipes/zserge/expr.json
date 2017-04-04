@@ -1,0 +1,17 @@
+{
+  "name": "expr",
+  "license": "MIT",
+  "url": "https://github.com/zserge/expr",
+  "github": {
+    "owner": "zserge",
+    "project": "expr"
+  },
+  "versions": {
+    "0.0.1": {
+      "url": "git@github.com:zserge/expr.git#9746a0f2e67ea9787552b74b17e8ccdf3639a400",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/expr/dfd81a1cc21c936971a1c1be4f4493403af59f70/BUCK"
+      }
+    }
+  }
+}
