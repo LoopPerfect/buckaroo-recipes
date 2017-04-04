@@ -1,0 +1,17 @@
+{
+  "name": "plog",
+  "license": "MPL-2.0",
+  "url": "https://github.com/SergiusTheBest/plog",
+  "github": {
+    "owner": "SergiusTheBest",
+    "project": "plog"
+  },
+  "versions": {
+    "1.1.0": {
+      "url": "git@github.com:SergiusTheBest/plog.git#41e300110575df470cf211458870b3541272bad8",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/sparsehash/c8de39d3063fb22fb4c2c3f8f5eab077383ad160/BUCK"
+      }
+    }
+  }
+}
