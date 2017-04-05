@@ -8,9 +8,14 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/math.git#0b1d59cc128bfaa6da39561b8388dec58e408cc1",
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/boost-1.63.0.zip",
+        "sha256": "9be6e913aab1a9ed3f4d6361911aff8b9e52a9cbb12c19f1ea79e9252b97b011",
+        "subPath": "math-boost-1.63.0"
+      },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "af250bca3aeeffafacf9888598147555ec1960886e3b411a08087136bf38f5b7"
       },
       "dependencies": {
         "boost/config": "1.63.0",
