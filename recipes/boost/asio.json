@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/asio.git#4fcaabffebfa4c46632e0143b83a6954b0cedb48",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
       },
       "dependencies": {
         "boost/date-time": "1.63.0",

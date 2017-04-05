@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/signals.git#613b2a55b602501bf6dfe3da8fb2218e1ffc2862",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/signals/86cb56f38b358c1d684606b7c66488b8ec83ba2a/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/signals/86cb56f38b358c1d684606b7c66488b8ec83ba2a/BUCK",
+        "sha256": "9cf8a2490d5933f74b04e8ea57023e8d3fea3e3a92df7b7e58bf3bdaeb8e7dc8"
       },
       "dependencies": {
         "boost/type-traits": "1.63.0",

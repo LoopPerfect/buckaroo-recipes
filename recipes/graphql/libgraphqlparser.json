@@ -10,7 +10,8 @@
     "0.6.0": {
       "source": "git@github.com:graphql/libgraphqlparser.git#ea529629f46bd992a4e1b790ab2e1e00a0ff700e",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/libgraphqlparser/e3e7565b779a45828d04df396860d959323e60a3/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/libgraphqlparser/e3e7565b779a45828d04df396860d959323e60a3/BUCK",
+        "sha256": "0a40ae6b556de07017968f232cf3abe52fcec970bc626b335a4b49cc561b3ff6"
       }
     }
   }

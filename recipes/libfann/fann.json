@@ -10,7 +10,8 @@
     "2.2.0": {
       "source": "git@github.com:libfann/fann.git#f9158258a66a5515d291cf18e5b9a109f5007507",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/fann/35f98df2bc5677ca141f2af667d3ef368634698d/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/fann/35f98df2bc5677ca141f2af667d3ef368634698d/BUCK",
+        "sha256": "39d9973fdeec1673dac4f57faaaef514986d2ee20fca938282af5f5f7f8c83c7"
       }
     }
   }

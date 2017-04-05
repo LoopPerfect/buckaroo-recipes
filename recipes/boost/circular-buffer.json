@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/circular_buffer.git#0b9a59f2707ddadc113effa0bedfd36c1a8f78a0",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/circular_buffer/40bc04649125f8e5ad64c77f03fd3e21f368390d/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/circular_buffer/40bc04649125f8e5ad64c77f03fd3e21f368390d/BUCK",
+        "sha256": "18cb4a9246e5d1bc0ff4af1ef118f3a79c230ff4a106e4128560ce0c1649e23c"
       },
       "dependencies": {
         "boost/assert": "1.63.0",

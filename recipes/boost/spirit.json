@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/spirit.git#1e2054aab4856f652e722d1bfc2465d935d4b39c",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/spirit/945f94164ac2aaa2d89ee43da3d07e8a93322140/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/spirit/945f94164ac2aaa2d89ee43da3d07e8a93322140/BUCK",
+        "sha256": "612699e6bf683651fb196cb6f155a567fbbccba0f3275d4b93fedd6e3f23012a"
       },
       "dependencies": {
         "boost/config": "1.63.0",

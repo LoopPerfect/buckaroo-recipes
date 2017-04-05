@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": "git@github.com:torch/th.git#9e325f9358170c01a1745310d27c4e8d9e81fc54",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/TH/c7053814ddf7099dd30aadc6b62a0de7fb063905/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/TH/c7053814ddf7099dd30aadc6b62a0de7fb063905/BUCK",
+        "sha256": "dbf0d6a7e13eb69520289144f4cebc3ee5391aaa7eeb70d4d3e7b12da8a2ba1d"
       }
     }
   }

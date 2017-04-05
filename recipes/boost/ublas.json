@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/ublas.git#e8607b3eea238e590eca93bfe498c21f470155c1",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
       },
       "dependencies": {
         "boost/concept-check": "1.63.0",

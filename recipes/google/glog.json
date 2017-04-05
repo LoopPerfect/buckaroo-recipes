@@ -10,7 +10,8 @@
     "0.3.4": {
       "source": "git@github.com:google/glog.git#d8cb47f77d1c31779f3ff890e1a5748483778d6a",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/glog/2659be62d68bf23ceae0a9936070c1316539a64c/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/glog/2659be62d68bf23ceae0a9936070c1316539a64c/BUCK",
+        "sha256": "b844b652191f10e707b3722ed73a11cd3c04e7359d68f4edf736dcbdfacd00f9"
       }
     }
   }

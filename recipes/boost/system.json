@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/system.git#e5da5ce2cfef69630687434b292507af9fda83d9",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/system/977ede6f3656c22ecbe95e07654557fd78e3f7f8/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/system/977ede6f3656c22ecbe95e07654557fd78e3f7f8/BUCK",
+        "sha256": "0f73140e707952d4f0c792dbf35b18e65c72260dac4b767a03708d860980bd1b"
       },
       "dependencies": {
         "boost/predef": "1.63.0",

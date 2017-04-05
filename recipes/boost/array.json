@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/array.git#4c27456a439e6d89336dee32938087907e74bc4f",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/array/7fe5a7868ebaf40bf851ba6d917c2280eb1e3891/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/array/7fe5a7868ebaf40bf851ba6d917c2280eb1e3891/BUCK",
+        "sha256": "1ee4f898b2660ed40d16ea51e5e51fba2b7cb2b25ac635cb8f2bbe05533199fc"
       },
       "dependencies": {
         "boost/assert": "1.63.0",

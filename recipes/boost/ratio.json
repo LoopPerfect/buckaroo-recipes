@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/ratio.git#ee45b0666f89e2703d8496d243c297082bfc668c",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/ratio/6c2432bf838a0eb9616b5275ed6eae1391710055/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/ratio/6c2432bf838a0eb9616b5275ed6eae1391710055/BUCK",
+        "sha256": "06dcd6bc01b733dcd754084d0d34eb5df5dceb8d16c5985ef1b057c495c655b9"
       },
       "dependencies": {
         "boost/mpl": "1.63.0",

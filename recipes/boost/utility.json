@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/utility.git#9ae6492af96eabe0df1b09d6ad5ee9128a434d46",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/utility/e2ca9d0057da67db5b47bbb48af14724ab178322/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/utility/e2ca9d0057da67db5b47bbb48af14724ab178322/BUCK",
+        "sha256": "1ad52acbdc2a26e8a775c4081a5b07fd8ee4cdbed92abda30adbf710d6e84820"
       }
     }
   }

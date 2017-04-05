@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/range.git#56d470635de63862856b27be36dbf2eb9d75b043",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/range/bf89d6ba9871d38e61d4ea990672588511fe9014/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/range/bf89d6ba9871d38e61d4ea990672588511fe9014/BUCK",
+        "sha256": "0f04ecd39728b507657d72f26876765bfd872f012a055dd5da232fbeeb4109a9"
       },
       "dependencies": {
         "boost/config": "1.63.0",

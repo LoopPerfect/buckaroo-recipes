@@ -10,7 +10,8 @@
     "1.0.0": {
       "source": "git@github.com:dropbox/json11.git#0e409dca350048406767e90dd16841d09df13807",
       "buck": {
-        "url": "https://raw.githubusercontent.com/nikhedonia/json11/20e2ba8b3d5911d19a7ad03980d896b830e2dd97/BUCK"
+        "url": "https://raw.githubusercontent.com/nikhedonia/json11/20e2ba8b3d5911d19a7ad03980d896b830e2dd97/BUCK",
+        "sha256": "d4e42e9c5b537beb2ba992e4f88ac05d0ba44708337692e5f5191a36a125b7d8"
       }
     }
   }

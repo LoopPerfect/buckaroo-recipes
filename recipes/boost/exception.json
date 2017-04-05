@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/exception.git#da0f861b05111423397f97ae1c285096f17ad584",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/exception/a832ebc6c14389f460eaf2a8e974410a79b34d5b/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/exception/a832ebc6c14389f460eaf2a8e974410a79b34d5b/BUCK",
+        "sha256": "86134dbfbe70626fdeb2a652877d958ab1c4bb2dc985d826dc934d55bfa6b56d"
       },
       "dependencies": {
         "boost/config": "1.63.0",

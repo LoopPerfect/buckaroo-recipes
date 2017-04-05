@@ -10,7 +10,8 @@
     "1.9.1": {
       "source": "git@github.com:lballabio/QuantLib.git#16d064a304db5f0a7dafec2c20633d6c1d602932",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/QuantLib/b47b3e81cf81b9658af31486c0ad390622fb6912/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/QuantLib/b47b3e81cf81b9658af31486c0ad390622fb6912/BUCK",
+        "sha256": "03d704102f9f864ab2cac5b7272d5327ec1ff2338d04e03b108c7aaa7e5ac596"
       },
       "dependencies": {
         "boost/config": "1.63.0",

@@ -10,7 +10,8 @@
     "1.7.8": {
       "source": "git@github.com:pocoproject/poco.git#4403634bef7990ff0dff9f12a12a03b4d32006b6",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/poco/5ec040b1fbd55ec9dc1f3e50f652ceecc47d1390/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/poco/5ec040b1fbd55ec9dc1f3e50f652ceecc47d1390/BUCK",
+        "sha256": "55dba44566d19807b666e50dda5b26cf69e1073a93e7504aa896fef84fab3248"
       },
       "dependencies": {
         "pocoproject/foundation": "1.7.8",

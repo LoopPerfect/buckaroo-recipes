@@ -3,14 +3,15 @@
   "license": "BSL-1.0",
   "url": "http://boost.org/libs/iterator",
   "github": {
-    "owner": "boostorg", 
+    "owner": "boostorg",
     "project": "iterator"
   },
   "versions": {
     "1.63.0": {
       "source": "git@github.com:boostorg/iterator.git#f2d07f76b5fd9ebd43dd85f4bc548022da3a47c3",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
       },
       "dependencies": {
         "boost/fusion": "1.63.0",

@@ -7,7 +7,8 @@
     "4.9.0": {
       "source": "git@github.com:CGAL/cgal.git#4e50c9c138855075bb668cc3eceaa60bbbe05cdd",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/cgal/6f9ef73174d16be2bea6bd60375136ca63976ef9/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/cgal/6f9ef73174d16be2bea6bd60375136ca63976ef9/BUCK",
+        "sha256": "f6f213dc5ea3a730454acd2fe20ea7f2c5a9d9ce4cbb405726bb48a5027e928a"
       },
       "dependencies": {
         "boost/config": "1.63.0",

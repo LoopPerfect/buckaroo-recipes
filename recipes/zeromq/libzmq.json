@@ -10,7 +10,8 @@
     "4.2.2": {
       "source": "git@github.com:zeromq/libzmq.git#8d75d506b6f88265bc0fb57b93385b45e35cdd10",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/libzmq/6b8c50d72cc2b87e140553c4231146776a8172ba/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/libzmq/6b8c50d72cc2b87e140553c4231146776a8172ba/BUCK",
+        "sha256": "c48fb7015c4e0e9b207dcca19939cdd40bd0874612b0f011392f68d16d23b088"
       },
       "dependencies": {
         "jedisct1/libsodium": "1.0.11"

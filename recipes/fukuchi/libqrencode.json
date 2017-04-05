@@ -10,7 +10,8 @@
     "3.4.4": {
       "source": "git@github.com:fukuchi/libqrencode.git#8d4585d98b723de7e74762d1a78989a29c829fd9",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/libqrencode/fdac40e603861d8e1181f5e6fd8fce5132657342/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/libqrencode/fdac40e603861d8e1181f5e6fd8fce5132657342/BUCK",
+        "sha256": "278074922d073f6219c93ffec6a1c3d25ac7c5f1c64da41452fa8508191ae43c"
       }
     }
   }

@@ -10,7 +10,8 @@
     "2.0.0": {
       "source": "git@github.com:zeromq/zyre.git#ab263dac21250fc85fa8c7239973109eca2251a7",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/zyre/cf6e154c1dd24153509c0564655cced72335ae6b/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/zyre/cf6e154c1dd24153509c0564655cced72335ae6b/BUCK",
+        "sha256": "f8c2bf337c1b56515d6a529e350567466e9e80ea14b6a50d4361314c07ed2e9b"
       },
       "dependencies": {
         "zeromq/czmq": "4.0.2"

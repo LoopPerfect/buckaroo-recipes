@@ -10,7 +10,8 @@
     "0.5.3": {
       "source": "git@github.com:jbeder/yaml-cpp.git#b57efe94e7d445713c29f863adb8c23438eaa217",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/yaml-cpp/buck/0.5.3/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/yaml-cpp/buck/0.5.3/BUCK",
+        "sha256": "ebeeb7b4b81be888e5e394c9a27d2ca9b87d6f8620ca3bc4aec42d5fbd4f3910"
       },
       "dependencies": {
         "boost/smart-ptr": "1.63.0",

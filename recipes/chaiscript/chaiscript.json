@@ -10,7 +10,8 @@
     "6.0.0": {
       "source": "git@github.com:ChaiScript/ChaiScript.git#064a385a645c89c8b958b754f0d5e8399b9b6df9",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/ChaiScript/bd4a458c319dbc160d49e38afb4d7ad11ae65b41/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/ChaiScript/bd4a458c319dbc160d49e38afb4d7ad11ae65b41/BUCK",
+        "sha256": "3a7bb8a97d8ba93d964361ed8673aca40e4b0b03f816a81bdbd1d9d80acef8b6"
       }
     }
   }

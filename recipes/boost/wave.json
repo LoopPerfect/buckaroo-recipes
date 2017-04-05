@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/wave.git#1d9bdb7631f79e60cca07f7790457707f176bc23",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
       },
       "dependencies": {
         "boost/config": "1.63.0",

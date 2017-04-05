@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": "git@github.com:rsms/immutable-cpp.git#a4a32022d895dd0d3c03547a2b2a2b03face01eb",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/immutable-cpp/c400c872618a2a4c029571148ede5e40bdf57b10/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/immutable-cpp/c400c872618a2a4c029571148ede5e40bdf57b10/BUCK",
+        "sha256": "1f11e618793e7bd3b47ec82e5fba091b5e889b7561f012b23c59a7d11c37b607"
       }
     }
   }

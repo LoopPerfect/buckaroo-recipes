@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/coroutine.git#56f0c8ae9f582da17764eb215d739903a615e5ef",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/coroutine/80d77f400138ea8d0aa9f9a3bc700c9f2326abae/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/coroutine/80d77f400138ea8d0aa9f9a3bc700c9f2326abae/BUCK",
+        "sha256": "e0f89c72ac93d066d2ad389a3fdd608276683127f37f12853ab3e91914c2b155"
       },
       "dependencies": {
         "boost/assert": "1.63.0",

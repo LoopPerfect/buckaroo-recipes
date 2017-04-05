@@ -10,7 +10,8 @@
     "1.0.0": {
       "source": "git@github.com:google/guetzli.git#835cf275db1fbcc823c29767ae7e395abdb08375",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/guetzli/67c7a9b7db7963667b13e42d89520679150cd64e/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/guetzli/67c7a9b7db7963667b13e42d89520679150cd64e/BUCK",
+        "sha256": "2483aa1b9c072abb97c5524ccd68fd84b8978ee8af35fbdb021a086bfe71a973"
       }
     }
   }

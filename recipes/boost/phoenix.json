@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/phoenix.git#04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
       },
       "dependencies": {
         "boost/type-traits": "1.63.0",

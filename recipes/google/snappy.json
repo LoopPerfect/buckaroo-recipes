@@ -10,7 +10,8 @@
     "1.1.4": {
       "source": "git@github.com:google/snappy.git#2d99bd14d471664758e4dfdf81b44f413a7353fd",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/snappy/e999b9bb2cbc3153118554c5af9c22414d155204/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/snappy/e999b9bb2cbc3153118554c5af9c22414d155204/BUCK",
+        "sha256": "8c9006f07d52e9dc13d1a05911cf2503e3a77c4db72c6b3e27a51bffa36490d9"
       },
       "dependencies": {
         "google/gflags": "2.2.0"

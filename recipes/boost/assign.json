@@ -7,7 +7,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/assign.git#bc3c7bcaf612a58634c19df31aa1212a4cdb6f00",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/assign/aa02c25c329df0b54eb54ebd4d45b6990f82785f/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/assign/aa02c25c329df0b54eb54ebd4d45b6990f82785f/BUCK",
+        "sha256": "13ac48b9087adee9e0c068ea472c8fcdea0689ec6a4095d931c8f5b3c7571243"
       },
       "dependencies": {
         "boost/type-traits": "1.63.0",

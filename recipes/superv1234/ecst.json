@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": "git@github.com:SuperV1234/ecst.git#542b52def01d556209a0186c59fbaafcc41ef3b0",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/ecst/c7cab97087c4ab015928e6f8915e14617cdf78f8/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/ecst/c7cab97087c4ab015928e6f8915e14617cdf78f8/BUCK",
+        "sha256": "5306980b317e071ba2583a17e1fd320b199b54958b510234bf5b9f0bb14916da"
       },
       "dependencies": {
         "superv1234/vrm-core": "0.0.1",

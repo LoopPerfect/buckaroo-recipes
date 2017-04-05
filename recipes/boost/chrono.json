@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/chrono.git#959601c34798ca8e93b69403a3ddba903653b3ef",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
       },
       "dependencies": {
         "boost/config": "1.63.0",

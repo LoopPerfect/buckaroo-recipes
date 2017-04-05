@@ -10,7 +10,8 @@
     "1.0.0": {
       "source": "git@github.com:ddinu/observable.git#6910c0002091d669ca5e2b28582726ac215ec7c5",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/eigen/c277da1b12affabb33c68aa7539c5795a69066ef/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/eigen/c277da1b12affabb33c68aa7539c5795a69066ef/BUCK",
+        "sha256": "d82e8d4792063147931a68001318585e887e8c84e019b054e5f0830e98a08c84"
       }
     }
   }

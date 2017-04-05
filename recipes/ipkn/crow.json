@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": "git@github.com:ipkn/crow.git#4e39b23e455e455f1878b3e68d729a1737f3e431",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/crow/a3fc5fa63107d422157a20d2de3b827c66099c70/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/crow/a3fc5fa63107d422157a20d2de3b827c66099c70/BUCK",
+        "sha256": "b0584f659b6eb2bdc0e3b2bf5e6f600bf20069bcd869e5140824299f8dcdd794"
       },
       "dependencies": {
         "boost/algorithm": "1.63.0",

@@ -10,7 +10,8 @@
     "3.6.0": {
       "source": "git@github.com:python/cpython.git#5c4568a05a0a62b5947c55f68f9f2ecfb90a4f12",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/cpython/03edc79f3b9774614805a9cf0556c54e9730bade/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/cpython/03edc79f3b9774614805a9cf0556c54e9730bade/BUCK",
+        "sha256": "fce6296e94f7d1cf6c424c36c4af78743efe6e7e3e1ccb375af8cfdb16084437"
       }
     }
   }

@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/type_traits.git#f6c6a3ef9fe8edd69f9e2a455d3eac0c31f01fe5",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/type_traits/2b8863d1b7cc171b6851d8e2559c78250f61e0a4/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/type_traits/2b8863d1b7cc171b6851d8e2559c78250f61e0a4/BUCK",
+        "sha256": "7c334529d9e2a591db2b20e68a9a579ef958c9d6d7905985ddec7bb862e8fbe4"
       },
       "dependencies": {
         "boost/config": "1.63.0",

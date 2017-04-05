@@ -10,7 +10,8 @@
     "1.0.0": {
       "source": "git@github.com:google/re2.git#e2deff36afd0a71adbf71cb11fba71ed2a407e4f",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/re2/64c4e28e18d7903a505c51ef14b815bf2d89139b/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/re2/64c4e28e18d7903a505c51ef14b815bf2d89139b/BUCK",
+        "sha256": "8a4b33c9ee4737d132a376ccf68758fc7cff69857d2f2b4030d43885c6f1b8bd"
       }
     }
   }

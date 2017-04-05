@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/lockfree.git#a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
       },
       "dependencies": {
         "boost/config": "1.63.0",

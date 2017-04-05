@@ -10,7 +10,8 @@
     "4.2.1": {
       "source": "git@github.com:zeromq/cppzmq.git#178a910ae1abaad59467ee38884289b8a29c5710",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/cppzmq/17750356e9c2fefe81e56327b9d339aba6f915c5/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/cppzmq/17750356e9c2fefe81e56327b9d339aba6f915c5/BUCK",
+        "sha256": "d2ab9a4e3a588018804e22db29d331c58a8a2ef3a034a331a8c7de420261683a"
       },
       "dependencies": {
         "zeromq/libzmq": "4.2.2"

@@ -15,7 +15,7 @@
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
-        "sha256": "af250bca3aeeffafacf9888598147555ec1960886e3b411a08087136bf38f5b7"
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
       },
       "dependencies": {
         "boost/config": "1.63.0",

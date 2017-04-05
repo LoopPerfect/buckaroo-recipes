@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/unordered.git#76127b6e42651571b9b9555f48d52ae89317d8d5",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
       },
       "dependencies": {
         "boost/config": "1.63.0",

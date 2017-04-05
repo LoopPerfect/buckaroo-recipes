@@ -10,7 +10,8 @@
     "0.4.0": {
       "source": "git@github.com:nyorain/nytl.git#4484eef2ce6894218a80aac78bc3d510fbbd6b2c",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/nytl/d77ec472040e329aaaeee8f75ebc59cb32fdddea/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/nytl/d77ec472040e329aaaeee8f75ebc59cb32fdddea/BUCK",
+        "sha256": "2fffed50adadaa7a1a009a939e350eec0de266ce8f57738016f2c3634c358a74"
       }
     }
   }

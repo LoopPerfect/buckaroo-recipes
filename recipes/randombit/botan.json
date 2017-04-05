@@ -10,7 +10,8 @@
     "2.0.1": {
       "source": "git@github.com:randombit/botan.git#55a1d935e736716480407378565939b9e6c829b9",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/botan/1fa2448a6601c807e7ff9d6e16a96ed4fbe6a748/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/botan/1fa2448a6601c807e7ff9d6e16a96ed4fbe6a748/BUCK",
+        "sha256": "31bad0b575798355688be291d21194b7f6b0537ac4f0863fcf4d14de4343bc59"
       }
     }
   }

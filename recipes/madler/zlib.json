@@ -10,7 +10,8 @@
     "1.2.11": {
       "source": "git@github.com:madler/zlib.git#cacf7f1d4e3d44d871b605da3b647f07d718623f",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/zlib/c99d7665173f5b04f1aa106016c5df3632e1f8cd/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/zlib/c99d7665173f5b04f1aa106016c5df3632e1f8cd/BUCK",
+        "sha256": "39540f57581a5e63b3d4f0e17a2967ae8f9df3521b085cb6dc230a2e37f30466"
       }
     }
   }

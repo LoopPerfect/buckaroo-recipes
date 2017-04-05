@@ -10,7 +10,8 @@
     "4.3.1": {
       "source": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/JUCE/861d358a0569ab8667d22c880ae83d80f9ded51e/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/JUCE/861d358a0569ab8667d22c880ae83d80f9ded51e/BUCK",
+        "sha256": "f18bca4977770b7029628ffbca32ca7ec413a1c9fabd25cc76361b766c798d82"
       },
       "dependencies": {
         "juce/juce-core": "4.3.1"

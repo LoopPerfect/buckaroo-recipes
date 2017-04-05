@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/assert.git#1db4e1759589c61a293b836c0edeff48d3f97f41",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/assert/bf290fba9368ca11a2e987157996cf925f14c283/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/assert/bf290fba9368ca11a2e987157996cf925f14c283/BUCK",
+        "sha256": "5875f41fbd045db922d2560e27bff0cb331ad69bf0373b35e72d48b73c336d6a"
       },
       "dependencies": {
         "boost/detail": "1.63.0"

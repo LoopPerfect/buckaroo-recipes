@@ -10,7 +10,8 @@
     "1.8.0": {
       "source": "git@github.com:google/googletest.git#ec44c6c1675c25b9827aacd08c02433cccde7780",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/googletest/a9384dbf3d795e730f942b468dae38158e6be863/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/googletest/a9384dbf3d795e730f942b468dae38158e6be863/BUCK",
+        "sha256": "64a361da320e507bbf4aaa15bd75183ffe1dfd9b9fda5469596bfebeeeb86e98"
       }
     }
   }

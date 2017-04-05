@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/io.git#5458fd86d5a8e667513d34ea50b18883eae5ea14",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/io/b8ae1c5b6845635d25b96711c72e6951fd1622ef/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/io/b8ae1c5b6845635d25b96711c72e6951fd1622ef/BUCK",
+        "sha256": "b5153202c5972cd203182f289e4f7617f517ca1b786acfad1ee13871ac4b9d48"
       },
       "dependencies": {
         "boost/detail": "1.63.0"

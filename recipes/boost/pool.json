@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/pool.git#2c44798b606ba3004d791dd3df10ec35be3aceaa",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
       },
       "dependencies": {
         "boost/config": "1.63.0",

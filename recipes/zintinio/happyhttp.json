@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": "git@github.com:Zintinio/HappyHTTP.git#0a8a978c497a7533b9e7c69c7329059f7d9180ab",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/HappyHTTP/e6a900860ec422bded3b9f61d9cb920d7307df25/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/HappyHTTP/e6a900860ec422bded3b9f61d9cb920d7307df25/BUCK",
+        "sha256": "55b5778b57590048083c4e6f3b05a38ff42f2f74ab86d591b9972eb4e12410c9"
       }
     }
   }

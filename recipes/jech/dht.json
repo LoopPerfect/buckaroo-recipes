@@ -10,13 +10,15 @@
     "0.24.0": {
       "source": "git@github.com:jech/dht.git#b218bf1e34fd9ceb0995a91e60de6d1f2f6943bf",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/dht/45e0351728a2004c9997ab0899595999a8fc756b/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/dht/45e0351728a2004c9997ab0899595999a8fc756b/BUCK",
+        "sha256": "8bc94cb07fa2a812fac040b22130075ad7b28f94db6d30a19f342cc37d5083fe"
       }
     },
     "0.23.0": {
       "source": "git@github.com:jech/dht.git#b17d1b08adb24253067f8a29f6f012de323223d4",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/dht/45e0351728a2004c9997ab0899595999a8fc756b/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/dht/45e0351728a2004c9997ab0899595999a8fc756b/BUCK",
+        "sha256": "8bc94cb07fa2a812fac040b22130075ad7b28f94db6d30a19f342cc37d5083fe"
       }
     }
   }

@@ -7,7 +7,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/regex.git#ed556985d71452a1349701affbb56897c786088e",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
       },
       "dependencies": {
         "boost/config": "1.63.0",

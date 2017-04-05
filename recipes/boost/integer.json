@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/integer.git#0d964fe6fc65dcbd4772f3a3e5a299f5a320989f",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/integer/a6100a18450214c3244efa24037b6bcf59a6271c/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/integer/a6100a18450214c3244efa24037b6bcf59a6271c/BUCK",
+        "sha256": "a5a1c3c82a69e68e5e98004c6babc68223fa077c3f205363f300765ccc65d012"
       },
       "dependencies": {
         "boost/config": "1.63.0",

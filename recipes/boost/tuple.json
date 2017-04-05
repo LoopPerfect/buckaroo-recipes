@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/tuple.git#d77e569c899f7eb3d1f255889e739d586ba5900f",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/tuple/8e6ecf024bd47350706bae1a0932f92a1434e650/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/tuple/8e6ecf024bd47350706bae1a0932f92a1434e650/BUCK",
+        "sha256": "e0a33d570af89c2183b637316afec4f683528bedc4f07bd7f87f128e08554424"
       },
       "dependencies": {
         "boost/config": "1.63.0",

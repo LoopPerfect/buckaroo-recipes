@@ -10,16 +10,17 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/conversion.git#da8b2fe695cffda506059b49a4782ede01fba10f",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/conversion/2a302fbb4a7f4945049d68046c1a26782bc42828/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/conversion/2a302fbb4a7f4945049d68046c1a26782bc42828/BUCK",
+        "sha256": "7e99a1e003d20837607874ebc314e16993b9eb622c1bd9d65f630c71b889c4bd"
       },
       "dependencies": {
-       "boost/config": "1.63.0",
-       "boost/assert": "1.63.0",
-       "boost/throw-exception": "1.63.0",
-       "boost/utility": "1.63.0",
-       "boost/typeof": "1.63.0",
-       "boost/smart-ptr": "1.63.0"
-     }
+        "boost/config": "1.63.0",
+        "boost/assert": "1.63.0",
+        "boost/throw-exception": "1.63.0",
+        "boost/utility": "1.63.0",
+        "boost/typeof": "1.63.0",
+        "boost/smart-ptr": "1.63.0"
+      }
     }
   }
 }

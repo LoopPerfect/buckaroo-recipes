@@ -10,7 +10,8 @@
     "0.5.2": {
       "source": "git@github.com:google/brotli.git#66c14517cf8afcc1a1649a7833ac789366eb0b51",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/brotli/0afeca01a88c4cf9b977701e2d39c32e87613922/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/brotli/0afeca01a88c4cf9b977701e2d39c32e87613922/BUCK",
+        "sha256": "e91867e01961c87e8e970a0ef41c25515e92e579e67e87a7779873266bf1c170"
       }
     }
   }

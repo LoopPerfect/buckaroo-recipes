@@ -7,7 +7,8 @@
     "1.63.0": {
       "source": "git@github.com:boostorg/foreach.git#bbbfebed8e545724c20d4e4d971e7fb9219aae11",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
       },
       "dependencies": {
         "boost/config": "1.63.0",

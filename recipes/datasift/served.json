@@ -10,7 +10,8 @@
     "1.4.1": {
       "source": "git@github.com:datasift/served.git#281f81cbaab83ea1079830a17ac5af9497eac4f7",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/served/6c4ba76cc329cf9f2c7f11917fa0b13007a0f76d/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/served/6c4ba76cc329cf9f2c7f11917fa0b13007a0f76d/BUCK",
+        "sha256": "8156fc3b3b721661d48195ff79472da281c030316307601a58b2e869eda0cd20"
       },
       "dependencies": {
         "boost/date-time": "[1.56.0, 1.63.0]",

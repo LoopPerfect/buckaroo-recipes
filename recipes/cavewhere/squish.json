@@ -10,7 +10,8 @@
     "1.11.0": {
       "source": "git@github.com:Cavewhere/squish.git#153aae1aadf918ff591a62d91d9205e669da1dfd",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/squish/88ec355f7e50e15275ab44cdd093580e6f55fbab/BUCK"
+        "url": "https://raw.githubusercontent.com/njlr/squish/88ec355f7e50e15275ab44cdd093580e6f55fbab/BUCK",
+        "sha256": "c6882a957a41d36681dabaf473f7e65bdc1b3dd3f3bf3686986bc3a56bad6982"
       }
     }
   }
