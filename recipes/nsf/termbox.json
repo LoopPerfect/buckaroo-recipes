@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.1.0": {
-      "url": "git@github.com:nsf/termbox.git#aba34487481da9c7102573f8f5db1be469386a72",
+      "source": "git@github.com:nsf/termbox.git#aba34487481da9c7102573f8f5db1be469386a72",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/termbox/d81beaacc2a5d4c598cc2d2b8bccb4308a79011e/BUCK"
       }

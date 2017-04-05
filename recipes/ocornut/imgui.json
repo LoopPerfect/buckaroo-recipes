@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.49.0": {
-      "url": "git@github.com:ocornut/imgui.git#adb85d800d70d3ddc4548f0e8f184eede4568034",
+      "source": "git@github.com:ocornut/imgui.git#adb85d800d70d3ddc4548f0e8f184eede4568034",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/imgui/501779e1744c3598c29de2ea27dfe1db9a3c6b26/BUCK"
       }

@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/bimap.git#fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8",
+      "source": "git@github.com:boostorg/bimap.git#fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK"
       },

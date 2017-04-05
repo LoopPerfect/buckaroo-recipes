@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.1.0": {
-      "url": "git@github.com:google/benchmark.git#4f8bfeae470950ef005327973f15b0044eceaceb",
+      "source": "git@github.com:google/benchmark.git#4f8bfeae470950ef005327973f15b0044eceaceb",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/benchmark/442941146c6059f361fe2a20233196637b9e127b/BUCK"
       }

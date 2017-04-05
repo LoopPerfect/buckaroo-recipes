@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.5.0": {
-      "url": "git@github.com:Tencent/libco.git#c7f53adbea99b64128f7234523c4f7515170c431",
+      "source": "git@github.com:Tencent/libco.git#c7f53adbea99b64128f7234523c4f7515170c431",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libco/f7db48012d22e8927a9701c1b1ba76c27ff631f8/BUCK"
       }

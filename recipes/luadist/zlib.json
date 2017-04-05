@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.2.6": {
-      "url": "git@github.com:LuaDist/zlib.git#a71bf110f57b8ea18905bc4a24b4a9e2433553fc",
+      "source": "git@github.com:LuaDist/zlib.git#a71bf110f57b8ea18905bc4a24b4a9e2433553fc",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/zlib/c99d7665173f5b04f1aa106016c5df3632e1f8cd/BUCK"
       }

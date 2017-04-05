@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/spirit.git#1e2054aab4856f652e722d1bfc2465d935d4b39c",
+      "source": "git@github.com:boostorg/spirit.git#1e2054aab4856f652e722d1bfc2465d935d4b39c",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/spirit/945f94164ac2aaa2d89ee43da3d07e8a93322140/BUCK"
       },

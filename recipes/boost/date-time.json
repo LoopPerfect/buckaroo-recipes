@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/date_time.git#1e71530fb4405a043548e10483ec652605d6e05e",
+      "source": "git@github.com:boostorg/date_time.git#1e71530fb4405a043548e10483ec652605d6e05e",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/date_time/e38b75ca5d0a102a6a8b7271accd2027324a6055/BUCK"
       },

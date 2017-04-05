@@ -8,7 +8,7 @@
   },
   "versions": {
     "2.86.1": {
-      "url": "git@github.com:bulletphysics/bullet3.git#45aa392a280d2020946f5ee112f73072bbab6001",
+      "source": "git@github.com:bulletphysics/bullet3.git#45aa392a280d2020946f5ee112f73072bbab6001",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/bullet3/4c960d5148de42797244d03a6706925987307e85/BUCK"
       }

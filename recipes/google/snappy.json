@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.1.4": {
-      "url": "git@github.com:google/snappy.git#2d99bd14d471664758e4dfdf81b44f413a7353fd",
+      "source": "git@github.com:google/snappy.git#2d99bd14d471664758e4dfdf81b44f413a7353fd",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/snappy/e999b9bb2cbc3153118554c5af9c22414d155204/BUCK"
       },

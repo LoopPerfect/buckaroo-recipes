@@ -8,7 +8,7 @@
   },
   "versions": {
     "5.6.5": {
-      "url": "git@github.com:weidai11/cryptopp.git#c621ce053298fafc1e59191079c33acd76045c26",
+      "source": "git@github.com:weidai11/cryptopp.git#c621ce053298fafc1e59191079c33acd76045c26",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cryptopp/e57ae042c31587e809cf92eb73139620e7e67049/BUCK"
       }

@@ -8,7 +8,7 @@
   },
   "versions": {
     "3.2.1": {
-      "url": "git@github.com:glfw/glfw.git#999f3556fdd80983b10051746264489f2cb1ef16",
+      "source": "git@github.com:glfw/glfw.git#999f3556fdd80983b10051746264489f2cb1ef16",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/glfw/e0adff2dbcafe27bf0b5349a9290df5f81697b97/BUCK"
       }

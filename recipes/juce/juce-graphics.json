@@ -8,7 +8,7 @@
   },
   "versions": {
     "4.3.1": {
-      "url": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "source": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/JUCE/7db3700a2ff38f1d892466b53a3419ba6370c1cb/BUCK"
       },

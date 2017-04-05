@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/xpressive.git#f03b7b8a524f00d2ede4dd5efa7abc0815073eb0",
+      "source": "git@github.com:boostorg/xpressive.git#f03b7b8a524f00d2ede4dd5efa7abc0815073eb0",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK"
       },

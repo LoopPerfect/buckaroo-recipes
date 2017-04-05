@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/phoenix.git#04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6",
+      "source": "git@github.com:boostorg/phoenix.git#04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK"
       },

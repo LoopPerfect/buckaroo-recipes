@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.0.0": {
-      "url": "git@github.com:chrismanning/jbson.git#2e5ca71f3300d9d5d7e59e64f2d9ece32d96716f",
+      "source": "git@github.com:chrismanning/jbson.git#2e5ca71f3300d9d5d7e59e64f2d9ece32d96716f",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/jbson/71e7955e1ddd3174315ce10e5cf6ccfde33113ac/BUCK"
       },

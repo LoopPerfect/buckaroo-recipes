@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/numeric_conversion.git#2009f0d4fc49a6db59b950a3140f8d1f58e1a8c6",
+      "source": "git@github.com:boostorg/numeric_conversion.git#2009f0d4fc49a6db59b950a3140f8d1f58e1a8c6",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/numeric_conversion/bc0fa174a9147e606aa25adc6c0af472c4a53811/BUCK"
       },

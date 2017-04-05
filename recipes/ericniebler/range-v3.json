@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.0.0": {
-      "url": "git@github.com:ericniebler/range-v3.git#bcb0d315dd817632e5c5f3491c55038613a30569"
+      "source": "git@github.com:ericniebler/range-v3.git#bcb0d315dd817632e5c5f3491c55038613a30569"
     }
   }
 }

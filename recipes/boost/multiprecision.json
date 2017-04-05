@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/multiprecision.git#47de2a9787004d33954da5d591987f03a27c8858",
+      "source": "git@github.com:boostorg/multiprecision.git#47de2a9787004d33954da5d591987f03a27c8858",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK"
       },

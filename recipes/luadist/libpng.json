@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.5.10": {
-      "url": "git@github.com:LuaDist/libpng.git#635ec41e66ed327d95e0e645d27d6413257d9a29",
+      "source": "git@github.com:LuaDist/libpng.git#635ec41e66ed327d95e0e645d27d6413257d9a29",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libpng-1/183aa5420d7b088f1f5eb86cf89ad6071a57bca9/BUCK"
       },

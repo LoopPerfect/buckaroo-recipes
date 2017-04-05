@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/signals2.git#0807acf604989bc72cbb60a9a55f43f976a18372",
+      "source": "git@github.com:boostorg/signals2.git#0807acf604989bc72cbb60a9a55f43f976a18372",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK"
       },

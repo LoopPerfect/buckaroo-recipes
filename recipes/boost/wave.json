@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/wave.git#1d9bdb7631f79e60cca07f7790457707f176bc23",
+      "source": "git@github.com:boostorg/wave.git#1d9bdb7631f79e60cca07f7790457707f176bc23",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK"
       },

@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.11.0": {
-      "url": "git@github.com:Cavewhere/squish.git#153aae1aadf918ff591a62d91d9205e669da1dfd",
+      "source": "git@github.com:Cavewhere/squish.git#153aae1aadf918ff591a62d91d9205e669da1dfd",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/squish/88ec355f7e50e15275ab44cdd093580e6f55fbab/BUCK"
       }

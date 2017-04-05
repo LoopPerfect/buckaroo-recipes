@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/unordered.git#76127b6e42651571b9b9555f48d52ae89317d8d5",
+      "source": "git@github.com:boostorg/unordered.git#76127b6e42651571b9b9555f48d52ae89317d8d5",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK"
       },

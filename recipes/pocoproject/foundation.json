@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.7.8": {
-      "url": "git@github.com:pocoproject/poco.git#4403634bef7990ff0dff9f12a12a03b4d32006b6",
+      "source": "git@github.com:pocoproject/poco.git#4403634bef7990ff0dff9f12a12a03b4d32006b6",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/poco/a13ac7078e102fe01aed64ba26f3b2aafaaf0d69/BUCK"
       }

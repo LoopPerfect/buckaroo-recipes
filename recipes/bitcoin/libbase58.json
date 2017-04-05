@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.1.4": {
-      "url": "git@github.com:bitcoin/libbase58.git#16c2527608053d2cc2fa05b2e3b5ae96065d1410",
+      "source": "git@github.com:bitcoin/libbase58.git#16c2527608053d2cc2fa05b2e3b5ae96065d1410",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libbase58/7c680f755ce5b96e980f2ead70f8d02b591e5595/BUCK"
       }

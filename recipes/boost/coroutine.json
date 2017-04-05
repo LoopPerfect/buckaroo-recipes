@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/coroutine.git#56f0c8ae9f582da17764eb215d739903a615e5ef",
+      "source": "git@github.com:boostorg/coroutine.git#56f0c8ae9f582da17764eb215d739903a615e5ef",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/coroutine/80d77f400138ea8d0aa9f9a3bc700c9f2326abae/BUCK"
       },

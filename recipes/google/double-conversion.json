@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.1.5": {
-      "url": "git@github.com:google/double-conversion.git#57b1e094dbd12152f4daf8c6e91184fabf603906",
+      "source": "git@github.com:google/double-conversion.git#57b1e094dbd12152f4daf8c6e91184fabf603906",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/double-conversion/e2d8750da4b7db0044270567ed45221e4f41a26d/BUCK"
       }

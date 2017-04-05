@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.6.2": {
-      "url": "git@github.com:docopt/docopt.cpp.git#18110222dc9cb57ec880ce24fbbd7291b2d1046e",
+      "source": "git@github.com:docopt/docopt.cpp.git#18110222dc9cb57ec880ce24fbbd7291b2d1046e",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/docopt.cpp/3c43e756cbf265ed1505287003cba626c58594bf/BUCK"
       }

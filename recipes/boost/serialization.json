@@ -5,7 +5,7 @@
   "github": "boostorg/serialization",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/serialization.git#3eb2bda80b19da0b98418746ba9806acdac7d8b9",
+      "source": "git@github.com:boostorg/serialization.git#3eb2bda80b19da0b98418746ba9806acdac7d8b9",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK"
       },

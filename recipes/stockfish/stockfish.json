@@ -8,7 +8,7 @@
   },
   "versions": {
     "7.0.0": {
-      "url": "git@github.com:official-stockfish/Stockfish.git#dd9cf305816c84c2acfa11cae09a31c4d77cc5a5",
+      "source": "git@github.com:official-stockfish/Stockfish.git#dd9cf305816c84c2acfa11cae09a31c4d77cc5a5",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/Stockfish/9a47cbb23999cab8433d0dbbaa770924db9d8f2c/BUCK"
       }

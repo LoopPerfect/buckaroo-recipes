@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/logic.git#8cb497225694a811bb669f2b0f7dd205d3992114",
+      "source": "git@github.com:boostorg/logic.git#8cb497225694a811bb669f2b0f7dd205d3992114",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK"
       }

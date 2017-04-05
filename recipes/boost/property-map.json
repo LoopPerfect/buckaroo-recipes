@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/property_map.git#76251f9402f12c997d8443c8c6842638b110388e",
+      "source": "git@github.com:boostorg/property_map.git#76251f9402f12c997d8443c8c6842638b110388e",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/property_map/25f53962aeb6077d75511347b2ec4e9a9f9d8f31/BUCK"
       },

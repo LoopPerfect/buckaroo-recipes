@@ -8,13 +8,13 @@
   },
   "versions": {
     "1.0.21": {
-      "url": "git@github.com:libusb/libusb.git#09e75e98b4d9ea7909e8837b7a3f00dda4589dc3",
+      "source": "git@github.com:libusb/libusb.git#09e75e98b4d9ea7909e8837b7a3f00dda4589dc3",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libusb/99a65eaa0e1310fa01ad15e936a95224b0af4147/BUCK"
       }
     },
     "1.0.20": {
-      "url": "git@github.com:libusb/libusb.git#b5991a9e02e59a842a8ea2e0235cf319f2ec6cd1",
+      "source": "git@github.com:libusb/libusb.git#b5991a9e02e59a842a8ea2e0235cf319f2ec6cd1",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libusb/c9f41e81b802e1fbcc84f2a6e55d0d036c950c1a/BUCK"
       }

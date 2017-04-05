@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/uuid.git#0029bc760061824bb0c02d6687a61594fa27beac",
+      "source": "git@github.com:boostorg/uuid.git#0029bc760061824bb0c02d6687a61594fa27beac",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/uuid/ac8cfb5ce3e3b7956b62cbd51d75cf5d9416d17e/BUCK"
       },

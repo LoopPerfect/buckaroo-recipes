@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/pool.git#2c44798b606ba3004d791dd3df10ec35be3aceaa",
+      "source": "git@github.com:boostorg/pool.git#2c44798b606ba3004d791dd3df10ec35be3aceaa",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK"
       },

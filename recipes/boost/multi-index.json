@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/multi_index.git#0a0e7284c7a75ab4513f8558d5388ea9724bbb0a",
+      "source": "git@github.com:boostorg/multi_index.git#0a0e7284c7a75ab4513f8558d5388ea9724bbb0a",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/multi_index/42ea410be6d30b0f709f9490ad181e57e3a09138/BUCK"
       },

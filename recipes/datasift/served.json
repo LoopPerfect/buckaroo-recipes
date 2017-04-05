@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.4.1": {
-      "url": "git@github.com:datasift/served.git#281f81cbaab83ea1079830a17ac5af9497eac4f7",
+      "source": "git@github.com:datasift/served.git#281f81cbaab83ea1079830a17ac5af9497eac4f7",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/served/6c4ba76cc329cf9f2c7f11917fa0b13007a0f76d/BUCK"
       },

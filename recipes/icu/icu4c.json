@@ -8,7 +8,7 @@
   },
   "versions": {
     "58.2.0": {
-      "url": "git@github.com:njlr/icu4c.git#caef63a217fd526bdcf221de949374b4c1b275cc"
+      "source": "git@github.com:njlr/icu4c.git#caef63a217fd526bdcf221de949374b4c1b275cc"
     }
   }
 }

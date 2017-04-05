@@ -8,7 +8,7 @@
   },
   "versions": {
     "4.0.2": {
-      "url": "git@github.com:zeromq/czmq.git#5dafff4f632c84b0505b7f3de512a0c600d202ea",
+      "source": "git@github.com:zeromq/czmq.git#5dafff4f632c84b0505b7f3de512a0c600d202ea",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/czmq/9bfc3e165c229114ae96fa4d8fa3037d250d6cde/BUCK"
       },

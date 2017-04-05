@@ -5,7 +5,7 @@
   "github": "boostorg/any",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/any.git#45813a82a3e66413f3dea3e130786f2f139cd98d",
+      "source": "git@github.com:boostorg/any.git#45813a82a3e66413f3dea3e130786f2f139cd98d",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/any/21d8fff97492abe1a5825e5f8b69fa28453ca7ec/BUCK"
       },

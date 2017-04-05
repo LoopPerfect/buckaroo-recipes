@@ -8,7 +8,7 @@
   },
   "versions": {
     "2.0.0": {
-      "url": "git@github.com:zeromq/zyre.git#ab263dac21250fc85fa8c7239973109eca2251a7",
+      "source": "git@github.com:zeromq/zyre.git#ab263dac21250fc85fa8c7239973109eca2251a7",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/zyre/cf6e154c1dd24153509c0564655cced72335ae6b/BUCK"
       },

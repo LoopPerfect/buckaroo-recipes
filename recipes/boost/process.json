@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/process.git#cf2a196d40770ac5b52e7a09f86a9e82d48f2480",
+      "source": "git@github.com:boostorg/process.git#cf2a196d40770ac5b52e7a09f86a9e82d48f2480",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/process/7c1b74da43ac3472d0a19af0a8a40bf0398c4404/BUCK"
       },

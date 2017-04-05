@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/ptr_container.git#b95caec2762fd9835fd6ffb4e477e9cd5d5c4d87",
+      "source": "git@github.com:boostorg/ptr_container.git#b95caec2762fd9835fd6ffb4e477e9cd5d5c4d87",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/ptr_container/6addeb4e144904c4ae812d636ca6a555f4a4dc36/BUCK"
       },

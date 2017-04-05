@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/intrusive.git#190900e1b00f6dcd1132baf584231e69acd70e76",
+      "source": "git@github.com:boostorg/intrusive.git#190900e1b00f6dcd1132baf584231e69acd70e76",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK"
       },

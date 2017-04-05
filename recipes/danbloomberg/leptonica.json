@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.74.1": {
-      "url": "git@github.com:DanBloomberg/leptonica.git#5184aa52cf5bf12fbb6f3b333f8d96d8e163c9da",
+      "source": "git@github.com:DanBloomberg/leptonica.git#5184aa52cf5bf12fbb6f3b333f8d96d8e163c9da",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/leptonica/68fe775bf79215da2d2e786bb16289c7f45277e6/BUCK"
       }

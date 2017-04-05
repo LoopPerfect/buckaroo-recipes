@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/hana.git#7a3e0480d442c393ed7bcc1ca72a3e1821319ff0",
+      "source": "git@github.com:boostorg/hana.git#7a3e0480d442c393ed7bcc1ca72a3e1821319ff0",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/hana/81d75a2c22e9ba083a9d58d108fafacead76d1d2/BUCK"
       },

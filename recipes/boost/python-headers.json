@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/python.git#aaf90227703cf29d81ed83a1212890ede45d64fb",
+      "source": "git@github.com:boostorg/python.git#aaf90227703cf29d81ed83a1212890ede45d64fb",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/python/5582ec3ecb5f1c11eacbfff462ea451c6039a56e/BUCK"
       }

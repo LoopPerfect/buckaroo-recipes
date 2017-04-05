@@ -8,7 +8,7 @@
   },
   "versions": {
     "2.0.0": {
-      "url": "git@github.com:google/cctz.git#182b96ca6e09527e18fcd0a6ca3e156ea7997099",
+      "source": "git@github.com:google/cctz.git#182b96ca6e09527e18fcd0a6ca3e156ea7997099",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cctz/f57acac21213ce9e27ecb7b62fa49d9c3b56a086/BUCK"
       }

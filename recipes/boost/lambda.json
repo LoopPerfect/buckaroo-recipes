@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/lambda.git#8d9106ab17b618d570741bb53aa8326611e87236",
+      "source": "git@github.com:boostorg/lambda.git#8d9106ab17b618d570741bb53aa8326611e87236",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK"
       },

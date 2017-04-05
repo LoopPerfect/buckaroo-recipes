@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/multi_array.git#d259f853b5bfd90fec2b0d1a4367c62a6e1b4d02",
+      "source": "git@github.com:boostorg/multi_array.git#d259f853b5bfd90fec2b0d1a4367c62a6e1b4d02",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/multi_array/885939ddfbd3dc208a2e829ae0805edc131e25b6/BUCK"
       },

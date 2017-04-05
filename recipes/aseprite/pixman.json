@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.3.4": {
-      "url": "git@github.com:aseprite/pixman.git#1727aa4ab60a594cbb1cc1bdaa270b7dfad21f06",
+      "source": "git@github.com:aseprite/pixman.git#1727aa4ab60a594cbb1cc1bdaa270b7dfad21f06",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/pixman/07e6e43250226a60ddfde866bc72b667954ee2ca/BUCK"
       }

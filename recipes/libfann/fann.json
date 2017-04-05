@@ -8,7 +8,7 @@
   },
   "versions": {
     "2.2.0": {
-      "url": "git@github.com:libfann/fann.git#f9158258a66a5515d291cf18e5b9a109f5007507",
+      "source": "git@github.com:libfann/fann.git#f9158258a66a5515d291cf18e5b9a109f5007507",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/fann/35f98df2bc5677ca141f2af667d3ef368634698d/BUCK"
       }

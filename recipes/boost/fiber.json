@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/fiber.git#e83d33f6c0cf06fd98ef656a1150a3238fac335f",
+      "source": "git@github.com:boostorg/fiber.git#e83d33f6c0cf06fd98ef656a1150a3238fac335f",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/fiber/1a991b9da4f9857cb73d3dd0737adc361bbf536e/BUCK"
       },

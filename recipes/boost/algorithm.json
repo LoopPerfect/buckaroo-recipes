@@ -5,7 +5,7 @@
   "github": "boostorg/algorithm",
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/algorithm.git#d029402f05c942b5d55b4e42060fc73fd07aaa21",
+      "source": "git@github.com:boostorg/algorithm.git#d029402f05c942b5d55b4e42060fc73fd07aaa21",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK"
       },

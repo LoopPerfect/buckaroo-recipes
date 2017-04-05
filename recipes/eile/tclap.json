@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.2.1": {
-      "url": "git@github.com:eile/tclap.git#3627d9402e529770df9b0edf2aa8c0e0d6c6bb41",
+      "source": "git@github.com:eile/tclap.git#3627d9402e529770df9b0edf2aa8c0e0d6c6bb41",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tclap/b15eadb617c5922a89a840e64cc645c5474303b7/BUCK"
       }

@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.0.1": {
-      "url": "git@github.com:khovratovich/equihash.git#4140bd65504e27b405327cea657980524287a7a9",
+      "source": "git@github.com:khovratovich/equihash.git#4140bd65504e27b405327cea657980524287a7a9",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/equihash/f2723cffab00533bfe2f71c39a96505153fbe923/BUCK"
       }

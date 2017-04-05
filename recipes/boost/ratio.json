@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/ratio.git#ee45b0666f89e2703d8496d243c297082bfc668c",
+      "source": "git@github.com:boostorg/ratio.git#ee45b0666f89e2703d8496d243c297082bfc668c",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/ratio/6c2432bf838a0eb9616b5275ed6eae1391710055/BUCK"
       },

@@ -5,7 +5,7 @@
   "github": "CGAL/cgal",
   "versions": {
     "4.9.0": {
-      "url": "git@github.com:CGAL/cgal.git#4e50c9c138855075bb668cc3eceaa60bbbe05cdd",
+      "source": "git@github.com:CGAL/cgal.git#4e50c9c138855075bb668cc3eceaa60bbbe05cdd",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cgal/25ef34523191a2585c553d1b1b39008f3f75c917/BUCK"
       },

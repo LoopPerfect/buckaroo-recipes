@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.5.3": {
-      "url": "git@github.com:jbeder/yaml-cpp.git#b57efe94e7d445713c29f863adb8c23438eaa217",
+      "source": "git@github.com:jbeder/yaml-cpp.git#b57efe94e7d445713c29f863adb8c23438eaa217",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/yaml-cpp/buck/0.5.3/BUCK"
       },

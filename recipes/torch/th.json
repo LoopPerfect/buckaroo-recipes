@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.0.1": {
-      "url": "git@github.com:torch/th.git#9e325f9358170c01a1745310d27c4e8d9e81fc54",
+      "source": "git@github.com:torch/th.git#9e325f9358170c01a1745310d27c4e8d9e81fc54",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/TH/c7053814ddf7099dd30aadc6b62a0de7fb063905/BUCK"
       }

@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/smart_ptr.git#1e9e2ed6aa623f74c5a69b3dd2beb5decf93faa8",
+      "source": "git@github.com:boostorg/smart_ptr.git#1e9e2ed6aa623f74c5a69b3dd2beb5decf93faa8",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/smart_ptr/6d18e3c842775a868debb0e93690ed662f44ac8f/BUCK"
       },

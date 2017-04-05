@@ -8,7 +8,7 @@
   },
   "versions": {
     "4.2.1": {
-      "url": "git@github.com:zeromq/cppzmq.git#178a910ae1abaad59467ee38884289b8a29c5710",
+      "source": "git@github.com:zeromq/cppzmq.git#178a910ae1abaad59467ee38884289b8a29c5710",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cppzmq/17750356e9c2fefe81e56327b9d339aba6f915c5/BUCK"
       },

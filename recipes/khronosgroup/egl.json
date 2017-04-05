@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.0.1": {
-      "url": "git@github.com:KhronosGroup/EGL-Registry.git#0ec0be17fe877978805efbbbc86165adf2b7b2c5",
+      "source": "git@github.com:KhronosGroup/EGL-Registry.git#0ec0be17fe877978805efbbbc86165adf2b7b2c5",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/EGL-Registry/d3ccbf46c5663b14cab4db3760889300a4f7bbb9/BUCK"
       }

@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/move.git#135e598bc4ffc63001d84f93764fddee234f1da2",
+      "source": "git@github.com:boostorg/move.git#135e598bc4ffc63001d84f93764fddee234f1da2",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/move/dcfca8e87b7ad2fcf50376494a242b10fa880c3b/BUCK"
       },

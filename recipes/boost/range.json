@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/range.git#56d470635de63862856b27be36dbf2eb9d75b043",
+      "source": "git@github.com:boostorg/range.git#56d470635de63862856b27be36dbf2eb9d75b043",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/range/bf89d6ba9871d38e61d4ea990672588511fe9014/BUCK"
       },

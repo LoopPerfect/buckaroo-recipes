@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.0.1": {
-      "url": "git@github.com:SuperV1234/ecst.git#542b52def01d556209a0186c59fbaafcc41ef3b0",
+      "source": "git@github.com:SuperV1234/ecst.git#542b52def01d556209a0186c59fbaafcc41ef3b0",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/ecst/c7cab97087c4ab015928e6f8915e14617cdf78f8/BUCK"
       },

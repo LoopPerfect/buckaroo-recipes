@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/heap.git#173349cee1942992f322f26fff2b6243319e7d65",
+      "source": "git@github.com:boostorg/heap.git#173349cee1942992f322f26fff2b6243319e7d65",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/heap/f4886f8e6ae69bd9049a2d49f06344628a53f6f6/BUCK"
       },

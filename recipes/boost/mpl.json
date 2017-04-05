@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/mpl.git#efc2a862a324ae2b509fa04b4bb48b98f5599f71",
+      "source": "git@github.com:boostorg/mpl.git#efc2a862a324ae2b509fa04b4bb48b98f5599f71",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/mpl/27115f47922ac1c6e899d113dc549448dc801ec1/BUCK"
       },

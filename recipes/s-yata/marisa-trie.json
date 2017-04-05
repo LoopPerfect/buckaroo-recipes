@@ -7,7 +7,7 @@
   },
   "versions": {
     "0.2.5": {
-      "url": "git@github.com:s-yata/marisa-trie.git#961ed33c5533622125a782d2425d1bf727339815",
+      "source": "git@github.com:s-yata/marisa-trie.git#961ed33c5533622125a782d2425d1bf727339815",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/marisa-trie/4d7cac33cef1ad4f55c45cdbdb8a7b09c2d70e92/BUCK"
       }

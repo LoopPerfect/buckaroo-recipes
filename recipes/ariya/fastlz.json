@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.0.1": {
-      "url": "git@github.com:ariya/fastlz.git#f1217348a868bdb9ee0730244475aee05ab329c5",
+      "source": "git@github.com:ariya/fastlz.git#f1217348a868bdb9ee0730244475aee05ab329c5",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/FastLZ/863b35eea25ee0da7ae900b2fa01e016ba1a1bb0/BUCK"
       }

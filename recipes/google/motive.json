@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.2.0": {
-      "url": "git@github.com:google/motive.git#f3180698c6eaf57ad54039aef850c6d6e170bf5d",
+      "source": "git@github.com:google/motive.git#f3180698c6eaf57ad54039aef850c6d6e170bf5d",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/motive/3a9639bdd80172ae70934b71619a81d3fd051bcc/BUCK"
       },

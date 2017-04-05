@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/ublas.git#e8607b3eea238e590eca93bfe498c21f470155c1",
+      "source": "git@github.com:boostorg/ublas.git#e8607b3eea238e590eca93bfe498c21f470155c1",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK"
       },

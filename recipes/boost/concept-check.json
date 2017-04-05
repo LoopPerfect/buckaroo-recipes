@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/concept_check.git#b65104932a426148932acec7a41c8f041a9069ca",
+      "source": "git@github.com:boostorg/concept_check.git#b65104932a426148932acec7a41c8f041a9069ca",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/concept_check/e4f7293a00b37ccd142ff8674d1990337417ebf3/BUCK"
       },

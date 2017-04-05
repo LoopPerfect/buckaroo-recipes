@@ -8,7 +8,7 @@
   },
   "versions": {
     "4.1.2": {
-      "url": "git@github.com:zeromq/zmqpp.git#4784589eff234e673724662c9247037e4c804e5d",
+      "source": "git@github.com:zeromq/zmqpp.git#4784589eff234e673724662c9247037e4c804e5d",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/zmqpp/4776a46e9467c555d430b9e0bc3ad52ed1f29c64/BUCK"
       }

@@ -8,7 +8,7 @@
   },
   "versions": {
     "2.0.3": {
-      "url": "git@github.com:eranpeer/FakeIt.git#2eb812b7ef7e72cb2e0ed2e1283b8bcc858fc555",
+      "source": "git@github.com:eranpeer/FakeIt.git#2eb812b7ef7e72cb2e0ed2e1283b8bcc858fc555",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/FakeIt/83cd07dce6a3ec746ac3f1d6397fd07acf20c29c/BUCK"
       }

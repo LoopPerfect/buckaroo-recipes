@@ -8,7 +8,7 @@
   },
   "versions": {
     "1.63.0": {
-      "url": "git@github.com:boostorg/tokenizer.git#6b83489ede7c2bf25073a05abb62655cd1235e26",
+      "source": "git@github.com:boostorg/tokenizer.git#6b83489ede7c2bf25073a05abb62655cd1235e26",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK"
       },

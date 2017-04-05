@@ -8,7 +8,7 @@
   },
   "versions": {
     "0.0.1": {
-      "url": "git@github.com:lemenkov/libyuv.git#7e936044d154b9fe159a67f9562e10b1ef1cb590",
+      "source": "git@github.com:lemenkov/libyuv.git#7e936044d154b9fe159a67f9562e10b1ef1cb590",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libyuv/45b81e74d8a948d7fd3557aeae1746eb83274301/BUCK"
       }

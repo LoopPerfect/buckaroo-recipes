@@ -8,13 +8,13 @@
   },
   "versions": {
     "2.0.0": {
-      "url": "git@github.com:mobius3/tweeny.git#2a3b967738c57290bcc3731f939fe076251fb596",
+      "source": "git@github.com:mobius3/tweeny.git#2a3b967738c57290bcc3731f939fe076251fb596",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tweeny/1f349b5402d0c7beaf3f27cd9f8eb582abbddf95/BUCK"
       }
     },
     "1.0.0": {
-      "url": "git@github.com:mobius3/tweeny.git#0af3875c92995fca438c72d8147600ebedfe7c0b",
+      "source": "git@github.com:mobius3/tweeny.git#0af3875c92995fca438c72d8147600ebedfe7c0b",
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tweeny/1f349b5402d0c7beaf3f27cd9f8eb582abbddf95/BUCK"
       }
