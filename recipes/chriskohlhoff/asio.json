@@ -1,0 +1,18 @@
+{
+  "name": "asio",
+  "license": "BSL-1.0",
+  "url": "http://think-async.com/",
+  "github": {
+    "owner": "chriskohlhoff",
+    "project": "asio"
+  },
+  "versions": {
+    "1.11.0": {
+      "source": "git@github.com:chriskohlhoff/asio.git#524288cb4fcf84664b3dc39cb4424c7509969b92",
+      "buck": {
+        "source": "https://raw.githubusercontent.com/asio.git#3e0a1eefa50ed0728ee814ba56066efaa0a9df30/BUCK",
+        "sha256": "3e0a1eefa50ed0728ee814ba56066efaa0a9df30"
+      }
+    }
+  }
+}
