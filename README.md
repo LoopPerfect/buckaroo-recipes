@@ -1,2 +1,2 @@
-# buckaroo-recipes-test
-A book of test recipes for Buckaroo
+# buckaroo-recipes
+The official book of recipes for Buckaroo 📒
