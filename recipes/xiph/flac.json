@@ -10,8 +10,8 @@
     "1.3.2": {
       "source": "git@github.com:xiph/flac.git#ac39d3719f16dfb6e08d2fbde8ccaf34a266c81d",
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/flac/df132905af33ba40d39e001db3ac66834b1f5303/BUCK",
-        "sha256": "ecb2097409567a90970435be83471b797e4bb5eceac570f3440b9b1111866114"
+        "url": "https://raw.githubusercontent.com/njlr/flac/70e41e3357c69efc001e8729bcabfdcc5541c0d7/BUCK",
+        "sha256": "656556a160a7a075ad11bf0f107f8a4f31cacbed585c9116664863b2ebd0c9a5"
       },
       "dependencies": {
         "xiph/ogg": "1.3.2"
