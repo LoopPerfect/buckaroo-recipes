@@ -1,0 +1,18 @@
+{
+  "name": "pistache",
+  "license": "MIT",
+  "url": "https://github.com/oktal/pistache",
+  "github": {
+    "owner": "octal",
+    "project": "pistache"
+  },
+  "versions": {
+    "0.0.1": {
+      "source": "git@github.com:oktal/pistache.git#2e1dd87a0a15a4a72a562174ab2552442c0d6d84",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/pistache/f385e3e2a43dc324aa4c41812c475c2e5e28cffc/BUCK",
+        "sha256": "1054d8354a71f6520589b5c7c4244177ee212deac94e12203869fd05292c6ce5"
+      }
+    }
+  }
+}
