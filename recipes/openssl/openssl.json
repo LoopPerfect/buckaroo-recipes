@@ -1,0 +1,18 @@
+{
+  "name": "openssl",
+  "license": "Apache-1.0, BSD-4-Clause",
+  "url": "https://www.openssl.org/",
+  "github": {
+    "owner": "openssl",
+    "project": "openssl"
+  },
+  "versions": {
+    "1.0.211": {
+      "source": "git@github.com:openssl/openssl.git#081314d07705aa58912845c213a48414d8f616a9",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/openssl/f2c7b80b578ecd279dbbd15af2d7a20a73442410/BUCK",
+        "sha256": "6946b73576cebf37d7c42ff7a716db6b93620c41be26901f902a857fe2d3a501"
+      }
+    }
+  }
+}
