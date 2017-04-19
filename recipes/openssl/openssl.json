@@ -11,7 +11,7 @@
       "source": "git@github.com:openssl/openssl.git#081314d07705aa58912845c213a48414d8f616a9",
       "buck": {
         "url": "https://raw.githubusercontent.com/nikhedonia/openssl/f2c7b80b578ecd279dbbd15af2d7a20a73442410/BUCK",
-        "sha256": "6946b73576cebf37d7c42ff7a716db6b93620c41be26901f902a857fe2d3a501"
+        "sha256": "1304c1f093244c8d76fa74cdc7f71807594e5641395b53ba7753e9645ee7d608"
       }
     }
   }
