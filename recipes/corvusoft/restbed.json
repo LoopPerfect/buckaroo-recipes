@@ -1,0 +1,23 @@
+{
+  "name": "Restbed",
+  "license": "BSL-1.0",
+  "url": "https://github.com/corvusoft/restbed",
+  "github": {
+    "owner": "corvusoft",
+    "project": "restbed"
+  },
+  "versions": {
+    "0.0.1": {
+      "source": "git@github.com:corvusoft/restbed.git#66bf2a7771f48b8eba0ae02dd0254f253d58b31f",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/restbed/1419498f40d063cc7d11c03e3737726a12c3eba4/BUCK",
+        "sha256": "9f89bc17aa4db47f8c11aef2c95bfca1a34bdaf4ec7adeb37471bc03ef1b6e2d"
+      },
+      "dependencies": {
+        "openssl/openssl": "1.0.211",
+        "corvusoft/kashmir": "0.0.1",
+        "chriskohlhoff/asio": "1.11.0"
+      }
+    }
+  }
+}
