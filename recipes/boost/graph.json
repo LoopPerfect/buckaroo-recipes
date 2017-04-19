@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/graph.git#7913228c9dab7ed88fb63b6b6214c37763aa2436",
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/7913228c9dab7ed88fb63b6b6214c37763aa2436.zip",
+        "sha256": "7ab4c17ede6456cd9aec1db94c81ffbf55a20a6b66fe70d82d02b048fbbfe6d5"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
         "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"

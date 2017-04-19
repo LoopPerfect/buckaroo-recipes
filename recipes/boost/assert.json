@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/assert.git#1db4e1759589c61a293b836c0edeff48d3f97f41",
+      "source": {
+        "url": "https://github.com/boostorg/assert/archive/1db4e1759589c61a293b836c0edeff48d3f97f41.zip",
+        "sha256": "99a31ab0b96ff9f6e82f8dd1e880882383b32bcebb30c85392450b92245ec374"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/assert/bf290fba9368ca11a2e987157996cf925f14c283/BUCK",
         "sha256": "5875f41fbd045db922d2560e27bff0cb331ad69bf0373b35e72d48b73c336d6a"

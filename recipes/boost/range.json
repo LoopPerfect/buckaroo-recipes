@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/range.git#56d470635de63862856b27be36dbf2eb9d75b043",
+      "source": {
+        "url": "https://github.com/boostorg/range/archive/56d470635de63862856b27be36dbf2eb9d75b043.zip",
+        "sha256": "9941baa0367354a41333af7e13748265528c999a602c23f30ca9ed2382c2b9df"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/range/bf89d6ba9871d38e61d4ea990672588511fe9014/BUCK",
         "sha256": "0f04ecd39728b507657d72f26876765bfd872f012a055dd5da232fbeeb4109a9"

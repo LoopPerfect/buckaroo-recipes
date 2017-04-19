@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:lemenkov/libyuv.git#7e936044d154b9fe159a67f9562e10b1ef1cb590",
+      "source": {
+        "url": "https://github.com/lemenkov/libyuv/archive/7e936044d154b9fe159a67f9562e10b1ef1cb590.zip",
+        "sha256": "8025df1569f1f0b417d585eee226cf6de26843e73df0bb249fd398366509ef5a"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libyuv/45b81e74d8a948d7fd3557aeae1746eb83274301/BUCK",
         "sha256": "6577aa0a16cb3643d02c8bf2ba1e55c7d7e84da76a00067affcf8b10a6bc36ed"

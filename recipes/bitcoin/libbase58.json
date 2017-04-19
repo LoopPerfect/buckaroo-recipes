@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.1.4": {
-      "source": "git@github.com:bitcoin/libbase58.git#16c2527608053d2cc2fa05b2e3b5ae96065d1410",
+      "source": {
+        "url": "https://github.com/bitcoin/libbase58/archive/16c2527608053d2cc2fa05b2e3b5ae96065d1410.zip",
+        "sha256": "5ed2ac26824925be8863a8e141a3bf42d4918c4451ff673a5c433bed02815f08"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libbase58/7c680f755ce5b96e980f2ead70f8d02b591e5595/BUCK",
         "sha256": "fa8612b0afe3142cfecc63444a73d937a3a2e8e608f8bffed9e42a6316c72190"

@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.2.57": {
-      "source": "git@github.com:glennrp/libpng.git#1f0a5824a8437af268ceee17107984d55d0be439",
+      "source": {
+        "url": "https://github.com/glennrp/libpng/archive/1f0a5824a8437af268ceee17107984d55d0be439.zip",
+        "sha256": "ec3d6eda168c3ddd81248b4401574cb6ded460d29d3f05ccba72f82f86fb649c"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libpng/9dfb3a2b4faf40eae670035e6c65c4a9ce9396bf/BUCK",
         "sha256": "bff4f71937af005318d3448cf68df60d026549540c9a8e520d6f54e8c229e90a"

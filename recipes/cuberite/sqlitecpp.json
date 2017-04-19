@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.7.0": {
-      "source": "git@github.com:cuberite/SQLiteCpp.git#8322d32ea8433279bb3713eaf6ebb0dfac66f74b",
+      "source": {
+        "url": "https://github.com/cuberite/SQLiteCpp/archive/8322d32ea8433279bb3713eaf6ebb0dfac66f74b.zip",
+        "sha256": "2a5f64c6f3515151e17c9f6c9e5cc58d1c00c75669d07cdf83ae49410c05e8b1"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/SQLiteCpp/aab84f0235d5033afc1ba8eeef733ba483c11e2c/BUCK",
         "sha256": "c5af4a2df5a8caf96e37e193f5e1b254865e88aad05124c6bdd6ca8c11b94f71"

@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.4.2": {
-      "source": "git@github.com:plenluno/b64.git#6b24594749a46e51bb2c4e845fdf2144ef1abea0",
+      "source": {
+        "url": "https://github.com/plenluno/b64/archive/6b24594749a46e51bb2c4e845fdf2144ef1abea0.zip",
+        "sha256": "1529511567e531ace72df99898608d8d2b8462a2e76143cf0f2b4c583d55a233"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/b64/0b418cc2575e948939220441528bb5acba1f3dcb/BUCK",
         "sha256": "d795b7dcce6208c59d522e195842784aa1251e6fb5fdcc8511a88d6a62794b0e"

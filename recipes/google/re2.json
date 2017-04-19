@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.0.0": {
-      "source": "git@github.com:google/re2.git#e2deff36afd0a71adbf71cb11fba71ed2a407e4f",
+      "source": {
+        "url": "https://github.com/google/re2/archive/e2deff36afd0a71adbf71cb11fba71ed2a407e4f.zip",
+        "sha256": "959442fa38a79fae016286f890261f0225d35597a3cd77b8c081c5c3168477f5"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/re2/64c4e28e18d7903a505c51ef14b815bf2d89139b/BUCK",
         "sha256": "8a4b33c9ee4737d132a376ccf68758fc7cff69857d2f2b4030d43885c6f1b8bd"

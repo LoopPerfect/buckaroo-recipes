@@ -8,7 +8,10 @@
   },
   "versions": {
     "2.1.0": {
-      "source": "git@github.com:HowardHinnant/date.git#2935f80109b8cfc15eb1243afe35f7ec3530f971",
+      "source": {
+        "url": "https://github.com/HowardHinnant/date/archive/2935f80109b8cfc15eb1243afe35f7ec3530f971.zip",
+        "sha256": "df979961cf00b307aaab4d4d8a37044b546bbfa3af20764d13ccade16e388561"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/date/9295a76e34cde4bf4aac018623bcaa502d722e0c/BUCK",
         "sha256": "33620d789cb69ad7357eff6d354d3ec703e5f5e7a771ca028589089de5abdb52"

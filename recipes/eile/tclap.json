@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.2.1": {
-      "source": "git@github.com:eile/tclap.git#3627d9402e529770df9b0edf2aa8c0e0d6c6bb41",
+      "source": {
+        "url": "https://github.com/eile/tclap/archive/3627d9402e529770df9b0edf2aa8c0e0d6c6bb41.zip",
+        "sha256": "3369670b00dc5818713977ba716a664878cfa5d401a32a04ac077fedcd02edf3"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tclap/b15eadb617c5922a89a840e64cc645c5474303b7/BUCK",
         "sha256": "ca4a1e7633a1dfac28293f593f430dbe4a2f848f9f8b6b7d48738905d437ab4c"

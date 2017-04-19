@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/proto.git#d70c74c3a8d2abe746fe017edee564e6e8ae0efc",
+      "source": {
+        "url": "https://github.com/boostorg/proto/archive/d70c74c3a8d2abe746fe017edee564e6e8ae0efc.zip",
+        "sha256": "71d0ebdc92d0930a8bdb0f1e9aea4979dd21426997eb1c633a42f2fb2fba208b"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/proto/6be1787f5ca70f028202708d5f85ca2069046c5b/BUCK",
         "sha256": "14d641c17e4549912c1abfd8b5cf5b31c2ce38da5d174348a13c25253a5d8266"

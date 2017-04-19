@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/conversion.git#da8b2fe695cffda506059b49a4782ede01fba10f",
+      "source": {
+        "url": "https://github.com/boostorg/conversion/archive/da8b2fe695cffda506059b49a4782ede01fba10f.zip",
+        "sha256": "8b662f38a5dee2c7f39bfde7b07dbff207ed0b055af6edffcb49b3cf900f154a"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/conversion/2a302fbb4a7f4945049d68046c1a26782bc42828/BUCK",
         "sha256": "7e99a1e003d20837607874ebc314e16993b9eb622c1bd9d65f630c71b889c4bd"

@@ -4,7 +4,10 @@
   "url": "https://github.com/nothings/stb",
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:nothings/stb.git#6f6e11f85fd5c14bc9e9eb5edafb1b5dabd515d0",
+      "source": {
+        "url": "https://github.com/nothings/stb/archive/6f6e11f85fd5c14bc9e9eb5edafb1b5dabd515d0.zip",
+        "sha256": "088dad11eac07a7757ea839c3f3853b5b8ac77af734625d129bc0096d931eb83"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/stb/ca3aff9f5ed1f3a1f66f29b7b37b6a343e28c34e/BUCK",
         "sha256": "382950cd265568f19543e2dabc7fe9ccc01c5d3d743a805fffdd3ab20a2c6ebd"

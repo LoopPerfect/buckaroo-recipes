@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.17.2": {
-      "source": "git@github.com:kcat/openal-soft.git#0189b923a233e269b4c8f9d17f6475ace5e2e4de",
+      "source": {
+        "url": "https://github.com/kcat/openal-soft/archive/0189b923a233e269b4c8f9d17f6475ace5e2e4de.zip",
+        "sha256": "c54c20e3b0b4215cb5bec5e79f8d1edfe2c20c10914793e8cf085f8c502305ac"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/openal-soft/9bea2702be590b7fc5b57498d8f40674898c39c3/BUCK",
         "sha256": "8bcc9ceb1b52117a81ccef6728cd1a1f70dae9f008e0dcbf2af86d18eae6aab7"

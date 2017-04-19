@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/preprocessor.git#c2beb74b90969f369c62d0dea68aa5f0e203268e",
+      "source": {
+        "url": "https://github.com/boostorg/preprocessor/archive/c2beb74b90969f369c62d0dea68aa5f0e203268e.zip",
+        "sha256": "ac0c7ba6122c68b1164e1685a479ed7d9f25a5cccdc2631823350c4e2d64eae5"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/preprocessor/b8a8fdeea64d94aa7a5b059695f670f9816570f2/BUCK",
         "sha256": "50285a23ae4fad2b6b8b98c943ae276e1a91c711355f9dd6426c77b836d346c0"

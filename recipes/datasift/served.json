@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.4.1": {
-      "source": "git@github.com:datasift/served.git#281f81cbaab83ea1079830a17ac5af9497eac4f7",
+      "source": {
+        "url": "https://github.com/datasift/served/archive/281f81cbaab83ea1079830a17ac5af9497eac4f7.zip",
+        "sha256": "be071282d018ab560cfb23a10e0e205dd8011bdf763e3cedfa8b6a8303138e77"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/served/6c4ba76cc329cf9f2c7f11917fa0b13007a0f76d/BUCK",
         "sha256": "8156fc3b3b721661d48195ff79472da281c030316307601a58b2e869eda0cd20"

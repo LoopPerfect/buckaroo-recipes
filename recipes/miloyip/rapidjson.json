@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.1.0": {
-      "source": "git@github.com:miloyip/rapidjson.git#2fb78f9cee01996f020d5af7592b37c5a0693b31",
+      "source": {
+        "url": "https://github.com/miloyip/rapidjson/archive/2fb78f9cee01996f020d5af7592b37c5a0693b31.zip",
+        "sha256": "70af98ac476fd048f433d91b33052f5bd8dcc6775bd0287767ccfbc287206471"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/rapidjson/7ab08294e209ae73d3ecc450fc24a3e9fa46a5a0/BUCK",
         "sha256": "03f6827bd1c687a17fe2a84120e7aff261f0a050c495fbe2531cced3fa94d6d3"

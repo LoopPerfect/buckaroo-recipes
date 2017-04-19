@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.6.0": {
-      "source": "git@github.com:cesanta/frozen.git#ea88e40dd45015cc77f99835282d2b53112e900c",
+      "source": {
+        "url": "https://github.com/cesanta/frozen/archive/ea88e40dd45015cc77f99835282d2b53112e900c.zip",
+        "sha256": "44b0a18c4ceb1d3be4b2c589dcbbbbfb367afdc6ce7eee5e0b17be8abbfa05aa"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/frozen/9c3827aec514f29d36e5d99bb359ccbe35f1c89e/BUCK",
         "sha256": "8052953b92e5dfd15e250857361a0246a895061aca09ae0e40eb06a53fe38f9d"

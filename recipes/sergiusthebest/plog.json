@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.1.0": {
-      "source": "git@github.com:SergiusTheBest/plog.git#41e300110575df470cf211458870b3541272bad8",
+      "source": {
+        "url": "https://github.com/SergiusTheBest/plog/archive/41e300110575df470cf211458870b3541272bad8.zip",
+        "sha256": "997183ba1d4a046c12c45d149fae0f2e7067f484f352b2b82f34b27fedc79027"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/sparsehash/c8de39d3063fb22fb4c2c3f8f5eab077383ad160/BUCK",
         "sha256": "0598e5c8541e665a7b5bbf7c0d070293eacbea3f6e639f59f549eb7ff6888279"

@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:google/compact_enc_det.git#e21eb6aed10b9f6e2727f136c52420033214d458",
+      "source": {
+        "url": "https://github.com/google/compact_enc_det/archive/e21eb6aed10b9f6e2727f136c52420033214d458.zip",
+        "sha256": "a6d3c7c553c10da2def112cc3691670e37327bfcdb4cb289576f978a0f55699f"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/compact_enc_det/17f0024b870876396955059c640f21c72ba15863/BUCK",
         "sha256": "53fd7f96af0e0ae8787afa27ccc25f562da3cfc6a6fc54eb52d48aca02b6a9d3"

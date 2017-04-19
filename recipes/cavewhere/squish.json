@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.11.0": {
-      "source": "git@github.com:Cavewhere/squish.git#153aae1aadf918ff591a62d91d9205e669da1dfd",
+      "source": {
+        "url": "https://github.com/Cavewhere/squish/archive/153aae1aadf918ff591a62d91d9205e669da1dfd.zip",
+        "sha256": "91fd7c73e486e4b82b57ce2c933cc338160dc5e72466f81c37e992f7372d8f7b"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/squish/88ec355f7e50e15275ab44cdd093580e6f55fbab/BUCK",
         "sha256": "c6882a957a41d36681dabaf473f7e65bdc1b3dd3f3bf3686986bc3a56bad6982"

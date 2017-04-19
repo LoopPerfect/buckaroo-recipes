@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:SuperV1234/vrm_pp.git#6f8fd80f814d4815ec03cc6f154f7589422c3b70",
+      "source": {
+        "url": "https://github.com/SuperV1234/vrm_pp/archive/6f8fd80f814d4815ec03cc6f154f7589422c3b70.zip",
+        "sha256": "e145afd29308e24d9ab7f21572bb20feef449a488a8e870871e29288546d6737"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/vrm_pp/80bb06c2938ae7fade7eee29c4802e5b5a1c3dca/BUCK",
         "sha256": "77ae95bcd07ca3cac70442c8d18e4cdb63708d384ad93d6f76fe3912346ad84c"

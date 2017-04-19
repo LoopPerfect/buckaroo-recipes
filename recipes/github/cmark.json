@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.27.1": {
-      "source": "git@github.com:github/cmark.git#4d2f310fe6d27edcee81e54b59f3b381c2a7c43a",
+      "source": {
+        "url": "https://github.com/github/cmark/archive/4d2f310fe6d27edcee81e54b59f3b381c2a7c43a.zip",
+        "sha256": "e124158ec9aa88c7d9c81bbb30e32be6aa7881dbc5df6cc866facb48912f0a0d"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cmark/b75cadbd5d28ba75f38cbbaca2db2d6c4b2a561d/BUCK",
         "sha256": "f50b571552c8e5b559d62e4b5dca3af9ddbd19299fb33dbad4a05d4415f673ed"

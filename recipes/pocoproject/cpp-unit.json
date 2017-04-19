@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.7.8": {
-      "source": "git@github.com:pocoproject/poco.git#4403634bef7990ff0dff9f12a12a03b4d32006b6",
+      "source": {
+        "url": "https://github.com/pocoproject/poco/archive/4403634bef7990ff0dff9f12a12a03b4d32006b6.zip",
+        "sha256": "079e088de62a97e5712d83ccc35ad338555d5ac038bd7e9def8b4f77cbf8ce3d"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/poco/50ee439e3c371b1e518fef5de4621024821748ea/BUCK",
         "sha256": "5470e99a557eb3839d7daa61ebc7a135d65d74c3693ee8845267af56fc5c0224"

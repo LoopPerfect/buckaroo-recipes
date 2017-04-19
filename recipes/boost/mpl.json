@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/mpl.git#efc2a862a324ae2b509fa04b4bb48b98f5599f71",
+      "source": {
+        "url": "https://github.com/boostorg/mpl/archive/efc2a862a324ae2b509fa04b4bb48b98f5599f71.zip",
+        "sha256": "851dff9986db52dd2a471b02b012be2ddcc4eba349d7a031ee6410932eea746d"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/mpl/27115f47922ac1c6e899d113dc549448dc801ec1/BUCK",
         "sha256": "73a5de542c2a33a8ff409d703254b198d5cd473a6e2f4fa3e48b22dba4476767"

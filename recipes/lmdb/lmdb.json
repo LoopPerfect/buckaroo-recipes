@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.9.19": {
-      "source": "git@github.com:LMDB/lmdb.git#14cff072ec29f48093a9d40cc79934cf5376af4a",
+      "source": {
+        "url": "https://github.com/LMDB/lmdb/archive/14cff072ec29f48093a9d40cc79934cf5376af4a.zip",
+        "sha256": "878b3662c2cc3d189e1f47ba5b0cdce567ce2b234825b100862f25382424931d"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/lmdb/3e168897cbff71387516a947af2c185e5bfb1383/BUCK",
         "sha256": "c0ec17ee5dededb4df81355fb90c2f9a047f8c925f307c7fc98f54f72cbc5c77"

@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.0.11": {
-      "source": "git@github.com:jedisct1/libsodium.git#2f4f718cd94adab547c210a78050762cf667dfca",
+      "source": {
+        "url": "https://github.com/jedisct1/libsodium/archive/2f4f718cd94adab547c210a78050762cf667dfca.zip",
+        "sha256": "cc0e9c5fad5328e83a90e5874f8a6ad5db3f98634de71d2e818eea4f53549887"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libsodium/daab6fc5528f35f5addd7f813d959a31d3086e3a/BUCK",
         "sha256": "95eba5289696d3ba2c2a374f7e8f26168bfc63d1e8b3649ab4be878846804608"

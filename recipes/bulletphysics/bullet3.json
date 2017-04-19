@@ -8,7 +8,10 @@
   },
   "versions": {
     "2.86.1": {
-      "source": "git@github.com:bulletphysics/bullet3.git#45aa392a280d2020946f5ee112f73072bbab6001",
+      "source": {
+        "url": "https://github.com/bulletphysics/bullet3/archive/45aa392a280d2020946f5ee112f73072bbab6001.zip",
+        "sha256": "4ed784abf7b34e3e72069900879d4dbe84ed0bdf5dedee1c2f2e9a78e5f9f574"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/bullet3/4c960d5148de42797244d03a6706925987307e85/BUCK",
         "sha256": "bbba9960ad61a5ae1451e464ea807b281c1b9bda7094c5245c5d651f2f5429ce"

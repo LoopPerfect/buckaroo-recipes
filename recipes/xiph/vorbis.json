@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.3.5": {
-      "source": "git@github.com:xiph/vorbis.git#f4093202cb226b360d0edf8a948aa71142cec657",
+      "source": {
+        "url": "https://github.com/xiph/vorbis/archive/f4093202cb226b360d0edf8a948aa71142cec657.zip",
+        "sha256": "9803a39fdf3372d2e90da720d65ee33fa4944688252494b95c70e69c5a2a0d07"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/vorbis/484cd6c7f20a1d53700bc7462d3ffa75c8191ad6/BUCK",
         "sha256": "8fc57f33b7a0b4b530a837d7ec15f158c6a55659ed57432b28216660225e12d8"

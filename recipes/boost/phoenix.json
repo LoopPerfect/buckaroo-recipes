@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/phoenix.git#04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6",
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6.zip",
+        "sha256": "f790bfcb95a58e7dc8a60594bf49503ca9ed6b7142530a39497624b965ec6908"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
         "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"

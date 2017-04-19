@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/concept_check.git#b65104932a426148932acec7a41c8f041a9069ca",
+      "source": {
+        "url": "https://github.com/boostorg/concept_check/archive/b65104932a426148932acec7a41c8f041a9069ca.zip",
+        "sha256": "5780df4abb9aea52df9eb54918749e75472e9ce7c2331bb57266734a3b812c89"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/concept_check/e4f7293a00b37ccd142ff8674d1990337417ebf3/BUCK",
         "sha256": "b0366449134f54fe4b71ee77c469d7d47c00a11b77904d57330d1bef5570f6f4"

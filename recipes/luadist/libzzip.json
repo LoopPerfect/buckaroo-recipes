@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.13.58": {
-      "source": "git@github.com:LuaDist/libzzip.git#b3ee8657551e3b25d12ff494fe67f84e3cb25e34",
+      "source": {
+        "url": "https://github.com/LuaDist/libzzip/archive/b3ee8657551e3b25d12ff494fe67f84e3cb25e34.zip",
+        "sha256": "e98579078b3a52518d6d9406d7f85d308db3706bc9ae7caa5a028e9d7492200d"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libzzip/b42871440582baf74fa1a62e19a3eeeb030fed28/BUCK",
         "sha256": "147f2a2801e24e712a63a1283646606ebfa60c714b045b48ab9d4fae3915c387"

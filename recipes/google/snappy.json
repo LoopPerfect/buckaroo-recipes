@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.1.4": {
-      "source": "git@github.com:google/snappy.git#2d99bd14d471664758e4dfdf81b44f413a7353fd",
+      "source": {
+        "url": "https://github.com/google/snappy/archive/2d99bd14d471664758e4dfdf81b44f413a7353fd.zip",
+        "sha256": "9ff0ca3e1417135bde5add9a60b6a98a7ed0aabea255c426d83423be522b358a"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/snappy/e999b9bb2cbc3153118554c5af9c22414d155204/BUCK",
         "sha256": "8c9006f07d52e9dc13d1a05911cf2503e3a77c4db72c6b3e27a51bffa36490d9"

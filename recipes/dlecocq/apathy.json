@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:dlecocq/apathy.git#92fc1c69a84fb1a7c0bad11ac7d5b24c0ece2ecb",
+      "source": {
+        "url": "https://github.com/dlecocq/apathy/archive/92fc1c69a84fb1a7c0bad11ac7d5b24c0ece2ecb.zip",
+        "sha256": "edc20c17d87dcca735b92c5ef457ab0471ba554387e92c56b5246a01182fd6de"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/apathy/e49a7560d4a9d8c963362b151605015eddf16b10/BUCK",
         "sha256": "e7a85c207f5b7f88caf73e35a99b799bd5b0ae2654e754bebf687f4bb3c32ef3"

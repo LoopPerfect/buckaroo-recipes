@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/exception.git#da0f861b05111423397f97ae1c285096f17ad584",
+      "source": {
+        "url": "https://github.com/boostorg/exception/archive/da0f861b05111423397f97ae1c285096f17ad584.zip",
+        "sha256": "96bc2db4c92218a581e05c52a9c95d23bcfdaad2c527c46a7f347c7d43b9bc8d"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/exception/a832ebc6c14389f460eaf2a8e974410a79b34d5b/BUCK",
         "sha256": "86134dbfbe70626fdeb2a652877d958ab1c4bb2dc985d826dc934d55bfa6b56d"

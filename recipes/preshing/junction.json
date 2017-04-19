@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:preshing/junction.git#0883d5c0da403f554391e10deef84d42da42c630",
+      "source": {
+        "url": "https://github.com/preshing/junction/archive/0883d5c0da403f554391e10deef84d42da42c630.zip",
+        "sha256": "2c577e9f07a1473859ca12f8bc962235bbae1047de7daada8e91ec786e4ec25c"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/junction/903eb333ffd4d13e923eb8bd69139892555d280d/BUCK",
         "sha256": "637c4c8abdee6cfac859796da0ea346009b42397df4d67bb618c3c3862d0fc4b"

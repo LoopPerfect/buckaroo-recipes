@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/throw_exception.git#c548923b32735fcbc6cdf34c8e9b382d58b4b407",
+      "source": {
+        "url": "https://github.com/boostorg/throw_exception/archive/c548923b32735fcbc6cdf34c8e9b382d58b4b407.zip",
+        "sha256": "d9f2f4ebf83e70b3b7ebc2ac6a4c3216ff733f9bf133344a7d7b10d444efaf6c"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/throw_exception/95e0f22e807bc1d4b44c816fbac816d88d583094/BUCK",
         "sha256": "23b2c12353c32a7847120bf02ec36a643673cd688995ddfbe46c3c7180cbff39"

@@ -5,7 +5,10 @@
   "github": "njlr/AngelScript",
   "versions": {
     "2.31.2": {
-      "source": "git@github.com:njlr/AngelScript.git#5a14508ff0321ba7980f900a96713a971faf3b5c"
+      "source": {
+        "url": "https://github.com/njlr/AngelScript/archive/5a14508ff0321ba7980f900a96713a971faf3b5c.zip",
+        "sha256": "c2aeb79ada353f065ae23a71639d5b5f0be5d558c64d428a45b952cd034872ad"
+      }
     }
   }
 }

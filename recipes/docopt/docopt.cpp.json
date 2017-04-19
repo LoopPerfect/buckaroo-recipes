@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.6.2": {
-      "source": "git@github.com:docopt/docopt.cpp.git#18110222dc9cb57ec880ce24fbbd7291b2d1046e",
+      "source": {
+        "url": "https://github.com/docopt/docopt.cpp/archive/18110222dc9cb57ec880ce24fbbd7291b2d1046e.zip",
+        "sha256": "8911be0539303afc44bcf1afeda26f62acc521070d9646fa9dfbb7b48431e67a"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/docopt.cpp/3c43e756cbf265ed1505287003cba626c58594bf/BUCK",
         "sha256": "903d338b520c18defb64165341dd2f5d17823ebaae71e8538ef28c74271ae950"

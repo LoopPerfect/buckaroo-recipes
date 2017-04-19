@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:aigamedev/btsk.git#8124c3e73719a05638a053782a749d039ae7cedf",
+      "source": {
+        "url": "https://github.com/aigamedev/btsk/archive/8124c3e73719a05638a053782a749d039ae7cedf.zip",
+        "sha256": "0f098766f0b2d5a61f12542d47805c028fa88b2e8b4f96e62e4ce9aee12edbac"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/btsk/efa56629fa9450619d2411e72c2f326433c86255/BUCK",
         "sha256": "1c5d88e875fbd1e63642b742b8b6f9852531ca49ca93e6a8b0de55f9d2d52d7a"

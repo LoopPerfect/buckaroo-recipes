@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/predef.git#ca4d2f32888d0efb6ea662b0afa01ba3a20c647d",
+      "source": {
+        "url": "https://github.com/boostorg/predef/archive/ca4d2f32888d0efb6ea662b0afa01ba3a20c647d.zip",
+        "sha256": "1cbdffe66bbee760b0be883728aae1efd0e601f4ffe3fec972fb33a9cc5bb487"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/predef/a1dc5700f0c1337146a3d12882e0b49adaaf1b59/BUCK",
         "sha256": "4a295d6819b43525abcf7a53cc9494906c3e21987d55e93cf6b34a4d51d8f73c"

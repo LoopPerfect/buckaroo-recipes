@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:jarikomppa/soloud.git#87134b73fdc87686e646c8e790d3fde5ca82718b",
+      "source": {
+        "url": "https://github.com/jarikomppa/soloud/archive/87134b73fdc87686e646c8e790d3fde5ca82718b.zip",
+        "sha256": "b93442bf5344f186abe6f3ec360caff3b931a7cf78ce48122afaf29df6d5b0e3"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/soloud/cd5138159eed5843108b60f576bd110b3aa09e7a/BUCK",
         "sha256": "c75e64db6d04208a0d23700fe6b9170447f6208970567c9d65540e1fd9995814"

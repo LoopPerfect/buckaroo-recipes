@@ -8,7 +8,10 @@
   },
   "versions": {
     "1.11.0": {
-      "source": "git@github.com:libuv/libuv.git#7452ef4e06a4f99ee26b694c65476401534f2725",
+      "source": {
+        "url": "https://github.com/libuv/libuv/archive/7452ef4e06a4f99ee26b694c65476401534f2725.zip",
+        "sha256": "382f7b923d1a430dca9a0ef880a7c39e6a59cec6dddcea3b6222b28dbd11ce2e"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libuv/4f416e96a968bb474652aa7690295f164be595e1/BUCK",
         "sha256": "a91f96dcb409b03433a593dfa27359afd4ef3975af62b19d297bb9e01288e847"

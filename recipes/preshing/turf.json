@@ -8,7 +8,10 @@
   },
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:preshing/turf.git#9ae0d4b984fa95ed5f823274b39c87ee742f6650",
+      "source": {
+        "url": "https://github.com/preshing/turf/archive/9ae0d4b984fa95ed5f823274b39c87ee742f6650.zip",
+        "sha256": "f69522ebdd6d302aa69c808313d801b702d39e7774f7c7330404ff6d6a1cf1d4"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/turf/637b3e30f07915262b2f1ac69ef6b435d3ff5aed/BUCK",
         "sha256": "23d520fa019e704b7afff7ec0f156670c3b904ed62747e3823f2e619b9abf3f8"
