@@ -1,0 +1,28 @@
+{
+  "name": "timer",
+  "license": "BSL-1.0",
+  "url": "http://boost.org/libs/timer",
+  "github": {
+    "owner": "boostorg",
+    "project": "timer"
+  },
+  "versions": {
+    "1.63.0": {
+      "source": {
+        "url": "https://github.com/boostorg/timer/archive/65d06352434dcb7812c866014f4f05e337bfa900.zip",
+        "sha256": "f7c3c4a04281375e2c4ce3f69681615ceea256d6def4258799d252b83a4e28f4",
+        "subPath": "timer-65d06352434dcb7812c866014f4f05e337bfa900"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/timer/fe7ffd35167b9697299570c66045eb65b536ee77/BUCK",
+        "sha256": "4b814c6fc701a5b258df30639765b24756ff8ffa853aa451553027777fa0e5e4"
+      },
+      "dependencies": {
+        "boost/config": "1.63.0",
+        "boost/system": "1.63.0",
+        "boost/chrono": "1.63.0",
+        "boost/io": "1.63.0"
+      }
+    }
+  }
+}

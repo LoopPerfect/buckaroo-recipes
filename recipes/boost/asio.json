@@ -25,7 +25,8 @@
         "boost/function": "1.63.0",
         "boost/bind": "1.63.0",
         "boost/config": "1.63.0",
-        "boost/regex": "1.63.0"
+        "boost/regex": "1.63.0",
+        "openssl/openssl": "1.0.211"
       }
     }
   }
