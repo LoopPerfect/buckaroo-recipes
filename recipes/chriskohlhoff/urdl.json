@@ -1,0 +1,28 @@
+{
+  "name": "urdl",
+  "license": "BSL-1.0",
+  "url": "http://think-async.com/Urdl/",
+  "github": {
+    "owner": "chriskohlhoff",
+    "project": "urdl"
+  },
+  "versions": {
+    "0.1.0": {
+      "source": {
+        "url": "https://github.com/chriskohlhoff/urdl/archive/9f7ee4570d2a3d8948b7e4e0c94a15cdad0da7b5.zip",
+        "sha256": "15c361dad3cc6542629ced7fcc48a3b8f9bb90e49f4fb854184e1768eecbea57",
+        "subPath": "urdl-9f7ee4570d2a3d8948b7e4e0c94a15cdad0da7b5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/urdl/ea92c48f2ea3a0944ab0f5bf806fb508c7c48a3f/BUCK",
+        "sha256": "f5e32d9ecc8e130c741eaffbb7c797c1cfef04a5033d468832a71b6e269ef4ee"
+      },
+      "dependencies": {
+        "boost/system": "1.63.0",
+        "boost/array": "1.63.0",
+        "boost/asio": "1.63.0",
+        "boost/timer": "1.63.0"
+      }
+    }
+  }
+}
