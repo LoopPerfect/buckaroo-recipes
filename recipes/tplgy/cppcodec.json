@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/tplgy/cppcodec/archive/61d9b044d6644293f99fb87dfadc15dcab951bd9.zip",
-        "sha256": "2de51c10dfa76a857b0f61790463fdc3553cceddc57d5ab40334d7a77a7d6b14"
+        "sha256": "2de51c10dfa76a857b0f61790463fdc3553cceddc57d5ab40334d7a77a7d6b14",
+        "subPath": "cppcodec-61d9b044d6644293f99fb87dfadc15dcab951bd9"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cppcodec/002b506c80ceefa4b6ac861f700c26525b2c06ca/BUCK",

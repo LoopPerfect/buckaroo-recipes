@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/phoenix/archive/04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6.zip",
-        "sha256": "f790bfcb95a58e7dc8a60594bf49503ca9ed6b7142530a39497624b965ec6908"
+        "sha256": "f790bfcb95a58e7dc8a60594bf49503ca9ed6b7142530a39497624b965ec6908",
+        "subPath": "phoenix-04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",

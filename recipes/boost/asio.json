@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/asio/archive/4fcaabffebfa4c46632e0143b83a6954b0cedb48.zip",
-        "sha256": "00ffcf7d761559315faea1b35614bfc57caf3ecaa26143c04233096d6752dc07"
+        "sha256": "00ffcf7d761559315faea1b35614bfc57caf3ecaa26143c04233096d6752dc07",
+        "subPath": "asio-4fcaabffebfa4c46632e0143b83a6954b0cedb48"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",

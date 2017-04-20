@@ -10,7 +10,8 @@
     "1.0.3": {
       "source": {
         "url": "https://github.com/jgarzik/univalue/archive/a31231b51965effa6f2d7be1ba8392d652b9f971.zip",
-        "sha256": "60806079dfd5ea31ece1cb6a444480c8d373fed7ccf61b15606037bc5ad0df6a"
+        "sha256": "60806079dfd5ea31ece1cb6a444480c8d373fed7ccf61b15606037bc5ad0df6a",
+        "subPath": "univalue-a31231b51965effa6f2d7be1ba8392d652b9f971"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/univalue/73427a412667ee4d3cccf0910cfa82b2bc3446b1/BUCK",

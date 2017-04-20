@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/bartgrantham/qs_parse/archive/5f1a1933a8ae3877d299b4bd758856f870f49238.zip",
-        "sha256": "f9467cc0e3897508e4b2c4175ec70c128e7b78f19e606f23670e10b535722dac"
+        "sha256": "f9467cc0e3897508e4b2c4175ec70c128e7b78f19e606f23670e10b535722dac",
+        "subPath": "qs_parse-5f1a1933a8ae3877d299b4bd758856f870f49238"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/qs_parse/165daa0ac71d42a645d576ed33052d76c43fb912/BUCK",

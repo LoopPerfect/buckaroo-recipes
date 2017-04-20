@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/xpressive/archive/f03b7b8a524f00d2ede4dd5efa7abc0815073eb0.zip",
-        "sha256": "137b28109370fcf90f15477229e9fc87eee2ad6ec101bacc35bc3d8878935946"
+        "sha256": "137b28109370fcf90f15477229e9fc87eee2ad6ec101bacc35bc3d8878935946",
+        "subPath": "xpressive-f03b7b8a524f00d2ede4dd5efa7abc0815073eb0"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",

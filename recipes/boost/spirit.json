@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/spirit/archive/1e2054aab4856f652e722d1bfc2465d935d4b39c.zip",
-        "sha256": "5b2588b2abedde4fe9438b2186dfb59c2354ee1e037899cde9c7c0ce3b73ea00"
+        "sha256": "5b2588b2abedde4fe9438b2186dfb59c2354ee1e037899cde9c7c0ce3b73ea00",
+        "subPath": "spirit-1e2054aab4856f652e722d1bfc2465d935d4b39c"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/spirit/945f94164ac2aaa2d89ee43da3d07e8a93322140/BUCK",

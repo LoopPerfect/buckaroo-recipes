@@ -10,7 +10,8 @@
     "1.0.0": {
       "source": {
         "url": "https://github.com/ddinu/observable/archive/6910c0002091d669ca5e2b28582726ac215ec7c5.zip",
-        "sha256": "d1e2dd216a247921d3df251e7be861f05ccab7e48427c7c583434a6366121f51"
+        "sha256": "d1e2dd216a247921d3df251e7be861f05ccab7e48427c7c583434a6366121f51",
+        "subPath": "observable-6910c0002091d669ca5e2b28582726ac215ec7c5"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/eigen/c277da1b12affabb33c68aa7539c5795a69066ef/BUCK",

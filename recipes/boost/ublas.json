@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
-        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e"
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",

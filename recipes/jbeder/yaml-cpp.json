@@ -10,7 +10,8 @@
     "0.5.3": {
       "source": {
         "url": "https://github.com/jbeder/yaml-cpp/archive/b57efe94e7d445713c29f863adb8c23438eaa217.zip",
-        "sha256": "90f82ad12f885c7e3268933956502b5e25aecbfac2798fc35b75e6cdf3d4bdf9"
+        "sha256": "90f82ad12f885c7e3268933956502b5e25aecbfac2798fc35b75e6cdf3d4bdf9",
+        "subPath": "yaml-cpp-b57efe94e7d445713c29f863adb8c23438eaa217"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/yaml-cpp/buck/0.5.3/BUCK",

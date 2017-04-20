@@ -10,7 +10,8 @@
     "3.6.0": {
       "source": {
         "url": "https://github.com/python/cpython/archive/5c4568a05a0a62b5947c55f68f9f2ecfb90a4f12.zip",
-        "sha256": "99c65044927a3b97073fd623b185bef5dcb164bde914282daba2d26477ac8908"
+        "sha256": "99c65044927a3b97073fd623b185bef5dcb164bde914282daba2d26477ac8908",
+        "subPath": "cpython-5c4568a05a0a62b5947c55f68f9f2ecfb90a4f12"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cpython/03edc79f3b9774614805a9cf0556c54e9730bade/BUCK",

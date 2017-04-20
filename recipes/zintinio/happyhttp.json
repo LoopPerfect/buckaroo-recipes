@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/Zintinio/HappyHTTP/archive/0a8a978c497a7533b9e7c69c7329059f7d9180ab.zip",
-        "sha256": "a09f3f7ecc479faae63ba615c84ebca2089af475eeb2cd03c0cb1ce0c8bdfffe"
+        "sha256": "a09f3f7ecc479faae63ba615c84ebca2089af475eeb2cd03c0cb1ce0c8bdfffe",
+        "subPath": "HappyHTTP-0a8a978c497a7533b9e7c69c7329059f7d9180ab"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/HappyHTTP/e6a900860ec422bded3b9f61d9cb920d7307df25/BUCK",

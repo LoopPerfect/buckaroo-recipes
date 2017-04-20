@@ -10,7 +10,8 @@
     "3.0.1": {
       "source": {
         "url": "https://github.com/fmtlib/fmt/archive/7fa8f8fa48b0903deab5bb42e6760477173ac485.zip",
-        "sha256": "8767c9a666be5b5d2b396286b107750262dd04fa41334af8a28c202bc85518f2"
+        "sha256": "8767c9a666be5b5d2b396286b107750262dd04fa41334af8a28c202bc85518f2",
+        "subPath": "fmt-7fa8f8fa48b0903deab5bb42e6760477173ac485"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/fmt/efc3ef51b7a67b88935478d82414c842ce861b89/BUCK",
@@ -20,7 +21,8 @@
     "2.1.1": {
       "source": {
         "url": "https://github.com/fmtlib/fmt/archive/ed5a862375e2f7244d4b6f78f67d53d8621525e6.zip",
-        "sha256": "8cf12243dc2960867b31251dc7311d99272becab9e15e96de276086a304dfaf5"
+        "sha256": "8cf12243dc2960867b31251dc7311d99272becab9e15e96de276086a304dfaf5",
+        "subPath": "fmt-ed5a862375e2f7244d4b6f78f67d53d8621525e6"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/fmt/efc3ef51b7a67b88935478d82414c842ce861b89/BUCK",

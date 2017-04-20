@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/gpakosz/whereami/archive/523c28a2155d1b56c4cf6314a792bcb0b70a76fc.zip",
-        "sha256": "d4b77fd33b4c7f81d930117bf0db7e8e66fa109e3f95b71bc4fd330af0e9211c"
+        "sha256": "d4b77fd33b4c7f81d930117bf0db7e8e66fa109e3f95b71bc4fd330af0e9211c",
+        "subPath": "whereami-523c28a2155d1b56c4cf6314a792bcb0b70a76fc"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/whereami/41ceff32a6eafc448802af21bf0c8ef977fd6c08/BUCK",

@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/tokenizer/archive/6b83489ede7c2bf25073a05abb62655cd1235e26.zip",
-        "sha256": "fcaac674ee2eb68a8b183c17b3f544a41deaf98b1702ac33c0220d292fa9d922"
+        "sha256": "fcaac674ee2eb68a8b183c17b3f544a41deaf98b1702ac33c0220d292fa9d922",
+        "subPath": "tokenizer-6b83489ede7c2bf25073a05abb62655cd1235e26"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",

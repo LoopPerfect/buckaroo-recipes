@@ -10,7 +10,8 @@
     "1.1.0": {
       "source": {
         "url": "https://github.com/miloyip/rapidjson/archive/2fb78f9cee01996f020d5af7592b37c5a0693b31.zip",
-        "sha256": "70af98ac476fd048f433d91b33052f5bd8dcc6775bd0287767ccfbc287206471"
+        "sha256": "70af98ac476fd048f433d91b33052f5bd8dcc6775bd0287767ccfbc287206471",
+        "subPath": "rapidjson-2fb78f9cee01996f020d5af7592b37c5a0693b31"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/rapidjson/7ab08294e209ae73d3ecc450fc24a3e9fa46a5a0/BUCK",

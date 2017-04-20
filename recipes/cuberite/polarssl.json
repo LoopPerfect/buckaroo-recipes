@@ -10,7 +10,8 @@
     "1.3.6": {
       "source": {
         "url": "https://github.com/cuberite/polarssl/archive/784b04ff9afd5faeaeb15c3fa159ff98adf55182.zip",
-        "sha256": "a4cb51aceb0498a58d1d8ca2ece14b540f0a8a410226b3b1c609e6d0c6b37e59"
+        "sha256": "a4cb51aceb0498a58d1d8ca2ece14b540f0a8a410226b3b1c609e6d0c6b37e59",
+        "subPath": "polarssl-784b04ff9afd5faeaeb15c3fa159ff98adf55182"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/polarssl/b065f53e3b3ac245f3a99e4c927f4ac48c7d7bd1/BUCK",

@@ -10,7 +10,8 @@
     "0.0.4": {
       "source": {
         "url": "https://github.com/FidoProject/Fido/archive/5435feb2364ee2ec1281825c52da6645ca6e0929.zip",
-        "sha256": "122a9bcb08591fd3cc6650cf5822c465ca672556df4fc1fe38025c1e3fb9f0c7"
+        "sha256": "122a9bcb08591fd3cc6650cf5822c465ca672556df4fc1fe38025c1e3fb9f0c7",
+        "subPath": "Fido-5435feb2364ee2ec1281825c52da6645ca6e0929"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/Fido/cd3af0437e1e12777fde6501e24aacec2b5db2b3/BUCK",

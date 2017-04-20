@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/njlr/smallsha1/archive/5cc1b2bfdfbf917f3d6afca5e40418ddd16f2f49.zip",
-        "sha256": "6a2f8cf68d802a7a2591c0c04dbaf59db70d4a68d80b6697e5e9bb0a06978e5d"
+        "sha256": "6a2f8cf68d802a7a2591c0c04dbaf59db70d4a68d80b6697e5e9bb0a06978e5d",
+        "subPath": "smallsha1-5cc1b2bfdfbf917f3d6afca5e40418ddd16f2f49"
       }
     }
   }

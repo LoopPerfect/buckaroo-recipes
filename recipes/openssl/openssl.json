@@ -10,7 +10,8 @@
     "1.0.211": {
       "source": {
         "url": "https://github.com/openssl/openssl/archive/081314d07705aa58912845c213a48414d8f616a9.zip",
-        "sha256": "c8a4fadcbdd42278dc00c07d76bf218fb77827061b061327ee2c81cb41eca6e1"
+        "sha256": "c8a4fadcbdd42278dc00c07d76bf218fb77827061b061327ee2c81cb41eca6e1",
+        "subPath": "openssl-081314d07705aa58912845c213a48414d8f616a9"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/openssl/d09a2f62065edae1aa585577f6e245aca1a9b326/BUCK",

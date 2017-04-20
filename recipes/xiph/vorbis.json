@@ -10,7 +10,8 @@
     "1.3.5": {
       "source": {
         "url": "https://github.com/xiph/vorbis/archive/f4093202cb226b360d0edf8a948aa71142cec657.zip",
-        "sha256": "9803a39fdf3372d2e90da720d65ee33fa4944688252494b95c70e69c5a2a0d07"
+        "sha256": "9803a39fdf3372d2e90da720d65ee33fa4944688252494b95c70e69c5a2a0d07",
+        "subPath": "vorbis-f4093202cb226b360d0edf8a948aa71142cec657"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/vorbis/484cd6c7f20a1d53700bc7462d3ffa75c8191ad6/BUCK",

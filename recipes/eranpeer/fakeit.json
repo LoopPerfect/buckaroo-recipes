@@ -10,7 +10,8 @@
     "2.0.3": {
       "source": {
         "url": "https://github.com/eranpeer/FakeIt/archive/2eb812b7ef7e72cb2e0ed2e1283b8bcc858fc555.zip",
-        "sha256": "e789b9406a6e0fec5d99ac56cfab8c4ed2a7bf7ce2e1ff98efbd3e3fbd0603a8"
+        "sha256": "e789b9406a6e0fec5d99ac56cfab8c4ed2a7bf7ce2e1ff98efbd3e3fbd0603a8",
+        "subPath": "FakeIt-2eb812b7ef7e72cb2e0ed2e1283b8bcc858fc555"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/FakeIt/83cd07dce6a3ec746ac3f1d6397fd07acf20c29c/BUCK",

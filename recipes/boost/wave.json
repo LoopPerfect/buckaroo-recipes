@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/wave/archive/1d9bdb7631f79e60cca07f7790457707f176bc23.zip",
-        "sha256": "d70668eec483f12e3f93241145f0659a283b5a637ed85070009c64c4f8fdc5d5"
+        "sha256": "d70668eec483f12e3f93241145f0659a283b5a637ed85070009c64c4f8fdc5d5",
+        "subPath": "wave-1d9bdb7631f79e60cca07f7790457707f176bc23"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",

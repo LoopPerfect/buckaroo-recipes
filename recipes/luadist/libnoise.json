@@ -10,7 +10,8 @@
     "1.0.0": {
       "source": {
         "url": "https://github.com/LuaDist/libnoise/archive/c62de71aca401aea06bed84f36d57f1dd49f1c9e.zip",
-        "sha256": "2f6bc7af803ac545490d801d1a5e84087c95ba699af0f0e135f11060bcb83c08"
+        "sha256": "2f6bc7af803ac545490d801d1a5e84087c95ba699af0f0e135f11060bcb83c08",
+        "subPath": "libnoise-c62de71aca401aea06bed84f36d57f1dd49f1c9e"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libnoise/1b60063ec1ebcf894c4215e7859ef2716864b34e/BUCK",

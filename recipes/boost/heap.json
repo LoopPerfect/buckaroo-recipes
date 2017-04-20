@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/heap/archive/173349cee1942992f322f26fff2b6243319e7d65.zip",
-        "sha256": "935253e7650cc259379ee854928f86510ef909cddb066f56497e1db49846e24b"
+        "sha256": "935253e7650cc259379ee854928f86510ef909cddb066f56497e1db49846e24b",
+        "subPath": "heap-173349cee1942992f322f26fff2b6243319e7d65"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/heap/f4886f8e6ae69bd9049a2d49f06344628a53f6f6/BUCK",

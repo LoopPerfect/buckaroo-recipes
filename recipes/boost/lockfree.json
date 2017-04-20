@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/lockfree/archive/a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6.zip",
-        "sha256": "27597d1ab1c8653c6415a1076880d0808dad7a524e5f874ab2acca654ec55963"
+        "sha256": "27597d1ab1c8653c6415a1076880d0808dad7a524e5f874ab2acca654ec55963",
+        "subPath": "lockfree-a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",

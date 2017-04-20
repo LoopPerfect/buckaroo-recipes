@@ -10,7 +10,8 @@
     "1.0.0": {
       "source": {
         "url": "https://github.com/njlr/tiny-dnn/archive/2a2b50caa437a5964a61e45ffc83e70558e2bc68.zip",
-        "sha256": "7f837291a6a2b08fa31fb5bdf462e8b1160fe19144dcd2ef87695d44e784cc54"
+        "sha256": "7f837291a6a2b08fa31fb5bdf462e8b1160fe19144dcd2ef87695d44e784cc54",
+        "subPath": "tiny-dnn-2a2b50caa437a5964a61e45ffc83e70558e2bc68"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tiny-dnn/74852517428d5424db470c9b91a0699c12ee7f7b/BUCK",

@@ -10,7 +10,8 @@
     "1.1.5": {
       "source": {
         "url": "https://github.com/google/double-conversion/archive/57b1e094dbd12152f4daf8c6e91184fabf603906.zip",
-        "sha256": "db14d6c4d76e6819f6cf6d44a027ae68b93a11b0ec78d112bb971339451495aa"
+        "sha256": "db14d6c4d76e6819f6cf6d44a027ae68b93a11b0ec78d112bb971339451495aa",
+        "subPath": "double-conversion-57b1e094dbd12152f4daf8c6e91184fabf603906"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/double-conversion/e2d8750da4b7db0044270567ed45221e4f41a26d/BUCK",

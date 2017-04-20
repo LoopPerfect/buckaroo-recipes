@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/KhronosGroup/EGL-Registry/archive/0ec0be17fe877978805efbbbc86165adf2b7b2c5.zip",
-        "sha256": "24d555398c7d3714b9c40eb93265930c054af78606b215561485cf51199c8c6a"
+        "sha256": "24d555398c7d3714b9c40eb93265930c054af78606b215561485cf51199c8c6a",
+        "subPath": "EGL-Registry-0ec0be17fe877978805efbbbc86165adf2b7b2c5"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/EGL-Registry/d3ccbf46c5663b14cab4db3760889300a4f7bbb9/BUCK",

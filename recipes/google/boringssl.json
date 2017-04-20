@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/google/boringssl/archive/d2a884ab15f0429e5a7da56319b8d7ee44572207.zip",
-        "sha256": "822fe5004ff57033d93562019f9eb86bbc53faff07f73fe438c7d12c77844015"
+        "sha256": "822fe5004ff57033d93562019f9eb86bbc53faff07f73fe438c7d12c77844015",
+        "subPath": "boringssl-d2a884ab15f0429e5a7da56319b8d7ee44572207"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/boringssl/90dfe99e61dc2faf93e774abc29e085534bfc31c/BUCK",

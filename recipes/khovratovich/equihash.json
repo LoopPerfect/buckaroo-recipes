@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/khovratovich/equihash/archive/4140bd65504e27b405327cea657980524287a7a9.zip",
-        "sha256": "434aa3f2910d48cc713e5edc4286eb9908a2bf7691bbf86ca5553f91b833f81f"
+        "sha256": "434aa3f2910d48cc713e5edc4286eb9908a2bf7691bbf86ca5553f91b833f81f",
+        "subPath": "equihash-4140bd65504e27b405327cea657980524287a7a9"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/equihash/f2723cffab00533bfe2f71c39a96505153fbe923/BUCK",

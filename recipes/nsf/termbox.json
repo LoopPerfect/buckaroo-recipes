@@ -10,7 +10,8 @@
     "1.1.0": {
       "source": {
         "url": "https://github.com/nsf/termbox/archive/aba34487481da9c7102573f8f5db1be469386a72.zip",
-        "sha256": "19fd1fd1dfac827d9f4bf54e0115d41701ab96af35f7e0e850994e1185656dcd"
+        "sha256": "19fd1fd1dfac827d9f4bf54e0115d41701ab96af35f7e0e850994e1185656dcd",
+        "subPath": "termbox-aba34487481da9c7102573f8f5db1be469386a72"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/termbox/d81beaacc2a5d4c598cc2d2b8bccb4308a79011e/BUCK",

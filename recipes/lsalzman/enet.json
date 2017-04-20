@@ -10,7 +10,8 @@
     "1.3.13": {
       "source": {
         "url": "https://github.com/lsalzman/enet/archive/f46fee0acc8e243b2b6910b09693f93c3aad775f.zip",
-        "sha256": "c934fae20f12decbc83f3bc6af2ff6b6d74d4838b2a83e193b4a612a3be8e3a5"
+        "sha256": "c934fae20f12decbc83f3bc6af2ff6b6d74d4838b2a83e193b4a612a3be8e3a5",
+        "subPath": "enet-f46fee0acc8e243b2b6910b09693f93c3aad775f"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/enet/e67031c1a009b6ac9afc6646c57e4a1f902175a0/BUCK",

@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/intrusive/archive/190900e1b00f6dcd1132baf584231e69acd70e76.zip",
-        "sha256": "9988359499bdaaba7874bb2980d8767c5cf9291f062f82afcdba938b28f8cd6f"
+        "sha256": "9988359499bdaaba7874bb2980d8767c5cf9291f062f82afcdba938b28f8cd6f",
+        "subPath": "intrusive-190900e1b00f6dcd1132baf584231e69acd70e76"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",

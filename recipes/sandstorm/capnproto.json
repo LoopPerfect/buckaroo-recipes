@@ -10,7 +10,8 @@
     "0.5.3": {
       "source": {
         "url": "https://github.com/sandstorm-io/capnproto/archive/133b496e09fdb9937a364a12b69385f2dbcc9cdb.zip",
-        "sha256": "2199a56a845f0a48c6fb85c0c768878f55457b9f82bf7a97f385e58d2cae3889"
+        "sha256": "2199a56a845f0a48c6fb85c0c768878f55457b9f82bf7a97f385e58d2cae3889",
+        "subPath": "capnproto-133b496e09fdb9937a364a12b69385f2dbcc9cdb"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/capnproto/c3bc08512425cc4c74348c68aeef2607c8537dea/BUCK",

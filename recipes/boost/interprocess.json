@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/interprocess/archive/033e5ce0379e343f657050ff3a16e1a219df4fca.zip",
-        "sha256": "e32d2564b2ee1c558d47d8b7be316c501168f82f94c163632e39d3663172243b"
+        "sha256": "e32d2564b2ee1c558d47d8b7be316c501168f82f94c163632e39d3663172243b",
+        "subPath": "interprocess-033e5ce0379e343f657050ff3a16e1a219df4fca"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",

@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/taocpp/sequences/archive/e376e2fb35fef11e5379614b94c6f7da6c33a75f.zip",
-        "sha256": "081480350e80fbc9a040b8c89651640bd7a9da8988b6f152fbed85f739bd6d2f"
+        "sha256": "081480350e80fbc9a040b8c89651640bd7a9da8988b6f152fbed85f739bd6d2f",
+        "subPath": "sequences-e376e2fb35fef11e5379614b94c6f7da6c33a75f"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/sequences/6cf293ae53c35656fa1507c58235e5bed5368886/BUCK",

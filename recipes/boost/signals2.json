@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/signals2/archive/0807acf604989bc72cbb60a9a55f43f976a18372.zip",
-        "sha256": "a48d111a214852bf4a2c416ef2ebcd5e125d6480ea67902c9310f34ba38e6223"
+        "sha256": "a48d111a214852bf4a2c416ef2ebcd5e125d6480ea67902c9310f34ba38e6223",
+        "subPath": "signals2-0807acf604989bc72cbb60a9a55f43f976a18372"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",

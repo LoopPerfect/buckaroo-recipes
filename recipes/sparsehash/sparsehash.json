@@ -10,7 +10,8 @@
     "2.0.3": {
       "source": {
         "url": "https://github.com/sparsehash/sparsehash/archive/6af4bcf4ded7cf270ebb190470b8854c6531fa14.zip",
-        "sha256": "17fb5e049cb31cd19b02838bca74bad4ae5b36e9da44e7feff8dca499fa83175"
+        "sha256": "17fb5e049cb31cd19b02838bca74bad4ae5b36e9da44e7feff8dca499fa83175",
+        "subPath": "sparsehash-6af4bcf4ded7cf270ebb190470b8854c6531fa14"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/sparsehash/c8de39d3063fb22fb4c2c3f8f5eab077383ad160/BUCK",

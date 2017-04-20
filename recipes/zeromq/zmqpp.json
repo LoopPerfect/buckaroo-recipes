@@ -10,7 +10,8 @@
     "4.1.2": {
       "source": {
         "url": "https://github.com/zeromq/zmqpp/archive/4784589eff234e673724662c9247037e4c804e5d.zip",
-        "sha256": "3c7369796835afa5aa08039221300eeb7d3cc4f50dd5950bccca492fe30471e1"
+        "sha256": "3c7369796835afa5aa08039221300eeb7d3cc4f50dd5950bccca492fe30471e1",
+        "subPath": "zmqpp-4784589eff234e673724662c9247037e4c804e5d"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/zmqpp/4776a46e9467c555d430b9e0bc3ad52ed1f29c64/BUCK",

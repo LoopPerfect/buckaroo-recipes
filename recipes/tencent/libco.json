@@ -10,7 +10,8 @@
     "0.5.0": {
       "source": {
         "url": "https://github.com/Tencent/libco/archive/c7f53adbea99b64128f7234523c4f7515170c431.zip",
-        "sha256": "b9f9198491f25bc6acdf23f3fd38f7f87e82f48cddc3feee06f34003b3eead30"
+        "sha256": "b9f9198491f25bc6acdf23f3fd38f7f87e82f48cddc3feee06f34003b3eead30",
+        "subPath": "libco-c7f53adbea99b64128f7234523c4f7515170c431"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libco/f7db48012d22e8927a9701c1b1ba76c27ff631f8/BUCK",

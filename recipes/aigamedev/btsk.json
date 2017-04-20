@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/aigamedev/btsk/archive/8124c3e73719a05638a053782a749d039ae7cedf.zip",
-        "sha256": "0f098766f0b2d5a61f12542d47805c028fa88b2e8b4f96e62e4ce9aee12edbac"
+        "sha256": "0f098766f0b2d5a61f12542d47805c028fa88b2e8b4f96e62e4ce9aee12edbac",
+        "subPath": "btsk-8124c3e73719a05638a053782a749d039ae7cedf"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/btsk/efa56629fa9450619d2411e72c2f326433c86255/BUCK",

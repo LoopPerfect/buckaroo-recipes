@@ -10,7 +10,8 @@
     "0.3.4": {
       "source": {
         "url": "https://github.com/google/glog/archive/d8cb47f77d1c31779f3ff890e1a5748483778d6a.zip",
-        "sha256": "0d83623640e55494ff9211cefb626c42e775464ca8264409964ae15a91dffc92"
+        "sha256": "0d83623640e55494ff9211cefb626c42e775464ca8264409964ae15a91dffc92",
+        "subPath": "glog-d8cb47f77d1c31779f3ff890e1a5748483778d6a"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/glog/2659be62d68bf23ceae0a9936070c1316539a64c/BUCK",

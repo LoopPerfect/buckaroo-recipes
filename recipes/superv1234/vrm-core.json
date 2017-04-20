@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/SuperV1234/vrm_core/archive/38d353f56098dc29bdcc416d969a5540b20cc27a.zip",
-        "sha256": "fcb2980e8ff3dcf00d8fa6e73fad5c01cf943b3f44569261f3e52e4912ee429a"
+        "sha256": "fcb2980e8ff3dcf00d8fa6e73fad5c01cf943b3f44569261f3e52e4912ee429a",
+        "subPath": "vrm_core-38d353f56098dc29bdcc416d969a5540b20cc27a"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/vrm_core/f87288afcb648efa870bdc500b47c307c2499f54/BUCK",

@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/ariya/fastlz/archive/f1217348a868bdb9ee0730244475aee05ab329c5.zip",
-        "sha256": "f96dfef32b81d6836e03f639b9f74a769bf1df4ee3a51cd1318f0331042f681b"
+        "sha256": "f96dfef32b81d6836e03f639b9f74a769bf1df4ee3a51cd1318f0331042f681b",
+        "subPath": "fastlz-f1217348a868bdb9ee0730244475aee05ab329c5"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/FastLZ/863b35eea25ee0da7ae900b2fa01e016ba1a1bb0/BUCK",

@@ -10,7 +10,8 @@
     "1.0.0": {
       "source": {
         "url": "https://github.com/mohaps/TinySHA1/archive/2795aa8de91b1797defdfbff61ed93b22b5ced81.zip",
-        "sha256": "1f78c367386f37bd92435b9648a80233c38ec860d91f60255332aa2574f6d17c"
+        "sha256": "1f78c367386f37bd92435b9648a80233c38ec860d91f60255332aa2574f6d17c",
+        "subPath": "TinySHA1-2795aa8de91b1797defdfbff61ed93b22b5ced81"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/TinySHA1/c1e11069532d0a9261984303eec8d692634e3755/BUCK",

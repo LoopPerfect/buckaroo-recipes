@@ -10,7 +10,8 @@
     "9.1.0": {
       "source": {
         "url": "https://github.com/LuaDist/libjpeg/archive/6c0fcb8ddee365e7abc4d332662b06900612e923.zip",
-        "sha256": "2dc1a1203fcadbf63d6c381a82f77159a51c5b6d8dcf446b33963ca9ad780d6b"
+        "sha256": "2dc1a1203fcadbf63d6c381a82f77159a51c5b6d8dcf446b33963ca9ad780d6b",
+        "subPath": "libjpeg-6c0fcb8ddee365e7abc4d332662b06900612e923"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libjpeg/aebd4380f3b5b348b0bcc4d5ce225102709d9939/BUCK",

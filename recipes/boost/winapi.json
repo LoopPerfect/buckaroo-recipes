@@ -7,7 +7,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/winapi/archive/e329e1d0d116739ea0083dd01fd08a054785f370.zip",
-        "sha256": "d6a0a9517846e2c51e46d1f0083d51da0294f58882d7f50be9ea06f48170bc90"
+        "sha256": "d6a0a9517846e2c51e46d1f0083d51da0294f58882d7f50be9ea06f48170bc90",
+        "subPath": "winapi-e329e1d0d116739ea0083dd01fd08a054785f370"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",

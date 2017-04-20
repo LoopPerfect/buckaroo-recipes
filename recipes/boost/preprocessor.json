@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/preprocessor/archive/c2beb74b90969f369c62d0dea68aa5f0e203268e.zip",
-        "sha256": "ac0c7ba6122c68b1164e1685a479ed7d9f25a5cccdc2631823350c4e2d64eae5"
+        "sha256": "ac0c7ba6122c68b1164e1685a479ed7d9f25a5cccdc2631823350c4e2d64eae5",
+        "subPath": "preprocessor-c2beb74b90969f369c62d0dea68aa5f0e203268e"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/preprocessor/b8a8fdeea64d94aa7a5b059695f670f9816570f2/BUCK",

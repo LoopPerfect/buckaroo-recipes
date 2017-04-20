@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/atomic/archive/41eac78e25e6af9df304987a5b9cf604da972674.zip",
-        "sha256": "344e09ea0813990d021d9c6088825978e572907b5431d052f66db71b90bf6fa2"
+        "sha256": "344e09ea0813990d021d9c6088825978e572907b5431d052f66db71b90bf6fa2",
+        "subPath": "atomic-41eac78e25e6af9df304987a5b9cf604da972674"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",

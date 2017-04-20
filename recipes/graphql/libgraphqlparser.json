@@ -10,7 +10,8 @@
     "0.6.0": {
       "source": {
         "url": "https://github.com/graphql/libgraphqlparser/archive/ea529629f46bd992a4e1b790ab2e1e00a0ff700e.zip",
-        "sha256": "4a081ce317492a312db5679edc04435371c7e9a217a3057eafa5e8b9e48f0a73"
+        "sha256": "4a081ce317492a312db5679edc04435371c7e9a217a3057eafa5e8b9e48f0a73",
+        "subPath": "libgraphqlparser-ea529629f46bd992a4e1b790ab2e1e00a0ff700e"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libgraphqlparser/e3e7565b779a45828d04df396860d959323e60a3/BUCK",

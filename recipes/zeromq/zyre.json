@@ -10,7 +10,8 @@
     "2.0.0": {
       "source": {
         "url": "https://github.com/zeromq/zyre/archive/ab263dac21250fc85fa8c7239973109eca2251a7.zip",
-        "sha256": "f106c31fe37ddc2a591a7a4199cf6b24686c760a86ced8ea9b141d0ce6c69784"
+        "sha256": "f106c31fe37ddc2a591a7a4199cf6b24686c760a86ced8ea9b141d0ce6c69784",
+        "subPath": "zyre-ab263dac21250fc85fa8c7239973109eca2251a7"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/zyre/cf6e154c1dd24153509c0564655cced72335ae6b/BUCK",

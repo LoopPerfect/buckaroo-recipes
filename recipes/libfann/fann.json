@@ -10,7 +10,8 @@
     "2.2.0": {
       "source": {
         "url": "https://github.com/libfann/fann/archive/f9158258a66a5515d291cf18e5b9a109f5007507.zip",
-        "sha256": "9cf022e3d8a19e729d815170b3642e75d6cd58dd44cefd148ad68464bfa2fbf9"
+        "sha256": "9cf022e3d8a19e729d815170b3642e75d6cd58dd44cefd148ad68464bfa2fbf9",
+        "subPath": "fann-f9158258a66a5515d291cf18e5b9a109f5007507"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/fann/35f98df2bc5677ca141f2af667d3ef368634698d/BUCK",

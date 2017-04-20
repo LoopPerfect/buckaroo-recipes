@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/zserge/jsmn/archive/1682c32e9ae5990ddd0f0e907270a0f6dde5cbe9.zip",
-        "sha256": "85e5b8b0596d2f0b57b950cf557d861e82d417878305142fc4cd015027815c58"
+        "sha256": "85e5b8b0596d2f0b57b950cf557d861e82d417878305142fc4cd015027815c58",
+        "subPath": "jsmn-1682c32e9ae5990ddd0f0e907270a0f6dde5cbe9"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/jsmn/0c643f891dd6eb49d1b73c1b8a7df2ee6fbd2db1/BUCK",

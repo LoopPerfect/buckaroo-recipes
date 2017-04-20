@@ -10,7 +10,8 @@
     "1.1.0": {
       "source": {
         "url": "https://github.com/andrewrk/libsoundio/archive/85d6d9d254dd2838d3348341614c632bca1ece89.zip",
-        "sha256": "7ef0c78d3669a7de142127a161b5c67fc5130750b0947ff8feb0b6269ccccae3"
+        "sha256": "7ef0c78d3669a7de142127a161b5c67fc5130750b0947ff8feb0b6269ccccae3",
+        "subPath": "libsoundio-85d6d9d254dd2838d3348341614c632bca1ece89"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libsoundio/83107b2e7c64a19bcecafdc33eeccbf4a55618cb/BUCK",

@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/unordered/archive/76127b6e42651571b9b9555f48d52ae89317d8d5.zip",
-        "sha256": "4a924eac17c372ec19232d1661b552911f3bff83b4c5df6ce9580da591f97c2c"
+        "sha256": "4a924eac17c372ec19232d1661b552911f3bff83b4c5df6ce9580da591f97c2c",
+        "subPath": "unordered-76127b6e42651571b9b9555f48d52ae89317d8d5"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",

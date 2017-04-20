@@ -10,7 +10,8 @@
     "1.5.10": {
       "source": {
         "url": "https://github.com/LuaDist/libpng/archive/635ec41e66ed327d95e0e645d27d6413257d9a29.zip",
-        "sha256": "86d91981dd8e009f59b72904782209a5285249ed5f44f6297ab4e10012747bc9"
+        "sha256": "86d91981dd8e009f59b72904782209a5285249ed5f44f6297ab4e10012747bc9",
+        "subPath": "libpng-635ec41e66ed327d95e0e645d27d6413257d9a29"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libpng-1/183aa5420d7b088f1f5eb86cf89ad6071a57bca9/BUCK",

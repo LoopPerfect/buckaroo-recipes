@@ -10,7 +10,8 @@
     "3.2.9": {
       "source": {
         "url": "https://github.com/PX4/eigen/archive/240599e1488da540c2ae8753dea0907f6cfac8ee.zip",
-        "sha256": "44012bbb86961dcd255f4ebb50ae8464160034e2ba16b4e59800ae9815a9dafe"
+        "sha256": "44012bbb86961dcd255f4ebb50ae8464160034e2ba16b4e59800ae9815a9dafe",
+        "subPath": "eigen-240599e1488da540c2ae8753dea0907f6cfac8ee"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/eigen/c277da1b12affabb33c68aa7539c5795a69066ef/BUCK",

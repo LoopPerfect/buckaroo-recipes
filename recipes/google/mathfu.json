@@ -10,7 +10,8 @@
     "1.1.0": {
       "source": {
         "url": "https://github.com/google/mathfu/archive/85b4c9f5b67457492c47bdfc4e669e3d6cae2e81.zip",
-        "sha256": "f25aade4db68cd954a056729b0e4e27f75113fa168a70922d369d7779509a161"
+        "sha256": "f25aade4db68cd954a056729b0e4e27f75113fa168a70922d369d7779509a161",
+        "subPath": "mathfu-85b4c9f5b67457492c47bdfc4e669e3d6cae2e81"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/mathfu/31345029bd9b33a9a92d682974c752400da8b4e6/BUCK",

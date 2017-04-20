@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/njlr/tweetnacl/archive/a2d28c18f0046fcf3b401a2048ea96cdcb6241c0.zip",
-        "sha256": "3f00af5fe090de329b68cdc512cdf68c85bbdb852ba3e4c8a1e84ddabb698cb5"
+        "sha256": "3f00af5fe090de329b68cdc512cdf68c85bbdb852ba3e4c8a1e84ddabb698cb5",
+        "subPath": "tweetnacl-a2d28c18f0046fcf3b401a2048ea96cdcb6241c0"
       }
     }
   }

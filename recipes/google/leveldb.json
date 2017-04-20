@@ -10,7 +10,8 @@
     "1.20.0": {
       "source": {
         "url": "https://github.com/google/leveldb/archive/a53934a3ae1244679f812d998a4f16f2c7f309a6.zip",
-        "sha256": "b568d1d316d70c2a1e2b669b9e15ff6c9a77b5024102a9a77fce604ad8b3f937"
+        "sha256": "b568d1d316d70c2a1e2b669b9e15ff6c9a77b5024102a9a77fce604ad8b3f937",
+        "subPath": "leveldb-a53934a3ae1244679f812d998a4f16f2c7f309a6"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/leveldb/9d565dd7b758be96de3298bc8d829e6c1b524b14/BUCK",

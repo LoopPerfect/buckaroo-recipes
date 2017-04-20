@@ -10,7 +10,8 @@
     "1.14.0": {
       "source": {
         "url": "https://github.com/LuaDist/libiconv/archive/dc34c160dce46377e1c5d88b70cadf4508f0ff6a.zip",
-        "sha256": "be7d872b0c2edc1e87d2ca9df5e62e22cd64707fb96c1ee0d51be4adcfbcf579"
+        "sha256": "be7d872b0c2edc1e87d2ca9df5e62e22cd64707fb96c1ee0d51be4adcfbcf579",
+        "subPath": "libiconv-dc34c160dce46377e1c5d88b70cadf4508f0ff6a"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libiconv-1/6e0c88c1fe51f104a885842067aa9a96be3c5f03/BUCK",

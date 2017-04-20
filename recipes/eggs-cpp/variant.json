@@ -10,7 +10,8 @@
     "2.0.0": {
       "source": {
         "url": "https://github.com/eggs-cpp/variant/archive/d46eaeb2afca110ec61e6a618ed43da89edf075b.zip",
-        "sha256": "5aa4ba9ffa854ada63a865de1cfb643f6cbfc3b798111a82b5e5161c695059ea"
+        "sha256": "5aa4ba9ffa854ada63a865de1cfb643f6cbfc3b798111a82b5e5161c695059ea",
+        "subPath": "variant-d46eaeb2afca110ec61e6a618ed43da89edf075b"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/variant-1/6ecb217184e55e2386a6e580c8b5ced9e8388697/BUCK",

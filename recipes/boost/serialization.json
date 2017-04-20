@@ -7,7 +7,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/serialization/archive/3eb2bda80b19da0b98418746ba9806acdac7d8b9.zip",
-        "sha256": "92740676a1bee379b7010bf8b19688e542aaa2e033eff2c795464cbaeb66d0c4"
+        "sha256": "92740676a1bee379b7010bf8b19688e542aaa2e033eff2c795464cbaeb66d0c4",
+        "subPath": "serialization-3eb2bda80b19da0b98418746ba9806acdac7d8b9"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",

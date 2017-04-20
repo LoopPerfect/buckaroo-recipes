@@ -10,7 +10,8 @@
     "2.0.0": {
       "source": {
         "url": "https://github.com/google/cctz/archive/182b96ca6e09527e18fcd0a6ca3e156ea7997099.zip",
-        "sha256": "13fd2e3085786428a7912615c8b19b0d07c521ae19c88850a3555607ab8491bb"
+        "sha256": "13fd2e3085786428a7912615c8b19b0d07c521ae19c88850a3555607ab8491bb",
+        "subPath": "cctz-182b96ca6e09527e18fcd0a6ca3e156ea7997099"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cctz/f57acac21213ce9e27ecb7b62fa49d9c3b56a086/BUCK",

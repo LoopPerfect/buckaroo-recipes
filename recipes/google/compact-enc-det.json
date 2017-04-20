@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/google/compact_enc_det/archive/e21eb6aed10b9f6e2727f136c52420033214d458.zip",
-        "sha256": "a6d3c7c553c10da2def112cc3691670e37327bfcdb4cb289576f978a0f55699f"
+        "sha256": "a6d3c7c553c10da2def112cc3691670e37327bfcdb4cb289576f978a0f55699f",
+        "subPath": "compact_enc_det-e21eb6aed10b9f6e2727f136c52420033214d458"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/compact_enc_det/17f0024b870876396955059c640f21c72ba15863/BUCK",

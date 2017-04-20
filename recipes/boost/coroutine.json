@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/coroutine/archive/56f0c8ae9f582da17764eb215d739903a615e5ef.zip",
-        "sha256": "b867ee9e1fa6014d85f21b323044eda58d8de8337a41e9024c4d9b79da070dfc"
+        "sha256": "b867ee9e1fa6014d85f21b323044eda58d8de8337a41e9024c4d9b79da070dfc",
+        "subPath": "coroutine-56f0c8ae9f582da17764eb215d739903a615e5ef"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/coroutine/80d77f400138ea8d0aa9f9a3bc700c9f2326abae/BUCK",

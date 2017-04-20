@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/tuple/archive/d77e569c899f7eb3d1f255889e739d586ba5900f.zip",
-        "sha256": "78f6eabc4b8c77583bfe4d04b510c2ad30e9efa029982a597b91f139096d790d"
+        "sha256": "78f6eabc4b8c77583bfe4d04b510c2ad30e9efa029982a597b91f139096d790d",
+        "subPath": "tuple-d77e569c899f7eb3d1f255889e739d586ba5900f"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tuple/8e6ecf024bd47350706bae1a0932f92a1434e650/BUCK",

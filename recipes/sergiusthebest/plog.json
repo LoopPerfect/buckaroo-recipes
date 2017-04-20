@@ -10,7 +10,8 @@
     "1.1.0": {
       "source": {
         "url": "https://github.com/SergiusTheBest/plog/archive/41e300110575df470cf211458870b3541272bad8.zip",
-        "sha256": "997183ba1d4a046c12c45d149fae0f2e7067f484f352b2b82f34b27fedc79027"
+        "sha256": "997183ba1d4a046c12c45d149fae0f2e7067f484f352b2b82f34b27fedc79027",
+        "subPath": "plog-41e300110575df470cf211458870b3541272bad8"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/sparsehash/c8de39d3063fb22fb4c2c3f8f5eab077383ad160/BUCK",

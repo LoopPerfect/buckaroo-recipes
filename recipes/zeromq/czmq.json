@@ -10,7 +10,8 @@
     "4.0.2": {
       "source": {
         "url": "https://github.com/zeromq/czmq/archive/5dafff4f632c84b0505b7f3de512a0c600d202ea.zip",
-        "sha256": "f3c1ab8214c1859752cc9c02df491302097c615ce0058e1771535d7e6a67ee92"
+        "sha256": "f3c1ab8214c1859752cc9c02df491302097c615ce0058e1771535d7e6a67ee92",
+        "subPath": "czmq-5dafff4f632c84b0505b7f3de512a0c600d202ea"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/czmq/9bfc3e165c229114ae96fa4d8fa3037d250d6cde/BUCK",

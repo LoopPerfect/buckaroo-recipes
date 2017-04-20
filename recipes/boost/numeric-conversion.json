@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/numeric_conversion/archive/2009f0d4fc49a6db59b950a3140f8d1f58e1a8c6.zip",
-        "sha256": "71e6d87018c4d5f9dc1188916aef01cbd2ab308dfc9f51767ff9b6135b2de717"
+        "sha256": "71e6d87018c4d5f9dc1188916aef01cbd2ab308dfc9f51767ff9b6135b2de717",
+        "subPath": "numeric_conversion-2009f0d4fc49a6db59b950a3140f8d1f58e1a8c6"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/numeric_conversion/bc0fa174a9147e606aa25adc6c0af472c4a53811/BUCK",

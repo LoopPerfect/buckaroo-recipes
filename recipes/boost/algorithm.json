@@ -7,7 +7,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/algorithm/archive/d029402f05c942b5d55b4e42060fc73fd07aaa21.zip",
-        "sha256": "e76d0154cc119c3793a9252251944d589abdf8a9a8082ada14cc56499516b14c"
+        "sha256": "e76d0154cc119c3793a9252251944d589abdf8a9a8082ada14cc56499516b14c",
+        "subPath": "algorithm-d029402f05c942b5d55b4e42060fc73fd07aaa21"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",

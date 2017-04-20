@@ -10,7 +10,8 @@
     "4.2.1": {
       "source": {
         "url": "https://github.com/zeromq/cppzmq/archive/178a910ae1abaad59467ee38884289b8a29c5710.zip",
-        "sha256": "79587d9c2c369f1325826cbadb919c276562b20e2739c6ebf4d6de899c8b1344"
+        "sha256": "79587d9c2c369f1325826cbadb919c276562b20e2739c6ebf4d6de899c8b1344",
+        "subPath": "cppzmq-178a910ae1abaad59467ee38884289b8a29c5710"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cppzmq/17750356e9c2fefe81e56327b9d339aba6f915c5/BUCK",

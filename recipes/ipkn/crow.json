@@ -10,7 +10,8 @@
     "0.0.1": {
       "source": {
         "url": "https://github.com/ipkn/crow/archive/4e39b23e455e455f1878b3e68d729a1737f3e431.zip",
-        "sha256": "417064e3a2238c3877877e5ed9902686c87596440d426b893027abd7a5b5a52d"
+        "sha256": "417064e3a2238c3877877e5ed9902686c87596440d426b893027abd7a5b5a52d",
+        "subPath": "crow-4e39b23e455e455f1878b3e68d729a1737f3e431"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/crow/a3fc5fa63107d422157a20d2de3b827c66099c70/BUCK",

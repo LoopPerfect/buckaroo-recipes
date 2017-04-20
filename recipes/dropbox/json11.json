@@ -10,7 +10,8 @@
     "1.0.0": {
       "source": {
         "url": "https://github.com/dropbox/json11/archive/0e409dca350048406767e90dd16841d09df13807.zip",
-        "sha256": "229a4044a6a8883b1388c01d4013df6797c5d5341fc1f1dc158ddd57f7776687"
+        "sha256": "229a4044a6a8883b1388c01d4013df6797c5d5341fc1f1dc158ddd57f7776687",
+        "subPath": "json11-0e409dca350048406767e90dd16841d09df13807"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/nikhedonia/json11/20e2ba8b3d5911d19a7ad03980d896b830e2dd97/BUCK",

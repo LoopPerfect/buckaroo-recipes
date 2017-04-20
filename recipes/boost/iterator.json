@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/iterator/archive/f2d07f76b5fd9ebd43dd85f4bc548022da3a47c3.zip",
-        "sha256": "f48a74ce3ec911f945f10ace1b62cfb8d8f64b737188235b378a9110cfd6fd67"
+        "sha256": "f48a74ce3ec911f945f10ace1b62cfb8d8f64b737188235b378a9110cfd6fd67",
+        "subPath": "iterator-f2d07f76b5fd9ebd43dd85f4bc548022da3a47c3"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",

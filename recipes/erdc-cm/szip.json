@@ -10,7 +10,8 @@
     "2.1.0": {
       "source": {
         "url": "https://github.com/erdc-cm/szip/archive/87863577a4656d5414b0d598c91fed1dd227f74a.zip",
-        "sha256": "a660fa05826b7134b702ab9e2a4461ea3d016be26c06dc848598d0bdfe00693d"
+        "sha256": "a660fa05826b7134b702ab9e2a4461ea3d016be26c06dc848598d0bdfe00693d",
+        "subPath": "szip-87863577a4656d5414b0d598c91fed1dd227f74a"
       }
     }
   }

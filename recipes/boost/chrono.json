@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/chrono/archive/959601c34798ca8e93b69403a3ddba903653b3ef.zip",
-        "sha256": "8d2b0d8a4282aff2873104859a270fd14a817e761b923ad30ec848d004f7436e"
+        "sha256": "8d2b0d8a4282aff2873104859a270fd14a817e761b923ad30ec848d004f7436e",
+        "subPath": "chrono-959601c34798ca8e93b69403a3ddba903653b3ef"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",

@@ -10,7 +10,8 @@
     "1.8.0": {
       "source": {
         "url": "https://github.com/open-source-parsers/jsoncpp/archive/f700fe455940d4d325c088b9174a173e130e0fa8.zip",
-        "sha256": "b81b9fe1e941caab41a56c5ad87e873aa2b0923be45a64afc5f4f60fba58dc78"
+        "sha256": "b81b9fe1e941caab41a56c5ad87e873aa2b0923be45a64afc5f4f60fba58dc78",
+        "subPath": "jsoncpp-f700fe455940d4d325c088b9174a173e130e0fa8"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/jsoncpp/523874be6831d1eeefc4fd5e87575066d250fae9/BUCK",

@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/tti/archive/d8f005e9063da1cfaf3b047d3ebda24e6b627af0.zip",
-        "sha256": "d94f7fa525bb31afd6d76e05a61802b3bc447131f7d600d64d9e81f8e7f7486b"
+        "sha256": "d94f7fa525bb31afd6d76e05a61802b3bc447131f7d600d64d9e81f8e7f7486b",
+        "subPath": "tti-d8f005e9063da1cfaf3b047d3ebda24e6b627af0"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",

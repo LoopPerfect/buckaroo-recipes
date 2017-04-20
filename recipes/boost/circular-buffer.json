@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/circular_buffer/archive/0b9a59f2707ddadc113effa0bedfd36c1a8f78a0.zip",
-        "sha256": "faa8e3cc2fed0cb7d75981a7a04bdb9f0af955b7a48e377017117e41d981b55f"
+        "sha256": "faa8e3cc2fed0cb7d75981a7a04bdb9f0af955b7a48e377017117e41d981b55f",
+        "subPath": "circular_buffer-0b9a59f2707ddadc113effa0bedfd36c1a8f78a0"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/circular_buffer/40bc04649125f8e5ad64c77f03fd3e21f368390d/BUCK",

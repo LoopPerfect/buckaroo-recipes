@@ -10,7 +10,8 @@
     "2.6.3": {
       "source": {
         "url": "https://github.com/aseprite/freetype2/archive/44accb9e2e5b00696cf50a869b68afa2ce3dd389.zip",
-        "sha256": "03c281dc01f49a554af3cb8980796208939bff1fb1a880c9d99ba96853090543"
+        "sha256": "03c281dc01f49a554af3cb8980796208939bff1fb1a880c9d99ba96853090543",
+        "subPath": "freetype2-44accb9e2e5b00696cf50a869b68afa2ce3dd389"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/freetype2/bc8cf736bc51f4e38e9f79395fe3641e68aa60b1/BUCK",

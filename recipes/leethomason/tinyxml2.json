@@ -10,7 +10,8 @@
     "4.0.1": {
       "source": {
         "url": "https://github.com/leethomason/tinyxml2/archive/74d44acb176f8510abf28ee0a70961eb26631988.zip",
-        "sha256": "4d79c4f594d48caa651887b1f0956e953287a9c724314308174ba96ff6d22f93"
+        "sha256": "4d79c4f594d48caa651887b1f0956e953287a9c724314308174ba96ff6d22f93",
+        "subPath": "tinyxml2-74d44acb176f8510abf28ee0a70961eb26631988"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tinyxml2/401727ca275900b195e6cda8a0e752e61c8c8927/BUCK",
@@ -20,7 +21,8 @@
     "2.1.0": {
       "source": {
         "url": "https://github.com/leethomason/tinyxml2/archive/6ee53e7d49a4dbfd5c1d7e67fb0228703bbe7309.zip",
-        "sha256": "7fe74fa7b25728a03c8842ecb19b7aa09e32c825167f8424354d2cad1a576972"
+        "sha256": "7fe74fa7b25728a03c8842ecb19b7aa09e32c825167f8424354d2cad1a576972",
+        "subPath": "tinyxml2-6ee53e7d49a4dbfd5c1d7e67fb0228703bbe7309"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tinyxml2/401727ca275900b195e6cda8a0e752e61c8c8927/BUCK",

@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/ratio/archive/ee45b0666f89e2703d8496d243c297082bfc668c.zip",
-        "sha256": "104eb2cf74a843db3f5bcd7a66e4d570a2879efe1b9f083f1ac588143c6d790d"
+        "sha256": "104eb2cf74a843db3f5bcd7a66e4d570a2879efe1b9f083f1ac588143c6d790d",
+        "subPath": "ratio-ee45b0666f89e2703d8496d243c297082bfc668c"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/ratio/6c2432bf838a0eb9616b5275ed6eae1391710055/BUCK",

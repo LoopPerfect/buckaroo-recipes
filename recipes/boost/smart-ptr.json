@@ -10,7 +10,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/smart_ptr/archive/1e9e2ed6aa623f74c5a69b3dd2beb5decf93faa8.zip",
-        "sha256": "0055704d23d948f91f297d673ef37143f6254fded3aab505c6fb9ec8484a0daf"
+        "sha256": "0055704d23d948f91f297d673ef37143f6254fded3aab505c6fb9ec8484a0daf",
+        "subPath": "smart_ptr-1e9e2ed6aa623f74c5a69b3dd2beb5decf93faa8"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/smart_ptr/6d18e3c842775a868debb0e93690ed662f44ac8f/BUCK",

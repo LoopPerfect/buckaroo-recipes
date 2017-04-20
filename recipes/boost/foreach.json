@@ -7,7 +7,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/foreach/archive/bbbfebed8e545724c20d4e4d971e7fb9219aae11.zip",
-        "sha256": "cc08d8b84d71ccd4f5fde401dc447f74a1c9da53a2fd232041e02fbbef7d3db5"
+        "sha256": "cc08d8b84d71ccd4f5fde401dc447f74a1c9da53a2fd232041e02fbbef7d3db5",
+        "subPath": "foreach-bbbfebed8e545724c20d4e4d971e7fb9219aae11"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",

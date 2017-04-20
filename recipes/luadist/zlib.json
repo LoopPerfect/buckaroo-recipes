@@ -10,7 +10,8 @@
     "1.2.6": {
       "source": {
         "url": "https://github.com/LuaDist/zlib/archive/a71bf110f57b8ea18905bc4a24b4a9e2433553fc.zip",
-        "sha256": "fbf2cd357ef9b92e4b0c46cd636f87a3d6d0c99d4970294e956f4c4b3ad2fadc"
+        "sha256": "fbf2cd357ef9b92e4b0c46cd636f87a3d6d0c99d4970294e956f4c4b3ad2fadc",
+        "subPath": "zlib-a71bf110f57b8ea18905bc4a24b4a9e2433553fc"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/zlib/c99d7665173f5b04f1aa106016c5df3632e1f8cd/BUCK",

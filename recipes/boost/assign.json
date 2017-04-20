@@ -7,7 +7,8 @@
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/assign/archive/bc3c7bcaf612a58634c19df31aa1212a4cdb6f00.zip",
-        "sha256": "aa6f130918684edb8874151b5bfa0a91111f453bddaa924ea5c21afc7885fa2f"
+        "sha256": "aa6f130918684edb8874151b5bfa0a91111f453bddaa924ea5c21afc7885fa2f",
+        "subPath": "assign-bc3c7bcaf612a58634c19df31aa1212a4cdb6f00"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/assign/aa02c25c329df0b54eb54ebd4d45b6990f82785f/BUCK",

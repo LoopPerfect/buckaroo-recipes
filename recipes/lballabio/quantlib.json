@@ -10,7 +10,8 @@
     "1.9.1": {
       "source": {
         "url": "https://github.com/lballabio/QuantLib/archive/16d064a304db5f0a7dafec2c20633d6c1d602932.zip",
-        "sha256": "2be9edf148e81425b8b22ef3162f3ca1305228e62a7fd8188a08f90f551a1e8e"
+        "sha256": "2be9edf148e81425b8b22ef3162f3ca1305228e62a7fd8188a08f90f551a1e8e",
+        "subPath": "QuantLib-16d064a304db5f0a7dafec2c20633d6c1d602932"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/QuantLib/b47b3e81cf81b9658af31486c0ad390622fb6912/BUCK",
