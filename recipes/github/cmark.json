@@ -14,8 +14,8 @@
         "subPath": "cmark-4d2f310fe6d27edcee81e54b59f3b381c2a7c43a"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/cmark/b75cadbd5d28ba75f38cbbaca2db2d6c4b2a561d/BUCK",
-        "sha256": "f50b571552c8e5b559d62e4b5dca3af9ddbd19299fb33dbad4a05d4415f673ed"
+        "url": "https://raw.githubusercontent.com/nikhedonia/cmark/fc2373bc43457165a06da20cff5e24673d23bb33/BUCK",
+        "sha256": "f9eaae51e6ef82ae6d64b9be8bd64d711a51daad83d308119eae09e2b8534e95"
       }
     },
     "0.27.0": {
@@ -25,8 +25,8 @@
         "subPath": "cmark-github-0.27.0"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/cmark/b75cadbd5d28ba75f38cbbaca2db2d6c4b2a561d/BUCK",
-        "sha256": "f50b571552c8e5b559d62e4b5dca3af9ddbd19299fb33dbad4a05d4415f673ed"
+        "url": "https://raw.githubusercontent.com/nikhedonia/cmark/fc2373bc43457165a06da20cff5e24673d23bb33/BUCK",
+        "sha256": "f9eaae51e6ef82ae6d64b9be8bd64d711a51daad83d308119eae09e2b8534e95"
       }
     }
   }
