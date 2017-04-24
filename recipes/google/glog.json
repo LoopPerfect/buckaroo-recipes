@@ -14,8 +14,8 @@
         "subPath": "glog-d8cb47f77d1c31779f3ff890e1a5748483778d6a"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/glog/2659be62d68bf23ceae0a9936070c1316539a64c/BUCK",
-        "sha256": "b844b652191f10e707b3722ed73a11cd3c04e7359d68f4edf736dcbdfacd00f9"
+        "url": "https://raw.githubusercontent.com/nikhedonia/glog/e74b9793d6b6e2ef9577a8b0a334217d52ce70d2/BUCK",
+        "sha256": "6ee2b810a799ff7e1b283ccf763177b55f9743f99bcc0a0528382d60ff1c8895"
       }
     }
   }
