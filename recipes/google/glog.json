@@ -14,8 +14,11 @@
         "subPath": "glog-d8cb47f77d1c31779f3ff890e1a5748483778d6a"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/nikhedonia/glog/e74b9793d6b6e2ef9577a8b0a334217d52ce70d2/BUCK",
-        "sha256": "6ee2b810a799ff7e1b283ccf763177b55f9743f99bcc0a0528382d60ff1c8895"
+        "url": "https://raw.githubusercontent.com/njlr/glog/03c0a0bd265425014430ab90694268f4d9de3ef6/BUCK",
+        "sha256": "757ea3c057a65bc5cd92720528ee30ecf4769dfcbccbd4b8138089f0aeba9f82"
+      },
+      "dependencies": {
+        "google/gflags": "2.2.0"
       }
     }
   }
