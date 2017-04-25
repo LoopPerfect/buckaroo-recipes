@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.74.1": {
-      "source": "git@github.com:DanBloomberg/leptonica.git#5184aa52cf5bf12fbb6f3b333f8d96d8e163c9da",
+      "source": {
+        "url": "https://github.com/DanBloomberg/leptonica/archive/5184aa52cf5bf12fbb6f3b333f8d96d8e163c9da.zip",
+        "sha256": "c5d10845f6bb7e1a386c139c8edc9c9a4e1e0d3e1d0a4121f1269f2f1eb9c903",
+        "subPath": "leptonica-5184aa52cf5bf12fbb6f3b333f8d96d8e163c9da"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/leptonica/68fe775bf79215da2d2e786bb16289c7f45277e6/BUCK",
         "sha256": "c963257a2f56569ab006a88a7bde6021dad8898a6f7c40c714aa10fe8d718599"

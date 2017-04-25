@@ -8,7 +8,11 @@
   },
   "versions": {
     "2.0.3": {
-      "source": "git@github.com:sparsehash/sparsehash.git#6af4bcf4ded7cf270ebb190470b8854c6531fa14",
+      "source": {
+        "url": "https://github.com/sparsehash/sparsehash/archive/6af4bcf4ded7cf270ebb190470b8854c6531fa14.zip",
+        "sha256": "17fb5e049cb31cd19b02838bca74bad4ae5b36e9da44e7feff8dca499fa83175",
+        "subPath": "sparsehash-6af4bcf4ded7cf270ebb190470b8854c6531fa14"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/sparsehash/c8de39d3063fb22fb4c2c3f8f5eab077383ad160/BUCK",
         "sha256": "0598e5c8541e665a7b5bbf7c0d070293eacbea3f6e639f59f549eb7ff6888279"

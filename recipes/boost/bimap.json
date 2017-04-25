@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/bimap.git#fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8",
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8.zip",
+        "sha256": "04406a32f595a1685bac814d47a77d606f1d8fe9f08713e8a3a75a59fa878b11",
+        "subPath": "bimap-fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
         "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"

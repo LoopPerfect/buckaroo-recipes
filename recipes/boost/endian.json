@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/endian.git#2db73ab893a61b74e73c0c644c2819241beef95a",
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/2db73ab893a61b74e73c0c644c2819241beef95a.zip",
+        "sha256": "a427da3f40bf123ec60d67ec20ceeae6b78052796b3011bbdce5b29fcad5e808",
+        "subPath": "endian-2db73ab893a61b74e73c0c644c2819241beef95a"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
         "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"

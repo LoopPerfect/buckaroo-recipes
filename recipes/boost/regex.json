@@ -5,7 +5,11 @@
   "github": "boostorg/regex",
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/regex.git#ed556985d71452a1349701affbb56897c786088e",
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/ed556985d71452a1349701affbb56897c786088e.zip",
+        "sha256": "8c93b1ee0918a8c0f6efe3f515a943050a8c7827c2b84cdf4ec1bbdf80f11b0c",
+        "subPath": "regex-ed556985d71452a1349701affbb56897c786088e"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
         "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"

@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.0.1": {
-      "source": "git@github.com:no1msd/mstch.git#ff459067bd02e80dc399006bb610238223d41c50",
+      "source": {
+        "url": "https://github.com/no1msd/mstch/archive/ff459067bd02e80dc399006bb610238223d41c50.zip",
+        "sha256": "fdb311a67cd5f953be88d4da66347180313d53637ef6dc3295857685340e6877",
+        "subPath": "mstch-ff459067bd02e80dc399006bb610238223d41c50"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/mstch/5fe942d7d260cc55d7f3e068eb30dc3ced01ecd6/BUCK",
         "sha256": "2005e76d179adaa92c5e8967bf1f32b53c58329edef6f0199a52d0de4ad24d81"

@@ -8,14 +8,22 @@
   },
   "versions": {
     "0.24.0": {
-      "source": "git@github.com:jech/dht.git#b218bf1e34fd9ceb0995a91e60de6d1f2f6943bf",
+      "source": {
+        "url": "https://github.com/jech/dht/archive/b218bf1e34fd9ceb0995a91e60de6d1f2f6943bf.zip",
+        "sha256": "521ff59da79e2f5c41053e7f504a3d2b5ffe27964e9a76d589d1578e37123ade",
+        "subPath": "dht-b218bf1e34fd9ceb0995a91e60de6d1f2f6943bf"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/dht/45e0351728a2004c9997ab0899595999a8fc756b/BUCK",
         "sha256": "8bc94cb07fa2a812fac040b22130075ad7b28f94db6d30a19f342cc37d5083fe"
       }
     },
     "0.23.0": {
-      "source": "git@github.com:jech/dht.git#b17d1b08adb24253067f8a29f6f012de323223d4",
+      "source": {
+        "url": "https://github.com/jech/dht/archive/b17d1b08adb24253067f8a29f6f012de323223d4.zip",
+        "sha256": "5a4a31a16728ef510e3dafcde897cc02ebab8fc8fee52354cc9a4cf32b6d3e42",
+        "subPath": "dht-b17d1b08adb24253067f8a29f6f012de323223d4"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/dht/45e0351728a2004c9997ab0899595999a8fc756b/BUCK",
         "sha256": "8bc94cb07fa2a812fac040b22130075ad7b28f94db6d30a19f342cc37d5083fe"

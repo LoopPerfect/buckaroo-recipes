@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/property_tree.git#bdfe275d172ac30bc5e89a6375a5a64dea20b3c0",
+      "source": {
+        "url": "https://github.com/boostorg/property_tree/archive/bdfe275d172ac30bc5e89a6375a5a64dea20b3c0.zip",
+        "sha256": "fccf3e7d291c0ce85e964bc2bd28b0b18f4100e91d1238a193c2ebeeaf80a903",
+        "subPath": "property_tree-bdfe275d172ac30bc5e89a6375a5a64dea20b3c0"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/property_tree/773da37b62628815b843fea8f8afe657fd843e2f/BUCK",
         "sha256": "4e7c9e0cef352b0bcfca18986659467417249253fc0c3fcc2fc4277fbc0838b0"

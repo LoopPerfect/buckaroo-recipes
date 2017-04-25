@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/crc.git#e77694d0acb1ce9c1fa38d0965f13b53a9949ca3",
+      "source": {
+        "url": "https://github.com/boostorg/crc/archive/e77694d0acb1ce9c1fa38d0965f13b53a9949ca3.zip",
+        "sha256": "8eb7e6d3f1d20d8af42f8129458137f9da21a85c87d3cedd6ef618240aaa5c06",
+        "subPath": "crc-e77694d0acb1ce9c1fa38d0965f13b53a9949ca3"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/crc/131ce3b8f2113c0d3aff16e394372e7e9ae537d6/BUCK",
         "sha256": "16f72e5451084dc521744c28a266f6718fd8d860924df20627972bdf2155376a"

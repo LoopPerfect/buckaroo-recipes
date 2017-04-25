@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/tokenizer.git#6b83489ede7c2bf25073a05abb62655cd1235e26",
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/6b83489ede7c2bf25073a05abb62655cd1235e26.zip",
+        "sha256": "fcaac674ee2eb68a8b183c17b3f544a41deaf98b1702ac33c0220d292fa9d922",
+        "subPath": "tokenizer-6b83489ede7c2bf25073a05abb62655cd1235e26"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
         "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"

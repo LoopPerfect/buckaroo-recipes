@@ -8,10 +8,17 @@
   },
   "versions": {
     "0.3.4": {
-      "source": "git@github.com:google/glog.git#d8cb47f77d1c31779f3ff890e1a5748483778d6a",
+      "source": {
+        "url": "https://github.com/google/glog/archive/d8cb47f77d1c31779f3ff890e1a5748483778d6a.zip",
+        "sha256": "0d83623640e55494ff9211cefb626c42e775464ca8264409964ae15a91dffc92",
+        "subPath": "glog-d8cb47f77d1c31779f3ff890e1a5748483778d6a"
+      },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/glog/2659be62d68bf23ceae0a9936070c1316539a64c/BUCK",
-        "sha256": "b844b652191f10e707b3722ed73a11cd3c04e7359d68f4edf736dcbdfacd00f9"
+        "url": "https://raw.githubusercontent.com/njlr/glog/03c0a0bd265425014430ab90694268f4d9de3ef6/BUCK",
+        "sha256": "757ea3c057a65bc5cd92720528ee30ecf4769dfcbccbd4b8138089f0aeba9f82"
+      },
+      "dependencies": {
+        "google/gflags": "2.2.0"
       }
     }
   }

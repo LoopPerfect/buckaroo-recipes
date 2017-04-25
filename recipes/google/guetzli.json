@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.0.0": {
-      "source": "git@github.com:google/guetzli.git#835cf275db1fbcc823c29767ae7e395abdb08375",
+      "source": {
+        "url": "https://github.com/google/guetzli/archive/835cf275db1fbcc823c29767ae7e395abdb08375.zip",
+        "sha256": "ff3b0519ef6a8c852bc8503653bc25d0ad55db0306858317b40f6a5c2940d64c",
+        "subPath": "guetzli-835cf275db1fbcc823c29767ae7e395abdb08375"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/guetzli/67c7a9b7db7963667b13e42d89520679150cd64e/BUCK",
         "sha256": "2483aa1b9c072abb97c5524ccd68fd84b8978ee8af35fbdb021a086bfe71a973"

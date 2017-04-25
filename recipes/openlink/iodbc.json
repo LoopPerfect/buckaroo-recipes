@@ -8,7 +8,11 @@
   },
   "versions": {
     "3.52.12": {
-      "source": "git@github.com:openlink/iODBC.git#eff60b46b6ed0967264d42680d4b91bdf80d8102",
+      "source": {
+        "url": "https://github.com/openlink/iODBC/archive/eff60b46b6ed0967264d42680d4b91bdf80d8102.zip",
+        "sha256": "111b15cc3d2f6ed415235ff9d9d1a9b440ef4277ac976816aeb70c4e16315b3e",
+        "subPath": "iODBC-eff60b46b6ed0967264d42680d4b91bdf80d8102"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/iODBC/149e1d5d1e527e19e2be44a7025fd59abc04558b/BUCK",
         "sha256": "d531b27c02eafcb610066dc8d0f5e89f2383e6993c7a9e8b916da077e6463c92"

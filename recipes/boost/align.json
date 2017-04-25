@@ -5,7 +5,11 @@
   "github": "boostorg/align",
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/align.git#469732efb06c285f1ccd31db2002447efb22884f",
+      "source": {
+        "url": "https://github.com/boostorg/align/archive/469732efb06c285f1ccd31db2002447efb22884f.zip",
+        "sha256": "17691a61daf178850d90186d91adb481ba91c69eff9d038d23c2f863ddcfd556",
+        "subPath": "align-469732efb06c285f1ccd31db2002447efb22884f"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/align/87d310f862184dbd03a9b7f7e372862e63358148/BUCK",
         "sha256": "fded15ca47119117573a0654e0ca76b06869ab09e2df399b743e352f2d8c667d"

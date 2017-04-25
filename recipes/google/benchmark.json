@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.1.0": {
-      "source": "git@github.com:google/benchmark.git#4f8bfeae470950ef005327973f15b0044eceaceb",
+      "source": {
+        "url": "https://github.com/google/benchmark/archive/4f8bfeae470950ef005327973f15b0044eceaceb.zip",
+        "sha256": "9be58359796160a073c9b1e75580239433e72c8fc6b40dd6e2d264b817e0e728",
+        "subPath": "benchmark-4f8bfeae470950ef005327973f15b0044eceaceb"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/benchmark/442941146c6059f361fe2a20233196637b9e127b/BUCK",
         "sha256": "96decdecc47537e7e8656d62943589ccc7199717fdaa06283e494a561e819f57"

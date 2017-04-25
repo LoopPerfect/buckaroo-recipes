@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.3.0": {
-      "source": "git@github.com:Tessil/hopscotch-map.git#fd765fb6bd3349604975408953bac5fd1c7d7709",
+      "source": {
+        "url": "https://github.com/Tessil/hopscotch-map/archive/fd765fb6bd3349604975408953bac5fd1c7d7709.zip",
+        "sha256": "4a1e6d5a8a61e01f92c5f45ad9272716b775b2cf3554c6dbb4c4017ebf8834b2",
+        "subPath": "hopscotch-map-fd765fb6bd3349604975408953bac5fd1c7d7709"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/hopscotch-map/4c4618698ed2858110b9905ce57398fc8d818667/BUCK",
         "sha256": "165607f15bb4f688b9cf2d129901bd8697f2df7c315e7067785f56f6c5d8919b"

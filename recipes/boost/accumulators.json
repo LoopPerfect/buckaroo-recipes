@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/accumulators.git#d022c85123683138ebec9149f0dc9aec6f3839cf",
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/d022c85123683138ebec9149f0dc9aec6f3839cf.zip",
+        "sha256": "71a0c2067948a180612c7cbdef56b398b2d9230c01a28e2fe26c5c8d1abdadcf",
+        "subPath": "accumulators-d022c85123683138ebec9149f0dc9aec6f3839cf"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
         "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"

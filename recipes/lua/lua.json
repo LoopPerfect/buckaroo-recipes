@@ -8,14 +8,22 @@
   },
   "versions": {
     "5.3.4": {
-      "source": "git@github.com:lua/lua.git#e354c6355e7f48e087678ec49e340ca0696725b1",
+      "source": {
+        "url": "https://github.com/lua/lua/archive/e354c6355e7f48e087678ec49e340ca0696725b1.zip",
+        "sha256": "f584f63bdf290003f614c29d6e864ee8b611803821d0c3aff41e56d9676a0958",
+        "subPath": "lua-e354c6355e7f48e087678ec49e340ca0696725b1"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/lua/2c563ff4520388984137ae15a342c078abbd42a0/BUCK",
         "sha256": "5b8badc8f640d1e21df29c13ef529d0bff24b25f817c9c9e6fec7eb570074d5b"
       }
     },
     "5.1.0": {
-      "source": "git@github.com:lua/lua.git#69ea087dff1daba25a2000dfb8f1883c17545b7a",
+      "source": {
+        "url": "https://github.com/lua/lua/archive/69ea087dff1daba25a2000dfb8f1883c17545b7a.zip",
+        "sha256": "18fdf2dd3756c0941d227c0eae0cf1f972b350d0ca7fce0052db9920eb06280b",
+        "subPath": "lua-69ea087dff1daba25a2000dfb8f1883c17545b7a"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/lua/2c563ff4520388984137ae15a342c078abbd42a0/BUCK",
         "sha256": "5b8badc8f640d1e21df29c13ef529d0bff24b25f817c9c9e6fec7eb570074d5b"

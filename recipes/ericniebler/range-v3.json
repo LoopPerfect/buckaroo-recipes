@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.0.0": {
-      "source": "git@github.com:ericniebler/range-v3.git#bcb0d315dd817632e5c5f3491c55038613a30569"
+      "source": {
+        "url": "https://github.com/ericniebler/range-v3/archive/bcb0d315dd817632e5c5f3491c55038613a30569.zip",
+        "sha256": "6ab218a6b2aa0db67c11ab00c6af72d0f43a463dae83a8e8854a466ca4023d2c",
+        "subPath": "range-v3-bcb0d315dd817632e5c5f3491c55038613a30569"
+      }
     }
   }
 }

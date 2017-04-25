@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.0.93": {
-      "source": "git@github.com:LuaDist/toluapp.git#9feb31ab8b97eda9561846508ee9e3a2caff8da7",
+      "source": {
+        "url": "https://github.com/LuaDist/toluapp/archive/9feb31ab8b97eda9561846508ee9e3a2caff8da7.zip",
+        "sha256": "cedcff12353b399785d51cbc69067c7c33d1a49d6d2ddbc8ffb48df52bcbb45d",
+        "subPath": "toluapp-9feb31ab8b97eda9561846508ee9e3a2caff8da7"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/toluapp/e34a577541dcf369d7260647cf83aed636c3e1a2/BUCK",
         "sha256": "e37b53e0a5c7ddcb2da1f69660aa998b193f59538f8771591f77ce0d87410079"

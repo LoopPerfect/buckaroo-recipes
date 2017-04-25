@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.3.1": {
-      "source": "git@github.com:taocpp/PEGTL.git#5b137f3c2f7fa5fa833f2c3a5ea8d5fb21d2a3b7",
+      "source": {
+        "url": "https://github.com/taocpp/PEGTL/archive/5b137f3c2f7fa5fa833f2c3a5ea8d5fb21d2a3b7.zip",
+        "sha256": "64b8eb81a15cb58ae5be99204861ac4bb00ca7ac4e53f07db79d05808dd23008",
+        "subPath": "PEGTL-5b137f3c2f7fa5fa833f2c3a5ea8d5fb21d2a3b7"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/PEGTL/2b2147ca4f8e9129454bf45d7b3a4c166c62be4e/BUCK",
         "sha256": "f3a966929b3edac253a5a0f6f138967d77352f7092825488faa72bde30c88ac9"

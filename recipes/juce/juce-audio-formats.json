@@ -8,7 +8,11 @@
   },
   "versions": {
     "4.3.1": {
-      "source": "git@github.com:julianstorer/JUCE.git#fc9937d83201331eb00303b0fbc1b77d47ae27ac",
+      "source": {
+        "url": "https://github.com/julianstorer/JUCE/archive/fc9937d83201331eb00303b0fbc1b77d47ae27ac.zip",
+        "sha256": "22007ee196e18956f641626ce2d065dcc8b7d5466f1d3525962342bac661c80f",
+        "subPath": "JUCE-fc9937d83201331eb00303b0fbc1b77d47ae27ac"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/JUCE/f12225fa0238c8e986096243d6e625da8a115154/BUCK",
         "sha256": "9019395d32a43a5eecca4195529bd53da8b98e16f3f2fceee93b9b79371aeef5"

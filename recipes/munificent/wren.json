@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.1.0": {
-      "source": "git@github.com:munificent/wren.git#6bcc64eb61772b2c957a65f9d577c59fcd1d9158",
+      "source": {
+        "url": "https://github.com/munificent/wren/archive/6bcc64eb61772b2c957a65f9d577c59fcd1d9158.zip",
+        "sha256": "5c912112b59274e389755da65f6846bc20b26e86c69e935ce48d1658521024b8",
+        "subPath": "wren-6bcc64eb61772b2c957a65f9d577c59fcd1d9158"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/wren/964eaf5618337d95114e4a7bf4fee2c9343f9910/BUCK",
         "sha256": "c5f3388cfe1c5038812f9e3100e25649eaf9125390dfd678e880dd7795ba17c0"

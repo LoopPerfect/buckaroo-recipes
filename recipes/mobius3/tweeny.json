@@ -8,14 +8,22 @@
   },
   "versions": {
     "2.0.0": {
-      "source": "git@github.com:mobius3/tweeny.git#2a3b967738c57290bcc3731f939fe076251fb596",
+      "source": {
+        "url": "https://github.com/mobius3/tweeny/archive/2a3b967738c57290bcc3731f939fe076251fb596.zip",
+        "sha256": "279e3bd94c44087e5b26f8d0a018f422017c65269319a819bf5bc5c36aa0f90f",
+        "subPath": "tweeny-2a3b967738c57290bcc3731f939fe076251fb596"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tweeny/1f349b5402d0c7beaf3f27cd9f8eb582abbddf95/BUCK",
         "sha256": "a90a95e978bbd956fe2335cf131292765fc9a9b8d2265910f48ef8f133480c44"
       }
     },
     "1.0.0": {
-      "source": "git@github.com:mobius3/tweeny.git#0af3875c92995fca438c72d8147600ebedfe7c0b",
+      "source": {
+        "url": "https://github.com/mobius3/tweeny/archive/0af3875c92995fca438c72d8147600ebedfe7c0b.zip",
+        "sha256": "c6d25cc18a6b539ea771195262a3f508699cc236379465be5309465ab61c5bc6",
+        "subPath": "tweeny-0af3875c92995fca438c72d8147600ebedfe7c0b"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tweeny/1f349b5402d0c7beaf3f27cd9f8eb582abbddf95/BUCK",
         "sha256": "a90a95e978bbd956fe2335cf131292765fc9a9b8d2265910f48ef8f133480c44"
