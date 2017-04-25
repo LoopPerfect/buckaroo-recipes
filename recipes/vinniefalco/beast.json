@@ -1,0 +1,30 @@
+{
+  "name": "beast",
+  "license": "BSL-1.0",
+  "url": "https://github.com/vinniefalco/beast",
+  "github": {
+    "owner": "vinniefalco",
+    "project": "beast"
+  },
+  "versions": {
+    "0.0.1": {
+      "source": {
+        "url": "https://github.com/vinniefalco/Beast/archive/6d5547a32c50ec95832c4779311502555ab0ee1f.zip",
+        "sha256": "8a600dfa3394164f79ad7dfa6942d8d4b6c6c7e5b8cc9b5f82519b682db25aae",
+        "subPath": "Beast-6d5547a32c50ec95832c4779311502555ab0ee1f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/Beast/71d1bde64bf5ee52579441b00ad446959231d8d2/BUCK",
+        "sha256": "1dce5d9f5c883e193e54c2dfc033a5485b9e8e87bb34d8c38ab03ed148ccd968"
+      },
+      "dependencies": {
+        "boost/range": "1.63.0",
+        "boost/intrusive": "1.63.0",
+        "boost/lexical-cast": "1.63.0",
+        "boost/math": "1.63.0",
+        "boost/system": "1.63.0",
+        "boost/asio": "1.63.0"
+      }
+    }
+  }
+}
