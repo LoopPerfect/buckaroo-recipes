@@ -1,0 +1,22 @@
+{
+  "name": "catch",
+  "license": "BSL-1.0",
+  "url": "https://github.com/philsquared/catch",
+  "github": {
+    "owner": "philsquared",
+    "project": "catch"
+  },
+  "versions": {
+    "1.9.3": {
+      "source": {
+        "url": "https://github.com/philsquared/Catch/archive/a0ada2e935324db5c951571c52c9b07307ea422f.zip",
+        "sha256": "4de0f36414752424c21cd24e57bf898efd86aa22f825cffa28e8f288d68869ae",
+        "subPath": "Catch-a0ada2e935324db5c951571c52c9b07307ea422f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/Catch/abc16a797c2e9c1a55c20c655b0507f0c3a8b946/BUCK",
+        "sha256": "6e4d9a3fce3328e0ab289bff3acc8eaadd2b52f7264537e3b7182a09f6451138"
+      }
+    }
+  }
+}
