@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.2.0": {
-      "source": "git@github.com:facebook/fatal.git#17e882f50009ea5839cba20255515b2de1770406",
+      "source": {
+        "url": "https://github.com/facebook/fatal/archive/17e882f50009ea5839cba20255515b2de1770406.zip",
+        "sha256": "3197145f86367e2aa37bc3edf1873dd2279687626c2f380d73ca2e49c3a3de7d",
+        "subPath": "fatal-17e882f50009ea5839cba20255515b2de1770406"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/fatal/093e4fafe623a8042954c7a37da2d9acaa277f00/BUCK",
         "sha256": "8de63ba91d95168f3747c2c11701525d7f6e803ba6dcf0b13818903f5faca683"

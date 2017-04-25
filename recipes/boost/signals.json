@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/signals.git#613b2a55b602501bf6dfe3da8fb2218e1ffc2862",
+      "source": {
+        "url": "https://github.com/boostorg/signals/archive/613b2a55b602501bf6dfe3da8fb2218e1ffc2862.zip",
+        "sha256": "d97512c453552ffeaa87877f6af08a701a0d0e0dc9c9ecfae6fdd0ead42e171f",
+        "subPath": "signals-613b2a55b602501bf6dfe3da8fb2218e1ffc2862"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/signals/86cb56f38b358c1d684606b7c66488b8ec83ba2a/BUCK",
         "sha256": "9cf8a2490d5933f74b04e8ea57023e8d3fea3e3a92df7b7e58bf3bdaeb8e7dc8"

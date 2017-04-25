@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.9.0": {
-      "source": "git@github.com:google/draco.git#e648e1bde5d9a90572bb0866bbfa0ec71e65009a",
+      "source": {
+        "url": "https://github.com/google/draco/archive/e648e1bde5d9a90572bb0866bbfa0ec71e65009a.zip",
+        "sha256": "27d665fd4f868425d322a15b6531dd11faa00f511952460bb31b6e4a9af7df87",
+        "subPath": "draco-e648e1bde5d9a90572bb0866bbfa0ec71e65009a"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/draco/df3ea3a32caf579b4016427fc6f742a74121c491/BUCK",
         "sha256": "82efeca0981118a7026e1f4bcc17373279ba7cc76c55d710c80e4d40c93a84b1"

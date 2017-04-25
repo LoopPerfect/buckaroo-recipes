@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.0.0": {
-      "source": "git@github.com:njlr/tiny-dnn.git#2a2b50caa437a5964a61e45ffc83e70558e2bc68",
+      "source": {
+        "url": "https://github.com/njlr/tiny-dnn/archive/2a2b50caa437a5964a61e45ffc83e70558e2bc68.zip",
+        "sha256": "7f837291a6a2b08fa31fb5bdf462e8b1160fe19144dcd2ef87695d44e784cc54",
+        "subPath": "tiny-dnn-2a2b50caa437a5964a61e45ffc83e70558e2bc68"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/tiny-dnn/74852517428d5424db470c9b91a0699c12ee7f7b/BUCK",
         "sha256": "2393f02fdf30917876347cd623e35d79df2f6ae298797d95ceec626c8672cf4d"

@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/lexical_cast.git#011368959810416adf1016276f4e0129a35489c2",
+      "source": {
+        "url": "https://github.com/boostorg/lexical_cast/archive/011368959810416adf1016276f4e0129a35489c2.zip",
+        "sha256": "dbe7c6a4e621e0d5cf616f0e8f080f11ca504bb6dea57e74f5ad41f1dd105201",
+        "subPath": "lexical_cast-011368959810416adf1016276f4e0129a35489c2"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/lexical_cast/3315a36c4b720030554a1ba3fe3e6cb4ef576df4/BUCK",
         "sha256": "5f34ad28cdf32a581a34cbf5b4c13f6c28a02d14de201bcd39a8945cf0632156"

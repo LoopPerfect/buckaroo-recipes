@@ -8,10 +8,14 @@
   },
   "versions": {
     "1.0.211": {
-      "source": "git@github.com:openssl/openssl.git#081314d07705aa58912845c213a48414d8f616a9",
+      "source": {
+        "url": "https://github.com/openssl/openssl/archive/081314d07705aa58912845c213a48414d8f616a9.zip",
+        "sha256": "c8a4fadcbdd42278dc00c07d76bf218fb77827061b061327ee2c81cb41eca6e1",
+        "subPath": "openssl-081314d07705aa58912845c213a48414d8f616a9"
+      },
       "buck": {
-        "url": "https://raw.githubusercontent.com/nikhedonia/openssl/f2c7b80b578ecd279dbbd15af2d7a20a73442410/BUCK",
-        "sha256": "6946b73576cebf37d7c42ff7a716db6b93620c41be26901f902a857fe2d3a501"
+        "url": "https://raw.githubusercontent.com/njlr/openssl/e60437036283817c302536d7c62169eb151166d9/BUCK",
+        "sha256": "e6ad6f970047fcde0671c063389f9c32c994c13e4cfeb03724123e80c0e584e3"
       }
     }
   }

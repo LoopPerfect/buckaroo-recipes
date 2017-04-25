@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.6.0": {
-      "source": "git@github.com:webmproject/libwebp.git#50d1a848bc56554af8413cfe681f94286a6371b3",
+      "source": {
+        "url": "https://github.com/webmproject/libwebp/archive/50d1a848bc56554af8413cfe681f94286a6371b3.zip",
+        "sha256": "bc52a2d5c19a5b2e552fcc087eecc5e7c971cd4daf33e6b7107e43685f53798d",
+        "subPath": "libwebp-50d1a848bc56554af8413cfe681f94286a6371b3"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libwebp/f6b8192a435113699ceba81ee679353b553a10ca/BUCK",
         "sha256": "dee4ff46598e62eab00834ffe776ae902d447ed53ab5c45f4a823e186c7d78ef"

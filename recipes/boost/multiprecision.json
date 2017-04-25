@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/multiprecision.git#47de2a9787004d33954da5d591987f03a27c8858",
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/47de2a9787004d33954da5d591987f03a27c8858.zip",
+        "sha256": "9ed751d720740981db0ecf94bbde5956457fc1de8f5f3fa3e4bde51fd7d05d8e",
+        "subPath": "multiprecision-47de2a9787004d33954da5d591987f03a27c8858"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
         "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"

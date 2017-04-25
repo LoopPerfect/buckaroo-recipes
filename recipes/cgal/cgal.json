@@ -5,7 +5,11 @@
   "github": "CGAL/cgal",
   "versions": {
     "4.9.0": {
-      "source": "git@github.com:CGAL/cgal.git#4e50c9c138855075bb668cc3eceaa60bbbe05cdd",
+      "source": {
+        "url": "https://github.com/CGAL/cgal/archive/4e50c9c138855075bb668cc3eceaa60bbbe05cdd.zip",
+        "sha256": "7df1c83d92e1a0a6ccf89d4b35933d7612cafed1d97222ca93ba6234b3151e3e",
+        "subPath": "cgal-4e50c9c138855075bb668cc3eceaa60bbbe05cdd"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cgal/6a256f5f6cfd56944aaaf5b3727e442ed9e76c80/BUCK",
         "sha256": "8c073de97f6bee47560d2fafbe94a82db18133e89011c9bc64665cd7b9725a87"

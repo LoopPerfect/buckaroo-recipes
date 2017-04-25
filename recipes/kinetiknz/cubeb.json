@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.2.0": {
-      "source": "git@github.com:kinetiknz/cubeb.git#d238150bbacccfb97e62499b0e79a834fcbbd102",
+      "source": {
+        "url": "https://github.com/kinetiknz/cubeb/archive/d238150bbacccfb97e62499b0e79a834fcbbd102.zip",
+        "sha256": "775e0da3dbb32f3985199e8639a46a8e75c64cd2329898941012ad06058828e1",
+        "subPath": "cubeb-d238150bbacccfb97e62499b0e79a834fcbbd102"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/cubeb/cd390db7f01f828953c4bb61fabb77154b1f45bb/BUCK",
         "sha256": "45baaba34f2aa560243f5b75ae008ca8554874e298d0b837412a66fc5aa9215d"

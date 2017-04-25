@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.8.1": {
-      "source": "git@github.com:zeux/pugixml.git#d2deb420bc70369faa12785df2b5dd4d390e523d",
+      "source": {
+        "url": "https://github.com/zeux/pugixml/archive/d2deb420bc70369faa12785df2b5dd4d390e523d.zip",
+        "sha256": "47a22618fea3efcdad2f3eeb2ac80f8712389081c9605326903e96495fe4f5a8",
+        "subPath": "pugixml-d2deb420bc70369faa12785df2b5dd4d390e523d"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/pugixml/d70fc3fb346e59222b8e01324cb1d4d1f03da352/BUCK",
         "sha256": "5cbef760d6d2070b9b39a2fba5304f16775409e61ad82947662aff0948da9d5d"

@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.6.0": {
-      "source": "git@github.com:google/flatbuffers.git#cebdad4d2381ca4d6325121c4189ce0b754ecfeb",
+      "source": {
+        "url": "https://github.com/google/flatbuffers/archive/cebdad4d2381ca4d6325121c4189ce0b754ecfeb.zip",
+        "sha256": "156ccfe15bf480a0b0c9d7465724804c0c37390264c76036a4e577aed659618b",
+        "subPath": "flatbuffers-cebdad4d2381ca4d6325121c4189ce0b754ecfeb"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/flatbuffers/bbe43d5163aa58ce02a720ec094fd664c5cb2866/BUCK",
         "sha256": "fdbf42e059f88db54cc8b6785b50b536898cb8d5ef8dabaf2f80340e6d80ab9d"

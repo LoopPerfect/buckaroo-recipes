@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.49.0": {
-      "source": "git@github.com:ocornut/imgui.git#adb85d800d70d3ddc4548f0e8f184eede4568034",
+      "source": {
+        "url": "https://github.com/ocornut/imgui/archive/adb85d800d70d3ddc4548f0e8f184eede4568034.zip",
+        "sha256": "277d23dc9464c2ddbeb4d81ebc0e66fd58b1a60d33645fd1f4548cb53d9bd758",
+        "subPath": "imgui-adb85d800d70d3ddc4548f0e8f184eede4568034"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/imgui/501779e1744c3598c29de2ea27dfe1db9a3c6b26/BUCK",
         "sha256": "4de50798b213b691a1910ba471c6a6903b6ec944d30a2115200a770231050537"

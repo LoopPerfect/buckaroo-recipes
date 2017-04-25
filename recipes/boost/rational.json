@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/rational.git#370d41a3998001a97cd85572ac8039ca84f61dd6",
+      "source": {
+        "url": "https://github.com/boostorg/rational/archive/370d41a3998001a97cd85572ac8039ca84f61dd6.zip",
+        "sha256": "60cb61266e64d28297811f81baef74dbcf432366debd919fc820d8b50c3fb230",
+        "subPath": "rational-370d41a3998001a97cd85572ac8039ca84f61dd6"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/rational/6adabe42e6aa1d4007adb8000caa1c5a223add58/BUCK",
         "sha256": "19d3a3cab7f883b9c74da69f3d3d241a674fd8767c2dfedf8d3c6c73f5e4cfa0"

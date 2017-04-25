@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.0.1": {
-      "source": "git@github.com:corvusoft/kashmir-dependency.git#2f3913f49c4ac7f9bff9224db5178f6f8f0ff3ee",
+      "source": {
+        "url": "https://github.com/corvusoft/kashmir-dependency/archive/2f3913f49c4ac7f9bff9224db5178f6f8f0ff3ee.zip",
+        "sha256": "72ae5049d8d95747de29fcb078c42ddca4ada2185b6477fd87761551a4da29c1",
+        "subPath": "kashmir-dependency-2f3913f49c4ac7f9bff9224db5178f6f8f0ff3ee"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/kashmir-dependency/3092a22e8069b9af45753efca10b71f13f7f1fc9/BUCK",
         "sha256": "37f8cdbd08f7dbe2c6132d5981180e31e73dfc860b5e1a8c0ac6b5f7925f2677"

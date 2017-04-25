@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/process.git#cf2a196d40770ac5b52e7a09f86a9e82d48f2480",
+      "source": {
+        "url": "https://github.com/boostorg/process/archive/cf2a196d40770ac5b52e7a09f86a9e82d48f2480.zip",
+        "sha256": "483f386c30fb76037e3195c4655ab1f217c3e5d6e12ecac0c0eaab942546a710",
+        "subPath": "process-cf2a196d40770ac5b52e7a09f86a9e82d48f2480"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/process/7c1b74da43ac3472d0a19af0a8a40bf0398c4404/BUCK",
         "sha256": "901e0822c46cff287ca2e464797a62ce659d1d98e0873cc1852aed0a811c8fa7"

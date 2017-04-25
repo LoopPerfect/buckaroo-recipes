@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/multi_index.git#0a0e7284c7a75ab4513f8558d5388ea9724bbb0a",
+      "source": {
+        "url": "https://github.com/boostorg/multi_index/archive/0a0e7284c7a75ab4513f8558d5388ea9724bbb0a.zip",
+        "sha256": "01b95938605b0248d332ee26fe1adab281fea4944a18ac020073be5961abe71b",
+        "subPath": "multi_index-0a0e7284c7a75ab4513f8558d5388ea9724bbb0a"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/multi_index/42ea410be6d30b0f709f9490ad181e57e3a09138/BUCK",
         "sha256": "51508b8b1501b6f6c284550359cfe176e59f8f5c99b36c893f6a734849c98d1b"

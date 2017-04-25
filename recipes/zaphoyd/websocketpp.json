@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.7.0": {
-      "source": "git@github.com:zaphoyd/websocketpp.git#378437aecdcb1dfe62096ffd5d944bf1f640ccc3",
+      "source": {
+        "url": "https://github.com/zaphoyd/websocketpp/archive/378437aecdcb1dfe62096ffd5d944bf1f640ccc3.zip",
+        "sha256": "c1b33c48f3f05d454932e8f7c27ce28bc0c887c63c384cb999816ee946001f37",
+        "subPath": "websocketpp-378437aecdcb1dfe62096ffd5d944bf1f640ccc3"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/websocketpp/da03c8f4a835a7b70c477a8227da0fcb52593bd6/BUCK",
         "sha256": "4b72aa8a569d65fcbe21f96033b388729f097ceab31d0b5f11dae5717ec29cf6"

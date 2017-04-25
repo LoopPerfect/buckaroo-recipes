@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.0.4": {
-      "source": "git@github.com:FidoProject/Fido.git#5435feb2364ee2ec1281825c52da6645ca6e0929",
+      "source": {
+        "url": "https://github.com/FidoProject/Fido/archive/5435feb2364ee2ec1281825c52da6645ca6e0929.zip",
+        "sha256": "122a9bcb08591fd3cc6650cf5822c465ca672556df4fc1fe38025c1e3fb9f0c7",
+        "subPath": "Fido-5435feb2364ee2ec1281825c52da6645ca6e0929"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/Fido/cd3af0437e1e12777fde6501e24aacec2b5db2b3/BUCK",
         "sha256": "263aff0266709fc608c8268f173d0f9b525b618f2e63ee0f01b870817ab0ed13"

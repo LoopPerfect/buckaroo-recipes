@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.1.0": {
-      "source": "git@github.com:google/fplutil.git#85707ff7a9f25086872995aef025b666fea120de",
+      "source": {
+        "url": "https://github.com/google/fplutil/archive/85707ff7a9f25086872995aef025b666fea120de.zip",
+        "sha256": "5434538f192be99deb9949e0aa2e4c4677b23d9544d238b3524a46342987e1bc",
+        "subPath": "fplutil-85707ff7a9f25086872995aef025b666fea120de"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/fplutil/24b4b80e8d33fe81fc22554844d9b36eee009dc4/BUCK",
         "sha256": "86056d946fd390d540648dcb9742edec19fc10e5d0f355e8392fcbd834c961a5"

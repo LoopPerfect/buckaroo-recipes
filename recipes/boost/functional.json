@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/functional.git#8f59ebc2d1d84a98d43d04c2eb15129ae3db8451",
+      "source": {
+        "url": "https://github.com/boostorg/functional/archive/8f59ebc2d1d84a98d43d04c2eb15129ae3db8451.zip",
+        "sha256": "0863936392bb17bb2bfa7b85b4f3d2f134aea1dbab945c465bbda6f8ba2686a8",
+        "subPath": "functional-8f59ebc2d1d84a98d43d04c2eb15129ae3db8451"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/functional/822cccff0f4eb924f9ccfa880c7ee24a25938652/BUCK",
         "sha256": "f8472346f12d0938fa269d07c136df4222e9077f6c062305a7d9385881d67cb1"

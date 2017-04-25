@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/iostreams.git#379ec3b4ca33375d5cc4ef24a90f3a0163a6479e",
+      "source": {
+        "url": "https://github.com/boostorg/iostreams/archive/379ec3b4ca33375d5cc4ef24a90f3a0163a6479e.zip",
+        "sha256": "c289115f717f38d7f2a98d28688e333997c3e2902db09903537e414d6efb1d2c",
+        "subPath": "iostreams-379ec3b4ca33375d5cc4ef24a90f3a0163a6479e"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/iostreams/fd9e7d704acb5c86a16add4d989eb24d5c749960/BUCK",
         "sha256": "49726e571b738b04b545a830f1723b4c446b0ef1ef19025e40975333aad41830"

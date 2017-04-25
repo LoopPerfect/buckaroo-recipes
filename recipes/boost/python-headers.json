@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/python.git#aaf90227703cf29d81ed83a1212890ede45d64fb",
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/aaf90227703cf29d81ed83a1212890ede45d64fb.zip",
+        "sha256": "3601d8eba2e93bfafdf7329dce442ca334ff805574fb19d9da9aad5d600a8c66",
+        "subPath": "python-aaf90227703cf29d81ed83a1212890ede45d64fb"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/python/5582ec3ecb5f1c11eacbfff462ea451c6039a56e/BUCK",
         "sha256": "48569cf56bb8f19b3a3e7a5a518a20440fec758df093b25aba6159026fc1f092"

@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/fiber.git#e83d33f6c0cf06fd98ef656a1150a3238fac335f",
+      "source": {
+        "url": "https://github.com/boostorg/fiber/archive/e83d33f6c0cf06fd98ef656a1150a3238fac335f.zip",
+        "sha256": "f287ef472c44392930336c8cacb4cc2975c71145a2e877c1be5df0ccc1b6eace",
+        "subPath": "fiber-e83d33f6c0cf06fd98ef656a1150a3238fac335f"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/fiber/1a991b9da4f9857cb73d3dd0737adc361bbf536e/BUCK",
         "sha256": "71c90f272001cf53f2e4550cc0132e0b95391b2fb1e617e5afc595369eb67163"

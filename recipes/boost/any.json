@@ -5,7 +5,11 @@
   "github": "boostorg/any",
   "versions": {
     "1.63.0": {
-      "source": "git@github.com:boostorg/any.git#45813a82a3e66413f3dea3e130786f2f139cd98d",
+      "source": {
+        "url": "https://github.com/boostorg/any/archive/45813a82a3e66413f3dea3e130786f2f139cd98d.zip",
+        "sha256": "b7afc455b4e062c4e736e1c8c52cbee8c831fc4434ffdc3a4d3d2ddf2a55807f",
+        "subPath": "any-45813a82a3e66413f3dea3e130786f2f139cd98d"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/any/21d8fff97492abe1a5825e5f8b69fa28453ca7ec/BUCK",
         "sha256": "a0baef954f2917a76c9516490a7bb7f82f43935ec57dca246728b74bd0a56754"

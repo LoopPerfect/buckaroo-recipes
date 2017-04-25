@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.45.0": {
-      "source": "git@github.com:rbock/sqlpp11.git#4d22202fe5f40a849f325d9da31fadaabe66fee4",
+      "source": {
+        "url": "https://github.com/rbock/sqlpp11/archive/4d22202fe5f40a849f325d9da31fadaabe66fee4.zip",
+        "sha256": "fc36c31db065b92c6fc745824dd629a0b20a4f78f7618a3b660cba3a7ea06459",
+        "subPath": "sqlpp11-4d22202fe5f40a849f325d9da31fadaabe66fee4"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/sqlpp11/7824273560ce33369b612eb44c0ea0236f3aba3b/BUCK",
         "sha256": "b80e373bebfdb5bf2f153ea0e871c03c707c8b7a503317cf1ecefd15b4db79cc"

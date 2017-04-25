@@ -8,10 +8,14 @@
   },
   "versions": {
     "1.1.0": {
-      "source": "git@github.com:andrewrk/libsoundio.git#85d6d9d254dd2838d3348341614c632bca1ece89",
+      "source": {
+        "url": "https://github.com/andrewrk/libsoundio/archive/85103e43e457bf68002f706c174943f9e9221666.zip",
+        "sha256": "d10a688267e696dc2e29aa720797ee9c6f8cfd331269702b41c99691c51bf89a",
+        "subPath": "libsoundio-85103e43e457bf68002f706c174943f9e9221666"
+      },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/libsoundio/83107b2e7c64a19bcecafdc33eeccbf4a55618cb/BUCK",
-        "sha256": "0b7714e34f34a67fc1044c6915e4386bb0eca5fb520f6493325a28f397120b71"
+        "url": "https://raw.githubusercontent.com/nikhedonia/libsoundio/02beb7bef9529be0ff47ddf9df943bcb57aa824f/BUCK",
+        "sha256": "5d6afac53c4b66dfd7c860caa4ae8f08152c992e9d0596015e60cf7b98087909"
       }
     }
   }

@@ -8,7 +8,11 @@
   },
   "versions": {
     "5.3.21": {
-      "source": "git@github.com:njlr/libdb.git#577e9743d43396e73b91802344f6ea0bf302e8a8"
+      "source": {
+        "url": "https://github.com/njlr/libdb/archive/577e9743d43396e73b91802344f6ea0bf302e8a8.zip",
+        "sha256": "ee6365fb3b3524b59067e7b18e7be5cf6817eb73c6f9635751c166506261a0f2",
+        "subPath": "libdb-577e9743d43396e73b91802344f6ea0bf302e8a8"
+      }
     }
   }
 }

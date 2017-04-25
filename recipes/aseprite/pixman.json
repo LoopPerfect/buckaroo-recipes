@@ -8,7 +8,11 @@
   },
   "versions": {
     "0.3.4": {
-      "source": "git@github.com:aseprite/pixman.git#1727aa4ab60a594cbb1cc1bdaa270b7dfad21f06",
+      "source": {
+        "url": "https://github.com/aseprite/pixman/archive/1727aa4ab60a594cbb1cc1bdaa270b7dfad21f06.zip",
+        "sha256": "e619231a7111bd6b4088a5582c798b13765e6d08f6880fcc3c4d41d61337b3d3",
+        "subPath": "pixman-1727aa4ab60a594cbb1cc1bdaa270b7dfad21f06"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/pixman/07e6e43250226a60ddfde866bc72b667954ee2ca/BUCK",
         "sha256": "40f027cd48480faf0b6eaae7396f115cf829ff6f32e04defc64a77a1b5700486"

@@ -8,7 +8,11 @@
   },
   "versions": {
     "1.3.2": {
-      "source": "git@github.com:xiph/ogg.git#36606a06c60fabb1d87ec204ae4f14dfe1224362",
+      "source": {
+        "url": "https://github.com/xiph/ogg/archive/36606a06c60fabb1d87ec204ae4f14dfe1224362.zip",
+        "sha256": "3d94d95b7188a4ab4470c015075993e265f78ef853d8490d7f2a1ba3234f1a59",
+        "subPath": "ogg-36606a06c60fabb1d87ec204ae4f14dfe1224362"
+      },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/ogg/d985f73256c4cc6e56b6bf8b0c1b596f43941c17/BUCK",
         "sha256": "41f4e5194ebd2822eaa28cfd109764fd240e8471f5ae699a40c64e8b02958f59"
