@@ -23,6 +23,7 @@
         "boost/detail": "1.63.0",
         "boost/utility": "1.63.0",
         "boost/mpl": "1.63.0",
+        "boost/tuple": "1.63.0",
         "boost/type-traits": "1.63.0"
       }
     }
