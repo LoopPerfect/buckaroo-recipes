@@ -1,0 +1,22 @@
+{
+  "name": "trim.cc",
+  "license": "MIT",
+  "url": "https://github.com/littlstar/trim.cc",
+  "github": {
+    "owner": "littlstar",
+    "project": "trim.cc"
+  },
+  "versions": {
+    "0.1.2": {
+      "source": {
+        "url": "https://github.com/littlstar/trim.cc/archive/e9c24c09e25d399edb45595b7156f42f1d260e58.zip",
+        "sha256": "d31e0dabe365f2e54c6c52b7b064d40277d70259a5deb0e78759b5463726881b",
+        "subPath": "trim.cc-e9c24c09e25d399edb45595b7156f42f1d260e58"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/trim.cc/f8207bb00a1b9fd35edb83bf8815ae2112434943/BUCK",
+        "sha256": "4ca42d066d1b5844444a1f5d87686fd864ee901acd83b4df23e016c9052c423a"
+      }
+    }
+  }
+}
