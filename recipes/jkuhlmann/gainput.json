@@ -1,0 +1,22 @@
+{
+  "name": "gainput",
+  "license": "MIT",
+  "url": "https://github.com/jkuhlmann/gainput",
+  "github": {
+    "owner": "jkuhlmann",
+    "project": "gainput"
+  },
+  "versions": {
+    "0.10.0": {
+      "source": {
+        "url": "https://github.com/jkuhlmann/gainput/archive/a6ee71d1c5dc6cfdcdb7a6617f581b6feb7e2355.zip",
+        "sha256": "d63836c8976ca1341dcffd0e4a258b56dbeac2764e594d90e75a905651b7db5b",
+        "subPath": "gainput-a6ee71d1c5dc6cfdcdb7a6617f581b6feb7e2355"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/gainput/2e3b308f0028d3c1cdaf19d73ba1e003bd8504dc/BUCK",
+        "sha256": "2d82eb8bb8e8b8c9b2923e9e54a69277abbf2b46398fcd519391d270d2a1b2c7"
+      }
+    }
+  }
+}
