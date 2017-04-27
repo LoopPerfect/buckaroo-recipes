@@ -1,4 +1,4 @@
-# buckaroo-recipes
+# Buckaroo Recipes
 The official book of recipes for Buckaroo 📒
 
 ## How do I install these recipes?
