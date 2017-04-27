@@ -1,0 +1,22 @@
+{
+  "name": "Remotery",
+  "license": "Apache-2.0",
+  "url": "https://github.com/Celtoys/Remotery",
+  "github": {
+    "owner": "Celtoys",
+    "project": "Remotery"
+  },
+  "versions": {
+    "1.11.0": {
+      "source": {
+        "url": "https://github.com/Celtoys/Remotery/archive/15ae855325d1522449b28d361d67094e5f2558bd.zip",
+        "sha256": "e58450f0acb75012a55c06fbea2065ba98438932ea42e4a1025687e433f68f13",
+        "subPath": "Remotery-15ae855325d1522449b28d361d67094e5f2558bd"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/Remotery/8205a46e7daa6ecfc2757db969eb84fd7ea03a3d/BUCK",
+        "sha256": "6f9b196f1ea69db29340b9ae95620a0592203008c3df91165aee7c0a4fdb2629"
+      }
+    }
+  }
+}
