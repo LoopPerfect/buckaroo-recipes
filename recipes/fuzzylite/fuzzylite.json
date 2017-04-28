@@ -1,0 +1,22 @@
+{
+  "name": "fuzzylite",
+  "license": "GPL-3.0",
+  "url": "https://github.com/fuzzylite/fuzzylite",
+  "github": {
+    "owner": "fuzzylite",
+    "project": "fuzzylite"
+  },
+  "versions": {
+    "6.0.0": {
+      "source": {
+        "url": "https://github.com/fuzzylite/fuzzylite/archive/a49a6e22adf3fa69351d5732f8d42b2d1e08c43a.zip",
+        "sha256": "bce8729c2b54209676eae851ffe43d6fbf092e6acac0ffa028382c484ed3500a",
+        "subPath": "fuzzylite-a49a6e22adf3fa69351d5732f8d42b2d1e08c43a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fuzzylite/d4c7d3c85afadb0f97df09bcb01172f83930e660/BUCK",
+        "sha256": "6e7d4d9a51f7eef252c6d5707922ae8284a3575e648dddba73ebbc17d3583286"
+      }
+    }
+  }
+}
