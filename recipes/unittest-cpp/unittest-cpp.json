@@ -1,0 +1,22 @@
+{
+  "name": "unittest-cpp",
+  "license": "MIT",
+  "url": "https://github.com/unittest-cpp/unittest-cpp",
+  "github": {
+    "owner": "unittest-cpp",
+    "project": "unittest-cpp"
+  },
+  "versions": {
+    "2.0.0": {
+      "source": {
+        "url": "https://github.com/unittest-cpp/unittest-cpp/archive/d0980fe7e2be2b8febcd82bfba94b957a24f8eff.zip",
+        "sha256": "85047e2d5766719b4a78889878d93ac9794d04dde8faa85d7de2c262ebdfc632",
+        "subPath": "unittest-cpp-d0980fe7e2be2b8febcd82bfba94b957a24f8eff"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unittest-cpp/7295a12f5a0886cb445a015c7288c559bd432d0a/BUCK",
+        "sha256": "135a681d39977fb222d5f0e67449654f29663c70e06c5245bc9224b3f9835a77"
+      }
+    }
+  }
+}
