@@ -14,8 +14,8 @@
         "subPath": "gainput-a6ee71d1c5dc6cfdcdb7a6617f581b6feb7e2355"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/gainput/2e3b308f0028d3c1cdaf19d73ba1e003bd8504dc/BUCK",
-        "sha256": "2d82eb8bb8e8b8c9b2923e9e54a69277abbf2b46398fcd519391d270d2a1b2c7"
+        "url": "https://raw.githubusercontent.com/nikhedonia/gainput/9b2272d0170f5fc201834787c82f9e2b9fa07e23/BUCK",
+        "sha256": "742cdb64589b07ebdaf4d5dfcfa62777477978091b1d3e982bc739860e334db1"
       }
     }
   }
