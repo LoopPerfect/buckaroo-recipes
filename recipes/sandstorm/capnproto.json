@@ -7,6 +7,17 @@
     "project": "capnproto"
   },
   "versions": {
+    "0.6.0": {
+      "source": {
+        "url": "https://github.com/sandstorm-io/capnproto/archive/2d8c271dbce141d39bbff9b1683426b97932a54b.zip",
+        "sha256": "4da544d9016d52c84202cd84c3dceef2c0ce0bc9f2fd1f5f892cb0a95b4fe229",
+        "subPath": "capnproto-2d8c271dbce141d39bbff9b1683426b97932a54b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/capnproto/6b4f5c6d4b2e6625048246521f3b6c3d79509698/BUCK",
+        "sha256": "8fc01793c9f5dfc367bf2676d2c4dbe193f239ed2c655514dcf86021aa8a9808"
+      }
+    },
     "0.5.3": {
       "source": {
         "url": "https://github.com/sandstorm-io/capnproto/archive/133b496e09fdb9937a364a12b69385f2dbcc9cdb.zip",
