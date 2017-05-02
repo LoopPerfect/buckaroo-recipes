@@ -17,6 +17,19 @@
         "url": "https://raw.githubusercontent.com/njlr/libjpeg/aebd4380f3b5b348b0bcc4d5ce225102709d9939/BUCK",
         "sha256": "7073e085a3241c7c489cf30d63267052639826cb12526fd26577751b8cc386d9"
       }
+    },
+
+    "6.2.0": {
+      "source": {
+        "url": "https://github.com/libjpeg-turbo/ijg/archive/5ead57a34a398aa798f35bd7a6abad19b2e453e2.zip",
+        "sha256": "f873ba0a4b44a0ee97f50a969a376db91ec525f190a755b8119dfde76e911c9c",
+        "subPath": "ijg-5ead57a34a398aa798f35bd7a6abad19b2e453e2"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/ijg/315eb811d7ac2c6d0b99e06a69b260b10b000821/BUCK",
+        "sha256": "ae9ca5712c180cb87e428d0c3fca29da7208f95c1bb49731c6d5f33e1566deb9"
+      }
     }
+
   }
 }
