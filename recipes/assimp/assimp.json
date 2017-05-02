@@ -1,0 +1,21 @@
+{
+  "name": "assimp",
+  "license": "MIT",
+  "url": "http://www.assimp.org/",
+  "github": {
+    "owner": "assimp",
+    "project": "assimp"
+  },
+  "versions": {
+    "3.3.1": {
+      "source": {
+        "url": "https://github.com/njlr/assimp/archive/aba3ac448c8f4d1b850fa848812fb82d72b2a0e8.zip",
+        "sha256": "c1f50699c03b7ad72fae01aebc0fba06f78a9223f072b5c857611f4af7db04be",
+        "subPath": "assimp-aba3ac448c8f4d1b850fa848812fb82d72b2a0e8"
+      },
+      "dependencies": {
+        "madler/zlib": "1.2.11"
+      }
+    }
+  }
+}
