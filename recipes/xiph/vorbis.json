@@ -14,8 +14,8 @@
         "subPath": "vorbis-f4093202cb226b360d0edf8a948aa71142cec657"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/vorbis/484cd6c7f20a1d53700bc7462d3ffa75c8191ad6/BUCK",
-        "sha256": "8fc57f33b7a0b4b530a837d7ec15f158c6a55659ed57432b28216660225e12d8"
+        "url": "https://raw.githubusercontent.com/nikhedonia/vorbis/2aa394da240f0aa49cc4c93d4f6ae55f4f97968b/BUCK",
+        "sha256": "8c66002eedb2a7b1360928c84fff3d8c8a4cdf15fa3269c3d03194206b0b733c"
       },
       "dependencies": {
         "xiph/ogg": "1.3.2"
