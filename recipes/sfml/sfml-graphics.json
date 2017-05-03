@@ -14,8 +14,15 @@
         "subPath": "SFML-c43b5991afe815ef92a812d67f8af12b0143adfd/"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/nikhedonia/sfml/0f2b2167d23ee07aa9cb0b0ece2e6a7c2042d087/BUCK",
-        "sha256": "3093f1b6926062a63ee012fffd78327a4b8b5116e0a107b49d25a2bb73c3e777"
+        "url": "https://raw.githubusercontent.com/nikhedonia/sfml/4567bc60b35d78b6155fe2d53d8cf882e9f9de54/BUCK",
+        "sha256": "39e36829310669b09a0876af8c36b8d6d4cfa16e3d83b30d1292286c942aca7d"
+      },
+      "dependencies": {
+        "nothings/stb": "0.0.1",
+        "freetype/freetype2": "2.6.3",
+        "ijg/libjpeg": "6.2.0",
+        "sfml/sfml-system" : "2.4.2",
+        "sfml/sfml-window" : "2.4.2"
       }
     }
   }
