@@ -1,0 +1,28 @@
+{
+  "name": "audio",
+  "license": "Libpng",
+  "url": "https://sfml-dev.org",
+  "github": {
+    "owner": "sfml",
+    "project": "sfml"
+  },
+  "versions": {
+    " 2.4.2": {
+      "source": {
+        "url": "https://github.com/sfml/sfml/archive/c43b5991afe815ef92a812d67f8af12b0143adfd.zip",
+        "sha256": "6a3bc48457b6ef1839da9804fb1b52066e2c5b9f2462c61b0f84dbd7a5204082",
+        "subPath": "SFML-c43b5991afe815ef92a812d67f8af12b0143adfd/"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/SFML/f06498fd9a2404147a5ec9e54410621781853bc4/BUCK",
+        "sha256": "6780ca0a5cde28cd27b6f248e3a4e09a108d3ca5df19715a05107bb3d3ccf06c"
+      },
+      "dependencies": {
+        "sfml/system": "2.4.2",
+        "xiph/flac": "1.3.2",
+        "xiph/ogg": "1.3.2",
+        "xiph/vorbis": "1.3.5"
+      }
+    }
+  }
+}

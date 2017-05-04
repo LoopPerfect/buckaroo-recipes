@@ -14,8 +14,8 @@
         "subPath": "flac-ac39d3719f16dfb6e08d2fbde8ccaf34a266c81d"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/flac/70e41e3357c69efc001e8729bcabfdcc5541c0d7/BUCK",
-        "sha256": "656556a160a7a075ad11bf0f107f8a4f31cacbed585c9116664863b2ebd0c9a5"
+        "url": "https://raw.githubusercontent.com/nikhedonia/flac/dbb2f192a00e45c0da88ff1bfb793a5f774fa14f/BUCK",
+        "sha256": "b4d19b3fa425f64bb9100f791e0489e7bc4edc65268fb8c20024944d068415c5"
       },
       "dependencies": {
         "xiph/ogg": "1.3.2"

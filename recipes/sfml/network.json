@@ -1,0 +1,25 @@
+{
+  "name": "network",
+  "license": "Libpng",
+  "url": "https://sfml-dev.org",
+  "github": {
+    "owner": "sfml",
+    "project": "sfml"
+  },
+  "versions": {
+    " 2.4.2": {
+      "source": {
+        "url": "https://github.com/sfml/sfml/archive/c43b5991afe815ef92a812d67f8af12b0143adfd.zip",
+        "sha256": "6a3bc48457b6ef1839da9804fb1b52066e2c5b9f2462c61b0f84dbd7a5204082",
+        "subPath": "SFML-c43b5991afe815ef92a812d67f8af12b0143adfd/"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/SFML/898fc4163a5b9e1290671ed0043c46ccc7f26de7/BUCK",
+        "sha256": "6c53a0a92349b1938fbace1fd43ba14efd3392191becb36ace2b8f32a37c1324"
+      },
+      "dependencies": {
+        "sfml/system" : "2.4.2"
+      }
+    }
+  }
+}

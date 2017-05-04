@@ -14,8 +14,8 @@
         "subPath": "freetype2-44accb9e2e5b00696cf50a869b68afa2ce3dd389"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/freetype2/bc8cf736bc51f4e38e9f79395fe3641e68aa60b1/BUCK",
-        "sha256": "3d4df5f601cbdff6e51684170b0d257b5b18db6c77875bf3b0ea6027e5b9f873"
+        "url": "https://raw.githubusercontent.com/nikhedonia/freetype2/f1402516ab243f0dbbbdeac90f671edaee03ba10/BUCK",
+        "sha256": "eb2cf6219cad9241eda0fc28c2a90807919ab6241e46bca26d4755e1cac8f222"
       },
       "dependencies": {
         "madler/zlib": "1.2.11"
