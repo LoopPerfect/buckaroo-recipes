@@ -1,0 +1,34 @@
+{
+  "name": "jpeg",
+  "license": "",
+  "url": "http://www.ijg.org/",
+  "github": {
+    "owner": "LuaDist",
+    "project": "libjpeg"
+  },
+  "versions": {
+    "9.1.0": {
+      "source": {
+        "url": "https://github.com/LuaDist/libjpeg/archive/6c0fcb8ddee365e7abc4d332662b06900612e923.zip",
+        "sha256": "2dc1a1203fcadbf63d6c381a82f77159a51c5b6d8dcf446b33963ca9ad780d6b",
+        "subPath": "libjpeg-6c0fcb8ddee365e7abc4d332662b06900612e923"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libjpeg/7b2065718277d29bed8d91662bdaa18fbb165c26/BUCK",
+        "sha256": "4e567e67d1a50765575574b0ce865f9a7f261b1506dfc734df427c73c9dc81d0"
+      }
+    },
+    "6.2.0": {
+      "source": {
+        "url": "https://github.com/libjpeg-turbo/ijg/archive/3733d9178a00e92f727d9cd3ca970f2c4b23dfe4.zip",
+        "sha256": "2a433f81d22051a95aad277b3411704846c95515c1b098ad0e3b4429b054faab",
+        "subPath": "ijg-3733d9178a00e92f727d9cd3ca970f2c4b23dfe4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ijg/4e7431ec93193d7101e65d0fffc3f9e27d2a7fb3/BUCK",
+        "sha256": "d43d07581382562cfe292bd464cc633620d461bc13d8b050d10afef5ce54adb6"
+      }
+    }
+
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "sfml-system",
+  "name": "network",
   "license": "Libpng",
   "url": "https://sfml-dev.org",
   "github": {
@@ -14,11 +14,11 @@
         "subPath": "SFML-c43b5991afe815ef92a812d67f8af12b0143adfd/"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/nikhedonia/sfml/223a11022794ee6ca9fcb9f0bf0bb58b660b698a/BUCK",
-        "sha256": "5fa28ef6faf6d2d3e07a0c5361d169200920bb75348b3e18934fea887bc6a37a"
+        "url": "https://raw.githubusercontent.com/njlr/SFML/898fc4163a5b9e1290671ed0043c46ccc7f26de7/BUCK",
+        "sha256": "6c53a0a92349b1938fbace1fd43ba14efd3392191becb36ace2b8f32a37c1324"
       },
       "dependencies": {
-        "sfml/sfml-window" : "2.4.2"
+        "sfml/system" : "2.4.2"
       }
     }
   }

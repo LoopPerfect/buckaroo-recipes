@@ -18,7 +18,7 @@
         "sha256": "32e70ecf9a65bdea64d7175f2d538299e8cad3a3a808215661317f9e68d23158"
       },
       "dependencies": {
-        "ijg/libjpeg": "9.1.0",
+        "ijg/jpeg": "9.1.0",
         "madler/zlib": "1.2.11"
       }
     }
