@@ -1,0 +1,22 @@
+{
+  "name": "Termcolor",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/ikalnytskyi/termcolor",
+  "github": {
+    "owner": "ikalnytskyi",
+    "project": "termcolor"
+  },
+  "versions": {
+    "0.0.1": {
+      "source": {
+        "url": "https://github.com/ikalnytskyi/termcolor/archive/e01e61b119271f60ea52af95b501dfb91fc8c587.zip",
+        "sha256": "49f679bc2be8862b05ea68eef9b5022a13d2543ca3cd8be342f0a6f75ded534b",
+        "subPath": "termcolor-e01e61b119271f60ea52af95b501dfb91fc8c587"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/termcolor/master/BUCK",
+        "sha256": "b43013a9017c7c60ce709a425f08f9b6911038611390ad9a176c6fb1a63c86ab"
+      }
+    }
+  }
+}
