@@ -1,17 +1,17 @@
 {
   "name": "icu4c",
-  "license": "",
+  "license": "MIT",
   "url": "http://site.icu-project.org/",
   "github": {
     "owner": "njlr",
     "project": "icu4c"
   },
   "versions": {
-    "58.2.0": {
+    "59.1.0": {
       "source": {
-        "url": "https://github.com/njlr/icu4c/archive/caef63a217fd526bdcf221de949374b4c1b275cc.zip",
-        "sha256": "8d70a142f0db08b20e6adb8e31ceab5e09688be32172434f26449d6693598c47",
-        "subPath": "icu4c-caef63a217fd526bdcf221de949374b4c1b275cc"
+        "url": "https://github.com/njlr/icu4c/archive/ced5133a3d55720d1707a3860a7d2db88e0d37a7.zip",
+        "sha256": "7e7e5779032f2e1715bc6c25156699334a290df316b60bef0563dab353a33820",
+        "subPath": "icu4c-ced5133a3d55720d1707a3860a7d2db88e0d37a7"
       }
     }
   }
