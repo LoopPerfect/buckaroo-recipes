@@ -9,9 +9,9 @@
   "versions": {
     "59.1.0": {
       "source": {
-        "url": "https://github.com/nikhedonia/icu4c/archive/b075d775d7c9b0774c38ae127bbb99e1770c4a6d.zip",
-        "sha256": "69233cd7add690983c6a35592a0829117431aec4efbd2fbfdd3ebbcb2359fc26",
-        "subPath": "icu4c-b075d775d7c9b0774c38ae127bbb99e1770c4a6d"
+        "url": "https://github.com/njlr/icu4c/archive/ced5133a3d55720d1707a3860a7d2db88e0d37a7.zip",
+        "sha256": "7e7e5779032f2e1715bc6c25156699334a290df316b60bef0563dab353a33820",
+        "subPath": "icu4c-ced5133a3d55720d1707a3860a7d2db88e0d37a7"
       }
     }
   }
