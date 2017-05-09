@@ -14,8 +14,8 @@
         "subPath": "benchmark-4f8bfeae470950ef005327973f15b0044eceaceb"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/benchmark/442941146c6059f361fe2a20233196637b9e127b/BUCK",
-        "sha256": "96decdecc47537e7e8656d62943589ccc7199717fdaa06283e494a561e819f57"
+        "url": "https://raw.githubusercontent.com/nikhedonia/benchmark/cea8820528eee7aa0e8442f8d08ea4cc0fe236d7/BUCK",
+        "sha256": "8718a5ad5823722a539f8fc9c067e7659c37063107d8f42c381a05001b5a07cc"
       }
     }
   }
