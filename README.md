@@ -2,7 +2,7 @@
 The official book of recipes for Buckaroo 📒
 
 ## How do I install these recipes?
-Head over to [buckaroo.pm](https://www.http://buckaroo.pm/) for more information! 
+Head over to [buckaroo.pm](https://www.buckaroo.pm/) for more information! 
 
 ## What if I have a problem with a recipe? 
 Please [submit an issue](https://github.com/LoopPerfect/buckaroo-recipes/issues/new) to this repo. 
