@@ -1,0 +1,22 @@
+{
+  "name": "MuJS",
+  "license": "ISC",
+  "url": "https://github.com/ccxvii/mujs",
+  "github": {
+    "owner": "ccxvii",
+    "project": "mujs"
+  },
+  "versions": {
+    "1.11.0": {
+      "source": {
+        "url": "https://github.com/ccxvii/mujs/archive/24b1997368f788e1253f6311c2a9f0b5342eab22.zip",
+        "sha256": "9207bcc1f6fe0ccdc102d013e5714b66f8bfd0b680296a0d8ec25d18bf3b99e8",
+        "subPath": "mujs-24b1997368f788e1253f6311c2a9f0b5342eab22"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/mujs/7f018f482cddfc35734b5cfe6d7487a19be46657/BUCK",
+        "sha256": "bf2bb43c6fd149de3154409d302f4ac69fbcfab8b984610dcd23465fdd314f59"
+      }
+    }
+  }
+}
