@@ -7,7 +7,7 @@
     "project": "mujs"
   },
   "versions": {
-    "1.11.0": {
+    "0.0.1": {
       "source": {
         "url": "https://github.com/ccxvii/mujs/archive/24b1997368f788e1253f6311c2a9f0b5342eab22.zip",
         "sha256": "9207bcc1f6fe0ccdc102d013e5714b66f8bfd0b680296a0d8ec25d18bf3b99e8",
