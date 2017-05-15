@@ -1,21 +1,31 @@
 {
-  "name": "better-enums",
-  "license": "BSD-2-Clause",
-  "url": "http://aantron.github.io/better-enums",
+  "name": "Blackhole",
+  "license": "",
+  "url": "https://github.com/3Hren/blackhole",
   "github": {
-    "owner": "aantron",
-    "project": "better-enums"
+    "owner": "3Hren",
+    "project": "blackhole"
   },
   "versions": {
-    "0.11.1": {
+    "1.6.0": {
       "source": {
-        "url": "https://github.com/aantron/better-enums/archive/2d6b337419e64b5b03c81e9aa39ee7b1a1d2cb36.zip",
-        "sha256": "06e35efe727936983eca3ef9e2559aba00c15aa3ae629ef4d4dc58104d39ed1c",
-        "subPath": "better-enums-2d6b337419e64b5b03c81e9aa39ee7b1a1d2cb36"
+        "url": "https://github.com/3Hren/blackhole/archive/04cfc171f074c480b4e82a608fe9a0c518316387.zip",
+        "sha256": "3c974867bbbfd1bd177448ffd825c926d2e83dd87c38ae7a1d88b33706939d25",
+        "subPath": "blackhole-04cfc171f074c480b4e82a608fe9a0c518316387"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/better-enums/5b0e00436beeb152ad3f7e8434b007d00ea991d3/BUCK",
-        "sha256": "64c7a4dbfa7df56d1654bfe6d9c87d4f68c531c3817f80764823190375c1bf8d"
+        "url": "https://raw.githubusercontent.com/njlr/blackhole/7fccedb532f57e371e075100ac7988085ad779c0/BUCK",
+        "sha256": "d891834138f75826c93547d622b0b8f63d5193b924f7f5176bbdc41c47bf3cc9"
+      },
+      "dependencies": {
+        "boost/optional": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/variant": "1.63.0",
+        "boost/asio": "1.63.0",
+        "boost/thread": "1.63.0",
+        "boost/spirit": "1.63.0",
+        "miloyip/rapidjson": "1.1.0",
+        "khizmax/cds": "2.2.0"
       }
     }
   }
