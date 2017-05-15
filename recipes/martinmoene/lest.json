@@ -1,0 +1,22 @@
+{
+  "name": "lest",
+  "license": "MIT",
+  "url": "https://github.com/martinmoene/lest",
+  "github": {
+    "owner": "martinmoene",
+    "project": "lest"
+  },
+  "versions": {
+    "1.29.1": {
+      "source": {
+        "url": "https://github.com/martinmoene/lest/archive/bd9c1e275bbd2e4d44f6fa3cca5bfd8c97027487.zip",
+        "sha256": "0484bd8d54af33aa74e809171f239e26f77b9b1591e1fc012a5e9c6ae4482565",
+        "subPath": "lest-bd9c1e275bbd2e4d44f6fa3cca5bfd8c97027487"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lest/ce515208b3759057821001c357fb2c3216308669/BUCK",
+        "sha256": "8b4ff3692a0e2563197d251c366b143aa628add23bedb3a9d0605dfeb4b466a1"
+      }
+    }
+  }
+}
