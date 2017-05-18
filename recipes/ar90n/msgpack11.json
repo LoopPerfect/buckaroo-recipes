@@ -7,14 +7,14 @@
     "project": "msgpack11"
   },
   "versions": {
-    "0.0.6": {
+    "0.0.7": {
       "source": {
-        "url": "https://github.com/ar90n/msgpack11/archive/v0.0.6.zip",
-        "sha256": "545fc49fcb386f79213da3ffb506e8df2c80fdfe9477bcb9e72df114c8ef166d",
-        "subPath": "msgpack11-0.0.6"
+        "url": "https://github.com/ar90n/msgpack11/archive/v0.0.7.zip",
+        "sha256": "42955d3b270c6ed75f6e7738c9fb39a9639cab5c5cd38ab9ba265e4f509cb3c5",
+        "subPath": "msgpack11-0.0.7"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/ar90n/msgpack11/develop/BUCK",
+        "url": "https://raw.githubusercontent.com/ar90n/msgpack11/master/BUCK",
         "sha256": "82389c7e50016c61fcf2a9fb1940c127eedfabefbd647fa5b9449d2704c79b2d"
       }
     }
