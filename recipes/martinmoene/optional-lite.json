@@ -1,0 +1,22 @@
+{
+  "name": "optional-lite",
+  "license": "MIT",
+  "url": "https://github.com/martinmoene/optional-lite",
+  "github": {
+    "owner": "martinmoene",
+    "project": "optional-lite"
+  },
+  "versions": {
+    "2.0.0": {
+      "source": {
+        "url": "https://github.com/martinmoene/optional-lite/archive/912ca5926b248b2fab0d93ea9e8ff40ca773a399.zip",
+        "sha256": "1af51542f444167a17ac4edbac0bb478f03d5f8b058eb33d8002ee3231b51a8f",
+        "subPath": "optional-lite-912ca5926b248b2fab0d93ea9e8ff40ca773a399"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/optional-lite/9cac275b3daac211f284b23bae8d4f96daac4e0d/BUCK",
+        "sha256": "ad0dd9940a5fa562462c7bbcd3738a85b7f0b30058f74d932ff338552d481ebb"
+      }
+    }
+  }
+}

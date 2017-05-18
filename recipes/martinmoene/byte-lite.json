@@ -1,0 +1,22 @@
+{
+  "name": "byte-lite",
+  "license": "MIT",
+  "url": "https://github.com/martinmoene/byte-lite",
+  "github": {
+    "owner": "martinmoene",
+    "project": "byte-lite"
+  },
+  "versions": {
+    "0.0.0": {
+      "source": {
+        "url": "https://github.com/martinmoene/byte-lite/archive/4bfbbb20426b90d12acd6ff9184c32cc9d042b23.zip",
+        "sha256": "380be4cc4c115a671180be2a73382dffa9470d48c9ad0f4cc21712374c0e4c85",
+        "subPath": "byte-lite-4bfbbb20426b90d12acd6ff9184c32cc9d042b23"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/byte-lite/951576aa895e1f52621bf49f9b5b34137678987d/BUCK",
+        "sha256": "d31572e3c9f7df96c9d78f71ccb0b530290f8e903e378276ba38e86ea6c2d4e2"
+      }
+    }
+  }
+}
