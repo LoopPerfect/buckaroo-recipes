@@ -1,0 +1,22 @@
+{
+  "name": "spdlog",
+  "license": "MIT",
+  "url": "https://github.com/gabime/spdlog",
+  "github": {
+    "owner": "gabime",
+    "project": "spdlog"
+  },
+  "versions": {
+    "0.13.0": {
+      "source": {
+        "url": "https://github.com/gabime/spdlog/archive/f85a08622e20b74bff34381cafcb8ef8167b29d0.zip",
+        "sha256": "c993234cb5d36e062dd6dc4364a62a01a565ed0cf03cc254982de66464f89a9c",
+        "subPath": "spdlog-f85a08622e20b74bff34381cafcb8ef8167b29d0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/spdlog/24c0495c34842879ee0f233442e69e4843f1f992/BUCK",
+        "sha256": "5da69135c671f47338abd028bc0f51415c67a443ddfa5e92ea2ae018d836d6d7"
+      }
+    }
+  }
+}
