@@ -1,0 +1,32 @@
+{
+  "name": "Blackhole",
+  "license": "",
+  "url": "https://github.com/3Hren/blackhole",
+  "github": {
+    "owner": "3Hren",
+    "project": "blackhole"
+  },
+  "versions": {
+    "1.6.0": {
+      "source": {
+        "url": "https://github.com/3Hren/blackhole/archive/04cfc171f074c480b4e82a608fe9a0c518316387.zip",
+        "sha256": "3c974867bbbfd1bd177448ffd825c926d2e83dd87c38ae7a1d88b33706939d25",
+        "subPath": "blackhole-04cfc171f074c480b4e82a608fe9a0c518316387"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/blackhole/7fccedb532f57e371e075100ac7988085ad779c0/BUCK",
+        "sha256": "d891834138f75826c93547d622b0b8f63d5193b924f7f5176bbdc41c47bf3cc9"
+      },
+      "dependencies": {
+        "boost/optional": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/variant": "1.63.0",
+        "boost/asio": "1.63.0",
+        "boost/thread": "1.63.0",
+        "boost/spirit": "1.63.0",
+        "miloyip/rapidjson": "1.1.0",
+        "khizmax/cds": "2.2.0"
+      }
+    }
+  }
+}

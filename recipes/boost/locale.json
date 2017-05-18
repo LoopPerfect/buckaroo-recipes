@@ -14,8 +14,8 @@
         "subPath": "locale-7cfa65b2b8114afe44c7a950553620133cd5df15"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/locale/d09dfa73e0a9a3fb329b4cbf005aa9118f7ac6b9/BUCK",
-        "sha256": "4c0c3f79fb4449c113b0b5afdca91103cfada27fd7c691f4d9db8adf1da81483"
+        "url": "https://raw.githubusercontent.com/njlr/locale/5b6ab16e4805d5658e9ed8ae699568d9ecefecc4/BUCK",
+        "sha256": "d73ed7d41d7d7533258f7ce198269906a73641e52eeb8c8172f14e58b7d396a4"
       },
       "dependencies": {
         "boost/config": "1.63.0",

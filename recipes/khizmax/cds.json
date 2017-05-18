@@ -1,0 +1,22 @@
+{
+  "name": "cds",
+  "license": "GPL-1.0",
+  "url": "https://github.com/khizmax/libcds",
+  "github": {
+    "owner": "khizmax",
+    "project": "libcds"
+  },
+  "versions": {
+    "2.2.0": {
+      "source": {
+        "url": "https://github.com/khizmax/libcds/archive/db4001c769038fec18570b03ba50a714effe7a0b.zip",
+        "sha256": "c52d979af78f2823dc0856faf7ec3d31448407cb589794dfacbf4eb9066880a9",
+        "subPath": "libcds-db4001c769038fec18570b03ba50a714effe7a0b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libcds/0c8cbb82ccb12fc20b5e9edd1bf56dcbb2c8a9d3/BUCK",
+        "sha256": "15b74b93663d3c3378150ba76a6443a20d949099ddd47d56b68c413fd90a9221"
+      }
+    }
+  }
+}
