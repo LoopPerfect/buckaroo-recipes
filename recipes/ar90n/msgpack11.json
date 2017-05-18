@@ -1,0 +1,22 @@
+{
+  "name": "msgpack11",
+  "license": "MIT",
+  "url": "https://github.com/ar90n/msgpack11",
+  "github": {
+    "owner": "ar90n",
+    "project": "msgpack11"
+  },
+  "versions": {
+    "0.0.6": {
+      "source": {
+        "url": "https://github.com/ar90n/msgpack11/archive/v0.0.6.zip",
+        "sha256": "545fc49fcb386f79213da3ffb506e8df2c80fdfe9477bcb9e72df114c8ef166d",
+        "subPath": "msgpack11-0.0.6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/ar90n/msgpack11/develop/BUCK",
+        "sha256": "82389c7e50016c61fcf2a9fb1940c127eedfabefbd647fa5b9449d2704c79b2d"
+      }
+    }
+  }
+}
