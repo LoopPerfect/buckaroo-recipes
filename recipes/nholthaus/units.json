@@ -1,0 +1,22 @@
+{
+  "name": "units",
+  "license": "MIT",
+  "url": "http://nholthaus.github.io/units/",
+  "github": {
+    "owner": "nholthaus",
+    "project": "units"
+  },
+  "versions": {
+    "2.2.0": {
+      "source": {
+        "url": "https://github.com/nholthaus/units/archive/246d57a237ad4a47e5cc595551a28ac88f23b623.zip",
+        "sha256": "812311a26d17f04050de228718ef221bc6de718c90c1ddf160ec05debc2d4b0d",
+        "subPath": "units-246d57a237ad4a47e5cc595551a28ac88f23b623"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/units/e37b8e436742ed57522e3d4ce37ca923c2f41ebc/BUCK",
+        "sha256": "f79acbfa8608f3e4b58b611b0de8b8440a7ea106d606ae5b5849a1889ef56d58"
+      }
+    }
+  }
+}
