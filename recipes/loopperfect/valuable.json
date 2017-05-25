@@ -1,0 +1,18 @@
+{
+  "name": "valuable",
+  "license": "MIT",
+  "url": "https://github.com/loopperfect/valuable",
+  "github": {
+    "owner": "loopperfect",
+    "project": "neither"
+  },
+  "versions": {
+    "0.1.0": {
+      "source":  {
+        "url": "https://github.com/loopperfect/valuable/archive/da6f41cab53eed9a8ee490a1d2c11c091bce540d.zip",
+        "sha256": "e65c42bdb93598727c0a6b965b5797a2e39ead076219daf737a4169d6ca560b7",
+        "subPath": "valuable-da6f41cab53eed9a8ee490a1d2c11c091bce540d"
+      }
+    }
+  }
+}
