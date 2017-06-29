@@ -1,0 +1,14 @@
+{
+  "name": "serialport",
+  "license": "LGPL-3.0",
+  "url": "https://sigrok.org/wiki/Libserialport",
+  "versions": {
+    "0.1.0": {
+      "source": "git://sigrok.org/libserialport#6c8115820d2eb06ada96a48cdda7dc3467ae90d1",
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libserialport/31efe7afffdbdfed7992ca7f4160fa867b9a85a7/BUCK",
+        "sha256": "f0e23d99b2dc93f80d6b998b43ad9c53e15aa94c21a1d06973ea8bc9c9fd5ba4"
+      }
+    }
+  }
+}
