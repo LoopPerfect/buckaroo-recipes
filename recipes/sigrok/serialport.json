@@ -2,6 +2,10 @@
   "name": "serialport",
   "license": "LGPL-3.0",
   "url": "https://sigrok.org/wiki/Libserialport",
+  "github": {
+    "owner":"martinling",
+    "project":"libserialport"
+  },
   "versions": {
     "0.1.0": {
       "source": "git://sigrok.org/libserialport#6c8115820d2eb06ada96a48cdda7dc3467ae90d1",
