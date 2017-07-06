@@ -10,7 +10,7 @@
     "2.4.2": {
       "source": {
         "url": "https://github.com/sfml/sfml/archive/c43b5991afe815ef92a812d67f8af12b0143adfd.zip",
-        "sha256": "6a3bc48457b6ef1839da9804fb1b52066e2c5b9f2462c61b0f84dbd7a5204082",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "subPath": "SFML-c43b5991afe815ef92a812d67f8af12b0143adfd/"
       },
       "buck": {
