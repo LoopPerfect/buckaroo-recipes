@@ -14,8 +14,8 @@
         "subPath": "observable-6910c0002091d669ca5e2b28582726ac215ec7c5"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/eigen/c277da1b12affabb33c68aa7539c5795a69066ef/BUCK",
-        "sha256": "d82e8d4792063147931a68001318585e887e8c84e019b054e5f0830e98a08c84"
+        "url": "https://raw.githubusercontent.com/njlr/observable/204dc6396acfd09f03bd7c8951834ae1c1f12ef6/BUCK",
+        "sha256": "6c204a47eb1e4448285023eb12202e35bb465533d8c53ef6c43587ee851fc50b"
       }
     }
   }
