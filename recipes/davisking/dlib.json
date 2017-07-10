@@ -1,0 +1,22 @@
+{
+  "name": "dlib",
+  "license": "BSL-1.0",
+  "url": "http://dlib.net/",
+  "github": {
+    "owner": "davisking",
+    "project": "dlib"
+  },
+  "versions": {
+    "19.4.0": {
+      "source": {
+        "url": "https://github.com/davisking/dlib/archive/581332bac13b3d3d02a8096671cc2f7b1379928a.zip",
+        "sha256": "abb800529eb5652aa2efbcc3361bd763f16560900fb1d9f1e1fba4f50577fba8",
+        "subPath": "dlib-581332bac13b3d3d02a8096671cc2f7b1379928a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/dlib/dbb3b53c1f1873055269fbe5909a43ebfa87fc55/BUCK",
+        "sha256": "a8d437b031fe9ba3d26eb6227494dc580f0837277925f20b13c714f2f9f8b802"
+      }
+    }
+  }
+}
