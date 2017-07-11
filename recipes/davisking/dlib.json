@@ -14,8 +14,8 @@
         "subPath": "dlib-581332bac13b3d3d02a8096671cc2f7b1379928a"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/dlib/dbb3b53c1f1873055269fbe5909a43ebfa87fc55/BUCK",
-        "sha256": "a8d437b031fe9ba3d26eb6227494dc580f0837277925f20b13c714f2f9f8b802"
+        "url": "https://raw.githubusercontent.com/njlr/dlib/5838e07fe9093c16bb242b2139b71e3c96446e2b/BUCK",
+        "sha256": "94454b41db124d0412125e205943e4ee6380051f453db93998d6bfaf37a761da"
       }
     }
   }
