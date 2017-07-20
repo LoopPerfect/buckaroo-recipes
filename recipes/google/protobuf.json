@@ -1,0 +1,22 @@
+{
+  "name": "protobuf",
+  "license": "Apache-2.0",
+  "url": "https://github.com/google/protobuf",
+  "github": {
+    "owner": "google",
+    "project": "protobuf"
+  },
+  "versions": {
+    "3.3.0": {
+      "source": {
+        "url": "https://github.com/google/protobuf/archive/a6189acd18b00611c1dc7042299ad75486f08a1a.zip",
+        "sha256": "102b5024120215c5a34ad23d9dd459e8ccc37dc3ef4c73d466ab802b6e3e9512",
+        "subPath": "protobuf-a6189acd18b00611c1dc7042299ad75486f08a1a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/protobuf/addf4bc6c581f5d49ca914c4500349ba5244c919/BUCK",
+        "sha256": "54cff7bd208ff0fb9241911234e9165da4b436a1752318fb0970d21d64b28ea4"
+      }
+    }
+  }
+}
