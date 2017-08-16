@@ -14,8 +14,8 @@
         "subPath": "poco-4403634bef7990ff0dff9f12a12a03b4d32006b6"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/poco/a9813ecda7704f51ba79a041bd01a78b2362f12e/BUCK",
-        "sha256": "80349c01aae90f632ae7ed6d10891a8824ec3f53a94bafcd01cc128f28c2c1a5"
+        "url": "https://raw.githubusercontent.com/njlr/poco/3d4dbf4a33fb9e4dff0604b52416f48a6ce0fd5d/BUCK",
+        "sha256": "5fe2bae15508035df2a7231fabc687210aab383c7d231380f53b0815593e1db8"
       }
     }
   }

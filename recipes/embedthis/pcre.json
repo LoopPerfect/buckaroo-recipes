@@ -1,0 +1,22 @@
+{
+  "name": "pcre",
+  "license": "BSD-2-Clause",
+  "url": "https://github.com/embedthis/pcre",
+  "github": {
+    "owner": "embedthis",
+    "project": "pcre"
+  },
+  "versions": {
+    "1.0.4": {
+      "source": {
+        "url": "https://github.com/embedthis/pcre/archive/fe114373c7132b52f29548c20aaacb09468c349f.zip",
+        "sha256": "8604772090b35d9efbb672cee9440efb2af7cbe9daa7ef7c8daa5d508f48636a",
+        "subPath": "pcre-fe114373c7132b52f29548c20aaacb09468c349f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pcre/802d85cae92dec95e2c25569603b58b25d47270b/BUCK",
+        "sha256": "92190aa8b7c121e9db5f55d92234e59b757ac6e9222ca7351dafb2d07644c3e4"
+      }
+    }
+  }
+}
