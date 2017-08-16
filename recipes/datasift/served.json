@@ -14,8 +14,8 @@
         "subPath": "served-281f81cbaab83ea1079830a17ac5af9497eac4f7"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/served/6c4ba76cc329cf9f2c7f11917fa0b13007a0f76d/BUCK",
-        "sha256": "8156fc3b3b721661d48195ff79472da281c030316307601a58b2e869eda0cd20"
+        "url": "https://raw.githubusercontent.com/nikhedonia/served/2ff8b9e1f07b00cc707df0bc9f3fd012bf9ce831/BUCK",
+        "sha256": "c42a311f37205d74f2655d895422ff2041b2198eebf591aa488e335053eb7fc2"
       },
       "dependencies": {
         "boost/date-time": "[1.56.0, 1.63.0]",
