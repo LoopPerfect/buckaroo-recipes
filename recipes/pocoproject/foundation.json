@@ -14,8 +14,8 @@
         "subPath": "poco-4403634bef7990ff0dff9f12a12a03b4d32006b6"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/nikhedonia/poco/2be5c22db71031c9c5b2c71da917673a22ad3de2/BUCK",
-        "sha256": "0051b432d933b8115125b59e33964f1fd62aa0f8b5a4251407be5217f38b8b24"
+        "url": "https://raw.githubusercontent.com/njlr/poco/a9813ecda7704f51ba79a041bd01a78b2362f12e/BUCK",
+        "sha256": "80349c01aae90f632ae7ed6d10891a8824ec3f53a94bafcd01cc128f28c2c1a5"
       }
     }
   }
