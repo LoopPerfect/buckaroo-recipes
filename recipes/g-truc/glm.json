@@ -14,8 +14,8 @@
         "subPath": "glm-5dcc56489e1b66dfd5bca751fa9b8dc68059e008"
       },
       "buck": {
-        "url": "https://github.com/njlr/glm/blob/ce2a4f784954581f898358d5c6d984e948c06d7e/BUCK",
-        "sha256": "2ecc942d523d311f795c3ef6aa4f4933bfc65f3287d2dc5ba8017fb1129e66c2"
+        "url": "https://raw.githubusercontent.com/njlr/glm/ce2a4f784954581f898358d5c6d984e948c06d7e/BUCK",
+        "sha256": "90b8ac5c6dd1bf5144f71fac227d51a3ec0cc728dff6c3966e4ff333683bdafa"
       }
     }
   }
