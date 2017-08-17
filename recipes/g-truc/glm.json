@@ -15,7 +15,7 @@
       },
       "buck": {
         "url": "https://github.com/njlr/glm/blob/ce2a4f784954581f898358d5c6d984e948c06d7e/BUCK",
-        "sha256": "e0cce9f654063d0207e76b760a3b5ff4c7c19a70528547427b443ccf6c6cdedc"
+        "sha256": "2ecc942d523d311f795c3ef6aa4f4933bfc65f3287d2dc5ba8017fb1129e66c2"
       }
     }
   }
