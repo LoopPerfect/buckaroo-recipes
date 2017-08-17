@@ -1,0 +1,22 @@
+{
+  "name": "glm",
+  "license": "",
+  "url": "https://glm.g-truc.net/",
+  "github": {
+    "owner": "g-truc",
+    "project": "glm"
+  },
+  "versions": {
+    "0.9.8.4": {
+      "source": {
+        "url": "https://github.com/g-truc/glm/archive/5dcc56489e1b66dfd5bca751fa9b8dc68059e008.zip",
+        "sha256": "1401344c8559c9d4bd73fd360073e8e0ee15d476f9ad9dc657cb94fbe7f524f8",
+        "subPath": "glm-5dcc56489e1b66dfd5bca751fa9b8dc68059e008"
+      },
+      "buck": {
+        "url": "https://github.com/njlr/glm/blob/ce2a4f784954581f898358d5c6d984e948c06d7e/BUCK",
+        "sha256": "e0cce9f654063d0207e76b760a3b5ff4c7c19a70528547427b443ccf6c6cdedc"
+      }
+    }
+  }
+}
