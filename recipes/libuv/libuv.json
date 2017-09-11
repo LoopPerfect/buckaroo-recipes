@@ -14,8 +14,8 @@
         "subPath": "libuv-7452ef4e06a4f99ee26b694c65476401534f2725"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/libuv/4f416e96a968bb474652aa7690295f164be595e1/BUCK",
-        "sha256": "a91f96dcb409b03433a593dfa27359afd4ef3975af62b19d297bb9e01288e847"
+        "url": "https://raw.githubusercontent.com/nikhedonia/libuv/6f07ed97244c069e6faa8fa60bf931583485be3a/BUCK",
+        "sha256": "19c4fbf743a08c0f9f3103d688b8374d099b39087e91cfa09eb27ac6553aa1be"
       }
     }
   }
