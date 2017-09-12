@@ -1,0 +1,14 @@
+{
+  "name": "PCRE",
+  "license": "BSD-2-clause",
+  "url": "http://www.pcre.org/",
+  "versions": {
+    "8.36.0": {
+      "source": {
+        "url": "https://github.com/njlr/pcre-1/archive/d1a83fbf2cb55d35ad16f07f79a8fe1be3423f65.zip",
+        "sha256": "4b62caa4d51b7e9037324d24da5d6814f7e0db2f9ba91f0e263255e0f01b5a72",
+        "subPath": "pcre-1-d1a83fbf2cb55d35ad16f07f79a8fe1be3423f65"
+      }
+    }
+  }
+}
