@@ -1,0 +1,18 @@
+{
+  "name": "kafel",
+  "license": "Apache-2.0",
+  "url": "https://github.com/google/kafel",
+  "github": {
+    "owner": "google",
+    "project": "kafel"
+  },
+  "versions": {
+    "1.0.0": {
+      "source": {
+        "url": "https://github.com/nikhedonia/kafel/archive/74ac6808afbe5c0cd9d5c52aee74c75f0e51780f.zip",
+        "sha256": "3a647dc8d2cb09870a57256c0d9f5e2f15ed49243b49f51977655583bc01c97e",
+        "subPath": "kafel-74ac6808afbe5c0cd9d5c52aee74c75f0e51780f"
+      }
+    }
+  }
+}
