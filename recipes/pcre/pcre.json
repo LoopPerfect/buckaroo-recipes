@@ -5,9 +5,9 @@
   "versions": {
     "8.36.0": {
       "source": {
-        "url": "https://github.com/njlr/pcre-1/archive/d1a83fbf2cb55d35ad16f07f79a8fe1be3423f65.zip",
-        "sha256": "4b62caa4d51b7e9037324d24da5d6814f7e0db2f9ba91f0e263255e0f01b5a72",
-        "subPath": "pcre-1-d1a83fbf2cb55d35ad16f07f79a8fe1be3423f65"
+        "url": "https://github.com/nikhedonia/pcre-1/archive/7619846506d1698619c4c19516ea87e316e5860b.zip",
+        "sha256": "2d0127569bb9321bae42fe6295e4dd732d65e5ec5dbbc9b8979ce67d31d71cc4",
+        "subPath": "pcre-1-7619846506d1698619c4c19516ea87e316e5860b"
       }
     }
   }
