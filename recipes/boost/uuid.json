@@ -14,8 +14,8 @@
         "subPath": "uuid-0029bc760061824bb0c02d6687a61594fa27beac"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/uuid/ac8cfb5ce3e3b7956b62cbd51d75cf5d9416d17e/BUCK",
-        "sha256": "00381e8634020b3a4763c796ebc9a15d48a35be505a2618bcd214b76fde121e9"
+        "url": "https://raw.githubusercontent.com/njlr/uuid/18ece5a11039a563a0c2626f89592fb573066c13/BUCK",
+        "sha256": "815260c372586b06a412171e13c3f5df040362b6ff34e5ae8376ea9c61803b40"
       },
       "dependencies": {
         "boost/config": "1.63.0",
