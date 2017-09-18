@@ -1,0 +1,22 @@
+{
+  "name": "sqlpp11-connector-postgresql",
+  "license": "",
+  "url": "https://github.com/rbock/sqlpp11/wiki",
+  "github": {
+    "owner": "rbock",
+    "project": "sqlpp11-connector-postgresql"
+  },
+  "versions": {
+    "0.45.0": {
+      "source": {
+        "url": "https://github.com/njlr/sqlpp11-connector-postgresql/archive/cda9418cd3b1300c2548da9ed0cba85bc9f68cd0.zip",
+        "sha256": "be19fea872c8fd940eeb1b91531ef0c66176fc3f037969abd4908a6f944cb6a2",
+        "subPath": "sqlpp11-connector-postgresql-cda9418cd3b1300c2548da9ed0cba85bc9f68cd0"
+      },
+      "dependencies": {
+        "rbock/sqlpp11": "0.45.0",
+        "luadist/pq": "9.2.1"
+      }
+    }
+  }
+}
