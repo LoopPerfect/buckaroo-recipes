@@ -1,0 +1,22 @@
+{
+  "name": "pq",
+  "license": "",
+  "url": "https://github.com/LuaDist/libpq",
+  "github": {
+    "owner": "LuaDist",
+    "project": "libpq"
+  },
+  "versions": {
+    "9.2.1": {
+      "source": {
+        "url": "https://github.com/LuaDist/libpq/archive/071506724276a2f30cc7af0c53c4c6bc7ed27b10.zip",
+        "sha256": "615e10a798db225a76d0704fa8430f0b63603528e8879e474857f94426748caa",
+        "subPath": "libpq-071506724276a2f30cc7af0c53c4c6bc7ed27b10"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libpq/e6baebea9b5e1839ac8951e65576c570299dcb79/BUCK",
+        "sha256": "7a80a4d0ae662c12832affbe84687e6f837c2b5de0f1f96bed91b173e6a7d09b"
+      }
+    }
+  }
+}
