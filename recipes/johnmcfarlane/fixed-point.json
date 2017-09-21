@@ -1,0 +1,22 @@
+{
+  "name": "fixed-point",
+  "license": "BSL-1.0",
+  "url": "http://johnmcfarlane.github.io/fixed_point/",
+  "github": {
+    "owner": "johnmcfarlane",
+    "project": "fixed_point"
+  },
+  "versions": {
+    "2017.0.0": {
+      "source": {
+        "url": "https://github.com/johnmcfarlane/fixed_point/archive/992b2ca8e8679138f82dcdc3c44012a05785ddff.zip",
+        "sha256": "89caabfe4e04993cc2393deb8ee7de8f6f2527fc9b259d9357513756fcb52bfb",
+        "subPath": "fixed_point-992b2ca8e8679138f82dcdc3c44012a05785ddff"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fixed_point/3b28d0759f694f62bfbbe0231756bf4a84b813ad/BUCK",
+        "sha256": "eab7641d14892afbfede534cae514d6ea6339afaf498d916f1751997eae63d39"
+      }
+    }
+  }
+}
