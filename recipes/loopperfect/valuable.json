@@ -9,9 +9,9 @@
   "versions": {
     "0.1.0": {
       "source":  {
-        "url": "https://github.com/loopperfect/valuable/archive/da6f41cab53eed9a8ee490a1d2c11c091bce540d.zip",
-        "sha256": "e65c42bdb93598727c0a6b965b5797a2e39ead076219daf737a4169d6ca560b7",
-        "subPath": "valuable-da6f41cab53eed9a8ee490a1d2c11c091bce540d"
+        "url": "https://github.com/loopperfect/valuable/archive/e3f3541f33b6338966e6f56a3ab2202a8dc6f540.zip",
+        "sha256": "1e225b2a98603e81991dd65f9df2d46df883dc352845b83b7450839b334f3ded",
+        "subPath": "valuable-e3f3541f33b6338966e6f56a3ab2202a8dc6f540"
       }
     }
   }
