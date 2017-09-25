@@ -1,0 +1,22 @@
+{
+  "name": "http-parser",
+  "license": "MIT",
+  "url": "https://github.com/nodejs/http-parser",
+  "github": {
+    "owner": "nodejs",
+    "project": "http-parser"
+  },
+  "versions": {
+    "2.7.1": {
+      "source": {
+        "url": "https://github.com/nodejs/http-parser/archive/feae95a3a69f111bc1897b9048d9acbc290992f9.zip",
+        "sha256": "746973cf378bf1dd884c58900734baadc12aaa788a3569a50feb521e90db655c",
+        "subPath": "http-parser-feae95a3a69f111bc1897b9048d9acbc290992f9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/http-parser/6d3169e01fa6f284b0e268f2e4ff63eb6395ebac/BUCK",
+        "sha256": "8271da902bed90694ee5294e013abbaca27512ec6bdf734504b1b1d7cf6ec8ff"
+      }
+    }
+  }
+}
