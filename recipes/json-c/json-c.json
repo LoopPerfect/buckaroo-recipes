@@ -1,0 +1,22 @@
+{
+  "name": "json-c",
+  "license": "MIT",
+  "url": "https://github.com/json-c/json-c",
+  "github": {
+    "owner": "json-c",
+    "project": "json-c"
+  },
+  "versions": {
+    "0.12.1": {
+      "source": {
+        "url": "https://github.com/json-c/json-c/archive/acbcc062f9c114f7b2a63b792897fdfffed71d14.zip",
+        "sha256": "5869576a2ff908fb58f014b6e2013ba6ee5c84363f1bd82a02ddc37827261a50",
+        "subPath": "json-c-acbcc062f9c114f7b2a63b792897fdfffed71d14"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/json-c/257b40f049d9a725a383d74e0632489fd4b046a7/BUCK",
+        "sha256": "23e76e0f59fa4ca0fcf9885d31ffff5a0e0e5c5c08627b0d3fe91dff161b1691"
+      }
+    }
+  }
+}
