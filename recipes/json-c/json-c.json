@@ -14,8 +14,8 @@
         "subPath": "json-c-acbcc062f9c114f7b2a63b792897fdfffed71d14"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/json-c/257b40f049d9a725a383d74e0632489fd4b046a7/BUCK",
-        "sha256": "23e76e0f59fa4ca0fcf9885d31ffff5a0e0e5c5c08627b0d3fe91dff161b1691"
+        "url": "https://raw.githubusercontent.com/njlr/json-c/01458c3479f288e0d94699c0214cd97b0e4acf89/BUCK",
+        "sha256": "022ef8256dff2f459998281b6d889e1847b21a95ec4e01115096582869873b32"
       }
     }
   }
