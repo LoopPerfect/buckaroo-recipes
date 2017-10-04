@@ -13,6 +13,13 @@
         "sha256": "fe58cd55cd9177abc1ffe9550091b678ad265e5ead40305a53d5c55e562a9b68",
         "subPath": "neither-c313b3ce65249b2dfc3f7820e7ed4873111d2fe8"
       }
+    },
+    "0.4.0": {
+      "source":  {
+        "url": "https://github.com/loopperfect/neither/archive/8d0725ce69849565c91fc091d94a8805c81c9f2c.zip",
+        "sha256": "a14016d4221d32f25d35489fdd367b4719997c14690f1f78b2201e873a67f3c4",
+        "subPath": "neither-8d0725ce69849565c91fc091d94a8805c81c9f2c"
+      }
     }
   }
 }
