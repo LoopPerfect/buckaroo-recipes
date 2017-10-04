@@ -1,0 +1,22 @@
+{
+  "name": "r3",
+  "license": "MIT",
+  "url": "https://github.com/LoopPerfect/r3",
+  "github": {
+    "owner": "LoopPerfect",
+    "project": "r3"
+  },
+  "versions": {
+    "2.0.0": {
+      "source": {
+        "url": "https://github.com/LoopPerfect/r3/archive/29c603b705c5292cd9dfc8327c54017a9f2d738c.zip",
+        "sha256": "467474a463a4deca1a9e092f7e97460d4b0d9e1c3d2660e0cff367c182c6db2f",
+        "subPath": "r3-29c603b705c5292cd9dfc8327c54017a9f2d738c"
+      },
+      "dependencies": {
+        "pcre/pcre": "8.36.0",
+        "madler/zlib": "*"
+      }
+    }
+  }
+}
