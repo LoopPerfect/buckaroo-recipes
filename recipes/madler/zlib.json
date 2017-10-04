@@ -14,8 +14,11 @@
         "subPath": "zlib-cacf7f1d4e3d44d871b605da3b647f07d718623f"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/zlib/c99d7665173f5b04f1aa106016c5df3632e1f8cd/BUCK",
-        "sha256": "39540f57581a5e63b3d4f0e17a2967ae8f9df3521b085cb6dc230a2e37f30466"
+        "url": "https://raw.githubusercontent.com/njlr/zlib/bddc74df8c6e3f1ad78fa725de30d12054910045/BUCK",
+        "sha256": "f0eb636e146603be36c8efb76ca44f6591881014035a247af40a76714db83a8c"
+      },
+      "dependencies": {
+        "c9s/zmalloc": "*"
       }
     }
   }

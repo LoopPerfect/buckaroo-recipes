@@ -1,5 +1,5 @@
 {
-  "name": "r3",
+  "name": "zmalloc",
   "license": "MIT",
   "url": "https://github.com/c9s/r3",
   "github": {
@@ -7,7 +7,7 @@
     "project": "r3"
   },
   "versions": {
-    "2.0.0": {
+    "0.1.0": {
       "source": {
         "url": "https://github.com/c9s/r3/archive/0d78599a57aa7499b5f8f398ddf7860d7434dafd.zip",
         "sha256": "94784accf5100b222a75432d01b85d08de0d8a8d6d5773042fd0db1b8eb607e2",
@@ -16,11 +16,6 @@
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/r3/8751bed6f6326f82b39aaa6a865a8f5fecc6ef2f/BUCK",
         "sha256": "a29d8b5eaf85bb3495a69d007ef66f7460731361babaa51a2135248c0d2943c2"
-      },
-      "dependencies": {
-        "pcre/pcre": "8.36.0",
-        "jemalloc/jemalloc": "5.0.1",
-        "c9s/zmalloc": "*"
       }
     }
   }
