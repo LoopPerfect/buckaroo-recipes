@@ -14,12 +14,11 @@
         "subPath": "r3-0d78599a57aa7499b5f8f398ddf7860d7434dafd"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/r3/8751bed6f6326f82b39aaa6a865a8f5fecc6ef2f/BUCK",
-        "sha256": "a29d8b5eaf85bb3495a69d007ef66f7460731361babaa51a2135248c0d2943c2"
+        "url": "https://raw.githubusercontent.com/njlr/r3/54f8b786a95b451010bc8970cf86eaf44df7869a/BUCK",
+        "sha256": "ff14b57def2ab0b4c437ca972ca5817085936ef06a904c1f4c154ae6d599e593"
       },
       "dependencies": {
         "pcre/pcre": "8.36.0",
-        "jemalloc/jemalloc": "5.0.1",
         "c9s/zmalloc": "*"
       }
     }
