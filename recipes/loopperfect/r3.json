@@ -9,9 +9,9 @@
   "versions": {
     "2.0.0": {
       "source": {
-        "url": "https://github.com/loopperfect/r3/archive/ce77a31dd5321cfee7d8befe481fcc7b1e742937.zip",
-        "sha256": "f3ae016a31994dbf02016b0897ba3c423043fcd0fcfb12a7bf13b3d1ae7a0dec",
-        "subPath": "r3-ce77a31dd5321cfee7d8befe481fcc7b1e742937"
+        "url": "https://github.com/loopperfect/r3/archive/d218ac8cd72aea25fac5297c7135ff2799f57839.zip",
+        "sha256": "6b17313ea262e4739a8eb7feb054f982ce355de685ce9e7ec3568d7463624646",
+        "subPath": "r3-d218ac8cd72aea25fac5297c7135ff2799f57839"
       },
       "dependencies": {
         "pcre/pcre": "8.36.0",
