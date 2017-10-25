@@ -1,0 +1,22 @@
+{
+  "name": "sundown",
+  "license": "",
+  "url": "https://github.com/vmg/sundown",
+  "github": {
+    "owner": "vmg",
+    "project": "sundown"
+  },
+  "versions": {
+    "0.1.0": {
+      "source": {
+        "url": "https://github.com/vmg/sundown/archive/37728fb2d7137ff7c37d0a474cb827a8d6d846d8.zip",
+        "sha256": "3c594d8219b17acd140b7011b44ebc69ab9d68910da827494f8c9cc2f5b12ecf",
+        "subPath": "sundown-37728fb2d7137ff7c37d0a474cb827a8d6d846d8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/sundown/c917b709f35d8bbf1b8447d6330c521e979b081c/BUCK",
+        "sha256": "fdd754e72fb3151435b700671869e90cb9084a4ba5dd60ade0d5533210f69437"
+      }
+    }
+  }
+}
