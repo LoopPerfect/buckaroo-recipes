@@ -7,6 +7,13 @@
     "project": "cctz"
   },
   "versions": {
+    "2.1.0": {
+      "source": {
+        "url": "https://github.com/njlr/cctz/archive/f410f8acdb95d92dbbb7f86dcc00541c13bafad7.zip",
+        "sha256": "b49c6f45a7e8f68a8fb546a3362fa66590efcef8e3f71318087a407312f32d1b",
+        "subPath": "cctz-f410f8acdb95d92dbbb7f86dcc00541c13bafad7"
+      }
+    },
     "2.0.0": {
       "source": {
         "url": "https://github.com/google/cctz/archive/182b96ca6e09527e18fcd0a6ca3e156ea7997099.zip",
