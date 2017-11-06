@@ -1,0 +1,22 @@
+{
+  "name": "nanopb",
+  "license": "",
+  "url": "https://jpa.kapsi.fi/nanopb/",
+  "github": {
+    "owner": "nanopb",
+    "project": "nanopb"
+  },
+  "versions": {
+    "0.3.9": {
+      "source": {
+        "url": "https://github.com/nanopb/nanopb/archive/71ba4e68da4b3c986d454e34c4666a82fbdf4176.zip",
+        "sha256": "d0619d6e555932e9995d2b300e6cd09d87f67d97cde5c9f2fae04ba6097ff199",
+        "subPath": "nanopb-71ba4e68da4b3c986d454e34c4666a82fbdf4176"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/nanopb/66baabb22ee1e1d5775ec1f2fa5c99003d7cc8b4/BUCK",
+        "sha256": "99e4f0f1cc129b4b72b74a47088f6fdd60bd7e851e42f27e0bdd95dabccfd78c"
+      }
+    }
+  }
+}
