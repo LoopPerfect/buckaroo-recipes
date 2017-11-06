@@ -1,0 +1,22 @@
+{
+  "name": "unity",
+  "license": "",
+  "url": "https://github.com/ThrowTheSwitch/Unity",
+  "github": {
+    "owner": "throwtheswitch",
+    "project": "unity"
+  },
+  "versions": {
+    "2.4.2": {
+      "source": {
+        "url": "https://github.com/ThrowTheSwitch/unity/archive/60b13f0685246b009810aecbffafe17fb665d970.zip",
+        "sha256": "35d4e0a2cfb95ae3a8891b71295aba7f35a463a4117659cfee78d1961f39fb50",
+        "subPath": "Unity-60b13f0685246b009810aecbffafe17fb665d970"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/Unity/d10a22a389db50bac2b74f4328febf5577c102ed/BUCK",
+        "sha256": "22d9eb3ed432bb87eaa3004693e79f1940bd816e0b22e8970a5deee3fd4bd402"
+      }
+    }
+  }
+}
