@@ -1,0 +1,22 @@
+{
+  "name": "versor",
+  "license": "BSD-2-Clause",
+  "url": "http://wolftype.github.io/versor/devel/html/",
+  "github": {
+    "owner": "wolftype",
+    "project": "versor"
+  },
+  "versions": {
+    "0.0.1": {
+      "source": {
+        "url": "https://github.com/wolftype/versor/archive/e5ebef8a6ec3e6f793c5218da24cab2ff2d10a1e.zip",
+        "sha256": "69f8780f3b747c4ccc8122dfdbc226c6ec3856beb1c673345df64b0dbfb02d65",
+        "subPath": "versor-e5ebef8a6ec3e6f793c5218da24cab2ff2d10a1e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/versor/8a84a74d27fa6fc53dbb252c84479fe9572d17a5/BUCK",
+        "sha256": "41acd39ebbffbac8b96e754ad219c8a666c73b5f0431f722cad1ef31d0b3d6bb"
+      }
+    }
+  }
+}
