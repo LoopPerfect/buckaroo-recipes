@@ -7,6 +7,72 @@
     "project": "json"
   },
   "versions": {
+    "3.1.2": {
+      "source": {
+        "url": "https://github.com/nlohmann/json/releases/download/v3.1.2/include.zip",
+        "sha256": "495362ee1b9d03d9526ba9ccf1b4a9c37691abe3a642ddbced13e5778c16660c",
+        "subPath": "include"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/json/4d7314aeaf7ca4f15008ea8e15f78e8de9e0961b/BUCK",
+        "sha256": "479d246dfa585de842d7f03157bf71a7531ae2ffd93126f24f9dc21f589591de"
+      }
+    },
+    "3.1.1": {
+      "source": {
+        "url": "https://github.com/nlohmann/json/releases/download/v3.1.1/include.zip",
+        "sha256": "495362ee1b9d03d9526ba9ccf1b4a9c37691abe3a642ddbced13e5778c16660c",
+        "subPath": "include"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/json/4d7314aeaf7ca4f15008ea8e15f78e8de9e0961b/BUCK",
+        "sha256": "479d246dfa585de842d7f03157bf71a7531ae2ffd93126f24f9dc21f589591de"
+      }
+    },
+    "3.1.0": {
+      "source": {
+        "url": "https://github.com/nlohmann/json/releases/download/v3.1.0/include.zip",
+        "sha256": "2b7234fca394d1e27b7e017117ed80b7518fafbb4f4c13a7c069624f6f924673",
+        "subPath": "include"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/json/4d7314aeaf7ca4f15008ea8e15f78e8de9e0961b/BUCK",
+        "sha256": "479d246dfa585de842d7f03157bf71a7531ae2ffd93126f24f9dc21f589591de"
+      }
+    },
+    "3.0.1": {
+      "source": {
+        "url": "https://github.com/nlohmann/json/archive/v3.0.1.zip",
+        "sha256": "6a66f3780b4236c5681c3a282231a72adb1aa35ef3ed2639b84d34d43f5ba28b",
+        "subPath": "json-3.0.1"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/6a6c770b44c0bc900d97e087a9c646a8/raw/d2224bdc940e7cdfeedd8aff37f3a758f91d2fd6/nlohmann-json-3.x-BUCK",
+        "sha256": "06631d785af5b9f71b77c8e99d5ec64af4a8fac6979c624bfbf4307e7f4ad44f"
+      }
+    },
+    "3.0.0": {
+      "source": {
+        "url": "https://github.com/nlohmann/json/archive/v3.0.0.zip",
+        "sha256": "7baa5c2ee8ca4be2dd8e7fb3cee3afbd7aeb0cea9db3c7ff42b9ed738c5a51c2",
+        "subPath": "json-3.0.0"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/6a6c770b44c0bc900d97e087a9c646a8/raw/d2224bdc940e7cdfeedd8aff37f3a758f91d2fd6/nlohmann-json-3.x-BUCK",
+        "sha256": "06631d785af5b9f71b77c8e99d5ec64af4a8fac6979c624bfbf4307e7f4ad44f"
+      }
+    },
+    "2.1.2": {
+      "source": {
+        "url": "https://github.com/nlohmann/json/archive/9ff0cc0f0212cb1e85b83ce5d2907ba9531b6cae.zip",
+        "sha256": "fde771d4b9e4f222965c00758a2bdd627d04fb7b59e09b7f3d1965abdc848505",
+        "subPath": "json-9ff0cc0f0212cb1e85b83ce5d2907ba9531b6cae"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/json/4d7314aeaf7ca4f15008ea8e15f78e8de9e0961b/BUCK",
+        "sha256": "479d246dfa585de842d7f03157bf71a7531ae2ffd93126f24f9dc21f589591de"
+      }
+    },
     "2.1.1": {
       "source": {
         "url": "https://github.com/nlohmann/json/archive/9ff0cc0f0212cb1e85b83ce5d2907ba9531b6cae.zip",
