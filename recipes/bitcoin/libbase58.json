@@ -1,7 +1,7 @@
 {
   "name": "libbase58",
   "license": "MIT",
-  "url": "http://boost.org/libs/accumulators",
+  "url": "https://github.com/bitcoin/libbase58",
   "github": {
     "owner": "bitcoin",
     "project": "libbase58"
