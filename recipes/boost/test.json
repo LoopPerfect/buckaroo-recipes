@@ -7,6 +7,114 @@
     "project": "test"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/413b2f660118060db732dbf38a2bdffb527395e3.zip",
+        "sha256": "a23e9d5a75a04d19efe68835fb25e186bdd83e64c74bf2ee4de60a4ac081f31a",
+        "subPath": "test-413b2f660118060db732dbf38a2bdffb527395e3"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.63.0-1.67.0",
+        "boost/config": "1.63.0-1.67.0",
+        "boost/type-traits": "1.63.0-1.67.0",
+        "boost/smart-ptr": "1.63.0-1.67.0",
+        "boost/function": "1.63.0-1.67.0",
+        "boost/mpl": "1.63.0-1.67.0",
+        "boost/preprocessor": "1.63.0-1.67.0",
+        "boost/timer": "1.63.0-1.67.0",
+        "boost/algorithm": "1.63.0-1.67.0",
+        "boost/iterator": "1.63.0-1.67.0",
+        "boost/numeric-conversion": "1.63.0-1.67.0",
+        "boost/math": "1.63.0-1.67.0",
+        "boost/thread": "1.63.0-1.67.0",
+        "boost/multiprecision": "1.63.0-1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/7813b4557b726d55b99343a709663b58215ca3e7.zip",
+        "sha256": "3fbcbcb59befcb05850d87e5c208e7bebaf46734805dea16efd98ccbe0784cfb",
+        "subPath": "test-7813b4557b726d55b99343a709663b58215ca3e7"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.63.0-1.67.0",
+        "boost/config": "1.63.0-1.67.0",
+        "boost/type-traits": "1.63.0-1.67.0",
+        "boost/smart-ptr": "1.63.0-1.67.0",
+        "boost/function": "1.63.0-1.67.0",
+        "boost/mpl": "1.63.0-1.67.0",
+        "boost/preprocessor": "1.63.0-1.67.0",
+        "boost/timer": "1.63.0-1.67.0",
+        "boost/algorithm": "1.63.0-1.67.0",
+        "boost/iterator": "1.63.0-1.67.0",
+        "boost/numeric-conversion": "1.63.0-1.67.0",
+        "boost/math": "1.63.0-1.67.0",
+        "boost/thread": "1.63.0-1.67.0",
+        "boost/multiprecision": "1.63.0-1.67.0"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/7813b4557b726d55b99343a709663b58215ca3e7.zip",
+        "sha256": "3fbcbcb59befcb05850d87e5c208e7bebaf46734805dea16efd98ccbe0784cfb",
+        "subPath": "test-7813b4557b726d55b99343a709663b58215ca3e7"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.63.0-1.67.0",
+        "boost/config": "1.63.0-1.67.0",
+        "boost/type-traits": "1.63.0-1.67.0",
+        "boost/smart-ptr": "1.63.0-1.67.0",
+        "boost/function": "1.63.0-1.67.0",
+        "boost/mpl": "1.63.0-1.67.0",
+        "boost/preprocessor": "1.63.0-1.67.0",
+        "boost/timer": "1.63.0-1.67.0",
+        "boost/algorithm": "1.63.0-1.67.0",
+        "boost/iterator": "1.63.0-1.67.0",
+        "boost/numeric-conversion": "1.63.0-1.67.0",
+        "boost/math": "1.63.0-1.67.0",
+        "boost/thread": "1.63.0-1.67.0",
+        "boost/multiprecision": "1.63.0-1.67.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/af78890325948bed598361966fa7f5fc9560c41d.zip",
+        "sha256": "09999698e51002c3bcca81cc6a8014567a2529d8e9247f0fdd778feec05423aa",
+        "subPath": "test-af78890325948bed598361966fa7f5fc9560c41d"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.63.0-1.67.0",
+        "boost/config": "1.63.0-1.67.0",
+        "boost/type-traits": "1.63.0-1.67.0",
+        "boost/smart-ptr": "1.63.0-1.67.0",
+        "boost/function": "1.63.0-1.67.0",
+        "boost/mpl": "1.63.0-1.67.0",
+        "boost/preprocessor": "1.63.0-1.67.0",
+        "boost/timer": "1.63.0-1.67.0",
+        "boost/algorithm": "1.63.0-1.67.0",
+        "boost/iterator": "1.63.0-1.67.0",
+        "boost/numeric-conversion": "1.63.0-1.67.0",
+        "boost/math": "1.63.0-1.67.0",
+        "boost/thread": "1.63.0-1.67.0",
+        "boost/multiprecision": "1.63.0-1.67.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/test/archive/af78890325948bed598361966fa7f5fc9560c41d.zip",
