@@ -14,8 +14,8 @@
         "subPath": "thread-3391bf87c68717e3d6ef1cdfa868a8fcc01ec7b5"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
-        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+        "url": "https://raw.githubusercontent.com/njlr/thread/3345a362f32baf243ad91fdadd04ef0c3333887c/BUCK",
+        "sha256": "a66eeed6fea03a0c135744cc0cbf21094540a91298a0cf48494798cb94230013"
       },
       "dependencies": {
         "boost/config": "1.63.0",
