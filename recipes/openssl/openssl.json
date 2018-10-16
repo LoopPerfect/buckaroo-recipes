@@ -14,8 +14,8 @@
         "subPath": "openssl-081314d07705aa58912845c213a48414d8f616a9"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/openssl/e60437036283817c302536d7c62169eb151166d9/BUCK",
-        "sha256": "e6ad6f970047fcde0671c063389f9c32c994c13e4cfeb03724123e80c0e584e3"
+        "url": "https://raw.githubusercontent.com/njlr/openssl/3d5a88edeb95df8eb3caa5d3f4da9bc1a02a1fda/BUCK",
+        "sha256": "dea8adef38f002c3f7a63a28dae93588e32325ddbef180e137bc11e6e622fc34"
       }
     }
   }
