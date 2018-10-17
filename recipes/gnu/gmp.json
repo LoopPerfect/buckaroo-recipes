@@ -1,0 +1,18 @@
+{
+  "name": "gmp",
+  "license": "LGPL-3.0-or-later",
+  "url": "https://gmplib.org/",
+  "github": {
+    "owner": "buckaroo-pm",
+    "project": "gmp"
+  },
+  "versions": {
+    "6.1.0": {
+      "source": {
+        "url": "https://github.com/buckaroo-pm/gmp/archive/f8ffe193ede26f214b863dd7037770b685292d7c.zip",
+        "sha256": "42fe766948ec665b62f0e81438986ffd4acdbb4be9e9ba96b44c5f313b3706ef",
+        "subPath": "gmp-f8ffe193ede26f214b863dd7037770b685292d7c"
+      }
+    }
+  }
+}
