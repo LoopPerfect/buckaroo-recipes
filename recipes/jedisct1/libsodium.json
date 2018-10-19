@@ -17,6 +17,17 @@
         "url": "https://raw.githubusercontent.com/njlr/libsodium/daab6fc5528f35f5addd7f813d959a31d3086e3a/BUCK",
         "sha256": "95eba5289696d3ba2c2a374f7e8f26168bfc63d1e8b3649ab4be878846804608"
       }
+    },
+    "1.0.16": {
+      "source": {
+        "url": "https://github.com/jedisct1/libsodium/archive/675149b9b8b66ff44152553fb3ebf9858128363d.zip",
+        "sha256": "aca890ef85f6895656231de7f96ff7f762b59182f7d03309c223e1098183263e",
+        "subPath": "libsodium-675149b9b8b66ff44152553fb3ebf9858128363d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/libsodium/b50d00ad91cf683ca017c0d38c784c8eba6500b1/BUCK",
+        "sha256": "deb05862c0c8a99f10b8c3d525459b27622f603271a151e564ea27dad19939f2"
+      }
     }
   }
 }
