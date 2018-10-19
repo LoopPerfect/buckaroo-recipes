@@ -1,0 +1,22 @@
+{
+  "name": "args",
+  "license": "MIT",
+  "url": "https://github.com/taywee/args",
+  "github": {
+    "owner": "taywee",
+    "project": "args"
+  },
+  "versions": {
+    "6.2.0": {
+      "source": {
+        "url": "https://github.com/Taywee/args/archive/defbe36b65a708aa9f8d164946509d3d924b2f72.zip",
+        "sha256": "6e3d68627364f89d99f180e115bb4611846cb995dc746201becb1dbe22fce076",
+        "subPath": "args-defbe36b65a708aa9f8d164946509d3d924b2f72"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/args/faffefe9ac49daa22e1259c00fd9ffb1874ec5c2/BUCK",
+        "sha256": "e62e3f4b5e20c5c421bdab1820daa6d0ad06d1b93f4d3bd35c68c96c7cab7891"
+      }
+    }
+  }
+}
