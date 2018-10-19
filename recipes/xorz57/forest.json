@@ -1,0 +1,22 @@
+{
+  "name": "forest",
+  "license": "MIT",
+  "url": "https://github.com/xorz57/forest",
+  "github": {
+    "owner": "xorz57",
+    "project": "forest"
+  },
+  "versions": {
+    "9.0.6": {
+      "source": {
+        "url": "https://github.com/xorz57/forest/archive/239665cc8dd1ebd3c32348c8273cd4b82add1a1d.zip",
+        "sha256": "bff4adba3256f6c08a068be69b05d710adb82da290e160dbd482fbf7f2c6a922",
+        "subPath": "forest-239665cc8dd1ebd3c32348c8273cd4b82add1a1d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/buckaroo-pm/xorz57-forest/16c28d8cc289dd25f313576bd9bb6188a9b1719f/BUCK",
+        "sha256": "02614eb549360033a4f08b09df1e5becadd701d8ae53f2b066d2db96afd05271"
+      }
+    }
+  }
+}
