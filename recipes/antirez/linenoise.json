@@ -1,0 +1,19 @@
+{
+  "name": "linenoise",
+  "license": "BSD-2-Clause",
+  "url": "https://github.com/antirez/linenoise",
+  "github": "antirez/linenoise",
+  "versions": {
+    "1.0.0": {
+      "source": {
+        "url": "https://github.com/antirez/linenoise/archive/80fd0569d166cd32886a640e58f3bf292807a3c0.zip",
+        "sha256": "cbbd4c0fb1ffc5f0261bbd058b709950f95f73ee3e5b89bf6403c5f2a6498ab8",
+        "subPath": "linenoise-80fd0569d166cd32886a640e58f3bf292807a3c0"
+      }, 
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/linenoise/cec06b68294d8d34ecd1a350d7be097fb08bfe13/BUCK", 
+        "sha256": "4a7e3fc2d7e947ba89241591c0e3acbe6d0523fe4105dfebaa8b9ed358ed8fdc"
+      }
+    }
+  }
+}
