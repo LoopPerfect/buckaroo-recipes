@@ -1,0 +1,21 @@
+{
+  "name": "openexr",
+  "license": "MIT",
+  "url": "http://www.openexr.com/",
+  "github": {
+    "owner": "openexr",
+    "project": "openexr"
+  },
+  "versions": {
+    "2.3.0": {
+      "source": {
+        "url": "https://github.com/buckaroo-pm/openexr-openexr/archive/6d3887428242b8e1760b83600af67b458ae19b89.zip",
+        "sha256": "8dc362c1418e65460d0f44ad7a01f137677a2065983e58e6742dd21973e4fb72",
+        "subPath": "openexr-6d3887428242b8e1760b83600af67b458ae19b89"
+      },
+      "dependencies": {
+        "madler/zlib": "*"
+      }
+    }
+  }
+}
