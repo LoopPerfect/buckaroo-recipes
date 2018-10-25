@@ -7,6 +7,13 @@
     "project": "brotli"
   },
   "versions": {
+    "1.0.7": {
+      "source": {
+        "url": "https://github.com/buckaroo-pm/google-brotli/archive/b4384854c46b719cf8288d48e8ed6dad86cd860b.zip", 
+        "sha256": "6427ba6cc6c401621e2b7d02c2e4b44b99c7d0f6d7e47e5d3b389ca7d54dcced",
+        "subPath": "google-brotli-b4384854c46b719cf8288d48e8ed6dad86cd860b"
+      }
+    }, 
     "0.5.2": {
       "source": {
         "url": "https://github.com/google/brotli/archive/66c14517cf8afcc1a1649a7833ac789366eb0b51.zip",
