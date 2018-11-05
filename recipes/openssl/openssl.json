@@ -7,6 +7,17 @@
     "project": "openssl"
   },
   "versions": {
+    "1.1.1": {
+      "source": {
+        "url": "https://github.com/openssl/openssl/archive/1708e3e85b4a86bae26860aa5d2913fc8eff6086.zip",
+        "sha256": "91b73ed2a75e68f35860cdfc96ee7f03a2b9c706fdac38bda8410ee89e696af3",
+        "subPath": "openssl-1708e3e85b4a86bae26860aa5d2913fc8eff6086"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/buckaroo-pm/openssl/00757e702f128ef22312f9af19154cbf9dfefe5a/BUCK",
+        "sha256": "68c4f9f0f3371e3475bf811239bf72a7436e426920397ce8ac7e24efceff3937"
+      }
+    }, 
     "1.0.211": {
       "source": {
         "url": "https://github.com/openssl/openssl/archive/081314d07705aa58912845c213a48414d8f616a9.zip",
