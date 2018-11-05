@@ -14,8 +14,8 @@
         "subPath": "leveldb-a53934a3ae1244679f812d998a4f16f2c7f309a6"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/nikhedonia/leveldb/2c64d284b165fca0b73ab868a768135444e6232d/BUCK",
-        "sha256": "3aaff8954c8c08ed43368c2093d470e37c4e3a92ae53928fdc20f0107733b175"
+        "url": "https://raw.githubusercontent.com/buckaroo-pm/google-leveldb/f9a8be9ec5ffdb2ff2b9fc31b7208a3ddac11657/BUCK",
+        "sha256": "8806577b516ac463d3096244ae1f243e257dbccce1babd8a548fb6425e2b1269"
       }
     }
   }
