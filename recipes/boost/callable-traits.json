@@ -1,0 +1,20 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/callable_traits/archive/39c547ad697de6407523ba66bd9a15bca7fdc77f.zip",
+        "sha256": "e1e854a07007c20663be66ae6f2bf91b93556b070e29cd107e0a509b3147667a",
+        "subPath": "callable_traits-39c547ad697de6407523ba66bd9a15bca7fdc77f"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/callable_traits/archive/0ce9138ce86095eab9c09d171fecb5f72c4457f7.zip",
+        "sha256": "df8afec80702afd200871904be6970fa4490f4353650c6ea1b044f78bb13fe6e",
+        "subPath": "callable_traits-0ce9138ce86095eab9c09d171fecb5f72c4457f7"
+      }
+    }
+  }
+}

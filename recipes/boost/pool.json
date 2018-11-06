@@ -7,6 +7,111 @@
     "project": "pool"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/677d2fb2a21c91ba20502a21bb21d174dcbe6c18.zip",
+        "sha256": "84df465929799d3eef4941b2184c80fe2a1f0ebedc0441b325c43fc3fc516336",
+        "subPath": "pool-677d2fb2a21c91ba20502a21bb21d174dcbe6c18"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/thread": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/throw-exception": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/integer": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/type-traits": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/85e0bcb939b60c9f4033e3ced8d549fa440f671d.zip",
+        "sha256": "3abdcc1a8affc0ee15f38fd15fae196a506e5c7d572ef31786ff6c0e4cdf7571",
+        "subPath": "pool-85e0bcb939b60c9f4033e3ced8d549fa440f671d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/thread": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/throw-exception": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/integer": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/type-traits": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/85e0bcb939b60c9f4033e3ced8d549fa440f671d.zip",
+        "sha256": "3abdcc1a8affc0ee15f38fd15fae196a506e5c7d572ef31786ff6c0e4cdf7571",
+        "subPath": "pool-85e0bcb939b60c9f4033e3ced8d549fa440f671d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/thread": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/throw-exception": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/integer": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/type-traits": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/85e0bcb939b60c9f4033e3ced8d549fa440f671d.zip",
+        "sha256": "3abdcc1a8affc0ee15f38fd15fae196a506e5c7d572ef31786ff6c0e4cdf7571",
+        "subPath": "pool-85e0bcb939b60c9f4033e3ced8d549fa440f671d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/thread": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/throw-exception": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/integer": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/type-traits": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/99df3b23a6ca29b2e1c8e5352ccb538afda70414.zip",
+        "sha256": "1520653f89a0c8be95de20ba97db6f950a1b8b5b2fe2b780cd6b415835d97690",
+        "subPath": "pool-99df3b23a6ca29b2e1c8e5352ccb538afda70414"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/thread": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/throw-exception": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/integer": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/type-traits": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/pool/archive/2c44798b606ba3004d791dd3df10ec35be3aceaa.zip",
@@ -26,6 +131,363 @@
         "boost/integer": "1.63.0",
         "boost/assert": "1.63.0",
         "boost/type-traits": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/df9ce978b22562cf6329009fda68a080bbc03ef4.zip",
+        "sha256": "faac43e829767cc7355e3827e1e99163b1c2e4c0c91603b67e158f00769ec4d2",
+        "subPath": "pool-df9ce978b22562cf6329009fda68a080bbc03ef4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/thread": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/throw-exception": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/integer": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/type-traits": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/2d53e59bccfad8021773c6852da659a3751f5e61.zip",
+        "sha256": "670462e82dbdff37e2f7fa12dace43e8363daab0dfd564dec9453f6a0e707e83",
+        "subPath": "pool-2d53e59bccfad8021773c6852da659a3751f5e61"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/thread": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/throw-exception": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/integer": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/type-traits": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/630886731dabd43a46e2e3578c815c147bef9029.zip",
+        "sha256": "f2252421447826764c02c5c4aaa87fbd0d1f8b5770f37efe7964baa8ee4c468d",
+        "subPath": "pool-630886731dabd43a46e2e3578c815c147bef9029"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/thread": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/throw-exception": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/integer": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/type-traits": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/32851026478126477a02abab863f23e749995409.zip",
+        "sha256": "0888cbe667c3275c060bf2fb487413601c079fec69d2b8765b8a6a7552467414",
+        "subPath": "pool-32851026478126477a02abab863f23e749995409"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/thread": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/throw-exception": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/integer": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/type-traits": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/32851026478126477a02abab863f23e749995409.zip",
+        "sha256": "0888cbe667c3275c060bf2fb487413601c079fec69d2b8765b8a6a7552467414",
+        "subPath": "pool-32851026478126477a02abab863f23e749995409"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/thread": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/throw-exception": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/integer": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/type-traits": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/a0386581c0ae8fbce0fbd1a60f57fda5909132f2.zip",
+        "sha256": "b0042f72b6777407cf9fd3e02bbb30c4fcba2d96b1cc11bb4afcf75abbd5d357",
+        "subPath": "pool-a0386581c0ae8fbce0fbd1a60f57fda5909132f2"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/thread": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/throw-exception": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/integer": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/type-traits": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/a0386581c0ae8fbce0fbd1a60f57fda5909132f2.zip",
+        "sha256": "b0042f72b6777407cf9fd3e02bbb30c4fcba2d96b1cc11bb4afcf75abbd5d357",
+        "subPath": "pool-a0386581c0ae8fbce0fbd1a60f57fda5909132f2"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/thread": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/throw-exception": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/integer": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/type-traits": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/a39a0d116ded0e50cb031a6ca60bf11b988b0ff6.zip",
+        "sha256": "32ebbd65da698202dc3c7e61330a2bfa01a1fd5519867209b6329fe7e748222e",
+        "subPath": "pool-a39a0d116ded0e50cb031a6ca60bf11b988b0ff6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/thread": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/throw-exception": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/integer": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/type-traits": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/42549bc9af7e999355385509baa77d016bfa58c3.zip",
+        "sha256": "6f136ee0eb11b29ffab5ec61e3f077aaa068fc55e4b581a826fddb88aa81ae1c",
+        "subPath": "pool-42549bc9af7e999355385509baa77d016bfa58c3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/thread": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/throw-exception": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/integer": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/type-traits": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/d5f6c33d6150c64c93c2de9c7e724e1e0f3e7c32.zip",
+        "sha256": "ad8bb7033345f60e09f10fe4284822321381d116eb69f0492fa25c5c84c55447",
+        "subPath": "pool-d5f6c33d6150c64c93c2de9c7e724e1e0f3e7c32"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/thread": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/throw-exception": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/integer": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/type-traits": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/7cede55b171f5563202a09302bc1393a96fd4062.zip",
+        "sha256": "ac7a5865d24eb7836b6f87391a49a5b001f38b451ddf238a0389780029f6b0c1",
+        "subPath": "pool-7cede55b171f5563202a09302bc1393a96fd4062"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/thread": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/throw-exception": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/integer": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/type-traits": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/399882714b5686664a289c3f94025464624168d0.zip",
+        "sha256": "80e9d6230b2cbd9b64f2346e029dbaf491e31f9ddfe822c0125b7621a4d104f1",
+        "subPath": "pool-399882714b5686664a289c3f94025464624168d0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/thread": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/throw-exception": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/integer": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/type-traits": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/93de668a8f6dc7c7fcbed654981a5bc79dcb57d3.zip",
+        "sha256": "b056d07564ae5194c0e171ec2f253aae5c1735c876da061da041aa0bc5a8f291",
+        "subPath": "pool-93de668a8f6dc7c7fcbed654981a5bc79dcb57d3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/thread": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/throw-exception": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/integer": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/type-traits": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/0b6244275f2ffce1c71467ce33c95428bf50caf8.zip",
+        "sha256": "b22eb0c135d0e0998b1a806a67b4ec85be091ac26d29a795643a6830eb9d8ea1",
+        "subPath": "pool-0b6244275f2ffce1c71467ce33c95428bf50caf8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/thread": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/throw-exception": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/integer": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/type-traits": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/b109cfdf7f8e2353b33893b74d80f064888fdef7.zip",
+        "sha256": "760e2dc3a5f89a631edda738822de3b450c45ce542968c3aada3f76af429fe90",
+        "subPath": "pool-b109cfdf7f8e2353b33893b74d80f064888fdef7"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/thread": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/throw-exception": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/integer": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/type-traits": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/a1994c222b024890e3672d2f3314682e03608fba.zip",
+        "sha256": "eb45c59afba186dd2405577abf5da3f149cd861d270120eaa4cc9b729b43a52c",
+        "subPath": "pool-a1994c222b024890e3672d2f3314682e03608fba"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/thread": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/throw-exception": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/integer": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/type-traits": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/pool/archive/00c2ea525f19835ace258a5ad21ec1228f5acb5b.zip",
+        "sha256": "0aabc00e812c35b6d313c5fe69ea63e68388293c09d8396021e8b4f604fda02d",
+        "subPath": "pool-00c2ea525f19835ace258a5ad21ec1228f5acb5b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/pool/6264f2a3f91d472ad2a170e095898ebf75571447/BUCK",
+        "sha256": "4cb335daa6b23abb84487774d92d52ea6259321e3b154b67cce13729c3b26f28"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/thread": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/throw-exception": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/integer": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/type-traits": "1.46.1"
       }
     }
   }

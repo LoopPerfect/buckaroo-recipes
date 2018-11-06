@@ -7,6 +7,106 @@
     "project": "chrono"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/15d3e2af0e06ae4ae40bd003007040896fc72e97.zip",
+        "sha256": "77367a8a13267fbb2461ba9b4b3b48c280a2ccb6c5fe9e4b47aa55cfabc9053d",
+        "subPath": "chrono-15d3e2af0e06ae4ae40bd003007040896fc72e97"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/predef": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/ratio": "1.67.0",
+        "boost/system": "1.67.0",
+        "boost/throw-exception": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/15d3e2af0e06ae4ae40bd003007040896fc72e97.zip",
+        "sha256": "77367a8a13267fbb2461ba9b4b3b48c280a2ccb6c5fe9e4b47aa55cfabc9053d",
+        "subPath": "chrono-15d3e2af0e06ae4ae40bd003007040896fc72e97"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/predef": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/ratio": "1.66.0",
+        "boost/system": "1.66.0",
+        "boost/throw-exception": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/97b3340801db50baabf9c98ea8e138d130921c3f.zip",
+        "sha256": "dd561c57eefd0a4bd74a3039fde6ad499d67b1c26e90370a6daeb0ebd5200b4d",
+        "subPath": "chrono-97b3340801db50baabf9c98ea8e138d130921c3f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/predef": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/ratio": "1.65.1",
+        "boost/system": "1.65.1",
+        "boost/throw-exception": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/97b3340801db50baabf9c98ea8e138d130921c3f.zip",
+        "sha256": "dd561c57eefd0a4bd74a3039fde6ad499d67b1c26e90370a6daeb0ebd5200b4d",
+        "subPath": "chrono-97b3340801db50baabf9c98ea8e138d130921c3f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/predef": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/ratio": "1.65.0",
+        "boost/system": "1.65.0",
+        "boost/throw-exception": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/959601c34798ca8e93b69403a3ddba903653b3ef.zip",
+        "sha256": "8d2b0d8a4282aff2873104859a270fd14a817e761b923ad30ec848d004f7436e",
+        "subPath": "chrono-959601c34798ca8e93b69403a3ddba903653b3ef"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/predef": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/ratio": "1.64.0",
+        "boost/system": "1.64.0",
+        "boost/throw-exception": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/chrono/archive/959601c34798ca8e93b69403a3ddba903653b3ef.zip",
@@ -25,6 +125,326 @@
         "boost/ratio": "1.63.0",
         "boost/system": "1.63.0",
         "boost/throw-exception": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/6289891c68dd08f3ed762128e9f7f902097d3db9.zip",
+        "sha256": "e0e5ed4e400034ecc372bdd60dd2bffe46d813b8b10450c9386fe63affea4d98",
+        "subPath": "chrono-6289891c68dd08f3ed762128e9f7f902097d3db9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/predef": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/ratio": "1.62.0",
+        "boost/system": "1.62.0",
+        "boost/throw-exception": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/621b6faaf19d5c0b5ffd0a313e696b81495316a4.zip",
+        "sha256": "ce986c7328899a9952d00220ea41b0558d280e8665d9c04b9d957422f7b5011f",
+        "subPath": "chrono-621b6faaf19d5c0b5ffd0a313e696b81495316a4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/predef": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/ratio": "1.61.0",
+        "boost/system": "1.61.0",
+        "boost/throw-exception": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/621b6faaf19d5c0b5ffd0a313e696b81495316a4.zip",
+        "sha256": "ce986c7328899a9952d00220ea41b0558d280e8665d9c04b9d957422f7b5011f",
+        "subPath": "chrono-621b6faaf19d5c0b5ffd0a313e696b81495316a4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/predef": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/ratio": "1.60.0",
+        "boost/system": "1.60.0",
+        "boost/throw-exception": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/c000f9b199990dddf4635c57a8cb61af93277422.zip",
+        "sha256": "4a8d333e09f97a6b60eebc46b88e66e6d30829ea648886ac2ea1bd6838a33940",
+        "subPath": "chrono-c000f9b199990dddf4635c57a8cb61af93277422"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/predef": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/ratio": "1.59.0",
+        "boost/system": "1.59.0",
+        "boost/throw-exception": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/c000f9b199990dddf4635c57a8cb61af93277422.zip",
+        "sha256": "4a8d333e09f97a6b60eebc46b88e66e6d30829ea648886ac2ea1bd6838a33940",
+        "subPath": "chrono-c000f9b199990dddf4635c57a8cb61af93277422"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/predef": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/ratio": "1.58.0",
+        "boost/system": "1.58.0",
+        "boost/throw-exception": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/7f1769140f9bcd7149eefa5d64220da6593b835f.zip",
+        "sha256": "44ef7a1986339bddc883a800c209cb5584b74d9f0cd93aa20e7dbb0945e382b6",
+        "subPath": "chrono-7f1769140f9bcd7149eefa5d64220da6593b835f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/predef": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/ratio": "1.57.0",
+        "boost/system": "1.57.0",
+        "boost/throw-exception": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/99db2bf035ad831a2e7067b48d075b01b39ae5bc.zip",
+        "sha256": "75108f4dfbf0d3391f3637602ad003477423cafde41a9eca903c9f7c6b6f1c76",
+        "subPath": "chrono-99db2bf035ad831a2e7067b48d075b01b39ae5bc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/predef": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/ratio": "1.56.0",
+        "boost/system": "1.56.0",
+        "boost/throw-exception": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/6e1afc5d9328b38f0a511e6577b1108a3968f159.zip",
+        "sha256": "727a4f99a4cc664e81aac948c073036878bf7fa31e5d0260c47bef155c1b361d",
+        "subPath": "chrono-6e1afc5d9328b38f0a511e6577b1108a3968f159"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/predef": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/ratio": "1.55.0",
+        "boost/system": "1.55.0",
+        "boost/throw-exception": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/216b608dfd8e688f15390abe99641837b7587d21.zip",
+        "sha256": "0c5078e7395044903c6506eca093d299438dacf256f145721ec7290ab5db06fa",
+        "subPath": "chrono-216b608dfd8e688f15390abe99641837b7587d21"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/predef": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/ratio": "1.54.0",
+        "boost/system": "1.54.0",
+        "boost/throw-exception": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/9f6f020c19e562084974bad1239d3cde01388262.zip",
+        "sha256": "7c9bbd2f0133a74529847ed1746e8b3c27099ffe22f4600b2c9449376dd5f900",
+        "subPath": "chrono-9f6f020c19e562084974bad1239d3cde01388262"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/predef": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/ratio": "1.53.0",
+        "boost/system": "1.53.0",
+        "boost/throw-exception": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/4e7d31a1dcbafdc240dff028a87c6201f16eef98.zip",
+        "sha256": "90b5a6a7bd51e5701604f910848a0fde45f1d0bb090d91c741264885b2ffe757",
+        "subPath": "chrono-4e7d31a1dcbafdc240dff028a87c6201f16eef98"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/predef": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/ratio": "1.52.0",
+        "boost/system": "1.52.0",
+        "boost/throw-exception": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/3a42d9c12bcb5312ced0e3dee7a299e1f7f7a397.zip",
+        "sha256": "3f281aadc374285950eed1efd6999b7bb3691dea18d41d5262180d0cb20ca1a0",
+        "subPath": "chrono-3a42d9c12bcb5312ced0e3dee7a299e1f7f7a397"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/predef": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/ratio": "1.51.0",
+        "boost/system": "1.51.0",
+        "boost/throw-exception": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/79103c071f4af0cc8124fbb7237a5bb7ec884928.zip",
+        "sha256": "e9cce9461dbaffc71fd9815f1e3a03f3850ac842a668a51f47e0676f9f110850",
+        "subPath": "chrono-79103c071f4af0cc8124fbb7237a5bb7ec884928"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/predef": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/ratio": "1.50.0",
+        "boost/system": "1.50.0",
+        "boost/throw-exception": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/2045265daec7e5bf14480dfb9289b23ba8f298c3.zip",
+        "sha256": "63ca79fb7660f21e87718d8024b68f36dafd835a5545da39703ef9727cef5ef3",
+        "subPath": "chrono-2045265daec7e5bf14480dfb9289b23ba8f298c3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/predef": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/ratio": "1.49.0",
+        "boost/system": "1.49.0",
+        "boost/throw-exception": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/b5793bef17c1cc4265dc4f98e36d59776f2d2ba3.zip",
+        "sha256": "21caabf53af0590d113c14db17c818424379e9c800ade139eea50a1d321bfde7",
+        "subPath": "chrono-b5793bef17c1cc4265dc4f98e36d59776f2d2ba3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/predef": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/ratio": "1.48.0",
+        "boost/system": "1.48.0",
+        "boost/throw-exception": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/chrono/archive/d6f6ae838e8cbba693fa8c0528f6ad0c526a3124.zip",
+        "sha256": "18d65142ccb75e45bfed1896156c3025566af2716c26359453739007bd10902a",
+        "subPath": "chrono-d6f6ae838e8cbba693fa8c0528f6ad0c526a3124"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/chrono/4503c5f8bc6de9ea816395a5de00f2a476937755/BUCK",
+        "sha256": "6aeec5389c36cd97ba21bc2c100493ecebc6025398126027d662786787615f61"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/predef": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/ratio": "1.47.0",
+        "boost/system": "1.47.0",
+        "boost/throw-exception": "1.47.0"
       }
     }
   }

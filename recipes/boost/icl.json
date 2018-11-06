@@ -1,0 +1,180 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/738631eb464514fd26bb45caba8d13f373c7ee02.zip",
+        "sha256": "5219998cd80fe7c01f6a86a4c122c44eb13abeffe46372726f90cb3a9066da27",
+        "subPath": "icl-738631eb464514fd26bb45caba8d13f373c7ee02"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/738631eb464514fd26bb45caba8d13f373c7ee02.zip",
+        "sha256": "5219998cd80fe7c01f6a86a4c122c44eb13abeffe46372726f90cb3a9066da27",
+        "subPath": "icl-738631eb464514fd26bb45caba8d13f373c7ee02"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/978891dd60e07db37a22772a87b95be0f699d299.zip",
+        "sha256": "3f9504fc75d849b874ec50f80a9e410646acb684b391f92421cdeb44a8c1f8a4",
+        "subPath": "icl-978891dd60e07db37a22772a87b95be0f699d299"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/978891dd60e07db37a22772a87b95be0f699d299.zip",
+        "sha256": "3f9504fc75d849b874ec50f80a9e410646acb684b391f92421cdeb44a8c1f8a4",
+        "subPath": "icl-978891dd60e07db37a22772a87b95be0f699d299"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/978891dd60e07db37a22772a87b95be0f699d299.zip",
+        "sha256": "3f9504fc75d849b874ec50f80a9e410646acb684b391f92421cdeb44a8c1f8a4",
+        "subPath": "icl-978891dd60e07db37a22772a87b95be0f699d299"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/978891dd60e07db37a22772a87b95be0f699d299.zip",
+        "sha256": "3f9504fc75d849b874ec50f80a9e410646acb684b391f92421cdeb44a8c1f8a4",
+        "subPath": "icl-978891dd60e07db37a22772a87b95be0f699d299"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/3f15f2cc7d969b44663296ec560d57896bf91533.zip",
+        "sha256": "f6525e40f38f6f89578a9e693736bbedb6b55e0607e53ec752dad42e8fc7febe",
+        "subPath": "icl-3f15f2cc7d969b44663296ec560d57896bf91533"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/3f15f2cc7d969b44663296ec560d57896bf91533.zip",
+        "sha256": "f6525e40f38f6f89578a9e693736bbedb6b55e0607e53ec752dad42e8fc7febe",
+        "subPath": "icl-3f15f2cc7d969b44663296ec560d57896bf91533"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/3f15f2cc7d969b44663296ec560d57896bf91533.zip",
+        "sha256": "f6525e40f38f6f89578a9e693736bbedb6b55e0607e53ec752dad42e8fc7febe",
+        "subPath": "icl-3f15f2cc7d969b44663296ec560d57896bf91533"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/818cfd99641d02c0986229a72f46d50b0ea2ac86.zip",
+        "sha256": "6e7e8fb4fa0dac9f355999d5cee247b7153df0ee72934fa5772948777c44d274",
+        "subPath": "icl-818cfd99641d02c0986229a72f46d50b0ea2ac86"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/818cfd99641d02c0986229a72f46d50b0ea2ac86.zip",
+        "sha256": "6e7e8fb4fa0dac9f355999d5cee247b7153df0ee72934fa5772948777c44d274",
+        "subPath": "icl-818cfd99641d02c0986229a72f46d50b0ea2ac86"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/b13bd14c712e02b75dab9fc4b44a127c0a128e31.zip",
+        "sha256": "1f4badf16650d5945c2926200e976cc77145cd7131712d225bec9d7815e6bc37",
+        "subPath": "icl-b13bd14c712e02b75dab9fc4b44a127c0a128e31"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/b13bd14c712e02b75dab9fc4b44a127c0a128e31.zip",
+        "sha256": "1f4badf16650d5945c2926200e976cc77145cd7131712d225bec9d7815e6bc37",
+        "subPath": "icl-b13bd14c712e02b75dab9fc4b44a127c0a128e31"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/d51f1110ccd4048a8ef7f7417d77fae44535fa54.zip",
+        "sha256": "a10d058128420b6ffb84525b6dc184c3458a04251594e307562b2ec5ec43a541",
+        "subPath": "icl-d51f1110ccd4048a8ef7f7417d77fae44535fa54"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/86b31b48808e940243fa07de65f6823962637ca1.zip",
+        "sha256": "eaebfa64ab60cad13f7a06cd2f08a0188ec6818abdfe80a33632760dfea3b03c",
+        "subPath": "icl-86b31b48808e940243fa07de65f6823962637ca1"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/f230cf466d047f3053b2471c0935aa067a6aff4b.zip",
+        "sha256": "c39aad0971e93471d7bb5ed79f0a800841c31bfca44f319eee4c30c2b78f168e",
+        "subPath": "icl-f230cf466d047f3053b2471c0935aa067a6aff4b"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/1f2c56c784a70e2ef719fa3876075f28509f87ac.zip",
+        "sha256": "1903d910c603987e06cf8cdc92abb04f29501fd408aabbd543d3a7a99ba00201",
+        "subPath": "icl-1f2c56c784a70e2ef719fa3876075f28509f87ac"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/ca200d3f947ca9fc4ba3d5ffc6bb7e278b48ca52.zip",
+        "sha256": "a0ede63dde63635159f75c10b17cbcacab6ce547402f9e7e8ac2093a02e5e77c",
+        "subPath": "icl-ca200d3f947ca9fc4ba3d5ffc6bb7e278b48ca52"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/03bb0cfc0a392948cc350ef2e9b3901704f7429c.zip",
+        "sha256": "bee9293329f40121f4f651f7b375ead5c4cc6e9fd17f390b1728994453de792d",
+        "subPath": "icl-03bb0cfc0a392948cc350ef2e9b3901704f7429c"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/c20d3e3053b295d21f6eb1bdbdd718a91c7856a8.zip",
+        "sha256": "f043b8795ea2db3a7365095139aa08ae4c8758f72db2ee8816e53fd6654398c1",
+        "subPath": "icl-c20d3e3053b295d21f6eb1bdbdd718a91c7856a8"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/a6384f6a1a727ee7eed5fe2deaf3dfd245def1e2.zip",
+        "sha256": "a195f3fb64620c1df81a4391090a8601beea6f4a2ddc2697b3495d368792a3fe",
+        "subPath": "icl-a6384f6a1a727ee7eed5fe2deaf3dfd245def1e2"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/icl/archive/f1f93ed4d6e13dfa1a70be6ddd74881d2ebe9ea5.zip",
+        "sha256": "3aecd28ba930fe6e620b75f34c1db933a80476bf9f24ac0c8292f3f632f188c2",
+        "subPath": "icl-f1f93ed4d6e13dfa1a70be6ddd74881d2ebe9ea5"
+      }
+    }
+  }
+}

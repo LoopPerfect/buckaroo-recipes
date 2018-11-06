@@ -7,6 +7,141 @@
     "project": "lockfree"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6.zip",
+        "sha256": "27597d1ab1c8653c6415a1076880d0808dad7a524e5f874ab2acca654ec55963",
+        "subPath": "lockfree-a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/atomic": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/predef": "1.67.0",
+        "boost/integer": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/tuple": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/array": "1.67.0",
+        "boost/align": "1.67.0",
+        "boost/parameter": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6.zip",
+        "sha256": "27597d1ab1c8653c6415a1076880d0808dad7a524e5f874ab2acca654ec55963",
+        "subPath": "lockfree-a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/atomic": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/predef": "1.66.0",
+        "boost/integer": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/tuple": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/array": "1.66.0",
+        "boost/align": "1.66.0",
+        "boost/parameter": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6.zip",
+        "sha256": "27597d1ab1c8653c6415a1076880d0808dad7a524e5f874ab2acca654ec55963",
+        "subPath": "lockfree-a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/atomic": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/predef": "1.65.1",
+        "boost/integer": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/tuple": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/array": "1.65.1",
+        "boost/align": "1.65.1",
+        "boost/parameter": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6.zip",
+        "sha256": "27597d1ab1c8653c6415a1076880d0808dad7a524e5f874ab2acca654ec55963",
+        "subPath": "lockfree-a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/atomic": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/predef": "1.65.0",
+        "boost/integer": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/tuple": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/array": "1.65.0",
+        "boost/align": "1.65.0",
+        "boost/parameter": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6.zip",
+        "sha256": "27597d1ab1c8653c6415a1076880d0808dad7a524e5f874ab2acca654ec55963",
+        "subPath": "lockfree-a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/atomic": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/predef": "1.64.0",
+        "boost/integer": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/tuple": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/array": "1.64.0",
+        "boost/align": "1.64.0",
+        "boost/parameter": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/lockfree/archive/a1dce3ffacbf6112f4b449f6d9bbe0ee295a65d6.zip",
@@ -32,6 +167,276 @@
         "boost/array": "1.63.0",
         "boost/align": "1.63.0",
         "boost/parameter": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/ca7e8c98567a992cc953f9023e0f155bdcb0ddcd.zip",
+        "sha256": "8f57d925a258e99ffaf40e215202b8ac850ff32815af9382c3192064419e8e51",
+        "subPath": "lockfree-ca7e8c98567a992cc953f9023e0f155bdcb0ddcd"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/atomic": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/predef": "1.62.0",
+        "boost/integer": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/tuple": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/array": "1.62.0",
+        "boost/align": "1.62.0",
+        "boost/parameter": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/c112c29bee1d35089d4a603027dbbc4e1744d59b.zip",
+        "sha256": "ad098fdcb03f3080fdd72e9507ebac2167ca91e892f2d175c0b641ed4998119f",
+        "subPath": "lockfree-c112c29bee1d35089d4a603027dbbc4e1744d59b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/atomic": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/predef": "1.61.0",
+        "boost/integer": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/tuple": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/array": "1.61.0",
+        "boost/align": "1.61.0",
+        "boost/parameter": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/076401f8bae71643c1df1c4534347e0c2e9e0866.zip",
+        "sha256": "724625b981c726d0c621f6b4389fa8267addb14ba00f77dca136aafd5f3c4c31",
+        "subPath": "lockfree-076401f8bae71643c1df1c4534347e0c2e9e0866"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/atomic": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/predef": "1.60.0",
+        "boost/integer": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/tuple": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/array": "1.60.0",
+        "boost/align": "1.60.0",
+        "boost/parameter": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/095152e2cbecc9e24c47af7dd3a6087302795180.zip",
+        "sha256": "73bbc5ae07068d079c0952e8f275fc46706ec93a2e88014cf00d83d25a785d1a",
+        "subPath": "lockfree-095152e2cbecc9e24c47af7dd3a6087302795180"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/atomic": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/predef": "1.59.0",
+        "boost/integer": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/tuple": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/array": "1.59.0",
+        "boost/align": "1.59.0",
+        "boost/parameter": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/12f8d4621c9bc604285091945bf76f850b52b86e.zip",
+        "sha256": "746c14ba380b07efeac1ceea536555466a3ac6a2df01ebee262978cc83846448",
+        "subPath": "lockfree-12f8d4621c9bc604285091945bf76f850b52b86e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/atomic": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/predef": "1.58.0",
+        "boost/integer": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/tuple": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/array": "1.58.0",
+        "boost/align": "1.58.0",
+        "boost/parameter": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/9205f1bf8f20666aea94a390276ae0b5c5794ee2.zip",
+        "sha256": "90ee32f9f839fee6b8e5ef8fa439aff6769ba5a1770557152b123a9bb828c7ea",
+        "subPath": "lockfree-9205f1bf8f20666aea94a390276ae0b5c5794ee2"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/atomic": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/predef": "1.57.0",
+        "boost/integer": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/tuple": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/array": "1.57.0",
+        "boost/align": "1.57.0",
+        "boost/parameter": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/8ffc9b3f26cd5802655ceb7d4188911f1cf7067d.zip",
+        "sha256": "72b502b6945c0e76f4fca5bc20d410c05e7abd997239de99cc6c3a95f8ca5257",
+        "subPath": "lockfree-8ffc9b3f26cd5802655ceb7d4188911f1cf7067d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/atomic": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/predef": "1.56.0",
+        "boost/integer": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/tuple": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/array": "1.56.0",
+        "boost/align": "1.56.0",
+        "boost/parameter": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/9f938b4e2e116aa58ca12aa375037f1800719da6.zip",
+        "sha256": "8bc053663a274cec3e8ec86333ee6c96babc58c1354a0ccd6bd72d71759b07b1",
+        "subPath": "lockfree-9f938b4e2e116aa58ca12aa375037f1800719da6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/atomic": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/predef": "1.55.0",
+        "boost/integer": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/tuple": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/array": "1.55.0",
+        "boost/align": "1.55.0",
+        "boost/parameter": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/33d56a3c0eea9f13b0946211241bf711a9dba210.zip",
+        "sha256": "6a2dd5712585461f9829a16f62db46088ac4c010c34b33cfa8fe137f9cc77694",
+        "subPath": "lockfree-33d56a3c0eea9f13b0946211241bf711a9dba210"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/atomic": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/predef": "1.54.0",
+        "boost/integer": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/tuple": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/array": "1.54.0",
+        "boost/align": "1.54.0",
+        "boost/parameter": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lockfree/archive/950119cb9b654df49746e9c68090f789ae73c9cf.zip",
+        "sha256": "417ea58509571f91b765c086ae871c06f5dafb862432b080082dd80e39d68b1e",
+        "subPath": "lockfree-950119cb9b654df49746e9c68090f789ae73c9cf"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lockfree/c001811eacd1cf2f14e9681d12cee9183d69f6a5/BUCK",
+        "sha256": "8eb2ec3f42bb505a77cd81f7301bd57501606a9aad71f05b27ecdef478915f1f"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/atomic": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/predef": "1.53.0",
+        "boost/integer": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/tuple": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/array": "1.53.0",
+        "boost/align": "1.53.0",
+        "boost/parameter": "1.53.0"
       }
     }
   }

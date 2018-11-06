@@ -4,6 +4,111 @@
   "url": "http://boost.org/libs/foreach",
   "github": "boostorg/foreach",
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/4240a1d095cf4a5e04093a1b91b1f0c791a58da9.zip",
+        "sha256": "37993e58552505b539b29641afb55dfbb2a2ce55e611b860c3008d1af6a338dc",
+        "subPath": "foreach-4240a1d095cf4a5e04093a1b91b1f0c791a58da9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/range": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/utility": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/4240a1d095cf4a5e04093a1b91b1f0c791a58da9.zip",
+        "sha256": "37993e58552505b539b29641afb55dfbb2a2ce55e611b860c3008d1af6a338dc",
+        "subPath": "foreach-4240a1d095cf4a5e04093a1b91b1f0c791a58da9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/range": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/utility": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/bbbfebed8e545724c20d4e4d971e7fb9219aae11.zip",
+        "sha256": "cc08d8b84d71ccd4f5fde401dc447f74a1c9da53a2fd232041e02fbbef7d3db5",
+        "subPath": "foreach-bbbfebed8e545724c20d4e4d971e7fb9219aae11"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/range": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/utility": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/bbbfebed8e545724c20d4e4d971e7fb9219aae11.zip",
+        "sha256": "cc08d8b84d71ccd4f5fde401dc447f74a1c9da53a2fd232041e02fbbef7d3db5",
+        "subPath": "foreach-bbbfebed8e545724c20d4e4d971e7fb9219aae11"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/range": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/utility": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/bbbfebed8e545724c20d4e4d971e7fb9219aae11.zip",
+        "sha256": "cc08d8b84d71ccd4f5fde401dc447f74a1c9da53a2fd232041e02fbbef7d3db5",
+        "subPath": "foreach-bbbfebed8e545724c20d4e4d971e7fb9219aae11"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/range": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/utility": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/foreach/archive/bbbfebed8e545724c20d4e4d971e7fb9219aae11.zip",
@@ -23,6 +128,363 @@
         "boost/type-traits": "1.63.0",
         "boost/iterator": "1.63.0",
         "boost/utility": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/a19bc0a6dd02249ded12d90cd38f28c8294bd64d.zip",
+        "sha256": "fe7bbdc3bced27110399bfa87346c626dffa4a8d729101b38721f50d144aa4f8",
+        "subPath": "foreach-a19bc0a6dd02249ded12d90cd38f28c8294bd64d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/range": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/utility": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/a19bc0a6dd02249ded12d90cd38f28c8294bd64d.zip",
+        "sha256": "fe7bbdc3bced27110399bfa87346c626dffa4a8d729101b38721f50d144aa4f8",
+        "subPath": "foreach-a19bc0a6dd02249ded12d90cd38f28c8294bd64d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/range": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/utility": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/a19bc0a6dd02249ded12d90cd38f28c8294bd64d.zip",
+        "sha256": "fe7bbdc3bced27110399bfa87346c626dffa4a8d729101b38721f50d144aa4f8",
+        "subPath": "foreach-a19bc0a6dd02249ded12d90cd38f28c8294bd64d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/range": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/utility": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/a19bc0a6dd02249ded12d90cd38f28c8294bd64d.zip",
+        "sha256": "fe7bbdc3bced27110399bfa87346c626dffa4a8d729101b38721f50d144aa4f8",
+        "subPath": "foreach-a19bc0a6dd02249ded12d90cd38f28c8294bd64d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/range": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/utility": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/a19bc0a6dd02249ded12d90cd38f28c8294bd64d.zip",
+        "sha256": "fe7bbdc3bced27110399bfa87346c626dffa4a8d729101b38721f50d144aa4f8",
+        "subPath": "foreach-a19bc0a6dd02249ded12d90cd38f28c8294bd64d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/range": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/utility": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/96f345ac8a691bbd97c41bf7ee5f8c7bda6e6bc0.zip",
+        "sha256": "2e3dc283ee8f1c925559ca4518c00a9a8b1a091e22d751e164533cd098205b61",
+        "subPath": "foreach-96f345ac8a691bbd97c41bf7ee5f8c7bda6e6bc0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/range": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/utility": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/96f345ac8a691bbd97c41bf7ee5f8c7bda6e6bc0.zip",
+        "sha256": "2e3dc283ee8f1c925559ca4518c00a9a8b1a091e22d751e164533cd098205b61",
+        "subPath": "foreach-96f345ac8a691bbd97c41bf7ee5f8c7bda6e6bc0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/range": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/utility": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/18c537ece15d91a07cc60e81969f22090824b8e4.zip",
+        "sha256": "1d407d3b5d4898e832756200e50f5c545973233c28c20c33ae49771ada9aa69f",
+        "subPath": "foreach-18c537ece15d91a07cc60e81969f22090824b8e4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/range": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/utility": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/d66c6e7a5c810bbf3a7eb1597792c15f7b78a7cc.zip",
+        "sha256": "9b89054664d0dd10c1e6b2279b91e51d41f90be41d66e62276f615b1c152e9e5",
+        "subPath": "foreach-d66c6e7a5c810bbf3a7eb1597792c15f7b78a7cc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/range": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/utility": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/0d55525594463ae8179794422ef1d541e3d8af2a.zip",
+        "sha256": "f18b9fa6f6fd499eaa2bf259416e1bb5989d939f2edd263dcfba2d37c091a953",
+        "subPath": "foreach-0d55525594463ae8179794422ef1d541e3d8af2a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/range": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/utility": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/37db57c2bb3b31465d689d6f482c74a1c934d1ea.zip",
+        "sha256": "f9cf3ceebacec6f6ec0a78244e261ab378b481892958aed842a3e21a3f396ee9",
+        "subPath": "foreach-37db57c2bb3b31465d689d6f482c74a1c934d1ea"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/range": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/utility": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/cd35fef5cf68a7ac66859c5fe12e7a5c25340f6d.zip",
+        "sha256": "7c1a5a25230848192de8d2197d12f31583f84b1f0ba5574b1c895f3a3abbb2be",
+        "subPath": "foreach-cd35fef5cf68a7ac66859c5fe12e7a5c25340f6d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/range": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/utility": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/c61323a842bedc90fa27e248f36937b6b18d71b8.zip",
+        "sha256": "ef3b55187408c1562122331585aa1fd1dd106113096be94d71c35e0a55bfc9bb",
+        "subPath": "foreach-c61323a842bedc90fa27e248f36937b6b18d71b8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/range": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/utility": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/0ed4645f4cde004093dd02bae0a8363118743b45.zip",
+        "sha256": "1166536d1ecea386a70e2e1c19b1c94a73885256c533a5fdd1ed756200169974",
+        "subPath": "foreach-0ed4645f4cde004093dd02bae0a8363118743b45"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/range": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/utility": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/cedefac9220adb4161fa454b12d7dd98be101b59.zip",
+        "sha256": "cb2b2f5f61203faf27d62187899308eafe35fdd5289d4a18fd03b20ce3ca9012",
+        "subPath": "foreach-cedefac9220adb4161fa454b12d7dd98be101b59"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/range": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/utility": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/93c128c53e1906d93d22f734b6cc01bd708511e6.zip",
+        "sha256": "81732ab4d4facd19a31b10a044eb5adda63374cf3f6f90835a45e0ceeb10c648",
+        "subPath": "foreach-93c128c53e1906d93d22f734b6cc01bd708511e6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/range": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/utility": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/foreach/archive/3e6520091e840fd6d115e127fe3f1566d3f2f44e.zip",
+        "sha256": "4f275a04a540d20a56239c9608f804425f45d71e3096bf341bac06978ae8c4ec",
+        "subPath": "foreach-3e6520091e840fd6d115e127fe3f1566d3f2f44e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/foreach/1c6797e925336b6579fd7f8b6c04218e6a9fbdc5/BUCK",
+        "sha256": "460624e4423c330ae782bfb4e03a66f11c22160953f747ae1737f67b642589c0"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/range": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/utility": "1.46.1"
       }
     }
   }

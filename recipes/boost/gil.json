@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/85fb44d6eb4fde45160856a4de41bc098e7339f8.zip",
+        "sha256": "10b7ab67e3abe5f366255ae8ac646f7570e429f453ea3a1885d118def63afdba",
+        "subPath": "gil-85fb44d6eb4fde45160856a4de41bc098e7339f8"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/85fb44d6eb4fde45160856a4de41bc098e7339f8.zip",
+        "sha256": "10b7ab67e3abe5f366255ae8ac646f7570e429f453ea3a1885d118def63afdba",
+        "subPath": "gil-85fb44d6eb4fde45160856a4de41bc098e7339f8"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/a6788d0d50a4d02140caff454867f323fc512dda.zip",
+        "sha256": "ac66688c4c6a8e42e2b860bbb3e58e4d676ba9d968b811f667f880079e2e7dc6",
+        "subPath": "gil-a6788d0d50a4d02140caff454867f323fc512dda"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/a6788d0d50a4d02140caff454867f323fc512dda.zip",
+        "sha256": "ac66688c4c6a8e42e2b860bbb3e58e4d676ba9d968b811f667f880079e2e7dc6",
+        "subPath": "gil-a6788d0d50a4d02140caff454867f323fc512dda"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/6805259c26ddd1fd80f039e8987fa3fdf21aeafc.zip",
+        "sha256": "24fe3ade9e411384aca1d31cef16be8913217092fd87ba7f22647d1d7d89a41c",
+        "subPath": "gil-6805259c26ddd1fd80f039e8987fa3fdf21aeafc"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/6805259c26ddd1fd80f039e8987fa3fdf21aeafc.zip",
+        "sha256": "24fe3ade9e411384aca1d31cef16be8913217092fd87ba7f22647d1d7d89a41c",
+        "subPath": "gil-6805259c26ddd1fd80f039e8987fa3fdf21aeafc"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/6805259c26ddd1fd80f039e8987fa3fdf21aeafc.zip",
+        "sha256": "24fe3ade9e411384aca1d31cef16be8913217092fd87ba7f22647d1d7d89a41c",
+        "subPath": "gil-6805259c26ddd1fd80f039e8987fa3fdf21aeafc"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/6805259c26ddd1fd80f039e8987fa3fdf21aeafc.zip",
+        "sha256": "24fe3ade9e411384aca1d31cef16be8913217092fd87ba7f22647d1d7d89a41c",
+        "subPath": "gil-6805259c26ddd1fd80f039e8987fa3fdf21aeafc"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/6805259c26ddd1fd80f039e8987fa3fdf21aeafc.zip",
+        "sha256": "24fe3ade9e411384aca1d31cef16be8913217092fd87ba7f22647d1d7d89a41c",
+        "subPath": "gil-6805259c26ddd1fd80f039e8987fa3fdf21aeafc"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/6805259c26ddd1fd80f039e8987fa3fdf21aeafc.zip",
+        "sha256": "24fe3ade9e411384aca1d31cef16be8913217092fd87ba7f22647d1d7d89a41c",
+        "subPath": "gil-6805259c26ddd1fd80f039e8987fa3fdf21aeafc"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/6805259c26ddd1fd80f039e8987fa3fdf21aeafc.zip",
+        "sha256": "24fe3ade9e411384aca1d31cef16be8913217092fd87ba7f22647d1d7d89a41c",
+        "subPath": "gil-6805259c26ddd1fd80f039e8987fa3fdf21aeafc"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/6805259c26ddd1fd80f039e8987fa3fdf21aeafc.zip",
+        "sha256": "24fe3ade9e411384aca1d31cef16be8913217092fd87ba7f22647d1d7d89a41c",
+        "subPath": "gil-6805259c26ddd1fd80f039e8987fa3fdf21aeafc"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/6805259c26ddd1fd80f039e8987fa3fdf21aeafc.zip",
+        "sha256": "24fe3ade9e411384aca1d31cef16be8913217092fd87ba7f22647d1d7d89a41c",
+        "subPath": "gil-6805259c26ddd1fd80f039e8987fa3fdf21aeafc"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/e0cf344334ac6ee0679f31cf90d19cbc1bfbc2e2.zip",
+        "sha256": "f2265cec3e3b9c0dcda625a9cabb155e333e2c4ff115b9f31381be6ae988153a",
+        "subPath": "gil-e0cf344334ac6ee0679f31cf90d19cbc1bfbc2e2"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/38487ed8f1175340756febcf82959174e51f9695.zip",
+        "sha256": "8fe2a46e71ad5c33449443a771c76056ec71106d8a86a8160073be60ae590cb7",
+        "subPath": "gil-38487ed8f1175340756febcf82959174e51f9695"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/92ee8d0ae2c86cab7950a6a8d17960fe1962966e.zip",
+        "sha256": "b1e5e6d8f52e1e1c3d9017bec723dce133927ea9d34e2e4539676ba02633d945",
+        "subPath": "gil-92ee8d0ae2c86cab7950a6a8d17960fe1962966e"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/9aa2d9a40d7dc81ee3d20dae6b4702bd90ce0673.zip",
+        "sha256": "9bddd8c0804a3d333b602e07258de56f425751d9b14d0747fa1c834999698111",
+        "subPath": "gil-9aa2d9a40d7dc81ee3d20dae6b4702bd90ce0673"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/8f020f0e95db7fd80bd8648acf99e8f007369651.zip",
+        "sha256": "4eb768f3ea2c4ade3e415644413cca8c39931aa6bc4e2506f55802706c81c206",
+        "subPath": "gil-8f020f0e95db7fd80bd8648acf99e8f007369651"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/435f8da760191e6ce9a0121d67451851d3eb6996.zip",
+        "sha256": "606daff7b32c8c22a80170236844bf8d48a050120ac1ad3e8d7171bca07b8469",
+        "subPath": "gil-435f8da760191e6ce9a0121d67451851d3eb6996"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/95fa44d1ff54e8b6914f47c37e635b90c0df6ade.zip",
+        "sha256": "5fd10d9b68464cf705f1b33135467c884b820f9d220a55043d4946a38093fc87",
+        "subPath": "gil-95fa44d1ff54e8b6914f47c37e635b90c0df6ade"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/11ae3b04a6a1a0a5733272c891711e979e2787ee.zip",
+        "sha256": "388300dab27e5446e0b145c7a4376aea156e12bb7665cb0f83de2f21f7bf57e6",
+        "subPath": "gil-11ae3b04a6a1a0a5733272c891711e979e2787ee"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/2290dd113adb68662af95b7224081d810aee5d5e.zip",
+        "sha256": "dc38662376e885c1a8ecff8fc9d1ac55dbb6dc39881aa7c80713e8c94d561a3a",
+        "subPath": "gil-2290dd113adb68662af95b7224081d810aee5d5e"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/gil/archive/4fda7041d007b2cba0e0219340ebf5ccd42fbf65.zip",
+        "sha256": "5a0bd86d4835ca1d5a882d93d63657282625e9dc34030cef32f7da084a76a78a",
+        "subPath": "gil-4fda7041d007b2cba0e0219340ebf5ccd42fbf65"
+      }
+    }
+  }
+}

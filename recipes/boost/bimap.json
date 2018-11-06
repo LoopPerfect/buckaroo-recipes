@@ -7,6 +7,146 @@
     "project": "bimap"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/223b2cf3a5d633c5a4f11e07ce242f51bcf61a06.zip",
+        "sha256": "9df315a5dafac6fac4b29bba8fa7295798a488e9cad3082384e57dfc01f83a56",
+        "subPath": "bimap-223b2cf3a5d633c5a4f11e07ce242f51bcf61a06"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/concept-check": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/functional": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/serialization": "1.67.0",
+        "boost/multi-index": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/throw-exception": "1.67.0",
+        "boost/property-map": "1.67.0",
+        "boost/lambda": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/918e6cd9bea2d745f2849122b4bb80e6b9fb38f4.zip",
+        "sha256": "0343250e50ea012e5bef623a214fd10a0c98425e6430edc17d061fc77aa9f6a0",
+        "subPath": "bimap-918e6cd9bea2d745f2849122b4bb80e6b9fb38f4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/concept-check": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/functional": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/serialization": "1.66.0",
+        "boost/multi-index": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/throw-exception": "1.66.0",
+        "boost/property-map": "1.66.0",
+        "boost/lambda": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8.zip",
+        "sha256": "04406a32f595a1685bac814d47a77d606f1d8fe9f08713e8a3a75a59fa878b11",
+        "subPath": "bimap-fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/concept-check": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/functional": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/serialization": "1.65.1",
+        "boost/multi-index": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/throw-exception": "1.65.1",
+        "boost/property-map": "1.65.1",
+        "boost/lambda": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8.zip",
+        "sha256": "04406a32f595a1685bac814d47a77d606f1d8fe9f08713e8a3a75a59fa878b11",
+        "subPath": "bimap-fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/concept-check": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/functional": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/serialization": "1.65.0",
+        "boost/multi-index": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/throw-exception": "1.65.0",
+        "boost/property-map": "1.65.0",
+        "boost/lambda": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8.zip",
+        "sha256": "04406a32f595a1685bac814d47a77d606f1d8fe9f08713e8a3a75a59fa878b11",
+        "subPath": "bimap-fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/concept-check": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/functional": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/serialization": "1.64.0",
+        "boost/multi-index": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/throw-exception": "1.64.0",
+        "boost/property-map": "1.64.0",
+        "boost/lambda": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/bimap/archive/fb2c7e4da04214b65f00b3f49d02f79b8e8c46f8.zip",
@@ -33,6 +173,482 @@
         "boost/throw-exception": "1.63.0",
         "boost/property-map": "1.63.0",
         "boost/lambda": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/ea005b497b5096e8d3610a624c2cfb66a647aae1.zip",
+        "sha256": "63bf5b5d22eaaf6e61ff07321c002645e6337b326f1a1f9813f871b276f3eaa7",
+        "subPath": "bimap-ea005b497b5096e8d3610a624c2cfb66a647aae1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/concept-check": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/functional": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/serialization": "1.62.0",
+        "boost/multi-index": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/throw-exception": "1.62.0",
+        "boost/property-map": "1.62.0",
+        "boost/lambda": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/ea005b497b5096e8d3610a624c2cfb66a647aae1.zip",
+        "sha256": "63bf5b5d22eaaf6e61ff07321c002645e6337b326f1a1f9813f871b276f3eaa7",
+        "subPath": "bimap-ea005b497b5096e8d3610a624c2cfb66a647aae1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/concept-check": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/functional": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/serialization": "1.61.0",
+        "boost/multi-index": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/throw-exception": "1.61.0",
+        "boost/property-map": "1.61.0",
+        "boost/lambda": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/b98a884af89f4c5671230c68239b325a9279a0f5.zip",
+        "sha256": "99b0ecc1386c07dded3293a3c0d40935b82189c801e8081c934744c10194b6ca",
+        "subPath": "bimap-b98a884af89f4c5671230c68239b325a9279a0f5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/concept-check": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/functional": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/serialization": "1.60.0",
+        "boost/multi-index": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/throw-exception": "1.60.0",
+        "boost/property-map": "1.60.0",
+        "boost/lambda": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/b98a884af89f4c5671230c68239b325a9279a0f5.zip",
+        "sha256": "99b0ecc1386c07dded3293a3c0d40935b82189c801e8081c934744c10194b6ca",
+        "subPath": "bimap-b98a884af89f4c5671230c68239b325a9279a0f5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/concept-check": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/functional": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/serialization": "1.59.0",
+        "boost/multi-index": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/throw-exception": "1.59.0",
+        "boost/property-map": "1.59.0",
+        "boost/lambda": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/b98a884af89f4c5671230c68239b325a9279a0f5.zip",
+        "sha256": "99b0ecc1386c07dded3293a3c0d40935b82189c801e8081c934744c10194b6ca",
+        "subPath": "bimap-b98a884af89f4c5671230c68239b325a9279a0f5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/concept-check": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/functional": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/serialization": "1.58.0",
+        "boost/multi-index": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/throw-exception": "1.58.0",
+        "boost/property-map": "1.58.0",
+        "boost/lambda": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/336ab58123eb218d557bc390932c141784ec91bc.zip",
+        "sha256": "dfd9829f06e76dab8ebdbbc2fc8c14253ba80728f8eb17bb0f0cb8c08f604d9f",
+        "subPath": "bimap-336ab58123eb218d557bc390932c141784ec91bc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/concept-check": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/functional": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/serialization": "1.57.0",
+        "boost/multi-index": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/throw-exception": "1.57.0",
+        "boost/property-map": "1.57.0",
+        "boost/lambda": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/336ab58123eb218d557bc390932c141784ec91bc.zip",
+        "sha256": "dfd9829f06e76dab8ebdbbc2fc8c14253ba80728f8eb17bb0f0cb8c08f604d9f",
+        "subPath": "bimap-336ab58123eb218d557bc390932c141784ec91bc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/concept-check": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/functional": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/serialization": "1.56.0",
+        "boost/multi-index": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/throw-exception": "1.56.0",
+        "boost/property-map": "1.56.0",
+        "boost/lambda": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/7707a20b13993c6586463361caed6216f949cbd1.zip",
+        "sha256": "bbda75d2b7fd27d84dc6065a1b163ee268df38b998d312b40b0ef324e6bb71af",
+        "subPath": "bimap-7707a20b13993c6586463361caed6216f949cbd1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/concept-check": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/functional": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/serialization": "1.55.0",
+        "boost/multi-index": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/throw-exception": "1.55.0",
+        "boost/property-map": "1.55.0",
+        "boost/lambda": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/603b13fbd502a1152a7a2ebd412ea12ed50d8486.zip",
+        "sha256": "89a830750d97aeb4f901038b55c0cc03072fb13761329c4386818b47a118d426",
+        "subPath": "bimap-603b13fbd502a1152a7a2ebd412ea12ed50d8486"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/concept-check": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/functional": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/serialization": "1.54.0",
+        "boost/multi-index": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/throw-exception": "1.54.0",
+        "boost/property-map": "1.54.0",
+        "boost/lambda": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/eeaf78bf80ba58edd0bd4cc3fdebc562bb3eecbb.zip",
+        "sha256": "80aac13d9c18b41aecf96fea327b36c6e2615c71905656fd08382c3f1186ffb3",
+        "subPath": "bimap-eeaf78bf80ba58edd0bd4cc3fdebc562bb3eecbb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/concept-check": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/functional": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/serialization": "1.53.0",
+        "boost/multi-index": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/throw-exception": "1.53.0",
+        "boost/property-map": "1.53.0",
+        "boost/lambda": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/798bd808fb7e4df48db5c75d2c1e4ac256c6b334.zip",
+        "sha256": "46a2733f4d7fe6ad01076b270cfbd952decbf88806bc539a6ecb60b941b4039e",
+        "subPath": "bimap-798bd808fb7e4df48db5c75d2c1e4ac256c6b334"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/concept-check": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/functional": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/serialization": "1.52.0",
+        "boost/multi-index": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/throw-exception": "1.52.0",
+        "boost/property-map": "1.52.0",
+        "boost/lambda": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/351b2bbdde13a2f254eafa44d2895c2078d5976e.zip",
+        "sha256": "db33a1756b9528827b5ea457a11110107310d0fd9383e9894cabb707c2b1fffc",
+        "subPath": "bimap-351b2bbdde13a2f254eafa44d2895c2078d5976e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/concept-check": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/functional": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/serialization": "1.51.0",
+        "boost/multi-index": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/throw-exception": "1.51.0",
+        "boost/property-map": "1.51.0",
+        "boost/lambda": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/1dc3b44dd2fb6d5ce1ee46055a269bc127bd4c69.zip",
+        "sha256": "4c1487bf3396588e6c14dbeb1fdffff0d330b37554f0fcfdfb56fa0b19b21025",
+        "subPath": "bimap-1dc3b44dd2fb6d5ce1ee46055a269bc127bd4c69"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/concept-check": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/functional": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/serialization": "1.50.0",
+        "boost/multi-index": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/throw-exception": "1.50.0",
+        "boost/property-map": "1.50.0",
+        "boost/lambda": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/f561c1681279878a45e63835c842befedca488c5.zip",
+        "sha256": "353eadf8cb1450cc7dac88c6d1e15c325798285452bb89ff5397c1d6219e3914",
+        "subPath": "bimap-f561c1681279878a45e63835c842befedca488c5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/concept-check": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/functional": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/serialization": "1.49.0",
+        "boost/multi-index": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/throw-exception": "1.49.0",
+        "boost/property-map": "1.49.0",
+        "boost/lambda": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/7921c1c992e70797e33b68a567c25f375030459a.zip",
+        "sha256": "ecf2dde290ac37919dadd45bcbcbc119c6d647f88dc63e98535742d9fb1dc2af",
+        "subPath": "bimap-7921c1c992e70797e33b68a567c25f375030459a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/concept-check": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/functional": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/serialization": "1.48.0",
+        "boost/multi-index": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/throw-exception": "1.48.0",
+        "boost/property-map": "1.48.0",
+        "boost/lambda": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/6dafa23d371fdc729d8239e64ca4a645a905e911.zip",
+        "sha256": "eebeca13e239ec1d9d1a97382be82d567bb12c58bafc88d5e98e2d7a1b3b93dd",
+        "subPath": "bimap-6dafa23d371fdc729d8239e64ca4a645a905e911"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/concept-check": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/functional": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/serialization": "1.47.0",
+        "boost/multi-index": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/throw-exception": "1.47.0",
+        "boost/property-map": "1.47.0",
+        "boost/lambda": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/bimap/archive/1446fadd9159b9a16cb9f346d4e8e0b828c614a5.zip",
+        "sha256": "e1cc8430097f0a596de335dc0d8b205c2220c240f7b82f67a04599959354407e",
+        "subPath": "bimap-1446fadd9159b9a16cb9f346d4e8e0b828c614a5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/bimap/6a213f959f1affbfbe1fdb6faf28f3bca56767cc/BUCK",
+        "sha256": "de820ec31b3f17614a84509e62c5248cd012d99f035b2531779e0620d650440d"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/concept-check": "1.46.1",
+        "boost/preprocessor": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/functional": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/static-assert": "1.46.1",
+        "boost/serialization": "1.46.1",
+        "boost/multi-index": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/throw-exception": "1.46.1",
+        "boost/property-map": "1.46.1",
+        "boost/lambda": "1.46.1"
       }
     }
   }

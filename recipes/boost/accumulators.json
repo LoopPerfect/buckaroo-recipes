@@ -7,6 +7,176 @@
     "project": "accumulators"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/bfcbfe3c58064cd1ffabbce49a95c6c20351c96e.zip",
+        "sha256": "e1752ad7269a09ac80399045d0c96b45779a93e2be139ee0ae717baf1c857787",
+        "subPath": "accumulators-bfcbfe3c58064cd1ffabbce49a95c6c20351c96e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/parameter": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/typeof": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/range": "1.67.0",
+        "boost/throw-exception": "1.67.0",
+        "boost/numeric-conversion": "1.67.0",
+        "boost/tuple": "1.67.0",
+        "boost/array": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/circular-buffer": "1.67.0",
+        "boost/concept-check": "1.67.0",
+        "boost/fusion": "1.67.0",
+        "boost/bind": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/ublas": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/bfcbfe3c58064cd1ffabbce49a95c6c20351c96e.zip",
+        "sha256": "e1752ad7269a09ac80399045d0c96b45779a93e2be139ee0ae717baf1c857787",
+        "subPath": "accumulators-bfcbfe3c58064cd1ffabbce49a95c6c20351c96e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/parameter": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/typeof": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/range": "1.66.0",
+        "boost/throw-exception": "1.66.0",
+        "boost/numeric-conversion": "1.66.0",
+        "boost/tuple": "1.66.0",
+        "boost/array": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/circular-buffer": "1.66.0",
+        "boost/concept-check": "1.66.0",
+        "boost/fusion": "1.66.0",
+        "boost/bind": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/ublas": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/bfcbfe3c58064cd1ffabbce49a95c6c20351c96e.zip",
+        "sha256": "e1752ad7269a09ac80399045d0c96b45779a93e2be139ee0ae717baf1c857787",
+        "subPath": "accumulators-bfcbfe3c58064cd1ffabbce49a95c6c20351c96e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/parameter": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/typeof": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/range": "1.65.1",
+        "boost/throw-exception": "1.65.1",
+        "boost/numeric-conversion": "1.65.1",
+        "boost/tuple": "1.65.1",
+        "boost/array": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/circular-buffer": "1.65.1",
+        "boost/concept-check": "1.65.1",
+        "boost/fusion": "1.65.1",
+        "boost/bind": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/ublas": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/bfcbfe3c58064cd1ffabbce49a95c6c20351c96e.zip",
+        "sha256": "e1752ad7269a09ac80399045d0c96b45779a93e2be139ee0ae717baf1c857787",
+        "subPath": "accumulators-bfcbfe3c58064cd1ffabbce49a95c6c20351c96e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/parameter": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/typeof": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/range": "1.65.0",
+        "boost/throw-exception": "1.65.0",
+        "boost/numeric-conversion": "1.65.0",
+        "boost/tuple": "1.65.0",
+        "boost/array": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/circular-buffer": "1.65.0",
+        "boost/concept-check": "1.65.0",
+        "boost/fusion": "1.65.0",
+        "boost/bind": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/ublas": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/d022c85123683138ebec9149f0dc9aec6f3839cf.zip",
+        "sha256": "71a0c2067948a180612c7cbdef56b398b2d9230c01a28e2fe26c5c8d1abdadcf",
+        "subPath": "accumulators-d022c85123683138ebec9149f0dc9aec6f3839cf"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/parameter": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/typeof": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/range": "1.64.0",
+        "boost/throw-exception": "1.64.0",
+        "boost/numeric-conversion": "1.64.0",
+        "boost/tuple": "1.64.0",
+        "boost/array": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/circular-buffer": "1.64.0",
+        "boost/concept-check": "1.64.0",
+        "boost/fusion": "1.64.0",
+        "boost/bind": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/ublas": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/accumulators/archive/d022c85123683138ebec9149f0dc9aec6f3839cf.zip",
@@ -39,6 +209,584 @@
         "boost/bind": "1.63.0",
         "boost/static-assert": "1.63.0",
         "boost/ublas": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec.zip",
+        "sha256": "29e7ce2e2a7c143a905b2c80443de44f469141a7cc555892f69336207612884f",
+        "subPath": "accumulators-e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/parameter": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/typeof": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/range": "1.62.0",
+        "boost/throw-exception": "1.62.0",
+        "boost/numeric-conversion": "1.62.0",
+        "boost/tuple": "1.62.0",
+        "boost/array": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/circular-buffer": "1.62.0",
+        "boost/concept-check": "1.62.0",
+        "boost/fusion": "1.62.0",
+        "boost/bind": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/ublas": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec.zip",
+        "sha256": "29e7ce2e2a7c143a905b2c80443de44f469141a7cc555892f69336207612884f",
+        "subPath": "accumulators-e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/parameter": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/typeof": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/range": "1.61.0",
+        "boost/throw-exception": "1.61.0",
+        "boost/numeric-conversion": "1.61.0",
+        "boost/tuple": "1.61.0",
+        "boost/array": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/circular-buffer": "1.61.0",
+        "boost/concept-check": "1.61.0",
+        "boost/fusion": "1.61.0",
+        "boost/bind": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/ublas": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec.zip",
+        "sha256": "29e7ce2e2a7c143a905b2c80443de44f469141a7cc555892f69336207612884f",
+        "subPath": "accumulators-e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/parameter": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/typeof": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/range": "1.60.0",
+        "boost/throw-exception": "1.60.0",
+        "boost/numeric-conversion": "1.60.0",
+        "boost/tuple": "1.60.0",
+        "boost/array": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/circular-buffer": "1.60.0",
+        "boost/concept-check": "1.60.0",
+        "boost/fusion": "1.60.0",
+        "boost/bind": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/ublas": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec.zip",
+        "sha256": "29e7ce2e2a7c143a905b2c80443de44f469141a7cc555892f69336207612884f",
+        "subPath": "accumulators-e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/parameter": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/typeof": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/range": "1.59.0",
+        "boost/throw-exception": "1.59.0",
+        "boost/numeric-conversion": "1.59.0",
+        "boost/tuple": "1.59.0",
+        "boost/array": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/circular-buffer": "1.59.0",
+        "boost/concept-check": "1.59.0",
+        "boost/fusion": "1.59.0",
+        "boost/bind": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/ublas": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec.zip",
+        "sha256": "29e7ce2e2a7c143a905b2c80443de44f469141a7cc555892f69336207612884f",
+        "subPath": "accumulators-e0202cdcce09464fd4f7dce7a3f46094ef3ac3ec"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/parameter": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/typeof": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/range": "1.58.0",
+        "boost/throw-exception": "1.58.0",
+        "boost/numeric-conversion": "1.58.0",
+        "boost/tuple": "1.58.0",
+        "boost/array": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/circular-buffer": "1.58.0",
+        "boost/concept-check": "1.58.0",
+        "boost/fusion": "1.58.0",
+        "boost/bind": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/ublas": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/69dcfd153f43d9b5ac7161add2dc388971f135ee.zip",
+        "sha256": "d0db0284a1c3c260fa71abdbe0ef029bab8dc5612a8ff0b58be7016ec138fc3d",
+        "subPath": "accumulators-69dcfd153f43d9b5ac7161add2dc388971f135ee"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/parameter": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/typeof": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/range": "1.57.0",
+        "boost/throw-exception": "1.57.0",
+        "boost/numeric-conversion": "1.57.0",
+        "boost/tuple": "1.57.0",
+        "boost/array": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/circular-buffer": "1.57.0",
+        "boost/concept-check": "1.57.0",
+        "boost/fusion": "1.57.0",
+        "boost/bind": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/ublas": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/69dcfd153f43d9b5ac7161add2dc388971f135ee.zip",
+        "sha256": "d0db0284a1c3c260fa71abdbe0ef029bab8dc5612a8ff0b58be7016ec138fc3d",
+        "subPath": "accumulators-69dcfd153f43d9b5ac7161add2dc388971f135ee"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/parameter": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/typeof": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/range": "1.56.0",
+        "boost/throw-exception": "1.56.0",
+        "boost/numeric-conversion": "1.56.0",
+        "boost/tuple": "1.56.0",
+        "boost/array": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/circular-buffer": "1.56.0",
+        "boost/concept-check": "1.56.0",
+        "boost/fusion": "1.56.0",
+        "boost/bind": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/ublas": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/d440b2f90e5e1b938d724e9f746df88091623bed.zip",
+        "sha256": "189cfadfefa3fa762a909b1f0b6ce1539fe6cbd76a8cf1fe367840547b869e7c",
+        "subPath": "accumulators-d440b2f90e5e1b938d724e9f746df88091623bed"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/parameter": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/typeof": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/range": "1.55.0",
+        "boost/throw-exception": "1.55.0",
+        "boost/numeric-conversion": "1.55.0",
+        "boost/tuple": "1.55.0",
+        "boost/array": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/circular-buffer": "1.55.0",
+        "boost/concept-check": "1.55.0",
+        "boost/fusion": "1.55.0",
+        "boost/bind": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/ublas": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/833de2713891b79c8a49c18d1bb39c21a07b7674.zip",
+        "sha256": "bcfe2fd54499f05d963998570a44b1f5c9e7f90eb32fb186d5e3ed5f25149164",
+        "subPath": "accumulators-833de2713891b79c8a49c18d1bb39c21a07b7674"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/parameter": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/typeof": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/range": "1.54.0",
+        "boost/throw-exception": "1.54.0",
+        "boost/numeric-conversion": "1.54.0",
+        "boost/tuple": "1.54.0",
+        "boost/array": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/circular-buffer": "1.54.0",
+        "boost/concept-check": "1.54.0",
+        "boost/fusion": "1.54.0",
+        "boost/bind": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/ublas": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/9da4d2c4c50bc787159a934aee6b8c42342ed656.zip",
+        "sha256": "107a7f612ad712dea95982aef42da8e8789d0fcee108e80bf51270ea5a2c9076",
+        "subPath": "accumulators-9da4d2c4c50bc787159a934aee6b8c42342ed656"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/parameter": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/typeof": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/range": "1.53.0",
+        "boost/throw-exception": "1.53.0",
+        "boost/numeric-conversion": "1.53.0",
+        "boost/tuple": "1.53.0",
+        "boost/array": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/circular-buffer": "1.53.0",
+        "boost/concept-check": "1.53.0",
+        "boost/fusion": "1.53.0",
+        "boost/bind": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/ublas": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/6ab8f98c391c410f60f57d1db58474a03bfb47cb.zip",
+        "sha256": "29f6b0499b97af2ffe4b904d1704a52f095ce09de63f968dd93dd0b9b904b336",
+        "subPath": "accumulators-6ab8f98c391c410f60f57d1db58474a03bfb47cb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/parameter": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/typeof": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/range": "1.52.0",
+        "boost/throw-exception": "1.52.0",
+        "boost/numeric-conversion": "1.52.0",
+        "boost/tuple": "1.52.0",
+        "boost/array": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/circular-buffer": "1.52.0",
+        "boost/concept-check": "1.52.0",
+        "boost/fusion": "1.52.0",
+        "boost/bind": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/ublas": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/3054544303597b62b248d89353312a5e43dca763.zip",
+        "sha256": "8eb4c366a8b140a68b6eab382df7866f38cb5fb996caae37e81e110802b944fa",
+        "subPath": "accumulators-3054544303597b62b248d89353312a5e43dca763"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/parameter": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/typeof": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/range": "1.51.0",
+        "boost/throw-exception": "1.51.0",
+        "boost/numeric-conversion": "1.51.0",
+        "boost/tuple": "1.51.0",
+        "boost/array": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/circular-buffer": "1.51.0",
+        "boost/concept-check": "1.51.0",
+        "boost/fusion": "1.51.0",
+        "boost/bind": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/ublas": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/1041d74c485c96ed64a2eb35d3688b9027482fcc.zip",
+        "sha256": "15015233deed063891030302e0869138268e832dd9f0e7275f56e99063556508",
+        "subPath": "accumulators-1041d74c485c96ed64a2eb35d3688b9027482fcc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/parameter": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/typeof": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/range": "1.50.0",
+        "boost/throw-exception": "1.50.0",
+        "boost/numeric-conversion": "1.50.0",
+        "boost/tuple": "1.50.0",
+        "boost/array": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/circular-buffer": "1.50.0",
+        "boost/concept-check": "1.50.0",
+        "boost/fusion": "1.50.0",
+        "boost/bind": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/ublas": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/a9ffff16452f0946ed70d501ea1999c6d37fb208.zip",
+        "sha256": "bff3db72a6396df402f366778f518563dbf5cd0c3d411064c74d1eff9f7de543",
+        "subPath": "accumulators-a9ffff16452f0946ed70d501ea1999c6d37fb208"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/parameter": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/typeof": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/range": "1.49.0",
+        "boost/throw-exception": "1.49.0",
+        "boost/numeric-conversion": "1.49.0",
+        "boost/tuple": "1.49.0",
+        "boost/array": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/circular-buffer": "1.49.0",
+        "boost/concept-check": "1.49.0",
+        "boost/fusion": "1.49.0",
+        "boost/bind": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/ublas": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/dbabf5a58e55267844890a7cab777a44429ccb45.zip",
+        "sha256": "8f1af040b1a9d069c0e5170566e591864038a03548075b5f3f1026b51e5ee664",
+        "subPath": "accumulators-dbabf5a58e55267844890a7cab777a44429ccb45"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/parameter": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/typeof": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/range": "1.48.0",
+        "boost/throw-exception": "1.48.0",
+        "boost/numeric-conversion": "1.48.0",
+        "boost/tuple": "1.48.0",
+        "boost/array": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/circular-buffer": "1.48.0",
+        "boost/concept-check": "1.48.0",
+        "boost/fusion": "1.48.0",
+        "boost/bind": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/ublas": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/c03daafd2176427147d2478887607f1fa8b8638d.zip",
+        "sha256": "4b57ada0d1431e14053688093d214bbc39c831af1257b310cf038e5116f63da9",
+        "subPath": "accumulators-c03daafd2176427147d2478887607f1fa8b8638d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/parameter": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/typeof": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/range": "1.47.0",
+        "boost/throw-exception": "1.47.0",
+        "boost/numeric-conversion": "1.47.0",
+        "boost/tuple": "1.47.0",
+        "boost/array": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/circular-buffer": "1.47.0",
+        "boost/concept-check": "1.47.0",
+        "boost/fusion": "1.47.0",
+        "boost/bind": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/ublas": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/accumulators/archive/0a4d2abde865198bcfa37baacb188eedda8bf36f.zip",
+        "sha256": "b5dc5bf4bf4e0848ff593ee66be0cd72a9b09521261e6249d63f35b6e0a11b89",
+        "subPath": "accumulators-0a4d2abde865198bcfa37baacb188eedda8bf36f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/accumulators/fc06c0557e5caa9e14a8fff8673b1df630eeaa1a/BUCK",
+        "sha256": "3a33d1513e8a23df1cb707832212bbac74409aa2e7a551904a4d2bca73d3f4b1"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/preprocessor": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/parameter": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/typeof": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/range": "1.46.1",
+        "boost/throw-exception": "1.46.1",
+        "boost/numeric-conversion": "1.46.1",
+        "boost/tuple": "1.46.1",
+        "boost/array": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/circular-buffer": "1.46.1",
+        "boost/concept-check": "1.46.1",
+        "boost/fusion": "1.46.1",
+        "boost/bind": "1.46.1",
+        "boost/static-assert": "1.46.1",
+        "boost/ublas": "1.46.1"
       }
     }
   }

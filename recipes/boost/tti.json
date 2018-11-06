@@ -7,6 +7,101 @@
     "project": "tti"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/31736e3dff24934430b038b85f794432eb949a29.zip",
+        "sha256": "d382594f5e7f0ee8e216d70207669a4bd431b1e00690e84a37a5c9a0b6bbefb2",
+        "subPath": "tti-31736e3dff24934430b038b85f794432eb949a29"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/function-types": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/detail": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/31736e3dff24934430b038b85f794432eb949a29.zip",
+        "sha256": "d382594f5e7f0ee8e216d70207669a4bd431b1e00690e84a37a5c9a0b6bbefb2",
+        "subPath": "tti-31736e3dff24934430b038b85f794432eb949a29"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/function-types": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/detail": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/6d465e6cf4d39330cb694ee0d0e3862faf94a2d9.zip",
+        "sha256": "a88bd63a9fd70dea4ba13c3b547a2db9731d8b4febd64f139b5672c290beeeda",
+        "subPath": "tti-6d465e6cf4d39330cb694ee0d0e3862faf94a2d9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/function-types": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/detail": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/6d465e6cf4d39330cb694ee0d0e3862faf94a2d9.zip",
+        "sha256": "a88bd63a9fd70dea4ba13c3b547a2db9731d8b4febd64f139b5672c290beeeda",
+        "subPath": "tti-6d465e6cf4d39330cb694ee0d0e3862faf94a2d9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/function-types": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/detail": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/2848f8422d656e6b3c7afe444e6c4ee241260b2e.zip",
+        "sha256": "e50db8ed4bba2da63331fc2a30321700a8135b12e712ad047b5f5d56ee0a90bb",
+        "subPath": "tti-2848f8422d656e6b3c7afe444e6c4ee241260b2e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/function-types": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/detail": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/tti/archive/d8f005e9063da1cfaf3b047d3ebda24e6b627af0.zip",
@@ -24,6 +119,177 @@
         "boost/function-types": "1.63.0",
         "boost/type-traits": "1.63.0",
         "boost/detail": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/4cf83cc66e35ad253be30110ec25662e22f04f79.zip",
+        "sha256": "9520159800ee184bf367d8cb81144218ba8e617b828cda72371b669981147dbc",
+        "subPath": "tti-4cf83cc66e35ad253be30110ec25662e22f04f79"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/function-types": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/detail": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/4cf83cc66e35ad253be30110ec25662e22f04f79.zip",
+        "sha256": "9520159800ee184bf367d8cb81144218ba8e617b828cda72371b669981147dbc",
+        "subPath": "tti-4cf83cc66e35ad253be30110ec25662e22f04f79"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/function-types": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/detail": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/4cf83cc66e35ad253be30110ec25662e22f04f79.zip",
+        "sha256": "9520159800ee184bf367d8cb81144218ba8e617b828cda72371b669981147dbc",
+        "subPath": "tti-4cf83cc66e35ad253be30110ec25662e22f04f79"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/function-types": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/detail": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/4cf83cc66e35ad253be30110ec25662e22f04f79.zip",
+        "sha256": "9520159800ee184bf367d8cb81144218ba8e617b828cda72371b669981147dbc",
+        "subPath": "tti-4cf83cc66e35ad253be30110ec25662e22f04f79"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/function-types": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/detail": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/4cf83cc66e35ad253be30110ec25662e22f04f79.zip",
+        "sha256": "9520159800ee184bf367d8cb81144218ba8e617b828cda72371b669981147dbc",
+        "subPath": "tti-4cf83cc66e35ad253be30110ec25662e22f04f79"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/function-types": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/detail": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/f64b9e5a15187dc6e8b84666f7d0b8c2599b4d26.zip",
+        "sha256": "00c26a376e38a0e533b19fc049d1cb34bb8d87baf411c283d38a111009a02f9c",
+        "subPath": "tti-f64b9e5a15187dc6e8b84666f7d0b8c2599b4d26"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/function-types": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/detail": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/f64b9e5a15187dc6e8b84666f7d0b8c2599b4d26.zip",
+        "sha256": "00c26a376e38a0e533b19fc049d1cb34bb8d87baf411c283d38a111009a02f9c",
+        "subPath": "tti-f64b9e5a15187dc6e8b84666f7d0b8c2599b4d26"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/function-types": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/detail": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/98b6284a997c22d8a3972fe32b6ab3fb23467270.zip",
+        "sha256": "dffea8ddd2eb1c4dc96e01c67bba624428d21e900047a10b566e6831391a4c7a",
+        "subPath": "tti-98b6284a997c22d8a3972fe32b6ab3fb23467270"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/function-types": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/detail": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tti/archive/d21362b7d624220727dcc8883e71d8d735612466.zip",
+        "sha256": "be8547cad71e3f17922eb06a94fdec98a3b65e9cb598ac6939f1b9dedd39095a",
+        "subPath": "tti-d21362b7d624220727dcc8883e71d8d735612466"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tti/c64934bf08adf0be40902eae4439a19bffbe6665/BUCK",
+        "sha256": "c026be263851e9f3c2d4f590e9d0888510a88fec98ed8e8dd27762048f118904"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/function-types": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/detail": "1.54.0"
       }
     }
   }

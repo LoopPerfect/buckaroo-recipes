@@ -7,6 +7,66 @@
     "project": "logic"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/8cb497225694a811bb669f2b0f7dd205d3992114.zip",
+        "sha256": "46e7292464338d71cb03e30f5921e2bb0f7a68ca423047debf1a48baf8a44452",
+        "subPath": "logic-8cb497225694a811bb669f2b0f7dd205d3992114"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/8cb497225694a811bb669f2b0f7dd205d3992114.zip",
+        "sha256": "46e7292464338d71cb03e30f5921e2bb0f7a68ca423047debf1a48baf8a44452",
+        "subPath": "logic-8cb497225694a811bb669f2b0f7dd205d3992114"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/8cb497225694a811bb669f2b0f7dd205d3992114.zip",
+        "sha256": "46e7292464338d71cb03e30f5921e2bb0f7a68ca423047debf1a48baf8a44452",
+        "subPath": "logic-8cb497225694a811bb669f2b0f7dd205d3992114"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/8cb497225694a811bb669f2b0f7dd205d3992114.zip",
+        "sha256": "46e7292464338d71cb03e30f5921e2bb0f7a68ca423047debf1a48baf8a44452",
+        "subPath": "logic-8cb497225694a811bb669f2b0f7dd205d3992114"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/8cb497225694a811bb669f2b0f7dd205d3992114.zip",
+        "sha256": "46e7292464338d71cb03e30f5921e2bb0f7a68ca423047debf1a48baf8a44452",
+        "subPath": "logic-8cb497225694a811bb669f2b0f7dd205d3992114"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/logic/archive/8cb497225694a811bb669f2b0f7dd205d3992114.zip",
@@ -16,7 +76,212 @@
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
         "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
-      }
+      },
+      "dependencies": {}
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/addbcdb81aad04fec40a8b2cb1a74227830a1852.zip",
+        "sha256": "69b622509d01517edd94f427a92fe3410c82a9cbd9b0739f6f7135196985b6e8",
+        "subPath": "logic-addbcdb81aad04fec40a8b2cb1a74227830a1852"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/addbcdb81aad04fec40a8b2cb1a74227830a1852.zip",
+        "sha256": "69b622509d01517edd94f427a92fe3410c82a9cbd9b0739f6f7135196985b6e8",
+        "subPath": "logic-addbcdb81aad04fec40a8b2cb1a74227830a1852"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/addbcdb81aad04fec40a8b2cb1a74227830a1852.zip",
+        "sha256": "69b622509d01517edd94f427a92fe3410c82a9cbd9b0739f6f7135196985b6e8",
+        "subPath": "logic-addbcdb81aad04fec40a8b2cb1a74227830a1852"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/addbcdb81aad04fec40a8b2cb1a74227830a1852.zip",
+        "sha256": "69b622509d01517edd94f427a92fe3410c82a9cbd9b0739f6f7135196985b6e8",
+        "subPath": "logic-addbcdb81aad04fec40a8b2cb1a74227830a1852"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/addbcdb81aad04fec40a8b2cb1a74227830a1852.zip",
+        "sha256": "69b622509d01517edd94f427a92fe3410c82a9cbd9b0739f6f7135196985b6e8",
+        "subPath": "logic-addbcdb81aad04fec40a8b2cb1a74227830a1852"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/1dab9cd10a7838f3ea2f02284500e410204f550a.zip",
+        "sha256": "dd0194fc7ce13a6f6dacca45f76d44e9fb3d8c831cafd9ecf8a87a96a8c94dfd",
+        "subPath": "logic-1dab9cd10a7838f3ea2f02284500e410204f550a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/1dab9cd10a7838f3ea2f02284500e410204f550a.zip",
+        "sha256": "dd0194fc7ce13a6f6dacca45f76d44e9fb3d8c831cafd9ecf8a87a96a8c94dfd",
+        "subPath": "logic-1dab9cd10a7838f3ea2f02284500e410204f550a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/935d4301e07d52986fdf0378c75581ec3c5dcf11.zip",
+        "sha256": "edf1c8d461ec70b420499b94e5c61f2400f91c625323145ec93ca2d405f33b02",
+        "subPath": "logic-935d4301e07d52986fdf0378c75581ec3c5dcf11"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/25ecae1be63b053c3be98abdbef6bba832866bf6.zip",
+        "sha256": "ec2ef72158781a48e7c8aba42e36846a90bcbd74aef275bcca03d981415fd4f0",
+        "subPath": "logic-25ecae1be63b053c3be98abdbef6bba832866bf6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/16cbce285dbe731e7d4684e622181ed4500e38b8.zip",
+        "sha256": "d977f36812e956c0e328cb767658f50ee53a10a897273fd4af06e26a4bf58c38",
+        "subPath": "logic-16cbce285dbe731e7d4684e622181ed4500e38b8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/919ff04b228556493d7f84441b93c34181542aa6.zip",
+        "sha256": "7dddb9c0d3400dee82a6e13f8aaa09915819e40e173b80f8e807f96c22463463",
+        "subPath": "logic-919ff04b228556493d7f84441b93c34181542aa6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/b3ff990f171306f5304c11d001cbbed93e589a46.zip",
+        "sha256": "744dea308ae27003fdadee77c2a9021a1f7ec5a3d0723146b9110926cbb69b9b",
+        "subPath": "logic-b3ff990f171306f5304c11d001cbbed93e589a46"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/6eb1cc29d545e2fa0d0617f8a2bbfa0c65142e8c.zip",
+        "sha256": "b4436409cae6e41cf91af49c8b31d1c216463fc0d3eb5d6a70b0174be84d6e97",
+        "subPath": "logic-6eb1cc29d545e2fa0d0617f8a2bbfa0c65142e8c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/bdc17d6b1af357f321272f4650dba1eb3081da52.zip",
+        "sha256": "d4648fbe18a50d11d79140c65ed2ec8276abaddb94a1a4074d2983aac6b1a07d",
+        "subPath": "logic-bdc17d6b1af357f321272f4650dba1eb3081da52"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/1f0a9f5be70cc68c5e674ef44d0e61402bf3c6db.zip",
+        "sha256": "ae952cb519310bbd9622562905bdc3af2358ed71c6d597b45b01ce7ca014d1a7",
+        "subPath": "logic-1f0a9f5be70cc68c5e674ef44d0e61402bf3c6db"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/6fff3d263d4216a74b535982dc3dd36d7ac08139.zip",
+        "sha256": "ec878e2a784059ef8d90e009443fe45878fa1459e83c2968c21805752178520f",
+        "subPath": "logic-6fff3d263d4216a74b535982dc3dd36d7ac08139"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/logic/archive/a69b7767ef588586011381d246ef01aa6a0cefc7.zip",
+        "sha256": "64fed9a399ad6ab6851c80263978ddb0d069f3aeecf04be1fa78ce5ef870f1e1",
+        "subPath": "logic-a69b7767ef588586011381d246ef01aa6a0cefc7"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/logic/fcc8d8baeb3e549f27cf80915ae2cc2681f2c271/BUCK",
+        "sha256": "0b46efaad66c368ed0c32144adf4cb3f67f953ad3fca2b6530deee7d2fcae28e"
+      },
+      "dependencies": {}
     }
   }
 }

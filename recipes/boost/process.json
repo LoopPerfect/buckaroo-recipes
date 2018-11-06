@@ -7,31 +7,139 @@
     "project": "process"
   },
   "versions": {
-    "1.63.0": {
+    "1.67.0": {
       "source": {
-        "url": "https://github.com/boostorg/process/archive/cf2a196d40770ac5b52e7a09f86a9e82d48f2480.zip",
-        "sha256": "483f386c30fb76037e3195c4655ab1f217c3e5d6e12ecac0c0eaab942546a710",
-        "subPath": "process-cf2a196d40770ac5b52e7a09f86a9e82d48f2480"
+        "url": "https://github.com/boostorg/process/archive/f1c6909eb0a96569671f1f08b11d5bab2f91aba3.zip",
+        "sha256": "781a303c4442936fdb4131bb5ba2b8b095cb5c184e8476985042d880f8e2fb52",
+        "subPath": "process-f1c6909eb0a96569671f1f08b11d5bab2f91aba3"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/process/7c1b74da43ac3472d0a19af0a8a40bf0398c4404/BUCK",
         "sha256": "901e0822c46cff287ca2e464797a62ce659d1d98e0873cc1852aed0a811c8fa7"
       },
       "dependencies": {
-        "boost/config": "1.63.0",
-        "boost/system": "1.63.0",
-        "boost/fusion": "1.63.0",
-        "boost/winapi": "1.63.0",
-        "boost/optional": "1.63.0",
-        "boost/algorithm": "1.63.0",
-        "boost/filesystem": "1.63.0",
-        "boost/tokenizer": "1.63.0",
-        "boost/move": "1.63.0",
-        "boost/core": "1.63.0",
-        "boost/iterator": "1.63.0",
-        "boost/type-index": "1.63.0",
-        "boost/asio": "1.63.0",
-        "boost/detail": "1.63.0"
+        "boost/config": "1.67.0",
+        "boost/system": "1.67.0",
+        "boost/fusion": "1.67.0",
+        "boost/winapi": "1.67.0",
+        "boost/optional": "1.67.0",
+        "boost/algorithm": "1.67.0",
+        "boost/filesystem": "1.67.0",
+        "boost/tokenizer": "1.67.0",
+        "boost/move": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/type-index": "1.67.0",
+        "boost/asio": "1.67.0",
+        "boost/detail": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/process/archive/917030c3cdcfd4b0c12107fba5c54719b57be9b1.zip",
+        "sha256": "f69a311fda36733f5bb526c880b0014ca3c1165b3b116f88a6b2c4945d6cc6c5",
+        "subPath": "process-917030c3cdcfd4b0c12107fba5c54719b57be9b1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/process/7c1b74da43ac3472d0a19af0a8a40bf0398c4404/BUCK",
+        "sha256": "901e0822c46cff287ca2e464797a62ce659d1d98e0873cc1852aed0a811c8fa7"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/system": "1.66.0",
+        "boost/fusion": "1.66.0",
+        "boost/winapi": "1.66.0",
+        "boost/optional": "1.66.0",
+        "boost/algorithm": "1.66.0",
+        "boost/filesystem": "1.66.0",
+        "boost/tokenizer": "1.66.0",
+        "boost/move": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/type-index": "1.66.0",
+        "boost/asio": "1.66.0",
+        "boost/detail": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/process/archive/4075371cbe78dab8f43578c655747c831b554318.zip",
+        "sha256": "204da58ce4559571d8455860b23be9436aa25ebd45a7f308adfec762e5870da9",
+        "subPath": "process-4075371cbe78dab8f43578c655747c831b554318"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/process/7c1b74da43ac3472d0a19af0a8a40bf0398c4404/BUCK",
+        "sha256": "901e0822c46cff287ca2e464797a62ce659d1d98e0873cc1852aed0a811c8fa7"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/system": "1.65.1",
+        "boost/fusion": "1.65.1",
+        "boost/winapi": "1.65.1",
+        "boost/optional": "1.65.1",
+        "boost/algorithm": "1.65.1",
+        "boost/filesystem": "1.65.1",
+        "boost/tokenizer": "1.65.1",
+        "boost/move": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/type-index": "1.65.1",
+        "boost/asio": "1.65.1",
+        "boost/detail": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/process/archive/4075371cbe78dab8f43578c655747c831b554318.zip",
+        "sha256": "204da58ce4559571d8455860b23be9436aa25ebd45a7f308adfec762e5870da9",
+        "subPath": "process-4075371cbe78dab8f43578c655747c831b554318"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/process/7c1b74da43ac3472d0a19af0a8a40bf0398c4404/BUCK",
+        "sha256": "901e0822c46cff287ca2e464797a62ce659d1d98e0873cc1852aed0a811c8fa7"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/system": "1.65.0",
+        "boost/fusion": "1.65.0",
+        "boost/winapi": "1.65.0",
+        "boost/optional": "1.65.0",
+        "boost/algorithm": "1.65.0",
+        "boost/filesystem": "1.65.0",
+        "boost/tokenizer": "1.65.0",
+        "boost/move": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/type-index": "1.65.0",
+        "boost/asio": "1.65.0",
+        "boost/detail": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/process/archive/4075371cbe78dab8f43578c655747c831b554318.zip",
+        "sha256": "204da58ce4559571d8455860b23be9436aa25ebd45a7f308adfec762e5870da9",
+        "subPath": "process-4075371cbe78dab8f43578c655747c831b554318"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/process/7c1b74da43ac3472d0a19af0a8a40bf0398c4404/BUCK",
+        "sha256": "901e0822c46cff287ca2e464797a62ce659d1d98e0873cc1852aed0a811c8fa7"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/system": "1.64.0",
+        "boost/fusion": "1.64.0",
+        "boost/winapi": "1.64.0",
+        "boost/optional": "1.64.0",
+        "boost/algorithm": "1.64.0",
+        "boost/filesystem": "1.64.0",
+        "boost/tokenizer": "1.64.0",
+        "boost/move": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/type-index": "1.64.0",
+        "boost/asio": "1.64.0",
+        "boost/detail": "1.64.0"
       }
     }
   }

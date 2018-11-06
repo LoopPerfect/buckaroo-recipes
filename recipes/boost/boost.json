@@ -1,0 +1,148 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/1a9dda41fbfb0dfbec17ab6afeba8138265395f7.zip",
+        "sha256": "d91015476eba8c342a083505f6822272162ed80949a372940cf4a74b8486c3ba",
+        "subPath": "boost-1a9dda41fbfb0dfbec17ab6afeba8138265395f7"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/b143a5b72075f47307a23e680889d8434c8afc54.zip",
+        "sha256": "e2964dc89ef2ed6482cbee9edb7cbe3f00b64e826b82fb5ee58cfbffec2030b2",
+        "subPath": "boost-b143a5b72075f47307a23e680889d8434c8afc54"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/436ad1dfcfc7e0246141beddd11c8a4e9c10b146.zip",
+        "sha256": "6ed52d96ec717186ab5c178e4b986df700cb4c8d706f0a738cbe0964f58bfbb2",
+        "subPath": "boost-436ad1dfcfc7e0246141beddd11c8a4e9c10b146"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/23b96b68bd697ecafb1c8dccf918b563f2628a72.zip",
+        "sha256": "2e175514877d9553e1a8e526a01f5b2258da38dbf866f5718fdbe99c1878e09b",
+        "subPath": "boost-23b96b68bd697ecafb1c8dccf918b563f2628a72"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/e712782de0b8bbd0efb710ed1584b3c1c3e60a52.zip",
+        "sha256": "3e88c4468fab630c4ad356916cb4601c8e874bb2622be5455ac490bbd6b9960b",
+        "subPath": "boost-e712782de0b8bbd0efb710ed1584b3c1c3e60a52"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/3072108f2efea7888ad4e94d02c3c062468638f5.zip",
+        "sha256": "d59ed6776766e2ff8a1fdacd51a5c00c67418c78103e4a1eefebd2faae3e5cdd",
+        "subPath": "boost-3072108f2efea7888ad4e94d02c3c062468638f5"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/4f2bdeb93a4be13ba0dc5e9f44920a2bf67191fc.zip",
+        "sha256": "baf9f0be975f1effec981d4e5bfff25e083009865f20719c5cc46101aeb1d3d1",
+        "subPath": "boost-4f2bdeb93a4be13ba0dc5e9f44920a2bf67191fc"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/ea0209516426e4b358204b8b50d093d001c00f54.zip",
+        "sha256": "b0a91ad590ddb012e02824da958e1ef916a3b1288184e4c71b4e21c4b228154c",
+        "subPath": "boost-ea0209516426e4b358204b8b50d093d001c00f54"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/a89d865a504c59a0fea96ffbb22bd983da470104.zip",
+        "sha256": "07cb9a1a3e8e2f036879034703887bf51bec03a3b7030146937e644365024c82",
+        "subPath": "boost-a89d865a504c59a0fea96ffbb22bd983da470104"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/13f1549597d3844c9194ec19a7b8cfa035f5f715.zip",
+        "sha256": "aa5335da6c1d0ae7b22d30ef8b373a70a639682875d1f713e0f7e2f680c0b8b1",
+        "subPath": "boost-13f1549597d3844c9194ec19a7b8cfa035f5f715"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/9ccd3390c8e9ef05f4cb681d15b2e14eac48886e.zip",
+        "sha256": "c23c3a93a2adf030a4d6645d7d0c99a521b204c7da33cd36303cc4abec8d94a5",
+        "subPath": "boost-9ccd3390c8e9ef05f4cb681d15b2e14eac48886e"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/3913b6bb7f7a528665d577ebe057ef13f96ad096.zip",
+        "sha256": "aaab25d595576b6ede9f8765c8a3372be5ee54cf36e8ba9e7e93eb236ed6b78a",
+        "subPath": "boost-3913b6bb7f7a528665d577ebe057ef13f96ad096"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/c038171a340eac748b2d14882f6f79e803d292f4.zip",
+        "sha256": "28df1ad8ec4110139ad1053fb6e37da64459caea13a4dd6fd6620b3037519974",
+        "subPath": "boost-c038171a340eac748b2d14882f6f79e803d292f4"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/04163ac5d7711a133629a37371e6f1dcef813918.zip",
+        "sha256": "e271411432eeb1624c82fccdb7524eed7cbdc149601232eda424de6bbbdf9163",
+        "subPath": "boost-04163ac5d7711a133629a37371e6f1dcef813918"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/b6009a89491183910053baa9020cda9cc6cd3b42.zip",
+        "sha256": "8d60ca848f21be6bb2890672700384d1b0c7f8d2948446f74fea05c7d396c3a5",
+        "subPath": "boost-b6009a89491183910053baa9020cda9cc6cd3b42"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/1ea8c845e968724851124fc74893ffe86c1b61fe.zip",
+        "sha256": "5552161b512e57f1b9ff616fdc4fa7ba7511ffb4c98ddb36f712fc0b18bdba0f",
+        "subPath": "boost-1ea8c845e968724851124fc74893ffe86c1b61fe"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/7200068b9e79ae392971e7c99f40235a45a74082.zip",
+        "sha256": "adc7621ee4042c28379dcec4597004dc7bd4417f6bc1adbceb5c868809923caf",
+        "subPath": "boost-7200068b9e79ae392971e7c99f40235a45a74082"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/boost/archive/f9f4eb9416bf94f13309423837c25f1b6fdb1455.zip",
+        "sha256": "3464a69750f714e705f71158709fa4f433f4c40b42d203d01db10c74c5e0db5d",
+        "subPath": "boost-f9f4eb9416bf94f13309423837c25f1b6fdb1455"
+      }
+    }
+  }
+}

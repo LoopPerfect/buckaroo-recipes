@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/4980fe2a87ead3b2e8260aed6e9c8835266cd5d7.zip",
+        "sha256": "832601a62d7a193df6d7db46128d89f4b753fd0b760e403e107c1a7106f8559d",
+        "subPath": "disjoint_sets-4980fe2a87ead3b2e8260aed6e9c8835266cd5d7"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/4980fe2a87ead3b2e8260aed6e9c8835266cd5d7.zip",
+        "sha256": "832601a62d7a193df6d7db46128d89f4b753fd0b760e403e107c1a7106f8559d",
+        "subPath": "disjoint_sets-4980fe2a87ead3b2e8260aed6e9c8835266cd5d7"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/4980fe2a87ead3b2e8260aed6e9c8835266cd5d7.zip",
+        "sha256": "832601a62d7a193df6d7db46128d89f4b753fd0b760e403e107c1a7106f8559d",
+        "subPath": "disjoint_sets-4980fe2a87ead3b2e8260aed6e9c8835266cd5d7"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/4980fe2a87ead3b2e8260aed6e9c8835266cd5d7.zip",
+        "sha256": "832601a62d7a193df6d7db46128d89f4b753fd0b760e403e107c1a7106f8559d",
+        "subPath": "disjoint_sets-4980fe2a87ead3b2e8260aed6e9c8835266cd5d7"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/4980fe2a87ead3b2e8260aed6e9c8835266cd5d7.zip",
+        "sha256": "832601a62d7a193df6d7db46128d89f4b753fd0b760e403e107c1a7106f8559d",
+        "subPath": "disjoint_sets-4980fe2a87ead3b2e8260aed6e9c8835266cd5d7"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/b4513b7e440bfad22bacc1230b854884d63581c5.zip",
+        "sha256": "f45eb25d32b7b322127753b3b67b578d42165d6a88e85142ba1c63c68690b6b9",
+        "subPath": "disjoint_sets-b4513b7e440bfad22bacc1230b854884d63581c5"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/b4513b7e440bfad22bacc1230b854884d63581c5.zip",
+        "sha256": "f45eb25d32b7b322127753b3b67b578d42165d6a88e85142ba1c63c68690b6b9",
+        "subPath": "disjoint_sets-b4513b7e440bfad22bacc1230b854884d63581c5"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/18f222d261c66bf48a0d80b3b37732dbe785d2f1.zip",
+        "sha256": "722570643f172e8b8e70e6d73075f45acdf7622a59e743cbb3108a5f1ef6a775",
+        "subPath": "disjoint_sets-18f222d261c66bf48a0d80b3b37732dbe785d2f1"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/18f222d261c66bf48a0d80b3b37732dbe785d2f1.zip",
+        "sha256": "722570643f172e8b8e70e6d73075f45acdf7622a59e743cbb3108a5f1ef6a775",
+        "subPath": "disjoint_sets-18f222d261c66bf48a0d80b3b37732dbe785d2f1"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/18f222d261c66bf48a0d80b3b37732dbe785d2f1.zip",
+        "sha256": "722570643f172e8b8e70e6d73075f45acdf7622a59e743cbb3108a5f1ef6a775",
+        "subPath": "disjoint_sets-18f222d261c66bf48a0d80b3b37732dbe785d2f1"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/18f222d261c66bf48a0d80b3b37732dbe785d2f1.zip",
+        "sha256": "722570643f172e8b8e70e6d73075f45acdf7622a59e743cbb3108a5f1ef6a775",
+        "subPath": "disjoint_sets-18f222d261c66bf48a0d80b3b37732dbe785d2f1"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/18f222d261c66bf48a0d80b3b37732dbe785d2f1.zip",
+        "sha256": "722570643f172e8b8e70e6d73075f45acdf7622a59e743cbb3108a5f1ef6a775",
+        "subPath": "disjoint_sets-18f222d261c66bf48a0d80b3b37732dbe785d2f1"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/18f222d261c66bf48a0d80b3b37732dbe785d2f1.zip",
+        "sha256": "722570643f172e8b8e70e6d73075f45acdf7622a59e743cbb3108a5f1ef6a775",
+        "subPath": "disjoint_sets-18f222d261c66bf48a0d80b3b37732dbe785d2f1"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/fbe942a0ddbb37f5a0bae9ac8a3f983dfc7ff58b.zip",
+        "sha256": "d3097bccce43e914bfffb6d22acc1752b9da7ae23318dababa0b52e01c82d18c",
+        "subPath": "disjoint_sets-fbe942a0ddbb37f5a0bae9ac8a3f983dfc7ff58b"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/bef8dcf61cbcd31d1bf0b13dc62de1a9dc4dda6f.zip",
+        "sha256": "3c3aaa782052629fd5888263d6858c8d17c29cc9b2523cfdc58a6f463dfce20b",
+        "subPath": "disjoint_sets-bef8dcf61cbcd31d1bf0b13dc62de1a9dc4dda6f"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/1b71f92c984cdb2bce0ad457ab6cc0e60659d683.zip",
+        "sha256": "475e62c49bade15efc2969b37581271b9e03602098b87ab08b9661dbee19ee4c",
+        "subPath": "disjoint_sets-1b71f92c984cdb2bce0ad457ab6cc0e60659d683"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/8c70602a78edbac95675487ea9cdff573406dc96.zip",
+        "sha256": "45188239a9a2c5e1152be4c2b4dd979dac3cfdbc1905082cf64a9b6b608808ab",
+        "subPath": "disjoint_sets-8c70602a78edbac95675487ea9cdff573406dc96"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/889fbd02a78934890bd084758167387aea12bc74.zip",
+        "sha256": "8411a95c594d0b35a040e78e57352947f9e554de862624de936b7b53fbabd0f0",
+        "subPath": "disjoint_sets-889fbd02a78934890bd084758167387aea12bc74"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/d1a8b69bb623769f1663d2a41b9cb81ca8b63dfe.zip",
+        "sha256": "6f87026928444e59c2a8b44633d3d6a9e33743ad80f832add4ba99959cf3fa56",
+        "subPath": "disjoint_sets-d1a8b69bb623769f1663d2a41b9cb81ca8b63dfe"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/48eab0ab7a0e95a59e2951a9fdd73a6a3241c5c1.zip",
+        "sha256": "79a648674b55003973b8f0f683107747649d2e032c6383aa1667a77a43e8fecd",
+        "subPath": "disjoint_sets-48eab0ab7a0e95a59e2951a9fdd73a6a3241c5c1"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/4fc09b9bf5e257395e509d587c5c2dacad708bad.zip",
+        "sha256": "d9df775eacb271a61d7a51b6901b3e7e78deb374d10d95f5031718726df8c615",
+        "subPath": "disjoint_sets-4fc09b9bf5e257395e509d587c5c2dacad708bad"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/8ae10f560be516a9878ec35bfdb98e30ce13c23f.zip",
+        "sha256": "42ac5ec238a4319d33052c58e645917608ec14e088875c1e43496345d269a76e",
+        "subPath": "disjoint_sets-8ae10f560be516a9878ec35bfdb98e30ce13c23f"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/disjoint_sets/archive/71a953b21ea0ac992754ee35b99fb625e9446378.zip",
+        "sha256": "1d7bcd159c79fed3d467f73f0bb19c61f4b86b2c7aa7fe1979fd90d36f27fbb0",
+        "subPath": "disjoint_sets-71a953b21ea0ac992754ee35b99fb625e9446378"
+      }
+    }
+  }
+}

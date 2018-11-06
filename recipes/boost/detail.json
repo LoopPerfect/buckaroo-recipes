@@ -7,6 +7,66 @@
     "project": "detail"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/824721a7533de893338ed5bbc8e8d9f4fb1ad716.zip",
+        "sha256": "d131949b5f7ad38eb38d8def39cc33e66563b8b377fd149909af694056d56496",
+        "subPath": "detail-824721a7533de893338ed5bbc8e8d9f4fb1ad716"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/40b75dae5f992b5b4ac86528e34a9209fb39fc7c.zip",
+        "sha256": "44644ce2f378ccfc7cb7afc271f2358a5b18eac0a2efdea235697564df80863f",
+        "subPath": "detail-40b75dae5f992b5b4ac86528e34a9209fb39fc7c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/6c111975865d112c11101ef8221695cc4cd57562.zip",
+        "sha256": "db4289b0aefdf338e7743aecb2a299811b882fc1d2e065a3aff377ab3adc333d",
+        "subPath": "detail-6c111975865d112c11101ef8221695cc4cd57562"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/6c111975865d112c11101ef8221695cc4cd57562.zip",
+        "sha256": "db4289b0aefdf338e7743aecb2a299811b882fc1d2e065a3aff377ab3adc333d",
+        "subPath": "detail-6c111975865d112c11101ef8221695cc4cd57562"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/6c111975865d112c11101ef8221695cc4cd57562.zip",
+        "sha256": "db4289b0aefdf338e7743aecb2a299811b882fc1d2e065a3aff377ab3adc333d",
+        "subPath": "detail-6c111975865d112c11101ef8221695cc4cd57562"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/detail/archive/6c111975865d112c11101ef8221695cc4cd57562.zip",
@@ -16,7 +76,212 @@
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
         "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
-      }
+      },
+      "dependencies": {}
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/94f1e6b0c62dbcbac64a20d7a8df3a4f18e75027.zip",
+        "sha256": "6d7e27f842b46e60c5bb9a42daf937941ee13f51b35e3c311f0ead5444c5df53",
+        "subPath": "detail-94f1e6b0c62dbcbac64a20d7a8df3a4f18e75027"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/e9c548eeb513a081e8dc34306821c3e1135c7573.zip",
+        "sha256": "79a37aad5366e146d6b2a59d6409699f46b03ed0eae3c9a46bdd2a96fdd9125f",
+        "subPath": "detail-e9c548eeb513a081e8dc34306821c3e1135c7573"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/b0a2809915964f504adfad818794fc418a2e39e9.zip",
+        "sha256": "d10dd43edc4dccf2ed3b0bccbd7cc938f8c1ae4d463663fe422c61c660e3435c",
+        "subPath": "detail-b0a2809915964f504adfad818794fc418a2e39e9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/678a7ed98b8dea48bc682de7f609f53de9046492.zip",
+        "sha256": "8cf23be9bc7013212a81f0301f25b160d311544c545228c3b0f1d3635e9113ce",
+        "subPath": "detail-678a7ed98b8dea48bc682de7f609f53de9046492"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/678a7ed98b8dea48bc682de7f609f53de9046492.zip",
+        "sha256": "8cf23be9bc7013212a81f0301f25b160d311544c545228c3b0f1d3635e9113ce",
+        "subPath": "detail-678a7ed98b8dea48bc682de7f609f53de9046492"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/275643c97bec7c31bba1b80741e4d1ab0b8de33f.zip",
+        "sha256": "faf05c3141b5fa3126ef351421e7386118e8f9607fc574c6de1269b2e577ba82",
+        "subPath": "detail-275643c97bec7c31bba1b80741e4d1ab0b8de33f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/275643c97bec7c31bba1b80741e4d1ab0b8de33f.zip",
+        "sha256": "faf05c3141b5fa3126ef351421e7386118e8f9607fc574c6de1269b2e577ba82",
+        "subPath": "detail-275643c97bec7c31bba1b80741e4d1ab0b8de33f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/ba9c13340f5447a3e8fb22c26f7b8a90d7817696.zip",
+        "sha256": "d32066f17d42e46d67eee3e1a53fef860bdc9439e2ffb4e5fd682b07a0752160",
+        "subPath": "detail-ba9c13340f5447a3e8fb22c26f7b8a90d7817696"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/e2bb79b1c22fc4010a17c074c1c64cb533b93a08.zip",
+        "sha256": "c078b6d0306c26316ab256f42348a9703a3326240ae116970f47de46f19b647b",
+        "subPath": "detail-e2bb79b1c22fc4010a17c074c1c64cb533b93a08"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/d3bc63b1daa75a6809264497403c08bddde372a1.zip",
+        "sha256": "5eb7ab2d2de48d047f60f46c8f18357ac78e17efb22979e8210742d668b0d663",
+        "subPath": "detail-d3bc63b1daa75a6809264497403c08bddde372a1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/b29b1b764cff2b84d724defa72dd396098970085.zip",
+        "sha256": "7eae1cb888526c939504d7680c0d9e6d9a3eada76b094946688f6f8599ee0734",
+        "subPath": "detail-b29b1b764cff2b84d724defa72dd396098970085"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/24def82ada941fde0ba0c95b8c50570257aaf561.zip",
+        "sha256": "0b644b86f78e550d020a165ceb546d0b68c391b7703eb8b3f23cd46bd23a4b46",
+        "subPath": "detail-24def82ada941fde0ba0c95b8c50570257aaf561"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/43300f4c06f48044aea7092d3bd67f3e4a27a8ae.zip",
+        "sha256": "3402059e6daf771906a04a5df347f24674937664f723bb80009a0c2d1d3e512d",
+        "subPath": "detail-43300f4c06f48044aea7092d3bd67f3e4a27a8ae"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/e75c702370b7ccfdfe1215f1ab42be1bd434a275.zip",
+        "sha256": "77c0790d87609fde55603ce9e573fb78d8b02cbd9e8c65a0ed287342a08c5787",
+        "subPath": "detail-e75c702370b7ccfdfe1215f1ab42be1bd434a275"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/c8813a02b599178f48c5990e9d6715579f068690.zip",
+        "sha256": "dfb2eee82effec74ae7db6655c08cd1cde96a37f62f7b429d3618b7565703f26",
+        "subPath": "detail-c8813a02b599178f48c5990e9d6715579f068690"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/992804a84d94883baae331ec64b83146d1e76647.zip",
+        "sha256": "4011f488c23e59baa946b0a2dc12f2e1ff489be78ff02af564f6075ebe478751",
+        "subPath": "detail-992804a84d94883baae331ec64b83146d1e76647"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/detail/archive/c27f5ed29c94b19056b5f5b73dd632b5f44f1874.zip",
+        "sha256": "6e8029a6f19298c518384ef68d75f7130e2cdf49d26ae0cc4ddce26df3abe5ad",
+        "subPath": "detail-c27f5ed29c94b19056b5f5b73dd632b5f44f1874"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/detail/0d5c7120bcb00ac1fb9f9946878d106add5981cf/BUCK",
+        "sha256": "1b1a62ae5207f500f08d92b622ecf5b613540d0709f25429de3816c7082c99e7"
+      },
+      "dependencies": {}
     }
   }
 }

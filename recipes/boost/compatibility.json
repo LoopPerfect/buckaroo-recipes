@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/445fbc1633cbaf49b0c3310db95a642e9c3fe89b.zip",
+        "sha256": "9ccce5346af901eb031cfc9d8e80432a838e2cddf07853959d457290715321ae",
+        "subPath": "compatibility-445fbc1633cbaf49b0c3310db95a642e9c3fe89b"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/c26ab9dad20c9e5a7296b3237f4752014769d232.zip",
+        "sha256": "08a0da036eb6e06b6eb57036deffa132cfdf31a85679729953fdee3a9638d1c4",
+        "subPath": "compatibility-c26ab9dad20c9e5a7296b3237f4752014769d232"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/c26ab9dad20c9e5a7296b3237f4752014769d232.zip",
+        "sha256": "08a0da036eb6e06b6eb57036deffa132cfdf31a85679729953fdee3a9638d1c4",
+        "subPath": "compatibility-c26ab9dad20c9e5a7296b3237f4752014769d232"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/fb74e55a453f4158202f601ece22da88e916146b.zip",
+        "sha256": "d728de112af435abd663453983cb50f117a12795a5f843130f5d89449a272108",
+        "subPath": "compatibility-fb74e55a453f4158202f601ece22da88e916146b"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/fdd2d54b8ed98b23ba3a999c92207c3eadc5bec6.zip",
+        "sha256": "053d8fcd8a32196127321aad0eb26112a31d86dfaf431de2fd923266f3a174c3",
+        "subPath": "compatibility-fdd2d54b8ed98b23ba3a999c92207c3eadc5bec6"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/7473ca7be9684db212c0334af399906fead4875a.zip",
+        "sha256": "741898740c68ad03c4869cedac0ecf5935c3043188bcf997e2789cb605eaf5d0",
+        "subPath": "compatibility-7473ca7be9684db212c0334af399906fead4875a"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/2197281adf0c8318088f96d5c22c4c56bf3b2b91.zip",
+        "sha256": "16b05316b8cbb0638fccabafce4d574c366f79aeba8e9f42fdb2a6225b1cffd7",
+        "subPath": "compatibility-2197281adf0c8318088f96d5c22c4c56bf3b2b91"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/3e86fa045131968da3cb7942422d8ffca6c1e02c.zip",
+        "sha256": "fe1bf96018f343236150b87f43d04568d23afce08c8b44809c68e4fda353cd7c",
+        "subPath": "compatibility-3e86fa045131968da3cb7942422d8ffca6c1e02c"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/595b6af5e6bc18fbcf4777db9cef9917c051a003.zip",
+        "sha256": "7f3988c658c8cf0e5497f72f281c266a3cddff29840e80dee4bf129c675d5220",
+        "subPath": "compatibility-595b6af5e6bc18fbcf4777db9cef9917c051a003"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/ccd9d179928f6078d534bfd98f41ad71b73b9404.zip",
+        "sha256": "df9bd4a7018cf06cc336c9522adfb28328de9348f062dbfd3750bf07ae948588",
+        "subPath": "compatibility-ccd9d179928f6078d534bfd98f41ad71b73b9404"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/3ae684519911047e6dee1cab3bb36a56c933840f.zip",
+        "sha256": "9dd51609e7fc6b2b4ae5b9c96c81bb563ce5e981cfb6cca0f08b3808278689c0",
+        "subPath": "compatibility-3ae684519911047e6dee1cab3bb36a56c933840f"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/09fbb5fdb1d317a9f77130ab8787f58653168d83.zip",
+        "sha256": "bd91ba478763b7fab46190705474f34fee83047885e14e4f5feda0fe4c42385e",
+        "subPath": "compatibility-09fbb5fdb1d317a9f77130ab8787f58653168d83"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compatibility/archive/7b13e1089960e2bf28d661bb47f488b17808a4b4.zip",
+        "sha256": "7ee8f72f09321d2eec60e8ff64b37c41debeca752902df18fcafa82f039076d4",
+        "subPath": "compatibility-7b13e1089960e2bf28d661bb47f488b17808a4b4"
+      }
+    }
+  }
+}

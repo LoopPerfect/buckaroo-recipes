@@ -1,0 +1,68 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/metaparse/archive/1cb74cdbe1b989a576b0b8f7fe34151562840797.zip",
+        "sha256": "1bc24062a1aa9fae7a0473e4174496bf775ed6ad3ae0cb07901dc44ffa7695cb",
+        "subPath": "metaparse-1cb74cdbe1b989a576b0b8f7fe34151562840797"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/metaparse/archive/1cb74cdbe1b989a576b0b8f7fe34151562840797.zip",
+        "sha256": "1bc24062a1aa9fae7a0473e4174496bf775ed6ad3ae0cb07901dc44ffa7695cb",
+        "subPath": "metaparse-1cb74cdbe1b989a576b0b8f7fe34151562840797"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/metaparse/archive/33c28e770d099bf7e7db99c7eb5f51f8204247b0.zip",
+        "sha256": "81e0bfd5a22b86c2e038d5d4bb571478c380ecadb438431303f46038925fdd4e",
+        "subPath": "metaparse-33c28e770d099bf7e7db99c7eb5f51f8204247b0"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/metaparse/archive/33c28e770d099bf7e7db99c7eb5f51f8204247b0.zip",
+        "sha256": "81e0bfd5a22b86c2e038d5d4bb571478c380ecadb438431303f46038925fdd4e",
+        "subPath": "metaparse-33c28e770d099bf7e7db99c7eb5f51f8204247b0"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/metaparse/archive/c822fae8cbdf6a886b9b244a1b34aaf481da9df8.zip",
+        "sha256": "b3eaa329d91f77fafb78ac908bcf257960e6080ce245bb7c4fa657df81e601f1",
+        "subPath": "metaparse-c822fae8cbdf6a886b9b244a1b34aaf481da9df8"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/metaparse/archive/c822fae8cbdf6a886b9b244a1b34aaf481da9df8.zip",
+        "sha256": "b3eaa329d91f77fafb78ac908bcf257960e6080ce245bb7c4fa657df81e601f1",
+        "subPath": "metaparse-c822fae8cbdf6a886b9b244a1b34aaf481da9df8"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/metaparse/archive/a5f40ce5e6f42aa9118788987499716febe3dc56.zip",
+        "sha256": "7fc605a1403eee3b5d98cc3c9c3e16eda837e50532d36e53f3dd6a30adc66a71",
+        "subPath": "metaparse-a5f40ce5e6f42aa9118788987499716febe3dc56"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/metaparse/archive/a5f40ce5e6f42aa9118788987499716febe3dc56.zip",
+        "sha256": "7fc605a1403eee3b5d98cc3c9c3e16eda837e50532d36e53f3dd6a30adc66a71",
+        "subPath": "metaparse-a5f40ce5e6f42aa9118788987499716febe3dc56"
+      }
+    }
+  }
+}

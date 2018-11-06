@@ -7,6 +7,141 @@
     "project": "variant"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/98b5d42e6d8fc188c40a56aa3a558bed595ee643.zip",
+        "sha256": "83948720872d110b3c5768b911852c0f253bce01a60dcdf4405b7821f0c1245a",
+        "subPath": "variant-98b5d42e6d8fc188c40a56aa3a558bed595ee643"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/functional": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/bind": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/throw-exception": "1.67.0",
+        "boost/type-index": "1.67.0",
+        "boost/math": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/8c043e1135f40a0eb5ecab3787ce44d8a13cec9e.zip",
+        "sha256": "40ac06fe334b583814c236d8f25baa86552bd87838d86e9ac9785d1e57b0cb5a",
+        "subPath": "variant-8c043e1135f40a0eb5ecab3787ce44d8a13cec9e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/functional": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/bind": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/throw-exception": "1.66.0",
+        "boost/type-index": "1.66.0",
+        "boost/math": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/0fad382bb00268f24bf3c90b089181501085fdc3.zip",
+        "sha256": "0f2a9ecbd806cb9ed79f4e5b7c4dce2b091ede1cbf6db57de48e8388b9349309",
+        "subPath": "variant-0fad382bb00268f24bf3c90b089181501085fdc3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/functional": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/bind": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/throw-exception": "1.65.1",
+        "boost/type-index": "1.65.1",
+        "boost/math": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/0fad382bb00268f24bf3c90b089181501085fdc3.zip",
+        "sha256": "0f2a9ecbd806cb9ed79f4e5b7c4dce2b091ede1cbf6db57de48e8388b9349309",
+        "subPath": "variant-0fad382bb00268f24bf3c90b089181501085fdc3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/functional": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/bind": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/throw-exception": "1.65.0",
+        "boost/type-index": "1.65.0",
+        "boost/math": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/fc7a665272dfc12a7db27aaa90682438700848f5.zip",
+        "sha256": "50124c5ee41f023887acba81cee613ed9990ad8ff57f65c0af9d5e2de347b44f",
+        "subPath": "variant-fc7a665272dfc12a7db27aaa90682438700848f5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/functional": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/bind": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/throw-exception": "1.64.0",
+        "boost/type-index": "1.64.0",
+        "boost/math": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/variant/archive/34036da7dc78ba95430e65f314df4787ace19a4f.zip",
@@ -32,6 +167,465 @@
         "boost/throw-exception": "1.63.0",
         "boost/type-index": "1.63.0",
         "boost/math": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/fac387ae38ccfe38b76840d2fffaeac6a56fd36e.zip",
+        "sha256": "8a2ea3035b728b1e22aef6327fca4a77c16689d4fedfae3a923ca3b0883f7956",
+        "subPath": "variant-fac387ae38ccfe38b76840d2fffaeac6a56fd36e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/functional": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/bind": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/throw-exception": "1.62.0",
+        "boost/type-index": "1.62.0",
+        "boost/math": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/464cca5bfa3cba0db0bfce77d82f6dcf6827f416.zip",
+        "sha256": "30d1112ff9950b12281108c21d0332191495ca01bce58da022f92ad03daff3e0",
+        "subPath": "variant-464cca5bfa3cba0db0bfce77d82f6dcf6827f416"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/functional": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/bind": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/throw-exception": "1.61.0",
+        "boost/type-index": "1.61.0",
+        "boost/math": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/98072751406cd4e648db696b1ec456145330bf02.zip",
+        "sha256": "2ac60c2a089438b0073fa33c2edf04f1e526a699580d06556a3b456c8c4c23e7",
+        "subPath": "variant-98072751406cd4e648db696b1ec456145330bf02"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/functional": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/bind": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/throw-exception": "1.60.0",
+        "boost/type-index": "1.60.0",
+        "boost/math": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/1de9d246c082e2180cb5c911d33137a5a560c8a6.zip",
+        "sha256": "d39e484ce37754877b556177fef6abd53d3f39ae80053ba4c4446f8fc8f0d71d",
+        "subPath": "variant-1de9d246c082e2180cb5c911d33137a5a560c8a6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/functional": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/bind": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/throw-exception": "1.59.0",
+        "boost/type-index": "1.59.0",
+        "boost/math": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/5c9b7b010561bce3189984823569b16f9778723d.zip",
+        "sha256": "4a6d8c72e3181a964222a369fc80b00addc54faf2bc40cc3fd660e38c447f91e",
+        "subPath": "variant-5c9b7b010561bce3189984823569b16f9778723d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/functional": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/bind": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/throw-exception": "1.58.0",
+        "boost/type-index": "1.58.0",
+        "boost/math": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/ed614a626031c6d99051f13e6e566261119a7f66.zip",
+        "sha256": "3e571b7fe1d7f97a61e73a05309e3cee5c5566e09027e266358c5277149c40c7",
+        "subPath": "variant-ed614a626031c6d99051f13e6e566261119a7f66"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/functional": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/bind": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/throw-exception": "1.57.0",
+        "boost/type-index": "1.57.0",
+        "boost/math": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/65dae1db5a6cb29b4218e1a582bbbadf62897f59.zip",
+        "sha256": "0a862924f64eb51cfc52c3949619b08221956f4362976da3a7812d3a62fbf085",
+        "subPath": "variant-65dae1db5a6cb29b4218e1a582bbbadf62897f59"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/functional": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/bind": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/throw-exception": "1.56.0",
+        "boost/type-index": "1.56.0",
+        "boost/math": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/e375806eeaf0d19e1c9f21ec8cac8b11f64a3098.zip",
+        "sha256": "89ea33244cc234256f642e0f54f1d0788fa0e443b27c14e28420edc2b0d46843",
+        "subPath": "variant-e375806eeaf0d19e1c9f21ec8cac8b11f64a3098"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/functional": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/bind": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/throw-exception": "1.55.0",
+        "boost/type-index": "1.55.0",
+        "boost/math": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/be1b0f5e3162a8dacaed7b6df612c607dd84ca64.zip",
+        "sha256": "a412e714a86dfe086bca0b9132b8715ed22886d136272e10c769790861a2ae95",
+        "subPath": "variant-be1b0f5e3162a8dacaed7b6df612c607dd84ca64"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/functional": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/bind": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/throw-exception": "1.54.0",
+        "boost/type-index": "1.54.0",
+        "boost/math": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/3de4fd2fb16ed32d03819ae5ac576f66a71e9503.zip",
+        "sha256": "c473a3c2ff6e4bd89b8f64eb4650ca3b357b8aa34e41752dd788183197da4e29",
+        "subPath": "variant-3de4fd2fb16ed32d03819ae5ac576f66a71e9503"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/functional": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/bind": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/throw-exception": "1.53.0",
+        "boost/type-index": "1.53.0",
+        "boost/math": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/ed3c6085bbca16d4400b5a1065f78cf8c27660d7.zip",
+        "sha256": "c6b520ca376584ed99ea565cd758ecdc71f0a0a4bcd6bd9dbd109a5219a19695",
+        "subPath": "variant-ed3c6085bbca16d4400b5a1065f78cf8c27660d7"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/functional": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/bind": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/throw-exception": "1.52.0",
+        "boost/type-index": "1.52.0",
+        "boost/math": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/4ede293eb9935d5d89b2db8270f712e74b23a831.zip",
+        "sha256": "0a83f671e5cf2fa349a8beb39952e2ddcfc4b427d567ac0fd1732e2f843e56ed",
+        "subPath": "variant-4ede293eb9935d5d89b2db8270f712e74b23a831"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/functional": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/bind": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/throw-exception": "1.51.0",
+        "boost/type-index": "1.51.0",
+        "boost/math": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/32081f413eb8a0a1f038498c210bd7741e0e6e04.zip",
+        "sha256": "115cd4c0dae65d7ac5a786589184753a841184df038856e710c3d0c63aacb064",
+        "subPath": "variant-32081f413eb8a0a1f038498c210bd7741e0e6e04"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/functional": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/bind": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/throw-exception": "1.50.0",
+        "boost/type-index": "1.50.0",
+        "boost/math": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/8eb1de1f169d1132cc1b3830d3e7ce730ed6787c.zip",
+        "sha256": "9a479eaeb54bd89dff035240fbcf5267a3b15bab8f13a62c2dfbcc69940af004",
+        "subPath": "variant-8eb1de1f169d1132cc1b3830d3e7ce730ed6787c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/functional": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/bind": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/throw-exception": "1.49.0",
+        "boost/type-index": "1.49.0",
+        "boost/math": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/4d3055a17746e164f3516ef8dc95ec13419276e0.zip",
+        "sha256": "df5d281b08a4a6c315c0d5588bbfdb71354859b527a3388eb74df68149125b51",
+        "subPath": "variant-4d3055a17746e164f3516ef8dc95ec13419276e0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/functional": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/bind": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/throw-exception": "1.48.0",
+        "boost/type-index": "1.48.0",
+        "boost/math": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/1362201603c2428eb3a4fc9e68b5b87fc361cb9a.zip",
+        "sha256": "9434795f9a38bd9e0c389f07456a29cd82cff0b12aa22ead7089b18afc63b4d4",
+        "subPath": "variant-1362201603c2428eb3a4fc9e68b5b87fc361cb9a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/functional": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/bind": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/throw-exception": "1.47.0",
+        "boost/type-index": "1.47.0",
+        "boost/math": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/variant/archive/4abbae25063ab44b9860234665f6ca07c78e39ea.zip",
+        "sha256": "6c41e50deede841ecef24e68fd90168f65322e80c726adcfbd3b5286b0984875",
+        "subPath": "variant-4abbae25063ab44b9860234665f6ca07c78e39ea"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/variant/94433f6c0b263357108770a633da028af75b2cc6/BUCK",
+        "sha256": "a65303a7cb251146f35f25baa4e582c4543543e9ac65b30483c328e981530a5e"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/functional": "1.46.1",
+        "boost/preprocessor": "1.46.1",
+        "boost/bind": "1.46.1",
+        "boost/static-assert": "1.46.1",
+        "boost/throw-exception": "1.46.1",
+        "boost/type-index": "1.46.1",
+        "boost/math": "1.46.1"
       }
     }
   }

@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/5e5f789672102e144b1268dce140c2e5fefa3c12.zip",
+        "sha256": "016fb97cd74a9c0af321e05e1d0061f3a064837b19eeed26efe92a503b61f548",
+        "subPath": "mpi-5e5f789672102e144b1268dce140c2e5fefa3c12"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/afdb09d375814087d1fb20f37bc3729eaa61e5d2.zip",
+        "sha256": "c9e2304c6c8fa4f20137d4ec48cd5b13c79064a1f64aa302707e821ee1cace56",
+        "subPath": "mpi-afdb09d375814087d1fb20f37bc3729eaa61e5d2"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/afdb09d375814087d1fb20f37bc3729eaa61e5d2.zip",
+        "sha256": "c9e2304c6c8fa4f20137d4ec48cd5b13c79064a1f64aa302707e821ee1cace56",
+        "subPath": "mpi-afdb09d375814087d1fb20f37bc3729eaa61e5d2"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/afdb09d375814087d1fb20f37bc3729eaa61e5d2.zip",
+        "sha256": "c9e2304c6c8fa4f20137d4ec48cd5b13c79064a1f64aa302707e821ee1cace56",
+        "subPath": "mpi-afdb09d375814087d1fb20f37bc3729eaa61e5d2"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/1877e3947babe957ad83ea14f2bd405e1955247f.zip",
+        "sha256": "e96c2aedc10a68fe1b7821410e1c5a9eed1ef64572ae88c98aa83084b183cc20",
+        "subPath": "mpi-1877e3947babe957ad83ea14f2bd405e1955247f"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/1877e3947babe957ad83ea14f2bd405e1955247f.zip",
+        "sha256": "e96c2aedc10a68fe1b7821410e1c5a9eed1ef64572ae88c98aa83084b183cc20",
+        "subPath": "mpi-1877e3947babe957ad83ea14f2bd405e1955247f"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/8b73e340f01f734451b9ad04c2c3f44c05b516c9.zip",
+        "sha256": "e383e49fa13bfb626d46c020742ec5051f91d8709ad77b5c6dd00a4e704b4e23",
+        "subPath": "mpi-8b73e340f01f734451b9ad04c2c3f44c05b516c9"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/754f89c87bd2e6a1139f31504a15d986fa6685b2.zip",
+        "sha256": "1b1f4d82801b4d526b08b6fd732eab4541e4955642eedf72c436bc17fbdc8121",
+        "subPath": "mpi-754f89c87bd2e6a1139f31504a15d986fa6685b2"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/c85ec97d9c0dcee1c10341326621e8355ab7ee33.zip",
+        "sha256": "a980bc2a44ba44f90c481e0a81a50295314cc89cdc15f63adae547a9a0e8f828",
+        "subPath": "mpi-c85ec97d9c0dcee1c10341326621e8355ab7ee33"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/772337fa4749d5de7699842b6dae603f83d70db5.zip",
+        "sha256": "e1ec6d2d5c19462777cb6c13c7f211a823d410db5968dc4c62509839b81d8c8b",
+        "subPath": "mpi-772337fa4749d5de7699842b6dae603f83d70db5"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/cab4a799630099f7b69265a6620ca4a48624c6a5.zip",
+        "sha256": "93ddc4df65e3cbde8f232e9d1e6e18d5f434493bde2876ecbb2e0ce72f3c50f9",
+        "subPath": "mpi-cab4a799630099f7b69265a6620ca4a48624c6a5"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/cab4a799630099f7b69265a6620ca4a48624c6a5.zip",
+        "sha256": "93ddc4df65e3cbde8f232e9d1e6e18d5f434493bde2876ecbb2e0ce72f3c50f9",
+        "subPath": "mpi-cab4a799630099f7b69265a6620ca4a48624c6a5"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/cab4a799630099f7b69265a6620ca4a48624c6a5.zip",
+        "sha256": "93ddc4df65e3cbde8f232e9d1e6e18d5f434493bde2876ecbb2e0ce72f3c50f9",
+        "subPath": "mpi-cab4a799630099f7b69265a6620ca4a48624c6a5"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/646eb7eba6425c65b17156e645ad321681952146.zip",
+        "sha256": "9a9e9bb1d750a5bc693de26e7751ef6e03df3620963bf6f5208b416f6eff846a",
+        "subPath": "mpi-646eb7eba6425c65b17156e645ad321681952146"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/ccc2e43db7852b8f65f02f3e2e6bd4a63e484294.zip",
+        "sha256": "99d12408bef6682982ea6dc374a50beb0b2f3ab6dea8aed9a743da5731179151",
+        "subPath": "mpi-ccc2e43db7852b8f65f02f3e2e6bd4a63e484294"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/994112cfe15a6397549138f37c4bb164cc4c944e.zip",
+        "sha256": "40a6c9e328170c914e73150bdb2c724532c47a45572b874d84a93a5954c5cf40",
+        "subPath": "mpi-994112cfe15a6397549138f37c4bb164cc4c944e"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/5c3117f3bbea37b3028a49ffbb9d707b4149aacf.zip",
+        "sha256": "bcf9a8c08029b5c7426b3b5d7fff89319e5d20bd1fa079bff214d90acb78b9c7",
+        "subPath": "mpi-5c3117f3bbea37b3028a49ffbb9d707b4149aacf"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/1846207ff49a3817d08cd4fc0f267abed3026170.zip",
+        "sha256": "edc57b7afbb2251c248b7338a0a92cedfb2b594aef94493972f1073f6e799a85",
+        "subPath": "mpi-1846207ff49a3817d08cd4fc0f267abed3026170"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/2b1a70cea43fd186f687b18d9f0ea12ac65d106b.zip",
+        "sha256": "7fe0c35410761413acc17003ac51183d1ef097ee6e588805faf4028c00f5a097",
+        "subPath": "mpi-2b1a70cea43fd186f687b18d9f0ea12ac65d106b"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/78884901c28070cb9d0a989007e1f5b6e97a267f.zip",
+        "sha256": "d8eeeea99ec50390e916fdda5e53d675626393c76c54f9e09cc3ca27802d7786",
+        "subPath": "mpi-78884901c28070cb9d0a989007e1f5b6e97a267f"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/e3603c9742519620426b9f9174e7490c84740d4c.zip",
+        "sha256": "18a705d74089492ec3e8893c0918b76157a72d4c8f3f1952dd0d60db6aba7a02",
+        "subPath": "mpi-e3603c9742519620426b9f9174e7490c84740d4c"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/5e783c0fc90350aa92637a77d27f808f5f1183de.zip",
+        "sha256": "aba38421bd19711d791b99e6c7cd0482f7d9e60b48dc77ca25fab03f0de835e9",
+        "subPath": "mpi-5e783c0fc90350aa92637a77d27f808f5f1183de"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mpi/archive/c18a9b8343f2a9aef752106c8733d00dea5a7261.zip",
+        "sha256": "6bca41ef17d32cef8bfce43773d66dfe156fec3198c4df083837efc5a74be6ef",
+        "subPath": "mpi-c18a9b8343f2a9aef752106c8733d00dea5a7261"
+      }
+    }
+  }
+}

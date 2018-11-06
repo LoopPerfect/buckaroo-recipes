@@ -7,6 +7,101 @@
     "project": "tokenizer"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/48965b4d516fc34bda409ff8dd0aababd327aac8.zip",
+        "sha256": "e754c8ee7b4b601329e9d00229592bc32e73f03b4d8af7445264e5951ed33408",
+        "subPath": "tokenizer-48965b4d516fc34bda409ff8dd0aababd327aac8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/throw-exception": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/48965b4d516fc34bda409ff8dd0aababd327aac8.zip",
+        "sha256": "e754c8ee7b4b601329e9d00229592bc32e73f03b4d8af7445264e5951ed33408",
+        "subPath": "tokenizer-48965b4d516fc34bda409ff8dd0aababd327aac8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/throw-exception": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/b994cb1cbee7772a36a41a5d3d0b00dacdf2c390.zip",
+        "sha256": "f5a13e6692bec1d7b5c3f8d45888997b933dcda729dc240e0bd18267dfa15120",
+        "subPath": "tokenizer-b994cb1cbee7772a36a41a5d3d0b00dacdf2c390"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/throw-exception": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/b994cb1cbee7772a36a41a5d3d0b00dacdf2c390.zip",
+        "sha256": "f5a13e6692bec1d7b5c3f8d45888997b933dcda729dc240e0bd18267dfa15120",
+        "subPath": "tokenizer-b994cb1cbee7772a36a41a5d3d0b00dacdf2c390"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/throw-exception": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/8c9e996364852527875ee64d1e5ab59e7ac4b27a.zip",
+        "sha256": "92b6c9de43e9bb31b18c6820dc5ec1f4a864ce4db5c1cddc8aa206c395fda637",
+        "subPath": "tokenizer-8c9e996364852527875ee64d1e5ab59e7ac4b27a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/throw-exception": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/tokenizer/archive/6b83489ede7c2bf25073a05abb62655cd1235e26.zip",
@@ -24,6 +119,329 @@
         "boost/detail": "1.63.0",
         "boost/mpl": "1.63.0",
         "boost/throw-exception": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/6b83489ede7c2bf25073a05abb62655cd1235e26.zip",
+        "sha256": "fcaac674ee2eb68a8b183c17b3f544a41deaf98b1702ac33c0220d292fa9d922",
+        "subPath": "tokenizer-6b83489ede7c2bf25073a05abb62655cd1235e26"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/throw-exception": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/1d204ae9798edf38caf7e6107099c5edff905a3c.zip",
+        "sha256": "6ef908f33121bb0cf120bae0a42c27f83988ca96e48d4f408e973a2418d72576",
+        "subPath": "tokenizer-1d204ae9798edf38caf7e6107099c5edff905a3c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/throw-exception": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/1d204ae9798edf38caf7e6107099c5edff905a3c.zip",
+        "sha256": "6ef908f33121bb0cf120bae0a42c27f83988ca96e48d4f408e973a2418d72576",
+        "subPath": "tokenizer-1d204ae9798edf38caf7e6107099c5edff905a3c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/throw-exception": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/1d204ae9798edf38caf7e6107099c5edff905a3c.zip",
+        "sha256": "6ef908f33121bb0cf120bae0a42c27f83988ca96e48d4f408e973a2418d72576",
+        "subPath": "tokenizer-1d204ae9798edf38caf7e6107099c5edff905a3c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/throw-exception": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/2fa9f44100155bf81c6b75ca3637d9ba6c3e6283.zip",
+        "sha256": "96a250a8f47702284431bfa4b49d77d76bcfa6bd4f116c8dbe78a18d1d8f970e",
+        "subPath": "tokenizer-2fa9f44100155bf81c6b75ca3637d9ba6c3e6283"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/throw-exception": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/80007b57731112392cae6cd0277dd77deaddfc98.zip",
+        "sha256": "086d362bf3d33282df180227394b5b815d629dec3a18ce3c008f1c6150256efd",
+        "subPath": "tokenizer-80007b57731112392cae6cd0277dd77deaddfc98"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/throw-exception": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/80007b57731112392cae6cd0277dd77deaddfc98.zip",
+        "sha256": "086d362bf3d33282df180227394b5b815d629dec3a18ce3c008f1c6150256efd",
+        "subPath": "tokenizer-80007b57731112392cae6cd0277dd77deaddfc98"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/throw-exception": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/035497291e2ac91cc0e43ab973f25d6e24e2474b.zip",
+        "sha256": "591be879abf894f974232ae5e10557d083a878ba4405ada45d62ea3fcff2e668",
+        "subPath": "tokenizer-035497291e2ac91cc0e43ab973f25d6e24e2474b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/throw-exception": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/14023bfe152f187a830c2f1127ae2042322e437c.zip",
+        "sha256": "9f62152dc3113106d6833a94e5ae3122981be194302e858cc23fbf8302e2cf59",
+        "subPath": "tokenizer-14023bfe152f187a830c2f1127ae2042322e437c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/throw-exception": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/2f365934659fc4c315a15371f1feb04899512152.zip",
+        "sha256": "c4d22cbd2271e5f6b5306b4ba96b0824cf11dee5ab6d679c8aadd86f270b380f",
+        "subPath": "tokenizer-2f365934659fc4c315a15371f1feb04899512152"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/throw-exception": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/f7cab3493b5d62dd4b2ea7d25c3d657d39095e05.zip",
+        "sha256": "20e2f9b57b1ba3833431e519470e8a876e63c0d990b28db16e90a9c295f252e0",
+        "subPath": "tokenizer-f7cab3493b5d62dd4b2ea7d25c3d657d39095e05"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/throw-exception": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/5b90f126bba7ef7a440c8a17a8c2dc39fb53413a.zip",
+        "sha256": "502b010b885106377e4245c7fc879dd75b0f3af9618018a1b0a83849ed7fc79b",
+        "subPath": "tokenizer-5b90f126bba7ef7a440c8a17a8c2dc39fb53413a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/throw-exception": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/001474f73cfa6cdf5092d82806a56c166c306424.zip",
+        "sha256": "5012676085d50c3169c4a319aa6d21491de55b4c59d4eafb13789a01b8e59006",
+        "subPath": "tokenizer-001474f73cfa6cdf5092d82806a56c166c306424"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/throw-exception": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/bb926a6177a972179cdbafa6e6cae66497124ed2.zip",
+        "sha256": "054bc0cbfe3459630fcac14c355aec77117df5df676d8ea33d4b0f42ae16f98c",
+        "subPath": "tokenizer-bb926a6177a972179cdbafa6e6cae66497124ed2"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/throw-exception": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/e6503f13c7bd6b876b626f6cdf74adb1bc65ce8e.zip",
+        "sha256": "b32cd5b58ca879b710fd824b3b34a395b637d97ecb343336e06fcb79b2a8d5eb",
+        "subPath": "tokenizer-e6503f13c7bd6b876b626f6cdf74adb1bc65ce8e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/throw-exception": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/740998fa0d5c8d80f47bb0aaef2e3ce1c90e1282.zip",
+        "sha256": "fa8e37cef06661982df84344da2e8cfa4474ec4584243e9e2df152b00d731b38",
+        "subPath": "tokenizer-740998fa0d5c8d80f47bb0aaef2e3ce1c90e1282"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/throw-exception": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/tokenizer/archive/c44fe6ec71f2bdf24cd38a67edf4314411a4a19f.zip",
+        "sha256": "68d772ba7fcccd3e6672118d72fee6764c7ae35974a57370a40f8918532fb416",
+        "subPath": "tokenizer-c44fe6ec71f2bdf24cd38a67edf4314411a4a19f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/tokenizer/a46296e8030de0a44e5c32f35db31906c4849bab/BUCK",
+        "sha256": "eb8431b7d41f301e956f5cb318923bb2dfe70fb45106b012dadf2b4d6a7aab32"
+      },
+      "dependencies": {
+        "boost/assert": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/config": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/throw-exception": "1.46.1"
       }
     }
   }

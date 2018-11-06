@@ -4,6 +4,131 @@
   "url": "http://boost.org/libs/regex",
   "github": "boostorg/regex",
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/a9fc8fb5de8262cdf100ff2af06d2c819f251b4e.zip",
+        "sha256": "8c5259ef1e1c6a8bb520af81cd18fde843e7206aff7de5598f51f6d40cf84648",
+        "subPath": "regex-a9fc8fb5de8262cdf100ff2af06d2c819f251b4e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/predef": "1.67.0",
+        "boost/throw-exception": "1.67.0",
+        "boost/smart-ptr": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/integer": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/functional": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/a9fc8fb5de8262cdf100ff2af06d2c819f251b4e.zip",
+        "sha256": "8c5259ef1e1c6a8bb520af81cd18fde843e7206aff7de5598f51f6d40cf84648",
+        "subPath": "regex-a9fc8fb5de8262cdf100ff2af06d2c819f251b4e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/predef": "1.66.0",
+        "boost/throw-exception": "1.66.0",
+        "boost/smart-ptr": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/integer": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/functional": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/8191d582667c417334d65853e851be4ea3f8014f.zip",
+        "sha256": "262f6af4db5c467299b7d7a02f28bc086d8d35e897306d683994c1330ef3ae62",
+        "subPath": "regex-8191d582667c417334d65853e851be4ea3f8014f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/predef": "1.65.1",
+        "boost/throw-exception": "1.65.1",
+        "boost/smart-ptr": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/integer": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/functional": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/8191d582667c417334d65853e851be4ea3f8014f.zip",
+        "sha256": "262f6af4db5c467299b7d7a02f28bc086d8d35e897306d683994c1330ef3ae62",
+        "subPath": "regex-8191d582667c417334d65853e851be4ea3f8014f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/predef": "1.65.0",
+        "boost/throw-exception": "1.65.0",
+        "boost/smart-ptr": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/integer": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/functional": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/8191d582667c417334d65853e851be4ea3f8014f.zip",
+        "sha256": "262f6af4db5c467299b7d7a02f28bc086d8d35e897306d683994c1330ef3ae62",
+        "subPath": "regex-8191d582667c417334d65853e851be4ea3f8014f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/predef": "1.64.0",
+        "boost/throw-exception": "1.64.0",
+        "boost/smart-ptr": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/integer": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/functional": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/regex/archive/ed556985d71452a1349701affbb56897c786088e.zip",
@@ -27,6 +152,431 @@
         "boost/iterator": "1.63.0",
         "boost/preprocessor": "1.63.0",
         "boost/functional": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/6f02c1a388be0d9861d0ca828fb3488d3a4b889c.zip",
+        "sha256": "55ea3bc2453374851023abb5c2c99e57ae2cf5ba021b8161da2e77e5c9abc78d",
+        "subPath": "regex-6f02c1a388be0d9861d0ca828fb3488d3a4b889c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/predef": "1.62.0",
+        "boost/throw-exception": "1.62.0",
+        "boost/smart-ptr": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/integer": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/functional": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/d84bab7c4d36141b860b4b4c43ec43a21c17fd87.zip",
+        "sha256": "abfafb92374f709e65263b22e7617188e150f38d6b6d9bdf6e9ca051a3ad9f45",
+        "subPath": "regex-d84bab7c4d36141b860b4b4c43ec43a21c17fd87"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/predef": "1.61.0",
+        "boost/throw-exception": "1.61.0",
+        "boost/smart-ptr": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/integer": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/functional": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/9034bd9c02d3b22d0f8c558675892d212c2ef34e.zip",
+        "sha256": "8fba9d5f3b6beab909a01a4a8bb2bafa3ab930505a1ac42004ac57c2399a7f94",
+        "subPath": "regex-9034bd9c02d3b22d0f8c558675892d212c2ef34e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/predef": "1.60.0",
+        "boost/throw-exception": "1.60.0",
+        "boost/smart-ptr": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/integer": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/functional": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/753b72de0a5e1d665f3a796826e8c99eabd55ff4.zip",
+        "sha256": "4eccb506b74377de9e6ea16acd0a65001f441101df81245db23129c7a46ca467",
+        "subPath": "regex-753b72de0a5e1d665f3a796826e8c99eabd55ff4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/predef": "1.59.0",
+        "boost/throw-exception": "1.59.0",
+        "boost/smart-ptr": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/integer": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/functional": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/753b72de0a5e1d665f3a796826e8c99eabd55ff4.zip",
+        "sha256": "4eccb506b74377de9e6ea16acd0a65001f441101df81245db23129c7a46ca467",
+        "subPath": "regex-753b72de0a5e1d665f3a796826e8c99eabd55ff4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/predef": "1.58.0",
+        "boost/throw-exception": "1.58.0",
+        "boost/smart-ptr": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/integer": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/functional": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/741e684ac3e43bf97ba40a17b724588fce58e58c.zip",
+        "sha256": "f11d11ca46b6065429e1ff0570ce7a7648708b9a516197ea58707c34e6708b22",
+        "subPath": "regex-741e684ac3e43bf97ba40a17b724588fce58e58c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/predef": "1.57.0",
+        "boost/throw-exception": "1.57.0",
+        "boost/smart-ptr": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/integer": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/functional": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/b61c07c2642d1bc04b53c3c792b1e39141f7cd85.zip",
+        "sha256": "692a8c766837be33f3cb94a2ffbfa687702cf1233972a64f86f1bf03af37c765",
+        "subPath": "regex-b61c07c2642d1bc04b53c3c792b1e39141f7cd85"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/predef": "1.56.0",
+        "boost/throw-exception": "1.56.0",
+        "boost/smart-ptr": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/integer": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/functional": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/e79014de22496975e94895e693722d6e5a880fcf.zip",
+        "sha256": "7c7c42d0e44d39e937c4bd92c1235834884701400a89cd862f2619588df15bfc",
+        "subPath": "regex-e79014de22496975e94895e693722d6e5a880fcf"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/predef": "1.55.0",
+        "boost/throw-exception": "1.55.0",
+        "boost/smart-ptr": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/integer": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/functional": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/11ec007148dee065f9b901d134e38307c1755265.zip",
+        "sha256": "bfb9488611cafb9a087bd9f653b29c6aee388d00f137ba1e9bcc10f025a59e34",
+        "subPath": "regex-11ec007148dee065f9b901d134e38307c1755265"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/predef": "1.54.0",
+        "boost/throw-exception": "1.54.0",
+        "boost/smart-ptr": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/integer": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/functional": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/e6274a0b49aefeb26ea6779b355d29e999b77036.zip",
+        "sha256": "7c4ba9f214739be4738694b4433b9aa097a959d12cd20bf2a02db415615521aa",
+        "subPath": "regex-e6274a0b49aefeb26ea6779b355d29e999b77036"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/predef": "1.53.0",
+        "boost/throw-exception": "1.53.0",
+        "boost/smart-ptr": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/integer": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/functional": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/642aec5a394662e9ec15f25e53ad408559d42020.zip",
+        "sha256": "c14916b1b003bce8f7e3dc4be1748c60d7120599edfc336e5f268574d90364b8",
+        "subPath": "regex-642aec5a394662e9ec15f25e53ad408559d42020"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/predef": "1.52.0",
+        "boost/throw-exception": "1.52.0",
+        "boost/smart-ptr": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/integer": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/functional": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/2fe2f776d240d29a840a879f5841ff4df77181f9.zip",
+        "sha256": "f74538c77414b7673ba76e4f2d3f4dde07b4f51a4c1e36ca838f1037c4717521",
+        "subPath": "regex-2fe2f776d240d29a840a879f5841ff4df77181f9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/predef": "1.51.0",
+        "boost/throw-exception": "1.51.0",
+        "boost/smart-ptr": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/integer": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/functional": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/ea0b1d361e997cb107e54a2a1d5599ca39847343.zip",
+        "sha256": "3ab0757305453596c33b6d8beac41691ed9e7b4e320dfb61c3aa5090f6f71025",
+        "subPath": "regex-ea0b1d361e997cb107e54a2a1d5599ca39847343"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/predef": "1.50.0",
+        "boost/throw-exception": "1.50.0",
+        "boost/smart-ptr": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/integer": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/functional": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/94d58358d160f7cb2659a9e7a1ae93853a7a8ee4.zip",
+        "sha256": "c0d8494336d644ef4a383b40f91ac8ca74a843bb6025f5b1d8914a4aaf3ac445",
+        "subPath": "regex-94d58358d160f7cb2659a9e7a1ae93853a7a8ee4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/predef": "1.49.0",
+        "boost/throw-exception": "1.49.0",
+        "boost/smart-ptr": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/integer": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/functional": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/957c390ead62ea4e4d695fa480656e0857395d5b.zip",
+        "sha256": "fe1f943b514ab138b7cb6db3288669a860b7034f303035541c07bd98074c1821",
+        "subPath": "regex-957c390ead62ea4e4d695fa480656e0857395d5b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/predef": "1.48.0",
+        "boost/throw-exception": "1.48.0",
+        "boost/smart-ptr": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/integer": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/functional": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/0238211a28b711456516897d0047b7bccf86787f.zip",
+        "sha256": "ca7984a8d848fe6c72fd91bc706d10b611f5b9d671019f8aaeddabdc4b89073c",
+        "subPath": "regex-0238211a28b711456516897d0047b7bccf86787f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/predef": "1.47.0",
+        "boost/throw-exception": "1.47.0",
+        "boost/smart-ptr": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/integer": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/functional": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/regex/archive/c80ea42c1522b8a7c8e86b798dda87f69781d128.zip",
+        "sha256": "f383be315d138bbde9545dfd1a13edc9c592ea04e692229cf5a5cd3d6d6216a6",
+        "subPath": "regex-c80ea42c1522b8a7c8e86b798dda87f69781d128"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/regex/bd2cba472afe23c6c863ea3a21bb156136ab8c80/BUCK",
+        "sha256": "b1c95428b04a65d750cad269908e5bde087eed987977a2a096db7729323db6f8"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/predef": "1.46.1",
+        "boost/throw-exception": "1.46.1",
+        "boost/smart-ptr": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/integer": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/preprocessor": "1.46.1",
+        "boost/functional": "1.46.1"
       }
     }
   }

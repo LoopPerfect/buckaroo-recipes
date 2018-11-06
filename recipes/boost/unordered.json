@@ -7,6 +7,141 @@
     "project": "unordered"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/741a10f5a81dd2d2da7029099b87c23de5215ca4.zip",
+        "sha256": "8f8afab170d5cd4082f76f6d57df321443418d7ad516a4dc4d147e45377f9a57",
+        "subPath": "unordered-741a10f5a81dd2d2da7029099b87c23de5215ca4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/functional": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/move": "1.67.0",
+        "boost/container": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/throw-exception": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/tuple": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/smart-ptr": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/a600ef6cbb565529e5985f6e435ca6eb2032f00a.zip",
+        "sha256": "04bbac79b7a304571a9a56f698cfef2e38981df2b2a072f123869468b932a02b",
+        "subPath": "unordered-a600ef6cbb565529e5985f6e435ca6eb2032f00a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/functional": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/move": "1.66.0",
+        "boost/container": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/throw-exception": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/tuple": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/smart-ptr": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/929982357a819f29564b2562c45cd0dbaddf5c98.zip",
+        "sha256": "caba524ee56a7acf3a1d6e4cd32b76a52de5e117ed5241145ef7e28463002532",
+        "subPath": "unordered-929982357a819f29564b2562c45cd0dbaddf5c98"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/functional": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/move": "1.65.1",
+        "boost/container": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/throw-exception": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/tuple": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/smart-ptr": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/929982357a819f29564b2562c45cd0dbaddf5c98.zip",
+        "sha256": "caba524ee56a7acf3a1d6e4cd32b76a52de5e117ed5241145ef7e28463002532",
+        "subPath": "unordered-929982357a819f29564b2562c45cd0dbaddf5c98"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/functional": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/move": "1.65.0",
+        "boost/container": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/throw-exception": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/tuple": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/smart-ptr": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/7aa7d8935c67cd16d428b5df4fb527f03b03135f.zip",
+        "sha256": "31952a2ab0cde1bc7a1e3e92a8241ef7a4e5aab46652a22c438d7f7364d5d48a",
+        "subPath": "unordered-7aa7d8935c67cd16d428b5df4fb527f03b03135f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/functional": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/move": "1.64.0",
+        "boost/container": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/throw-exception": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/tuple": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/smart-ptr": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/unordered/archive/76127b6e42651571b9b9555f48d52ae89317d8d5.zip",
@@ -32,6 +167,438 @@
         "boost/iterator": "1.63.0",
         "boost/utility": "1.63.0",
         "boost/smart-ptr": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/8f51dc6082982467e38362454e001d64f60c728d.zip",
+        "sha256": "c078a70f3c7ddf4dc5229036648c4fc14b23cd7ed94d335739da1cc32a003eb1",
+        "subPath": "unordered-8f51dc6082982467e38362454e001d64f60c728d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/functional": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/move": "1.62.0",
+        "boost/container": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/throw-exception": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/tuple": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/smart-ptr": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/84dd473a5dfbb5bc7f353fd3448e00da7425f2aa.zip",
+        "sha256": "a30b7526445c1363115a67911b72bb597abee4569f7f824dc37e36f85f289104",
+        "subPath": "unordered-84dd473a5dfbb5bc7f353fd3448e00da7425f2aa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/functional": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/move": "1.61.0",
+        "boost/container": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/throw-exception": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/tuple": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/smart-ptr": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/84dd473a5dfbb5bc7f353fd3448e00da7425f2aa.zip",
+        "sha256": "a30b7526445c1363115a67911b72bb597abee4569f7f824dc37e36f85f289104",
+        "subPath": "unordered-84dd473a5dfbb5bc7f353fd3448e00da7425f2aa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/functional": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/move": "1.60.0",
+        "boost/container": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/throw-exception": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/tuple": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/smart-ptr": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/84dd473a5dfbb5bc7f353fd3448e00da7425f2aa.zip",
+        "sha256": "a30b7526445c1363115a67911b72bb597abee4569f7f824dc37e36f85f289104",
+        "subPath": "unordered-84dd473a5dfbb5bc7f353fd3448e00da7425f2aa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/functional": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/move": "1.59.0",
+        "boost/container": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/throw-exception": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/tuple": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/smart-ptr": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/84dd473a5dfbb5bc7f353fd3448e00da7425f2aa.zip",
+        "sha256": "a30b7526445c1363115a67911b72bb597abee4569f7f824dc37e36f85f289104",
+        "subPath": "unordered-84dd473a5dfbb5bc7f353fd3448e00da7425f2aa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/functional": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/move": "1.58.0",
+        "boost/container": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/throw-exception": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/tuple": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/smart-ptr": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/bf0f90ff034b0f7d35292ee2c8ee1d8e7d8ecd4a.zip",
+        "sha256": "e672e3cbc83c770da9c83dac719e5f42aab333dfe75b8e2c65e0535a4b0ff734",
+        "subPath": "unordered-bf0f90ff034b0f7d35292ee2c8ee1d8e7d8ecd4a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/functional": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/move": "1.57.0",
+        "boost/container": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/throw-exception": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/tuple": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/smart-ptr": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/79dcf7cbe8d42d7f3525a12e0d745599cb145580.zip",
+        "sha256": "f6505282d9fdf35e5a97f47c30e7d9ef1718c8b72f674d6bd4007447e6f3e366",
+        "subPath": "unordered-79dcf7cbe8d42d7f3525a12e0d745599cb145580"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/functional": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/move": "1.56.0",
+        "boost/container": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/throw-exception": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/tuple": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/smart-ptr": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/b1c1e96476188818a42d81654bcb47be550e60aa.zip",
+        "sha256": "3de559a611b7ced9b488c5a9b5e3b5dc64c578af773027a3fcff6b7e89af6cfa",
+        "subPath": "unordered-b1c1e96476188818a42d81654bcb47be550e60aa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/functional": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/move": "1.55.0",
+        "boost/container": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/throw-exception": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/tuple": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/smart-ptr": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/79900798e6074729fcba39369147fa58ba80830f.zip",
+        "sha256": "53bf6979f1962af3d3a1cbc9a2472396d372727f5b3d5a2aaaaf5864a9372525",
+        "subPath": "unordered-79900798e6074729fcba39369147fa58ba80830f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/functional": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/move": "1.54.0",
+        "boost/container": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/throw-exception": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/tuple": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/smart-ptr": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/68db81064b3e61f0dccac651f1b460402ba55837.zip",
+        "sha256": "12a88fb50ef749c659009d09396c516bd2ce76603fc9c80f8e1214a19c2a54db",
+        "subPath": "unordered-68db81064b3e61f0dccac651f1b460402ba55837"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/functional": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/move": "1.53.0",
+        "boost/container": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/throw-exception": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/tuple": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/smart-ptr": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/34868c50ca8195c4b8122b15aa7fad088b21e275.zip",
+        "sha256": "c6845a2510bc8bdbb9e6739b5096515aa934f89fb5fe2b603c7ee86424dc4ab4",
+        "subPath": "unordered-34868c50ca8195c4b8122b15aa7fad088b21e275"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/functional": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/move": "1.52.0",
+        "boost/container": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/throw-exception": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/tuple": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/smart-ptr": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/a4076e12974034b5a2008bb0808bf7c46774483d.zip",
+        "sha256": "221aea8a10042ad4f023d5f9f7ac22f150181d3e5e7b90b2a17fe6009023fb60",
+        "subPath": "unordered-a4076e12974034b5a2008bb0808bf7c46774483d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/functional": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/move": "1.51.0",
+        "boost/container": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/throw-exception": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/tuple": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/smart-ptr": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/251c4608d0b77520b5de26a5bb5f56a3be8a0197.zip",
+        "sha256": "60e47f14c523636b93579835190a344be69099e5e901cf4f7d92509fef7a4c11",
+        "subPath": "unordered-251c4608d0b77520b5de26a5bb5f56a3be8a0197"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/functional": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/move": "1.50.0",
+        "boost/container": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/throw-exception": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/tuple": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/smart-ptr": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/5be57db9f768a355203e261992f5b9d0357d3f75.zip",
+        "sha256": "125406065ecc503d4812e646bc9471b6c181475df38fb109db184fc82eaa5a3f",
+        "subPath": "unordered-5be57db9f768a355203e261992f5b9d0357d3f75"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/functional": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/move": "1.49.0",
+        "boost/container": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/throw-exception": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/tuple": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/smart-ptr": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/9265e1c42a5ca77ccde5679357fd9660dd0a7de2.zip",
+        "sha256": "27db2f98f378b2ff78c4297484715eab0b540e30900ae0a56e0a0721dcbd2d47",
+        "subPath": "unordered-9265e1c42a5ca77ccde5679357fd9660dd0a7de2"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/functional": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/move": "1.48.0",
+        "boost/container": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/throw-exception": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/tuple": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/smart-ptr": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/unordered/archive/1f71b041e95e010a1e9d1cd10ca7283ce354380b.zip",
+        "sha256": "9f754e842f2d8e60e790c7345219579e99dcf66b2c17fc9ee204c83be53a06ec",
+        "subPath": "unordered-1f71b041e95e010a1e9d1cd10ca7283ce354380b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/unordered/a69fa54e7995a673f891a3c8012ba3c1d5b3b5f6/BUCK",
+        "sha256": "a5c08e0bed940adefc52fd6bff5e23d89315260f976e63c4e5e4e98e5f0b1483"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/functional": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/move": "1.47.0",
+        "boost/container": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/throw-exception": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/tuple": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/smart-ptr": "1.47.0"
       }
     }
   }

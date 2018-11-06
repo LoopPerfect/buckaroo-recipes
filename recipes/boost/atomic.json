@@ -7,6 +7,81 @@
     "project": "atomic"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/e16092f4737ae2bb1a053221bc92469ff8b8670c.zip",
+        "sha256": "530a094914464753987e3e342f4c463043f104553d45f417ef565f714239f2e2",
+        "subPath": "atomic-e16092f4737ae2bb1a053221bc92469ff8b8670c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/assert": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/271337025b7fe17d2513936e8cbaaf00a2ea7c6c.zip",
+        "sha256": "5860f25f28d6a75a5dd7a8beb0e0fff45d4bc9da5ecd7b17f8e866b5506e91d8",
+        "subPath": "atomic-271337025b7fe17d2513936e8cbaaf00a2ea7c6c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/assert": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/a6b01a842915053b905f2cf4831a42d3083a04e0.zip",
+        "sha256": "e3501666fc502b4b132356de2903e0b055af1ac87cb359a257aadcac1a6d650c",
+        "subPath": "atomic-a6b01a842915053b905f2cf4831a42d3083a04e0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/assert": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/a6b01a842915053b905f2cf4831a42d3083a04e0.zip",
+        "sha256": "e3501666fc502b4b132356de2903e0b055af1ac87cb359a257aadcac1a6d650c",
+        "subPath": "atomic-a6b01a842915053b905f2cf4831a42d3083a04e0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/assert": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/a67cc1b055cf09f371e2eca544884634a1ccc886.zip",
+        "sha256": "330bc52d32cdaa986d7d48d3e07cd54c9bab44bdc7068ebca93c852460579fd2",
+        "subPath": "atomic-a67cc1b055cf09f371e2eca544884634a1ccc886"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/assert": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/atomic/archive/41eac78e25e6af9df304987a5b9cf604da972674.zip",
@@ -20,6 +95,156 @@
       "dependencies": {
         "boost/config": "1.63.0",
         "boost/assert": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/9be3389f069654ef8b3c6c4638aa492096ac7508.zip",
+        "sha256": "43a29d55cea6cfeb91c972692ceb96af3a328d48929b27ec08c86be0b37f1dda",
+        "subPath": "atomic-9be3389f069654ef8b3c6c4638aa492096ac7508"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/assert": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/ffe7710a90b347ced6dc1341bab57f7fc01385a8.zip",
+        "sha256": "93c17ae91f80e01f89819d265769f0b6a5bbbb5eaf2a3c157537474f38bab65e",
+        "subPath": "atomic-ffe7710a90b347ced6dc1341bab57f7fc01385a8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/assert": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/430169a53c33bdf00592b812694cb4f8fce8b41f.zip",
+        "sha256": "28238c882832bb6b24fa2dc1822de7463c7de4b143b185f3841c36207c3c04c5",
+        "subPath": "atomic-430169a53c33bdf00592b812694cb4f8fce8b41f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/assert": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/7b1d722d94578617bf7885ed59ec35694a5423a5.zip",
+        "sha256": "5ff7893245e8643c24a49d3d051867f27f9271ec3f864c550a4d400806571513",
+        "subPath": "atomic-7b1d722d94578617bf7885ed59ec35694a5423a5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/assert": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/7b1d722d94578617bf7885ed59ec35694a5423a5.zip",
+        "sha256": "5ff7893245e8643c24a49d3d051867f27f9271ec3f864c550a4d400806571513",
+        "subPath": "atomic-7b1d722d94578617bf7885ed59ec35694a5423a5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/assert": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/fe8f1dc4e0e8ea708ecee06109b2e1f79c20f02d.zip",
+        "sha256": "e933de9ce17d87dbdd082cd1c3933bfc642c78187effeb3cbbafcae25fe5ee5d",
+        "subPath": "atomic-fe8f1dc4e0e8ea708ecee06109b2e1f79c20f02d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/assert": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/4dee330229c4f54b157ebde9dbd301bb33e64f2c.zip",
+        "sha256": "43b70a3a2a6336dd4e70bbe5383ae9f08a6f4812485cf00931e8cb078fc7280a",
+        "subPath": "atomic-4dee330229c4f54b157ebde9dbd301bb33e64f2c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/assert": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/a960f18c5c05fd12688c13b6f0ecb4c36c91ac3c.zip",
+        "sha256": "f1a3f832e2039de4313c7ef295660db8c973889986faee814dc42901c537369f",
+        "subPath": "atomic-a960f18c5c05fd12688c13b6f0ecb4c36c91ac3c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/assert": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/396c582e0a792537db5c59f57b1bc9876100c880.zip",
+        "sha256": "646687365d48ae33bc44561b1143a722029595d2ddb63acfee7b9ab4ae3e70cc",
+        "subPath": "atomic-396c582e0a792537db5c59f57b1bc9876100c880"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/assert": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/atomic/archive/76cd93930e143713ac3b2ae7f3089feb86a24cc4.zip",
+        "sha256": "3fd211e398f45af20c9ebb65b3e4e1ffc4d1cb599c8e8f024ce649f265d0d754",
+        "subPath": "atomic-76cd93930e143713ac3b2ae7f3089feb86a24cc4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/atomic/591df6e3581a42a9340f4a10efaa76707da2f5b9/BUCK",
+        "sha256": "934eeec112fd9f3da29082e39e250559b528760229b4691952f82f8e08f92629"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/assert": "1.53.0"
       }
     }
   }

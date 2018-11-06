@@ -1,0 +1,60 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/qvm/archive/364708ff20900d5d6d1aa249d142a481e68e9c26.zip",
+        "sha256": "2d7b5c1747e2f8325497e7728267f8e16bf25a254dde8795bce431a14011e42c",
+        "subPath": "qvm-364708ff20900d5d6d1aa249d142a481e68e9c26"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/qvm/archive/5209c985d843a52e428a497f9fb740e1741c86d4.zip",
+        "sha256": "be0c90cccee308594ce0f4b882696cbbe587e92f1ad35f76e07ac7b58af7cf34",
+        "subPath": "qvm-5209c985d843a52e428a497f9fb740e1741c86d4"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/qvm/archive/5209c985d843a52e428a497f9fb740e1741c86d4.zip",
+        "sha256": "be0c90cccee308594ce0f4b882696cbbe587e92f1ad35f76e07ac7b58af7cf34",
+        "subPath": "qvm-5209c985d843a52e428a497f9fb740e1741c86d4"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/qvm/archive/5209c985d843a52e428a497f9fb740e1741c86d4.zip",
+        "sha256": "be0c90cccee308594ce0f4b882696cbbe587e92f1ad35f76e07ac7b58af7cf34",
+        "subPath": "qvm-5209c985d843a52e428a497f9fb740e1741c86d4"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/qvm/archive/6bc48f1c704a3043d037101179b4b734d00ebe19.zip",
+        "sha256": "7f0176680f6101f4b1ae8e0f3321fd921a10ea09fb6681e9844f9c92c3f25a32",
+        "subPath": "qvm-6bc48f1c704a3043d037101179b4b734d00ebe19"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/qvm/archive/f20c6d4911afc18fb8ee0d05154dc46c085dc2eb.zip",
+        "sha256": "be8d5fd992aeafe51e3c0f86f3155d3f0b9f8c520f70de9119b64432bf3a2d26",
+        "subPath": "qvm-f20c6d4911afc18fb8ee0d05154dc46c085dc2eb"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/qvm/archive/f20c6d4911afc18fb8ee0d05154dc46c085dc2eb.zip",
+        "sha256": "be8d5fd992aeafe51e3c0f86f3155d3f0b9f8c520f70de9119b64432bf3a2d26",
+        "subPath": "qvm-f20c6d4911afc18fb8ee0d05154dc46c085dc2eb"
+      }
+    }
+  }
+}

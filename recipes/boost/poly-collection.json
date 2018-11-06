@@ -1,0 +1,36 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/poly_collection/archive/8b36d94bf4c1df08f3b566e4f1a526403cad6c5e.zip",
+        "sha256": "9e0652a73451ca067fae09b548fb53a6081eebaffe9e803271362a7d138dbdfe",
+        "subPath": "poly_collection-8b36d94bf4c1df08f3b566e4f1a526403cad6c5e"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/poly_collection/archive/df754527917b7be013ce558f8c0286aa7a0cc5b9.zip",
+        "sha256": "af83681de6ad0d5618fb89a1a0d7f021577acac4bd799196a903f3589a99eb9b",
+        "subPath": "poly_collection-df754527917b7be013ce558f8c0286aa7a0cc5b9"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/poly_collection/archive/a72507f1a3d9ebf4670f8e0a02a703c46076d744.zip",
+        "sha256": "412ed4a8dde8e4c53dc77d08c51a26699201138d480ff785cb2f72f010ffda2f",
+        "subPath": "poly_collection-a72507f1a3d9ebf4670f8e0a02a703c46076d744"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/poly_collection/archive/a72507f1a3d9ebf4670f8e0a02a703c46076d744.zip",
+        "sha256": "412ed4a8dde8e4c53dc77d08c51a26699201138d480ff785cb2f72f010ffda2f",
+        "subPath": "poly_collection-a72507f1a3d9ebf4670f8e0a02a703c46076d744"
+      }
+    }
+  }
+}

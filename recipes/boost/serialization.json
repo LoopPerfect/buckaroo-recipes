@@ -4,6 +4,141 @@
   "url": "http://boost.org/libs/serialization",
   "github": "boostorg/serialization",
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/24024425f13c422d65e9c62d40b5dc005667f805.zip",
+        "sha256": "14a07fac95f90e59184240774211550c22b8ec6913a37dc4fa53568adf5e03a8",
+        "subPath": "serialization-24024425f13c422d65e9c62d40b5dc005667f805"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/io": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/integer": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/smart-ptr": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/array": "1.67.0",
+        "boost/spirit": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/24024425f13c422d65e9c62d40b5dc005667f805.zip",
+        "sha256": "14a07fac95f90e59184240774211550c22b8ec6913a37dc4fa53568adf5e03a8",
+        "subPath": "serialization-24024425f13c422d65e9c62d40b5dc005667f805"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/io": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/integer": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/smart-ptr": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/array": "1.66.0",
+        "boost/spirit": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/eaf85795f372a3fe6dcbcd1c4f74e07a51c5cbc3.zip",
+        "sha256": "25fe44088fb3954c131f108231fb04ce9b1d5cf10479e7059e3f226d22ce77f6",
+        "subPath": "serialization-eaf85795f372a3fe6dcbcd1c4f74e07a51c5cbc3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/io": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/integer": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/smart-ptr": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/array": "1.65.1",
+        "boost/spirit": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/eaf85795f372a3fe6dcbcd1c4f74e07a51c5cbc3.zip",
+        "sha256": "25fe44088fb3954c131f108231fb04ce9b1d5cf10479e7059e3f226d22ce77f6",
+        "subPath": "serialization-eaf85795f372a3fe6dcbcd1c4f74e07a51c5cbc3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/io": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/integer": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/smart-ptr": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/array": "1.65.0",
+        "boost/spirit": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/acbd1f88f9af07172cc4dd6b9ff0aa13279ef290.zip",
+        "sha256": "16ef09e6a15716d023f2cc0810e0db95d2059cafa8041e85f2879708aadab9bd",
+        "subPath": "serialization-acbd1f88f9af07172cc4dd6b9ff0aa13279ef290"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/io": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/integer": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/smart-ptr": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/array": "1.64.0",
+        "boost/spirit": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/serialization/archive/3eb2bda80b19da0b98418746ba9806acdac7d8b9.zip",
@@ -29,6 +164,465 @@
         "boost/iterator": "1.63.0",
         "boost/array": "1.63.0",
         "boost/spirit": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/3eb2bda80b19da0b98418746ba9806acdac7d8b9.zip",
+        "sha256": "92740676a1bee379b7010bf8b19688e542aaa2e033eff2c795464cbaeb66d0c4",
+        "subPath": "serialization-3eb2bda80b19da0b98418746ba9806acdac7d8b9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/io": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/integer": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/smart-ptr": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/array": "1.62.0",
+        "boost/spirit": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/3eb2bda80b19da0b98418746ba9806acdac7d8b9.zip",
+        "sha256": "92740676a1bee379b7010bf8b19688e542aaa2e033eff2c795464cbaeb66d0c4",
+        "subPath": "serialization-3eb2bda80b19da0b98418746ba9806acdac7d8b9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/io": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/integer": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/smart-ptr": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/array": "1.61.0",
+        "boost/spirit": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/42512bc128f97453e6425b2e8cc3eee04191920b.zip",
+        "sha256": "1ad6c152e3c7317d8cd46f686f84ead5e44fa9c22bf9865b62bfa2e525a690eb",
+        "subPath": "serialization-42512bc128f97453e6425b2e8cc3eee04191920b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/io": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/integer": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/smart-ptr": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/array": "1.60.0",
+        "boost/spirit": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/d779a5d127f0724eb8712470ba8cd681227d2ded.zip",
+        "sha256": "d72752627813a4f51ea3ccbe805b97242d1a3e66ae981560615c26590df5753b",
+        "subPath": "serialization-d779a5d127f0724eb8712470ba8cd681227d2ded"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/io": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/integer": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/smart-ptr": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/array": "1.59.0",
+        "boost/spirit": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/ee3560ad83dc702907f0deda830501ef38dd3544.zip",
+        "sha256": "8461d7a6e9dc99384267e3bffabeec8cfb5e63dade261c88e590f9ac58779d01",
+        "subPath": "serialization-ee3560ad83dc702907f0deda830501ef38dd3544"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/io": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/integer": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/smart-ptr": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/array": "1.58.0",
+        "boost/spirit": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/5712994137c6238d6a7e8ccc4d6dc6f36b528335.zip",
+        "sha256": "8be9bad53d2be421d86152e16902b63cd7268a85b4d3bfe75ca5affcb38a929a",
+        "subPath": "serialization-5712994137c6238d6a7e8ccc4d6dc6f36b528335"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/io": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/integer": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/smart-ptr": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/array": "1.57.0",
+        "boost/spirit": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/2b5f6e7a8f5c31b7179a41f62cf244ec9c6143da.zip",
+        "sha256": "81b89f20c0915e381db9c8f1978b9ebf21d2ec4c158111afcdaa3ddb3d860f9d",
+        "subPath": "serialization-2b5f6e7a8f5c31b7179a41f62cf244ec9c6143da"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/io": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/integer": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/smart-ptr": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/array": "1.56.0",
+        "boost/spirit": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/5154c9d1d05ab71034880a55f0a8db604807c4f4.zip",
+        "sha256": "6f8070212e79d9556273a610a0582a09b0184da76ff539aacb5151caac80be94",
+        "subPath": "serialization-5154c9d1d05ab71034880a55f0a8db604807c4f4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/io": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/integer": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/smart-ptr": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/array": "1.55.0",
+        "boost/spirit": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/f21c14f204b9f96a292f4e60904c4f23d94d7d57.zip",
+        "sha256": "c7a0e70b36b0d6c63f7ee18858439a356fd31bdcba1ab4828d54d2673ae82068",
+        "subPath": "serialization-f21c14f204b9f96a292f4e60904c4f23d94d7d57"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/io": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/integer": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/smart-ptr": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/array": "1.54.0",
+        "boost/spirit": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/3ea61cc9f7323f06369a9b974ac2847662eb0fcd.zip",
+        "sha256": "d43b7ae920a5ccd6d33aa6a4b6a82f616e67edf3de1b790dc09f2fe0ac81d374",
+        "subPath": "serialization-3ea61cc9f7323f06369a9b974ac2847662eb0fcd"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/io": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/integer": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/smart-ptr": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/array": "1.53.0",
+        "boost/spirit": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/1625fbd7b685eab9d24a6b6d94fac9b921ed227e.zip",
+        "sha256": "194cbf28e1c1ff434a2ce5eaab9bbc05182eb98d4587d8d7e0d685217d079fed",
+        "subPath": "serialization-1625fbd7b685eab9d24a6b6d94fac9b921ed227e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/io": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/integer": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/smart-ptr": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/array": "1.52.0",
+        "boost/spirit": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/d6009e116441484f9d82f765e19a402d76663474.zip",
+        "sha256": "7f35cf31722a941e18a6c6a5064c44731bf5dde7b3ec2463823bbffde080abcb",
+        "subPath": "serialization-d6009e116441484f9d82f765e19a402d76663474"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/io": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/integer": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/smart-ptr": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/array": "1.51.0",
+        "boost/spirit": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/dd7128978e831ac19c59a6f90a90e88b9548e614.zip",
+        "sha256": "cab796f51a89c8de4e2f0d7f74a7adfee81357b4c3574ff298ab452612004af0",
+        "subPath": "serialization-dd7128978e831ac19c59a6f90a90e88b9548e614"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/io": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/integer": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/smart-ptr": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/array": "1.50.0",
+        "boost/spirit": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/0ec06b8e4324e796851c5fabb4180193dd3f2d81.zip",
+        "sha256": "ddcc7e72c8dc3b12a6a46a5ff0e3491ea7fc8b0d0ee8f35b7f261cd9a9db629b",
+        "subPath": "serialization-0ec06b8e4324e796851c5fabb4180193dd3f2d81"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/io": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/integer": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/smart-ptr": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/array": "1.49.0",
+        "boost/spirit": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/fa84ea5017a5f844274342ff27ef587273908803.zip",
+        "sha256": "65d5c7f9c24c4aacfac03f0efa22f1759ead892104bc4470a5d309c7171a9352",
+        "subPath": "serialization-fa84ea5017a5f844274342ff27ef587273908803"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/io": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/integer": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/smart-ptr": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/array": "1.48.0",
+        "boost/spirit": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/803040c8d4c551f5d58ddc0244e6545c57409859.zip",
+        "sha256": "10a8814d329bde73efc3cea9d67eac3eaa72b25e5c783039e0b67548a41a7452",
+        "subPath": "serialization-803040c8d4c551f5d58ddc0244e6545c57409859"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/io": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/integer": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/smart-ptr": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/array": "1.47.0",
+        "boost/spirit": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/serialization/archive/2a633f592ab4d1cba514418f99f42e89543813bd.zip",
+        "sha256": "69f70c7b288802f3156099866ef9e60b64652da7f8caf4efcbfc1f6a72b52d77",
+        "subPath": "serialization-2a633f592ab4d1cba514418f99f42e89543813bd"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/serialization/9b4add05bc5082193f9689f42d53e222ab3d3d09/BUCK",
+        "sha256": "0bd470f51d4889c6a1b9e41b59dc9f94463d4bfa072732d7922a3d23ab4cd2c4"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/static-assert": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/io": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/integer": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/smart-ptr": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/preprocessor": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/array": "1.46.1",
+        "boost/spirit": "1.46.1"
       }
     }
   }

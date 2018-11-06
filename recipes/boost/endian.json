@@ -7,6 +7,111 @@
     "project": "endian"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/f6998d2406be7b5d7a03cae93c72bb097bfbc87a.zip",
+        "sha256": "999f2b2fc10c2e3326aafee548474b7ee9c45e5ae6176d359936fae8a5db85d9",
+        "subPath": "endian-f6998d2406be7b5d7a03cae93c72bb097bfbc87a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/predef": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/integer": "1.67.0",
+        "boost/system": "1.67.0",
+        "boost/utility": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/2db73ab893a61b74e73c0c644c2819241beef95a.zip",
+        "sha256": "a427da3f40bf123ec60d67ec20ceeae6b78052796b3011bbdce5b29fcad5e808",
+        "subPath": "endian-2db73ab893a61b74e73c0c644c2819241beef95a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/predef": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/integer": "1.66.0",
+        "boost/system": "1.66.0",
+        "boost/utility": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/2db73ab893a61b74e73c0c644c2819241beef95a.zip",
+        "sha256": "a427da3f40bf123ec60d67ec20ceeae6b78052796b3011bbdce5b29fcad5e808",
+        "subPath": "endian-2db73ab893a61b74e73c0c644c2819241beef95a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/predef": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/integer": "1.65.1",
+        "boost/system": "1.65.1",
+        "boost/utility": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/2db73ab893a61b74e73c0c644c2819241beef95a.zip",
+        "sha256": "a427da3f40bf123ec60d67ec20ceeae6b78052796b3011bbdce5b29fcad5e808",
+        "subPath": "endian-2db73ab893a61b74e73c0c644c2819241beef95a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/predef": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/integer": "1.65.0",
+        "boost/system": "1.65.0",
+        "boost/utility": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/2db73ab893a61b74e73c0c644c2819241beef95a.zip",
+        "sha256": "a427da3f40bf123ec60d67ec20ceeae6b78052796b3011bbdce5b29fcad5e808",
+        "subPath": "endian-2db73ab893a61b74e73c0c644c2819241beef95a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/predef": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/integer": "1.64.0",
+        "boost/system": "1.64.0",
+        "boost/utility": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/endian/archive/2db73ab893a61b74e73c0c644c2819241beef95a.zip",
@@ -26,6 +131,111 @@
         "boost/integer": "1.63.0",
         "boost/system": "1.63.0",
         "boost/utility": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/2db73ab893a61b74e73c0c644c2819241beef95a.zip",
+        "sha256": "a427da3f40bf123ec60d67ec20ceeae6b78052796b3011bbdce5b29fcad5e808",
+        "subPath": "endian-2db73ab893a61b74e73c0c644c2819241beef95a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/predef": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/integer": "1.62.0",
+        "boost/system": "1.62.0",
+        "boost/utility": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/2db73ab893a61b74e73c0c644c2819241beef95a.zip",
+        "sha256": "a427da3f40bf123ec60d67ec20ceeae6b78052796b3011bbdce5b29fcad5e808",
+        "subPath": "endian-2db73ab893a61b74e73c0c644c2819241beef95a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/predef": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/integer": "1.61.0",
+        "boost/system": "1.61.0",
+        "boost/utility": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/91985423e4c26c508b101a2fd7883573a752380f.zip",
+        "sha256": "d47b14032139bf48e34fbc67da6ebb6089c0479441176f5eb8ac9273df4c11dd",
+        "subPath": "endian-91985423e4c26c508b101a2fd7883573a752380f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/predef": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/integer": "1.60.0",
+        "boost/system": "1.60.0",
+        "boost/utility": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/636a7bfd6eb472ce7e9f9f2c50e2cdc88c45424f.zip",
+        "sha256": "ae1bf7f7fb5ef06535dc673e94f514175c7ca77469979f3efef60c54b19367b7",
+        "subPath": "endian-636a7bfd6eb472ce7e9f9f2c50e2cdc88c45424f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/predef": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/integer": "1.59.0",
+        "boost/system": "1.59.0",
+        "boost/utility": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/endian/archive/636a7bfd6eb472ce7e9f9f2c50e2cdc88c45424f.zip",
+        "sha256": "ae1bf7f7fb5ef06535dc673e94f514175c7ca77469979f3efef60c54b19367b7",
+        "subPath": "endian-636a7bfd6eb472ce7e9f9f2c50e2cdc88c45424f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/endian/534a90eb597cd412c3971492025e297c0ea6c32b/BUCK",
+        "sha256": "cb893019eca45e30bf792b225496c919872fae1e90fa679b16febe1d7a162a9b"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/predef": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/integer": "1.58.0",
+        "boost/system": "1.58.0",
+        "boost/utility": "1.58.0"
       }
     }
   }

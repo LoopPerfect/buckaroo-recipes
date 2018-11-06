@@ -1,0 +1,12 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/contract/archive/27dba1d8e9b9d7521ef3802ae73a07d5357f1773.zip",
+        "sha256": "46b225a792b31407cdd35e4371ecf1ed86bd261d2ca7b83125ae0b73d2933d4b",
+        "subPath": "contract-27dba1d8e9b9d7521ef3802ae73a07d5357f1773"
+      }
+    }
+  }
+}

@@ -4,6 +4,161 @@
   "url": "http://boost.org/libs/algorithm",
   "github": "boostorg/algorithm",
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/daef6d41c5ee859857b09439141ce4bec912f70d.zip",
+        "sha256": "e902ab438dbd5aa371c7b1295816cac155b172b021f598f927669810beb98d9c",
+        "subPath": "algorithm-daef6d41c5ee859857b09439141ce4bec912f70d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/regex": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/throw-exception": "1.67.0",
+        "boost/exception": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/tuple": "1.67.0",
+        "boost/array": "1.67.0",
+        "boost/concept-check": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/range": "1.67.0",
+        "boost/unordered": "1.67.0",
+        "boost/function": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/daef6d41c5ee859857b09439141ce4bec912f70d.zip",
+        "sha256": "e902ab438dbd5aa371c7b1295816cac155b172b021f598f927669810beb98d9c",
+        "subPath": "algorithm-daef6d41c5ee859857b09439141ce4bec912f70d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/regex": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/throw-exception": "1.66.0",
+        "boost/exception": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/tuple": "1.66.0",
+        "boost/array": "1.66.0",
+        "boost/concept-check": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/range": "1.66.0",
+        "boost/unordered": "1.66.0",
+        "boost/function": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/daef6d41c5ee859857b09439141ce4bec912f70d.zip",
+        "sha256": "e902ab438dbd5aa371c7b1295816cac155b172b021f598f927669810beb98d9c",
+        "subPath": "algorithm-daef6d41c5ee859857b09439141ce4bec912f70d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/regex": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/throw-exception": "1.65.1",
+        "boost/exception": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/tuple": "1.65.1",
+        "boost/array": "1.65.1",
+        "boost/concept-check": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/range": "1.65.1",
+        "boost/unordered": "1.65.1",
+        "boost/function": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/daef6d41c5ee859857b09439141ce4bec912f70d.zip",
+        "sha256": "e902ab438dbd5aa371c7b1295816cac155b172b021f598f927669810beb98d9c",
+        "subPath": "algorithm-daef6d41c5ee859857b09439141ce4bec912f70d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/regex": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/throw-exception": "1.65.0",
+        "boost/exception": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/tuple": "1.65.0",
+        "boost/array": "1.65.0",
+        "boost/concept-check": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/range": "1.65.0",
+        "boost/unordered": "1.65.0",
+        "boost/function": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/d029402f05c942b5d55b4e42060fc73fd07aaa21.zip",
+        "sha256": "e76d0154cc119c3793a9252251944d589abdf8a9a8082ada14cc56499516b14c",
+        "subPath": "algorithm-d029402f05c942b5d55b4e42060fc73fd07aaa21"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/regex": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/throw-exception": "1.64.0",
+        "boost/exception": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/tuple": "1.64.0",
+        "boost/array": "1.64.0",
+        "boost/concept-check": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/range": "1.64.0",
+        "boost/unordered": "1.64.0",
+        "boost/function": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/algorithm/archive/d029402f05c942b5d55b4e42060fc73fd07aaa21.zip",
@@ -33,6 +188,533 @@
         "boost/range": "1.63.0",
         "boost/unordered": "1.63.0",
         "boost/function": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/24d2cceb2777d1ed4f14e32917a659176ee31517.zip",
+        "sha256": "7cd5db7f4c28a285b93b1cb8c33eaf21164a17b94dc3b08bc02734695a2e19d2",
+        "subPath": "algorithm-24d2cceb2777d1ed4f14e32917a659176ee31517"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/regex": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/throw-exception": "1.62.0",
+        "boost/exception": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/tuple": "1.62.0",
+        "boost/array": "1.62.0",
+        "boost/concept-check": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/range": "1.62.0",
+        "boost/unordered": "1.62.0",
+        "boost/function": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/e5ea93bab1bfe66917ee52944619ad8cee9a0a85.zip",
+        "sha256": "69801f5c808b423f0dc97059926e21cad0814deb99e3efb0512254288e2b777c",
+        "subPath": "algorithm-e5ea93bab1bfe66917ee52944619ad8cee9a0a85"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/regex": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/throw-exception": "1.61.0",
+        "boost/exception": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/tuple": "1.61.0",
+        "boost/array": "1.61.0",
+        "boost/concept-check": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/range": "1.61.0",
+        "boost/unordered": "1.61.0",
+        "boost/function": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/a09963bf93912c1b508e1642bcb8ca09a83eb0ba.zip",
+        "sha256": "8e3b20739cb135b7123fff04de179728dbb279a757373880a2b14b63ad9fab3b",
+        "subPath": "algorithm-a09963bf93912c1b508e1642bcb8ca09a83eb0ba"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/regex": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/throw-exception": "1.60.0",
+        "boost/exception": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/tuple": "1.60.0",
+        "boost/array": "1.60.0",
+        "boost/concept-check": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/range": "1.60.0",
+        "boost/unordered": "1.60.0",
+        "boost/function": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/a09963bf93912c1b508e1642bcb8ca09a83eb0ba.zip",
+        "sha256": "8e3b20739cb135b7123fff04de179728dbb279a757373880a2b14b63ad9fab3b",
+        "subPath": "algorithm-a09963bf93912c1b508e1642bcb8ca09a83eb0ba"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/regex": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/throw-exception": "1.59.0",
+        "boost/exception": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/tuple": "1.59.0",
+        "boost/array": "1.59.0",
+        "boost/concept-check": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/range": "1.59.0",
+        "boost/unordered": "1.59.0",
+        "boost/function": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/a09963bf93912c1b508e1642bcb8ca09a83eb0ba.zip",
+        "sha256": "8e3b20739cb135b7123fff04de179728dbb279a757373880a2b14b63ad9fab3b",
+        "subPath": "algorithm-a09963bf93912c1b508e1642bcb8ca09a83eb0ba"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/regex": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/throw-exception": "1.58.0",
+        "boost/exception": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/tuple": "1.58.0",
+        "boost/array": "1.58.0",
+        "boost/concept-check": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/range": "1.58.0",
+        "boost/unordered": "1.58.0",
+        "boost/function": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/cf249c090c3021faebbcf5f6cf5574ce258aa7f6.zip",
+        "sha256": "19737a68fa5df6cca65ed55772e023635a4b11d0a46c311f4bc2019978e944ec",
+        "subPath": "algorithm-cf249c090c3021faebbcf5f6cf5574ce258aa7f6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/regex": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/throw-exception": "1.57.0",
+        "boost/exception": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/tuple": "1.57.0",
+        "boost/array": "1.57.0",
+        "boost/concept-check": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/range": "1.57.0",
+        "boost/unordered": "1.57.0",
+        "boost/function": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/cf249c090c3021faebbcf5f6cf5574ce258aa7f6.zip",
+        "sha256": "19737a68fa5df6cca65ed55772e023635a4b11d0a46c311f4bc2019978e944ec",
+        "subPath": "algorithm-cf249c090c3021faebbcf5f6cf5574ce258aa7f6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/regex": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/throw-exception": "1.56.0",
+        "boost/exception": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/tuple": "1.56.0",
+        "boost/array": "1.56.0",
+        "boost/concept-check": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/range": "1.56.0",
+        "boost/unordered": "1.56.0",
+        "boost/function": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/ce9a8400e5e13d809ef447d209fcbe2bbd1169b9.zip",
+        "sha256": "5f429d4d880cd03131e796f758c4b8563ef8abb5bf29bc098b1e32e1f3e121c2",
+        "subPath": "algorithm-ce9a8400e5e13d809ef447d209fcbe2bbd1169b9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/regex": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/throw-exception": "1.55.0",
+        "boost/exception": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/tuple": "1.55.0",
+        "boost/array": "1.55.0",
+        "boost/concept-check": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/range": "1.55.0",
+        "boost/unordered": "1.55.0",
+        "boost/function": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/20277434f0d29e651b963e380ffb7dc69a136c31.zip",
+        "sha256": "8d5e03262566adf119536108b7cabaddbbc7fcba3a90be4789d57f35dbda5094",
+        "subPath": "algorithm-20277434f0d29e651b963e380ffb7dc69a136c31"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/regex": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/throw-exception": "1.54.0",
+        "boost/exception": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/tuple": "1.54.0",
+        "boost/array": "1.54.0",
+        "boost/concept-check": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/range": "1.54.0",
+        "boost/unordered": "1.54.0",
+        "boost/function": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/351e98bfef9a3c9329ae061884c97d080c1acf30.zip",
+        "sha256": "34969dbbf95c43f8b36d8f579380f61cee66610827c0e57a5dea1735d3dd2a9c",
+        "subPath": "algorithm-351e98bfef9a3c9329ae061884c97d080c1acf30"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/regex": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/throw-exception": "1.53.0",
+        "boost/exception": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/tuple": "1.53.0",
+        "boost/array": "1.53.0",
+        "boost/concept-check": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/range": "1.53.0",
+        "boost/unordered": "1.53.0",
+        "boost/function": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/2e0efab5319a4108e08f00ccbbd6e058f3ab189d.zip",
+        "sha256": "a6b064246959f46997f7fa2821b965da0904fa00677b05ff2dad716f3a7f493e",
+        "subPath": "algorithm-2e0efab5319a4108e08f00ccbbd6e058f3ab189d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/regex": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/throw-exception": "1.52.0",
+        "boost/exception": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/tuple": "1.52.0",
+        "boost/array": "1.52.0",
+        "boost/concept-check": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/range": "1.52.0",
+        "boost/unordered": "1.52.0",
+        "boost/function": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/b613c29c1e5700b8121f1f70eb4690fb7287f236.zip",
+        "sha256": "202d7cc32039700794b0e0b67009ed982d56b3220ab5f0b71b5c75788481212d",
+        "subPath": "algorithm-b613c29c1e5700b8121f1f70eb4690fb7287f236"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/regex": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/throw-exception": "1.51.0",
+        "boost/exception": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/tuple": "1.51.0",
+        "boost/array": "1.51.0",
+        "boost/concept-check": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/range": "1.51.0",
+        "boost/unordered": "1.51.0",
+        "boost/function": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/95838c7be599491c69de6ed70c3b3652a09510bb.zip",
+        "sha256": "b6bcc9c6342eeef771cf54d77181033adc98986465951cba5b3ef027369d5566",
+        "subPath": "algorithm-95838c7be599491c69de6ed70c3b3652a09510bb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/regex": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/throw-exception": "1.50.0",
+        "boost/exception": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/tuple": "1.50.0",
+        "boost/array": "1.50.0",
+        "boost/concept-check": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/range": "1.50.0",
+        "boost/unordered": "1.50.0",
+        "boost/function": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/2b38f25727018f10544a6f4ba12f9abd6e9bb4f9.zip",
+        "sha256": "08fdc62d2eccec8bef32aea234e8e422aa5bd966b7d3657f63fd1f64affd8189",
+        "subPath": "algorithm-2b38f25727018f10544a6f4ba12f9abd6e9bb4f9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/regex": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/throw-exception": "1.49.0",
+        "boost/exception": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/tuple": "1.49.0",
+        "boost/array": "1.49.0",
+        "boost/concept-check": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/range": "1.49.0",
+        "boost/unordered": "1.49.0",
+        "boost/function": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/3f86a459295edb8dfd79646fff7ce402624ebd2e.zip",
+        "sha256": "9a10455cb43d3e2058641865182ed8aca044e969e68d4ec016cda1ac44aa0016",
+        "subPath": "algorithm-3f86a459295edb8dfd79646fff7ce402624ebd2e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/regex": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/throw-exception": "1.48.0",
+        "boost/exception": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/tuple": "1.48.0",
+        "boost/array": "1.48.0",
+        "boost/concept-check": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/range": "1.48.0",
+        "boost/unordered": "1.48.0",
+        "boost/function": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/d431a3702b6207e7f608d66e4ed45fb95893cdc6.zip",
+        "sha256": "823fd5287451fafc8a8ffde749384e3dbf9b0fbb45815f9304bc436f4989c6b5",
+        "subPath": "algorithm-d431a3702b6207e7f608d66e4ed45fb95893cdc6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/regex": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/throw-exception": "1.47.0",
+        "boost/exception": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/tuple": "1.47.0",
+        "boost/array": "1.47.0",
+        "boost/concept-check": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/range": "1.47.0",
+        "boost/unordered": "1.47.0",
+        "boost/function": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/algorithm/archive/e8706d3d9ddc84bd8e8eee23e131c22efe635381.zip",
+        "sha256": "ecfdaab66aed0fbd1cec84faf57a3f3db1a90d44d9976c24039465ba381bcdb7",
+        "subPath": "algorithm-e8706d3d9ddc84bd8e8eee23e131c22efe635381"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/algorithm/5f35e3c87384062cce8c2214e1ddb19683c65680/BUCK",
+        "sha256": "5e09aff41898e4fe0d7cff4077dbbd3102d09c4f958dc99a79083b485af3f625"
+      },
+      "dependencies": {
+        "boost/utility": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/static-assert": "1.46.1",
+        "boost/regex": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/throw-exception": "1.46.1",
+        "boost/exception": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/tuple": "1.46.1",
+        "boost/array": "1.46.1",
+        "boost/concept-check": "1.46.1",
+        "boost/config": "1.46.1",
+        "boost/range": "1.46.1",
+        "boost/unordered": "1.46.1",
+        "boost/function": "1.46.1"
       }
     }
   }

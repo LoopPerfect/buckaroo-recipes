@@ -1,0 +1,68 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dll/archive/1a8f4c1bbcb7688b110482b2daa223ee2a3db150.zip",
+        "sha256": "197454d26f9c7c17614424c9cc356dc230c68b0ee5ee90e078b55bd3acb23f2e",
+        "subPath": "dll-1a8f4c1bbcb7688b110482b2daa223ee2a3db150"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dll/archive/74c9a8c2d8515a13b195443799566ececb07ceb7.zip",
+        "sha256": "4452831e8cf5e469f3832acd9f29cd0dbcbe2ff5761b3efd4670dcd591da8ac7",
+        "subPath": "dll-74c9a8c2d8515a13b195443799566ececb07ceb7"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dll/archive/8e578d4e316a3fbb3a46212f3e3f016275dd3abf.zip",
+        "sha256": "9ac30b8f23e350d62b5f13ee0723a94e472fd8ed2c0d6661c04ecdd5cb147c9b",
+        "subPath": "dll-8e578d4e316a3fbb3a46212f3e3f016275dd3abf"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dll/archive/8e578d4e316a3fbb3a46212f3e3f016275dd3abf.zip",
+        "sha256": "9ac30b8f23e350d62b5f13ee0723a94e472fd8ed2c0d6661c04ecdd5cb147c9b",
+        "subPath": "dll-8e578d4e316a3fbb3a46212f3e3f016275dd3abf"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dll/archive/20501f456573c4e05253221c4f3eef23fa3d4e60.zip",
+        "sha256": "b35a158fe912d3b6be49f43db05a49ac09c053e2f7ad33d6a30e99119b803c48",
+        "subPath": "dll-20501f456573c4e05253221c4f3eef23fa3d4e60"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dll/archive/6f4e9ca40fa180fbd1ccff00bdabdf8b3db58554.zip",
+        "sha256": "05ec223f1c5ba46322d6aede7f4afba49899f5ea6adec803c95e640313ef0b68",
+        "subPath": "dll-6f4e9ca40fa180fbd1ccff00bdabdf8b3db58554"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dll/archive/6cf436979c09fa6dc4348765077aba2942e77ce9.zip",
+        "sha256": "0f8f17ab745987638cf4f7fe33bcfab1b62b33235b967f31d220e5fdc1aba164",
+        "subPath": "dll-6cf436979c09fa6dc4348765077aba2942e77ce9"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dll/archive/279e323ac23ccb1a9b77a95b6c9c85e88e28f250.zip",
+        "sha256": "6f0ead74c7f65ced12572788b9d0b4d78081d7ee39c795af9e019e03e37fcdd3",
+        "subPath": "dll-279e323ac23ccb1a9b77a95b6c9c85e88e28f250"
+      }
+    }
+  }
+}

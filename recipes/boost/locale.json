@@ -7,6 +7,86 @@
     "project": "locale"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/07eb6bcbee80c8acaa202dbd433c674a7591ade9.zip",
+        "sha256": "6ac56148b866f51ab000b90620148b98a329e6d7d683b1b600aa04f9194bf1df",
+        "subPath": "locale-07eb6bcbee80c8acaa202dbd433c674a7591ade9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/thread": "1.67.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/1f07ffa1521284c823cb60e37514f410adfa48eb.zip",
+        "sha256": "d269efb9ed9edd18100725b765c4963ecd2eb0a3c00275d8d91bc86ba809f97b",
+        "subPath": "locale-1f07ffa1521284c823cb60e37514f410adfa48eb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/thread": "1.66.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/1f07ffa1521284c823cb60e37514f410adfa48eb.zip",
+        "sha256": "d269efb9ed9edd18100725b765c4963ecd2eb0a3c00275d8d91bc86ba809f97b",
+        "subPath": "locale-1f07ffa1521284c823cb60e37514f410adfa48eb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/thread": "1.65.1",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/1f07ffa1521284c823cb60e37514f410adfa48eb.zip",
+        "sha256": "d269efb9ed9edd18100725b765c4963ecd2eb0a3c00275d8d91bc86ba809f97b",
+        "subPath": "locale-1f07ffa1521284c823cb60e37514f410adfa48eb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/thread": "1.65.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/7cfa65b2b8114afe44c7a950553620133cd5df15.zip",
+        "sha256": "82a38d497a692586824f0a3dad84c2ce3f5b0f33268dc782ac99d4397fc95e60",
+        "subPath": "locale-7cfa65b2b8114afe44c7a950553620133cd5df15"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/thread": "1.64.0",
+        "icu/icu4c": "*"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/locale/archive/7cfa65b2b8114afe44c7a950553620133cd5df15.zip",
@@ -20,6 +100,246 @@
       "dependencies": {
         "boost/config": "1.63.0",
         "boost/thread": "1.63.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/7cfa65b2b8114afe44c7a950553620133cd5df15.zip",
+        "sha256": "82a38d497a692586824f0a3dad84c2ce3f5b0f33268dc782ac99d4397fc95e60",
+        "subPath": "locale-7cfa65b2b8114afe44c7a950553620133cd5df15"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/thread": "1.62.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/7cfa65b2b8114afe44c7a950553620133cd5df15.zip",
+        "sha256": "82a38d497a692586824f0a3dad84c2ce3f5b0f33268dc782ac99d4397fc95e60",
+        "subPath": "locale-7cfa65b2b8114afe44c7a950553620133cd5df15"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/thread": "1.61.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/7cfa65b2b8114afe44c7a950553620133cd5df15.zip",
+        "sha256": "82a38d497a692586824f0a3dad84c2ce3f5b0f33268dc782ac99d4397fc95e60",
+        "subPath": "locale-7cfa65b2b8114afe44c7a950553620133cd5df15"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/thread": "1.60.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/26482aa844043b07cadbfcebab7789a453b0cd3d.zip",
+        "sha256": "d3b1239624bdfc372a0e0b842292b1bbbc426f712e1e661a9d4877c4c4b2ca13",
+        "subPath": "locale-26482aa844043b07cadbfcebab7789a453b0cd3d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/thread": "1.59.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/26482aa844043b07cadbfcebab7789a453b0cd3d.zip",
+        "sha256": "d3b1239624bdfc372a0e0b842292b1bbbc426f712e1e661a9d4877c4c4b2ca13",
+        "subPath": "locale-26482aa844043b07cadbfcebab7789a453b0cd3d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/thread": "1.58.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/26c444b425adbfb5caffc8006c975e60e9e6e9fa.zip",
+        "sha256": "96afa387fdb32d5970656bcf03859c57022505e5c3c3ff2685022586e1985df8",
+        "subPath": "locale-26c444b425adbfb5caffc8006c975e60e9e6e9fa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/thread": "1.57.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/26c444b425adbfb5caffc8006c975e60e9e6e9fa.zip",
+        "sha256": "96afa387fdb32d5970656bcf03859c57022505e5c3c3ff2685022586e1985df8",
+        "subPath": "locale-26c444b425adbfb5caffc8006c975e60e9e6e9fa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/thread": "1.56.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/0542987e0ab56a7448af010dbd0dc525b9fe4b2d.zip",
+        "sha256": "4d6683402b102a6ee4155f25e2102de563c4624f34d750ca6c991a7d65244d9b",
+        "subPath": "locale-0542987e0ab56a7448af010dbd0dc525b9fe4b2d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/thread": "1.55.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/815494a14696ad59a1be00577706dcbec813ec67.zip",
+        "sha256": "02a0f2b5a662ff504dfd99ae969215cd4682642f8ee6eda1fe1dfed37ecd7420",
+        "subPath": "locale-815494a14696ad59a1be00577706dcbec813ec67"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/thread": "1.54.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/71746dc78f964038ab714bb3a5f3ef94b0f7f6a5.zip",
+        "sha256": "dec1f095fdb626ca6bdb6eaff7a12848ff103e4584492a44b2252fca985390e0",
+        "subPath": "locale-71746dc78f964038ab714bb3a5f3ef94b0f7f6a5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/thread": "1.53.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/2869dacfb45dc35969b72b419d867031b2c889fa.zip",
+        "sha256": "33a91bc6cff4288e4e68f0d783e0e78451c696831921f6563604cf590b0ce4af",
+        "subPath": "locale-2869dacfb45dc35969b72b419d867031b2c889fa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/thread": "1.52.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/0a81e5b9e65d574c9d4e0a73a7cb304e5b94fb26.zip",
+        "sha256": "098496627fe0ca82f307c7ef95b13f8fdc48bb7c764bcedda38f7aef7429e909",
+        "subPath": "locale-0a81e5b9e65d574c9d4e0a73a7cb304e5b94fb26"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/thread": "1.51.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/48e820a205680f8d424286fc9c1959190a833ea9.zip",
+        "sha256": "ca2234f1ae06ca109f55c4a2b317e915ae071140a6c5a1f583e09231d099ebc6",
+        "subPath": "locale-48e820a205680f8d424286fc9c1959190a833ea9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/thread": "1.50.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/b87cd8740b0e2f329c0b5302e2f5a758df0d221e.zip",
+        "sha256": "977aaa656843752060e21e602f6df06d7d1b5cb4baca8e963b373d1a75ff247a",
+        "subPath": "locale-b87cd8740b0e2f329c0b5302e2f5a758df0d221e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/thread": "1.49.0",
+        "icu/icu4c": "*"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/locale/archive/8fd1d820d69b7277de3ec37d3f1d26120b4868e4.zip",
+        "sha256": "6ec956c9c814e8ee043a120fbee42c601983103853eadfd8f78dd596104c739f",
+        "subPath": "locale-8fd1d820d69b7277de3ec37d3f1d26120b4868e4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/nikhedonia/locale/08b5daff7119ff8e5865185e88b27f5fe8d6fa0c/BUCK",
+        "sha256": "e8efaba9a5774c7146e2deea2e08e398d0c4eac4feffd1c825fd72892c63e071"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/thread": "1.48.0",
         "icu/icu4c": "*"
       }
     }

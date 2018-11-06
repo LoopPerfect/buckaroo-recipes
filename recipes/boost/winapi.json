@@ -4,6 +4,81 @@
   "url": "http://boost.org/libs/winapi",
   "github": "boostorg/winapi",
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/f004b4753d6fee6f68c90cfc65b075fa0a33d092.zip",
+        "sha256": "8489596f3c7cb530ad19955ce5629c79f86aea466de8253d2b14026259139a81",
+        "subPath": "winapi-f004b4753d6fee6f68c90cfc65b075fa0a33d092"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/predef": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/f004b4753d6fee6f68c90cfc65b075fa0a33d092.zip",
+        "sha256": "8489596f3c7cb530ad19955ce5629c79f86aea466de8253d2b14026259139a81",
+        "subPath": "winapi-f004b4753d6fee6f68c90cfc65b075fa0a33d092"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/predef": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/54c4cfc30fb98327bc3ca98f3e1790282ece8679.zip",
+        "sha256": "af11e5d46ca6c059fa34ab089a3e90bc5fa88543fb403be22a4088c7d678bf2b",
+        "subPath": "winapi-54c4cfc30fb98327bc3ca98f3e1790282ece8679"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/predef": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/54c4cfc30fb98327bc3ca98f3e1790282ece8679.zip",
+        "sha256": "af11e5d46ca6c059fa34ab089a3e90bc5fa88543fb403be22a4088c7d678bf2b",
+        "subPath": "winapi-54c4cfc30fb98327bc3ca98f3e1790282ece8679"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/predef": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/c3e8180be5090137cb3d40da04a354bffbda3d64.zip",
+        "sha256": "04bc6907ad294254cc811d160bcfeaf3ca4f8cb0da03e7f339ad9884f5e18e1c",
+        "subPath": "winapi-c3e8180be5090137cb3d40da04a354bffbda3d64"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/predef": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/winapi/archive/e329e1d0d116739ea0083dd01fd08a054785f370.zip",
@@ -17,6 +92,111 @@
       "dependencies": {
         "boost/config": "1.63.0",
         "boost/predef": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/731e8c2db2127bf96128b2e2c5e18d325c9a0af8.zip",
+        "sha256": "acb18a49a6298d3b9a023f77dbbe517480592a0e73dd7376c86bb6c276333611",
+        "subPath": "winapi-731e8c2db2127bf96128b2e2c5e18d325c9a0af8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/predef": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/5aa4401595c3ce2c7fa5f7bc5386aaab1953b6d9.zip",
+        "sha256": "9ff00074f7a6eebb4a12c38bcd15ea4a4a130e197eaadce12b8d5a2afbcc056f",
+        "subPath": "winapi-5aa4401595c3ce2c7fa5f7bc5386aaab1953b6d9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/predef": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/9ecf1c1b1705e16b64689e85ccca59b5b1dda610.zip",
+        "sha256": "7dec3a87f4d0b05c1fe33a5b6d0dd3a42f19dedbb61c244314b86dec10e6b83d",
+        "subPath": "winapi-9ecf1c1b1705e16b64689e85ccca59b5b1dda610"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/predef": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/753adfa76cb36db6e73076237876f55d5f1fb502.zip",
+        "sha256": "c4512b911935d802babc6d9403e5da0d2ccb7fce4a4936756db5060ff99913c6",
+        "subPath": "winapi-753adfa76cb36db6e73076237876f55d5f1fb502"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/predef": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/753adfa76cb36db6e73076237876f55d5f1fb502.zip",
+        "sha256": "c4512b911935d802babc6d9403e5da0d2ccb7fce4a4936756db5060ff99913c6",
+        "subPath": "winapi-753adfa76cb36db6e73076237876f55d5f1fb502"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/predef": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/753adfa76cb36db6e73076237876f55d5f1fb502.zip",
+        "sha256": "c4512b911935d802babc6d9403e5da0d2ccb7fce4a4936756db5060ff99913c6",
+        "subPath": "winapi-753adfa76cb36db6e73076237876f55d5f1fb502"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/predef": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/winapi/archive/63de4980b59b17643748107b583f25b77db5a501.zip",
+        "sha256": "a1c72f3d083f0bf1a49a00ca6324068108aeabe2f8f745a93bb2172aa403e497",
+        "subPath": "winapi-63de4980b59b17643748107b583f25b77db5a501"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/winapi/47064e88f2d5256d86a65cd7919311ab53095f14/BUCK",
+        "sha256": "19273b9c6b212c569d753656794bc94014efb6d0121f7361f05609289e79907f"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/predef": "1.56.0"
       }
     }
   }

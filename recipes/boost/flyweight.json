@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/0c41920a354cee27cf86a7f75569c70fb8900c78.zip",
+        "sha256": "b193729a3f03bea2dbdaaa48f7f2cfae4ed95adbb46599deb4bbc5e0099d0a7a",
+        "subPath": "flyweight-0c41920a354cee27cf86a7f75569c70fb8900c78"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/0c41920a354cee27cf86a7f75569c70fb8900c78.zip",
+        "sha256": "b193729a3f03bea2dbdaaa48f7f2cfae4ed95adbb46599deb4bbc5e0099d0a7a",
+        "subPath": "flyweight-0c41920a354cee27cf86a7f75569c70fb8900c78"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/0c41920a354cee27cf86a7f75569c70fb8900c78.zip",
+        "sha256": "b193729a3f03bea2dbdaaa48f7f2cfae4ed95adbb46599deb4bbc5e0099d0a7a",
+        "subPath": "flyweight-0c41920a354cee27cf86a7f75569c70fb8900c78"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/0c41920a354cee27cf86a7f75569c70fb8900c78.zip",
+        "sha256": "b193729a3f03bea2dbdaaa48f7f2cfae4ed95adbb46599deb4bbc5e0099d0a7a",
+        "subPath": "flyweight-0c41920a354cee27cf86a7f75569c70fb8900c78"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/0c41920a354cee27cf86a7f75569c70fb8900c78.zip",
+        "sha256": "b193729a3f03bea2dbdaaa48f7f2cfae4ed95adbb46599deb4bbc5e0099d0a7a",
+        "subPath": "flyweight-0c41920a354cee27cf86a7f75569c70fb8900c78"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/0c41920a354cee27cf86a7f75569c70fb8900c78.zip",
+        "sha256": "b193729a3f03bea2dbdaaa48f7f2cfae4ed95adbb46599deb4bbc5e0099d0a7a",
+        "subPath": "flyweight-0c41920a354cee27cf86a7f75569c70fb8900c78"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/0c41920a354cee27cf86a7f75569c70fb8900c78.zip",
+        "sha256": "b193729a3f03bea2dbdaaa48f7f2cfae4ed95adbb46599deb4bbc5e0099d0a7a",
+        "subPath": "flyweight-0c41920a354cee27cf86a7f75569c70fb8900c78"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/0c41920a354cee27cf86a7f75569c70fb8900c78.zip",
+        "sha256": "b193729a3f03bea2dbdaaa48f7f2cfae4ed95adbb46599deb4bbc5e0099d0a7a",
+        "subPath": "flyweight-0c41920a354cee27cf86a7f75569c70fb8900c78"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/e573ff20773f1060890d6067bf0662b319602efc.zip",
+        "sha256": "99b9a2b9dbc9ba9c581a52928e74357082abc4c02288eaeccc8f162454e19ff1",
+        "subPath": "flyweight-e573ff20773f1060890d6067bf0662b319602efc"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/3a5bcd22f0944b43f40ce9451740e0d50f8235ba.zip",
+        "sha256": "978e4e2722979c457d2ab1f7b0179d1c00d5bdf9d37a0d667692990ff810f17c",
+        "subPath": "flyweight-3a5bcd22f0944b43f40ce9451740e0d50f8235ba"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/3a5bcd22f0944b43f40ce9451740e0d50f8235ba.zip",
+        "sha256": "978e4e2722979c457d2ab1f7b0179d1c00d5bdf9d37a0d667692990ff810f17c",
+        "subPath": "flyweight-3a5bcd22f0944b43f40ce9451740e0d50f8235ba"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/f2e7c2ce4e9ac3e2ad4f044d567a20ed17609acc.zip",
+        "sha256": "2209aa3e3a8bb8d2e03f850e34d2f464b82aa9cd7e5c1bef340b70a9344eaaff",
+        "subPath": "flyweight-f2e7c2ce4e9ac3e2ad4f044d567a20ed17609acc"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/3dcec78222ea90eaf4e32dff0d32330164aad3cc.zip",
+        "sha256": "0c0540e5cbca22b3db34b88d1527d8261241fdb4381f9fe1fde3f3f8773d155a",
+        "subPath": "flyweight-3dcec78222ea90eaf4e32dff0d32330164aad3cc"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/39c435140ea28e537623f2dc7ae3f6d6b3e848e6.zip",
+        "sha256": "cc817b70a0b169f902164ba85548d1c387ee9612d2225ca45fcf3ab5b0ca706a",
+        "subPath": "flyweight-39c435140ea28e537623f2dc7ae3f6d6b3e848e6"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/2f50cfbfea97a091b71b7b1dbd9541f6b3579f2d.zip",
+        "sha256": "fd01a9394328b9edb486d48998256970d1cfe433c6abbf11567948d430ad2c45",
+        "subPath": "flyweight-2f50cfbfea97a091b71b7b1dbd9541f6b3579f2d"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/ae1f0ceba31edc3167f8bac5eb1d7334d558e1c4.zip",
+        "sha256": "a780924ac4ca6b3452eb6fef96bb4232d94d23769e284e5af47437b6a7fb5c28",
+        "subPath": "flyweight-ae1f0ceba31edc3167f8bac5eb1d7334d558e1c4"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/46a4214c300e3ed9e4fafc4941dd3a7c548015b8.zip",
+        "sha256": "57cca6941ac2e510bdc46e1c7a4b1fdc46d9ddf83ae35a474ba419b8308fdc48",
+        "subPath": "flyweight-46a4214c300e3ed9e4fafc4941dd3a7c548015b8"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/bc2c59a3e773fa3f8295704914a11b3cbca95cee.zip",
+        "sha256": "630dd78308e8580b470fba5f89f024b15abfdd4ac91f9bb6f167984e68b4be25",
+        "subPath": "flyweight-bc2c59a3e773fa3f8295704914a11b3cbca95cee"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/5109f6eeba1d20428e4089d297e2244d44f3e048.zip",
+        "sha256": "a4338566f961534e2d9e99dba1144d366e43965f945f1b2f0a01eaa6229bb2fd",
+        "subPath": "flyweight-5109f6eeba1d20428e4089d297e2244d44f3e048"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/8b9a526659465f403192c07ba8980b7d3dcc94e2.zip",
+        "sha256": "e580f18226011a76aa7bb9492ffec12ca14d1e8f7ba87119b26171fe9aa1588e",
+        "subPath": "flyweight-8b9a526659465f403192c07ba8980b7d3dcc94e2"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/02a06a2539850ba108c3c3681851139f6a30aad3.zip",
+        "sha256": "2b429c67dd318401b4ff5f04a0764e6619e880fde7c1f61aa3d715802857e68a",
+        "subPath": "flyweight-02a06a2539850ba108c3c3681851139f6a30aad3"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/877e0da743b9cb7e068f0f4f067d9ee85dc82655.zip",
+        "sha256": "7487c0c8cbe53a9c45edc906a8e347f90819f1933173157c37c6161ea185214d",
+        "subPath": "flyweight-877e0da743b9cb7e068f0f4f067d9ee85dc82655"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/flyweight/archive/51e15053c2d01d66dc79c20078ddfe222a530324.zip",
+        "sha256": "f1474030456b654d1eaf9c85d90043c49fbc1e693aa9dd71d4baa7dee313ef11",
+        "subPath": "flyweight-51e15053c2d01d66dc79c20078ddfe222a530324"
+      }
+    }
+  }
+}

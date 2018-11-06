@@ -7,6 +7,181 @@
     "project": "xpressive"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/4d4bc69f8b05e63c744e6f477df6a364affbc603.zip",
+        "sha256": "acec882ec52483df42e9343f1690dc5078a6fd34e31f3860516c1879bee72023",
+        "subPath": "xpressive-4d4bc69f8b05e63c744e6f477df6a364affbc603"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/proto": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/typeof": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/throw-exception": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/exception": "1.67.0",
+        "boost/intrusive": "1.67.0",
+        "boost/smart-ptr": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/range": "1.67.0",
+        "boost/bind": "1.67.0",
+        "boost/conversion": "1.67.0",
+        "boost/numeric-conversion": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/optional": "1.67.0",
+        "boost/integer": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/lexical-cast": "1.67.0",
+        "boost/preprocessor": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/4d4bc69f8b05e63c744e6f477df6a364affbc603.zip",
+        "sha256": "acec882ec52483df42e9343f1690dc5078a6fd34e31f3860516c1879bee72023",
+        "subPath": "xpressive-4d4bc69f8b05e63c744e6f477df6a364affbc603"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/proto": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/typeof": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/throw-exception": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/exception": "1.66.0",
+        "boost/intrusive": "1.66.0",
+        "boost/smart-ptr": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/range": "1.66.0",
+        "boost/bind": "1.66.0",
+        "boost/conversion": "1.66.0",
+        "boost/numeric-conversion": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/optional": "1.66.0",
+        "boost/integer": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/lexical-cast": "1.66.0",
+        "boost/preprocessor": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/d154ea28f367d725c9b0c6d40d2d137709d52d9d.zip",
+        "sha256": "2f2ce41a8a064ecfd1987b12de378bb606e99049bb2d15db4b97016017e1956d",
+        "subPath": "xpressive-d154ea28f367d725c9b0c6d40d2d137709d52d9d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/proto": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/typeof": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/throw-exception": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/exception": "1.65.1",
+        "boost/intrusive": "1.65.1",
+        "boost/smart-ptr": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/range": "1.65.1",
+        "boost/bind": "1.65.1",
+        "boost/conversion": "1.65.1",
+        "boost/numeric-conversion": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/optional": "1.65.1",
+        "boost/integer": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/lexical-cast": "1.65.1",
+        "boost/preprocessor": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/d154ea28f367d725c9b0c6d40d2d137709d52d9d.zip",
+        "sha256": "2f2ce41a8a064ecfd1987b12de378bb606e99049bb2d15db4b97016017e1956d",
+        "subPath": "xpressive-d154ea28f367d725c9b0c6d40d2d137709d52d9d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/proto": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/typeof": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/throw-exception": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/exception": "1.65.0",
+        "boost/intrusive": "1.65.0",
+        "boost/smart-ptr": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/range": "1.65.0",
+        "boost/bind": "1.65.0",
+        "boost/conversion": "1.65.0",
+        "boost/numeric-conversion": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/optional": "1.65.0",
+        "boost/integer": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/lexical-cast": "1.65.0",
+        "boost/preprocessor": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/f03b7b8a524f00d2ede4dd5efa7abc0815073eb0.zip",
+        "sha256": "137b28109370fcf90f15477229e9fc87eee2ad6ec101bacc35bc3d8878935946",
+        "subPath": "xpressive-f03b7b8a524f00d2ede4dd5efa7abc0815073eb0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/proto": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/typeof": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/throw-exception": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/exception": "1.64.0",
+        "boost/intrusive": "1.64.0",
+        "boost/smart-ptr": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/range": "1.64.0",
+        "boost/bind": "1.64.0",
+        "boost/conversion": "1.64.0",
+        "boost/numeric-conversion": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/optional": "1.64.0",
+        "boost/integer": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/lexical-cast": "1.64.0",
+        "boost/preprocessor": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/xpressive/archive/f03b7b8a524f00d2ede4dd5efa7abc0815073eb0.zip",
@@ -40,6 +215,601 @@
         "boost/core": "1.63.0",
         "boost/lexical-cast": "1.63.0",
         "boost/preprocessor": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/2f5bf84198c48f8561918cf0241c5c7af0991981.zip",
+        "sha256": "95215fb0d8cfdbd90721aa1d2cbed6203e1575e8f4e64e16e91f9e520f7b1a8c",
+        "subPath": "xpressive-2f5bf84198c48f8561918cf0241c5c7af0991981"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/proto": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/typeof": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/throw-exception": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/exception": "1.62.0",
+        "boost/intrusive": "1.62.0",
+        "boost/smart-ptr": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/range": "1.62.0",
+        "boost/bind": "1.62.0",
+        "boost/conversion": "1.62.0",
+        "boost/numeric-conversion": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/optional": "1.62.0",
+        "boost/integer": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/lexical-cast": "1.62.0",
+        "boost/preprocessor": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/2f5bf84198c48f8561918cf0241c5c7af0991981.zip",
+        "sha256": "95215fb0d8cfdbd90721aa1d2cbed6203e1575e8f4e64e16e91f9e520f7b1a8c",
+        "subPath": "xpressive-2f5bf84198c48f8561918cf0241c5c7af0991981"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/proto": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/typeof": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/throw-exception": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/exception": "1.61.0",
+        "boost/intrusive": "1.61.0",
+        "boost/smart-ptr": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/range": "1.61.0",
+        "boost/bind": "1.61.0",
+        "boost/conversion": "1.61.0",
+        "boost/numeric-conversion": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/optional": "1.61.0",
+        "boost/integer": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/lexical-cast": "1.61.0",
+        "boost/preprocessor": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/2f5bf84198c48f8561918cf0241c5c7af0991981.zip",
+        "sha256": "95215fb0d8cfdbd90721aa1d2cbed6203e1575e8f4e64e16e91f9e520f7b1a8c",
+        "subPath": "xpressive-2f5bf84198c48f8561918cf0241c5c7af0991981"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/proto": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/typeof": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/throw-exception": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/exception": "1.60.0",
+        "boost/intrusive": "1.60.0",
+        "boost/smart-ptr": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/range": "1.60.0",
+        "boost/bind": "1.60.0",
+        "boost/conversion": "1.60.0",
+        "boost/numeric-conversion": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/optional": "1.60.0",
+        "boost/integer": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/lexical-cast": "1.60.0",
+        "boost/preprocessor": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/2f5bf84198c48f8561918cf0241c5c7af0991981.zip",
+        "sha256": "95215fb0d8cfdbd90721aa1d2cbed6203e1575e8f4e64e16e91f9e520f7b1a8c",
+        "subPath": "xpressive-2f5bf84198c48f8561918cf0241c5c7af0991981"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/proto": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/typeof": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/throw-exception": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/exception": "1.59.0",
+        "boost/intrusive": "1.59.0",
+        "boost/smart-ptr": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/range": "1.59.0",
+        "boost/bind": "1.59.0",
+        "boost/conversion": "1.59.0",
+        "boost/numeric-conversion": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/optional": "1.59.0",
+        "boost/integer": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/lexical-cast": "1.59.0",
+        "boost/preprocessor": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/2f5bf84198c48f8561918cf0241c5c7af0991981.zip",
+        "sha256": "95215fb0d8cfdbd90721aa1d2cbed6203e1575e8f4e64e16e91f9e520f7b1a8c",
+        "subPath": "xpressive-2f5bf84198c48f8561918cf0241c5c7af0991981"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/proto": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/typeof": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/throw-exception": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/exception": "1.58.0",
+        "boost/intrusive": "1.58.0",
+        "boost/smart-ptr": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/range": "1.58.0",
+        "boost/bind": "1.58.0",
+        "boost/conversion": "1.58.0",
+        "boost/numeric-conversion": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/optional": "1.58.0",
+        "boost/integer": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/lexical-cast": "1.58.0",
+        "boost/preprocessor": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/2f5bf84198c48f8561918cf0241c5c7af0991981.zip",
+        "sha256": "95215fb0d8cfdbd90721aa1d2cbed6203e1575e8f4e64e16e91f9e520f7b1a8c",
+        "subPath": "xpressive-2f5bf84198c48f8561918cf0241c5c7af0991981"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/proto": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/typeof": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/throw-exception": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/exception": "1.57.0",
+        "boost/intrusive": "1.57.0",
+        "boost/smart-ptr": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/range": "1.57.0",
+        "boost/bind": "1.57.0",
+        "boost/conversion": "1.57.0",
+        "boost/numeric-conversion": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/optional": "1.57.0",
+        "boost/integer": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/lexical-cast": "1.57.0",
+        "boost/preprocessor": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/2f5bf84198c48f8561918cf0241c5c7af0991981.zip",
+        "sha256": "95215fb0d8cfdbd90721aa1d2cbed6203e1575e8f4e64e16e91f9e520f7b1a8c",
+        "subPath": "xpressive-2f5bf84198c48f8561918cf0241c5c7af0991981"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/proto": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/typeof": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/throw-exception": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/exception": "1.56.0",
+        "boost/intrusive": "1.56.0",
+        "boost/smart-ptr": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/range": "1.56.0",
+        "boost/bind": "1.56.0",
+        "boost/conversion": "1.56.0",
+        "boost/numeric-conversion": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/optional": "1.56.0",
+        "boost/integer": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/lexical-cast": "1.56.0",
+        "boost/preprocessor": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/a98c2a0ed80979efb61986f5167a25ff24900cb4.zip",
+        "sha256": "d3cbf7342a597c042ab6792b7b9bd3d4f991607da7a05719e5a1793446585c06",
+        "subPath": "xpressive-a98c2a0ed80979efb61986f5167a25ff24900cb4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/proto": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/typeof": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/throw-exception": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/exception": "1.55.0",
+        "boost/intrusive": "1.55.0",
+        "boost/smart-ptr": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/range": "1.55.0",
+        "boost/bind": "1.55.0",
+        "boost/conversion": "1.55.0",
+        "boost/numeric-conversion": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/optional": "1.55.0",
+        "boost/integer": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/lexical-cast": "1.55.0",
+        "boost/preprocessor": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/fa76628c602d8be570b5ef3f1638357e1677fffb.zip",
+        "sha256": "62b2aa905c3f79ae32809f321ff5df2969a111da43904a4e77b3342ab0995e75",
+        "subPath": "xpressive-fa76628c602d8be570b5ef3f1638357e1677fffb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/proto": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/typeof": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/throw-exception": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/exception": "1.54.0",
+        "boost/intrusive": "1.54.0",
+        "boost/smart-ptr": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/range": "1.54.0",
+        "boost/bind": "1.54.0",
+        "boost/conversion": "1.54.0",
+        "boost/numeric-conversion": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/optional": "1.54.0",
+        "boost/integer": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/lexical-cast": "1.54.0",
+        "boost/preprocessor": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/e3922c74a6f0995714a6a22dc77500abdad83093.zip",
+        "sha256": "19a8dc67a9c2c3ed81b6a23b832918d9b14ab2d93e721d34e42e523113bc9a49",
+        "subPath": "xpressive-e3922c74a6f0995714a6a22dc77500abdad83093"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/proto": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/typeof": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/throw-exception": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/exception": "1.53.0",
+        "boost/intrusive": "1.53.0",
+        "boost/smart-ptr": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/range": "1.53.0",
+        "boost/bind": "1.53.0",
+        "boost/conversion": "1.53.0",
+        "boost/numeric-conversion": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/optional": "1.53.0",
+        "boost/integer": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/lexical-cast": "1.53.0",
+        "boost/preprocessor": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/e8e80bd3f8619b86d3b29518830769c29154acff.zip",
+        "sha256": "029f7921c2ed061895ae23fbed34642388514d6bae1cad33757d78dcd6d0d930",
+        "subPath": "xpressive-e8e80bd3f8619b86d3b29518830769c29154acff"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/proto": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/typeof": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/throw-exception": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/exception": "1.52.0",
+        "boost/intrusive": "1.52.0",
+        "boost/smart-ptr": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/range": "1.52.0",
+        "boost/bind": "1.52.0",
+        "boost/conversion": "1.52.0",
+        "boost/numeric-conversion": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/optional": "1.52.0",
+        "boost/integer": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/lexical-cast": "1.52.0",
+        "boost/preprocessor": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/8bfe15fcc80bcfc71ef7003432cf228b998f5948.zip",
+        "sha256": "fe0bf1f7c2a1bb3e98c7d01b8ca3faf1ec55a81e69ec74999ca4b2af76d7f642",
+        "subPath": "xpressive-8bfe15fcc80bcfc71ef7003432cf228b998f5948"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/proto": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/typeof": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/throw-exception": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/exception": "1.51.0",
+        "boost/intrusive": "1.51.0",
+        "boost/smart-ptr": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/range": "1.51.0",
+        "boost/bind": "1.51.0",
+        "boost/conversion": "1.51.0",
+        "boost/numeric-conversion": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/optional": "1.51.0",
+        "boost/integer": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/lexical-cast": "1.51.0",
+        "boost/preprocessor": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/7ea197158d7c0ac6bbaa9da653848eaa6bafafc4.zip",
+        "sha256": "121febdee97ce424b66a5aa9cef2e617bd7c77817ce463c14d26d0e5de6caa9d",
+        "subPath": "xpressive-7ea197158d7c0ac6bbaa9da653848eaa6bafafc4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/proto": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/typeof": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/throw-exception": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/exception": "1.50.0",
+        "boost/intrusive": "1.50.0",
+        "boost/smart-ptr": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/range": "1.50.0",
+        "boost/bind": "1.50.0",
+        "boost/conversion": "1.50.0",
+        "boost/numeric-conversion": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/optional": "1.50.0",
+        "boost/integer": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/lexical-cast": "1.50.0",
+        "boost/preprocessor": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/802916c593ba1da21312d46df24dc4ddbaae9e1b.zip",
+        "sha256": "2e7a31e9ef054cd67de8726dddcd101c4de363cdaf91ea29c80209a6387c9b25",
+        "subPath": "xpressive-802916c593ba1da21312d46df24dc4ddbaae9e1b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/proto": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/typeof": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/throw-exception": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/exception": "1.49.0",
+        "boost/intrusive": "1.49.0",
+        "boost/smart-ptr": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/range": "1.49.0",
+        "boost/bind": "1.49.0",
+        "boost/conversion": "1.49.0",
+        "boost/numeric-conversion": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/optional": "1.49.0",
+        "boost/integer": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/lexical-cast": "1.49.0",
+        "boost/preprocessor": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/e63a96b17b40dcc721e4aa387c04bcd21ef7b3c0.zip",
+        "sha256": "8ae32c4c13e804c601f02d422974ccc5a49a4d496a4abfaaac03ea502dbe3d42",
+        "subPath": "xpressive-e63a96b17b40dcc721e4aa387c04bcd21ef7b3c0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/proto": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/typeof": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/throw-exception": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/exception": "1.48.0",
+        "boost/intrusive": "1.48.0",
+        "boost/smart-ptr": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/range": "1.48.0",
+        "boost/bind": "1.48.0",
+        "boost/conversion": "1.48.0",
+        "boost/numeric-conversion": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/optional": "1.48.0",
+        "boost/integer": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/lexical-cast": "1.48.0",
+        "boost/preprocessor": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/e205e95d600bc83efe72d5d67647d25d8c3e9676.zip",
+        "sha256": "4030d891ea1bfe224e6f833e5d1a560e64c063555bc8edb5086896c07d4add02",
+        "subPath": "xpressive-e205e95d600bc83efe72d5d67647d25d8c3e9676"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/proto": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/typeof": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/throw-exception": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/exception": "1.47.0",
+        "boost/intrusive": "1.47.0",
+        "boost/smart-ptr": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/range": "1.47.0",
+        "boost/bind": "1.47.0",
+        "boost/conversion": "1.47.0",
+        "boost/numeric-conversion": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/optional": "1.47.0",
+        "boost/integer": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/lexical-cast": "1.47.0",
+        "boost/preprocessor": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/xpressive/archive/61d1602175d6d8fa4647da121f98a378f3882d33.zip",
+        "sha256": "b4837ac04d56608bed0fa0526fd7053cf40f7d720b07171671073e1516a7d827",
+        "subPath": "xpressive-61d1602175d6d8fa4647da121f98a378f3882d33"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/xpressive/3439320802ddab60d2bccf5c4c7b8997eab6cf50/BUCK",
+        "sha256": "dbeaaf8693ba49c72c669d33109e52856d8e87e3943142617e23ee5c8fba8bfe"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/proto": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/typeof": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/throw-exception": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/exception": "1.46.1",
+        "boost/intrusive": "1.46.1",
+        "boost/smart-ptr": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/range": "1.46.1",
+        "boost/bind": "1.46.1",
+        "boost/conversion": "1.46.1",
+        "boost/numeric-conversion": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/optional": "1.46.1",
+        "boost/integer": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/lexical-cast": "1.46.1",
+        "boost/preprocessor": "1.46.1"
       }
     }
   }

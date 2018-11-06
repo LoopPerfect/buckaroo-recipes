@@ -18,20 +18,20 @@
         "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
       },
       "dependencies": {
-        "boost/detail": "1.63.0-1.67.0",
-        "boost/config": "1.63.0-1.67.0",
-        "boost/type-traits": "1.63.0-1.67.0",
-        "boost/smart-ptr": "1.63.0-1.67.0",
-        "boost/function": "1.63.0-1.67.0",
-        "boost/mpl": "1.63.0-1.67.0",
-        "boost/preprocessor": "1.63.0-1.67.0",
-        "boost/timer": "1.63.0-1.67.0",
-        "boost/algorithm": "1.63.0-1.67.0",
-        "boost/iterator": "1.63.0-1.67.0",
-        "boost/numeric-conversion": "1.63.0-1.67.0",
-        "boost/math": "1.63.0-1.67.0",
-        "boost/thread": "1.63.0-1.67.0",
-        "boost/multiprecision": "1.63.0-1.67.0"
+        "boost/detail": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/smart-ptr": "1.67.0",
+        "boost/function": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/timer": "1.67.0",
+        "boost/algorithm": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/numeric-conversion": "1.67.0",
+        "boost/math": "1.67.0",
+        "boost/thread": "1.67.0",
+        "boost/multiprecision": "1.67.0"
       }
     },
     "1.66.0": {
@@ -45,20 +45,47 @@
         "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
       },
       "dependencies": {
-        "boost/detail": "1.63.0-1.67.0",
-        "boost/config": "1.63.0-1.67.0",
-        "boost/type-traits": "1.63.0-1.67.0",
-        "boost/smart-ptr": "1.63.0-1.67.0",
-        "boost/function": "1.63.0-1.67.0",
-        "boost/mpl": "1.63.0-1.67.0",
-        "boost/preprocessor": "1.63.0-1.67.0",
-        "boost/timer": "1.63.0-1.67.0",
-        "boost/algorithm": "1.63.0-1.67.0",
-        "boost/iterator": "1.63.0-1.67.0",
-        "boost/numeric-conversion": "1.63.0-1.67.0",
-        "boost/math": "1.63.0-1.67.0",
-        "boost/thread": "1.63.0-1.67.0",
-        "boost/multiprecision": "1.63.0-1.67.0"
+        "boost/detail": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/smart-ptr": "1.66.0",
+        "boost/function": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/timer": "1.66.0",
+        "boost/algorithm": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/numeric-conversion": "1.66.0",
+        "boost/math": "1.66.0",
+        "boost/thread": "1.66.0",
+        "boost/multiprecision": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/7813b4557b726d55b99343a709663b58215ca3e7.zip",
+        "sha256": "3fbcbcb59befcb05850d87e5c208e7bebaf46734805dea16efd98ccbe0784cfb",
+        "subPath": "test-7813b4557b726d55b99343a709663b58215ca3e7"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/smart-ptr": "1.65.1",
+        "boost/function": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/timer": "1.65.1",
+        "boost/algorithm": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/numeric-conversion": "1.65.1",
+        "boost/math": "1.65.1",
+        "boost/thread": "1.65.1",
+        "boost/multiprecision": "1.65.1"
       }
     },
     "1.65.0": {
@@ -72,20 +99,20 @@
         "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
       },
       "dependencies": {
-        "boost/detail": "1.63.0-1.67.0",
-        "boost/config": "1.63.0-1.67.0",
-        "boost/type-traits": "1.63.0-1.67.0",
-        "boost/smart-ptr": "1.63.0-1.67.0",
-        "boost/function": "1.63.0-1.67.0",
-        "boost/mpl": "1.63.0-1.67.0",
-        "boost/preprocessor": "1.63.0-1.67.0",
-        "boost/timer": "1.63.0-1.67.0",
-        "boost/algorithm": "1.63.0-1.67.0",
-        "boost/iterator": "1.63.0-1.67.0",
-        "boost/numeric-conversion": "1.63.0-1.67.0",
-        "boost/math": "1.63.0-1.67.0",
-        "boost/thread": "1.63.0-1.67.0",
-        "boost/multiprecision": "1.63.0-1.67.0"
+        "boost/detail": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/smart-ptr": "1.65.0",
+        "boost/function": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/timer": "1.65.0",
+        "boost/algorithm": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/numeric-conversion": "1.65.0",
+        "boost/math": "1.65.0",
+        "boost/thread": "1.65.0",
+        "boost/multiprecision": "1.65.0"
       }
     },
     "1.64.0": {
@@ -99,47 +126,506 @@
         "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
       },
       "dependencies": {
-        "boost/detail": "1.63.0-1.67.0",
-        "boost/config": "1.63.0-1.67.0",
-        "boost/type-traits": "1.63.0-1.67.0",
-        "boost/smart-ptr": "1.63.0-1.67.0",
-        "boost/function": "1.63.0-1.67.0",
-        "boost/mpl": "1.63.0-1.67.0",
-        "boost/preprocessor": "1.63.0-1.67.0",
-        "boost/timer": "1.63.0-1.67.0",
-        "boost/algorithm": "1.63.0-1.67.0",
-        "boost/iterator": "1.63.0-1.67.0",
-        "boost/numeric-conversion": "1.63.0-1.67.0",
-        "boost/math": "1.63.0-1.67.0",
-        "boost/thread": "1.63.0-1.67.0",
-        "boost/multiprecision": "1.63.0-1.67.0"
+        "boost/detail": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/smart-ptr": "1.64.0",
+        "boost/function": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/timer": "1.64.0",
+        "boost/algorithm": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/numeric-conversion": "1.64.0",
+        "boost/math": "1.64.0",
+        "boost/thread": "1.64.0",
+        "boost/multiprecision": "1.64.0"
       }
     },
     "1.63.0": {
       "source": {
-        "url": "https://github.com/boostorg/test/archive/af78890325948bed598361966fa7f5fc9560c41d.zip",
-        "sha256": "09999698e51002c3bcca81cc6a8014567a2529d8e9247f0fdd778feec05423aa",
-        "subPath": "test-af78890325948bed598361966fa7f5fc9560c41d"
+        "url": "https://github.com/boostorg/test/archive/81f614edcc4956af85bd1ff2401818730109feb0.zip",
+        "sha256": "2a69e1732368a82cf19a51825c7c822dd8fdd142c8de4e49c0050781b4d9dfdc",
+        "subPath": "test-81f614edcc4956af85bd1ff2401818730109feb0"
       },
       "buck": {
         "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
         "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
       },
       "dependencies": {
-        "boost/detail": "1.63.0-1.67.0",
-        "boost/config": "1.63.0-1.67.0",
-        "boost/type-traits": "1.63.0-1.67.0",
-        "boost/smart-ptr": "1.63.0-1.67.0",
-        "boost/function": "1.63.0-1.67.0",
-        "boost/mpl": "1.63.0-1.67.0",
-        "boost/preprocessor": "1.63.0-1.67.0",
-        "boost/timer": "1.63.0-1.67.0",
-        "boost/algorithm": "1.63.0-1.67.0",
-        "boost/iterator": "1.63.0-1.67.0",
-        "boost/numeric-conversion": "1.63.0-1.67.0",
-        "boost/math": "1.63.0-1.67.0",
-        "boost/thread": "1.63.0-1.67.0",
-        "boost/multiprecision": "1.63.0-1.67.0"
+        "boost/detail": "1.63.0",
+        "boost/config": "1.63.0",
+        "boost/type-traits": "1.63.0",
+        "boost/smart-ptr": "1.63.0",
+        "boost/function": "1.63.0",
+        "boost/mpl": "1.63.0",
+        "boost/preprocessor": "1.63.0",
+        "boost/timer": "1.63.0",
+        "boost/algorithm": "1.63.0",
+        "boost/iterator": "1.63.0",
+        "boost/numeric-conversion": "1.63.0",
+        "boost/math": "1.63.0",
+        "boost/thread": "1.63.0",
+        "boost/multiprecision": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/ec28bf875d63d6fef3ccc1daf4c7640b20029f17.zip",
+        "sha256": "8a68d406616c1b2f1fe6000649d6fe90ace1f00452d6b951b56365ecdd3c6e4f",
+        "subPath": "test-ec28bf875d63d6fef3ccc1daf4c7640b20029f17"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/smart-ptr": "1.62.0",
+        "boost/function": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/timer": "1.62.0",
+        "boost/algorithm": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/numeric-conversion": "1.62.0",
+        "boost/math": "1.62.0",
+        "boost/thread": "1.62.0",
+        "boost/multiprecision": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/884ca80c81ca12db0031fe49576ea52ac9f07f95.zip",
+        "sha256": "37e78c4abf8d4a8f554c29e742e87f5a3fff2859b63c9c48ab139291e5714a22",
+        "subPath": "test-884ca80c81ca12db0031fe49576ea52ac9f07f95"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/smart-ptr": "1.61.0",
+        "boost/function": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/timer": "1.61.0",
+        "boost/algorithm": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/numeric-conversion": "1.61.0",
+        "boost/math": "1.61.0",
+        "boost/thread": "1.61.0",
+        "boost/multiprecision": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/b3d233a360e104c146619d5fc93149d361cfef59.zip",
+        "sha256": "e2e02d0a34ef58799a71c9ee0de628bc75087e23aa0683350a096057042fe708",
+        "subPath": "test-b3d233a360e104c146619d5fc93149d361cfef59"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/smart-ptr": "1.60.0",
+        "boost/function": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/timer": "1.60.0",
+        "boost/algorithm": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/numeric-conversion": "1.60.0",
+        "boost/math": "1.60.0",
+        "boost/thread": "1.60.0",
+        "boost/multiprecision": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/48d3418a05815f755e17940bf55574cb2ef850c8.zip",
+        "sha256": "d9a65a46972fc6b2536bbd93ca7b86fe13e5a62de263c75920793da7bd172996",
+        "subPath": "test-48d3418a05815f755e17940bf55574cb2ef850c8"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/smart-ptr": "1.59.0",
+        "boost/function": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/timer": "1.59.0",
+        "boost/algorithm": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/numeric-conversion": "1.59.0",
+        "boost/math": "1.59.0",
+        "boost/thread": "1.59.0",
+        "boost/multiprecision": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/954d3ab699ed474d9d2e95a8f81bbacf86865b26.zip",
+        "sha256": "f0dd64a8efd615b0fd9d2120ae591534fa0f2acbb88ed3a510cf6326de14582e",
+        "subPath": "test-954d3ab699ed474d9d2e95a8f81bbacf86865b26"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/smart-ptr": "1.58.0",
+        "boost/function": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/timer": "1.58.0",
+        "boost/algorithm": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/numeric-conversion": "1.58.0",
+        "boost/math": "1.58.0",
+        "boost/thread": "1.58.0",
+        "boost/multiprecision": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/954d3ab699ed474d9d2e95a8f81bbacf86865b26.zip",
+        "sha256": "f0dd64a8efd615b0fd9d2120ae591534fa0f2acbb88ed3a510cf6326de14582e",
+        "subPath": "test-954d3ab699ed474d9d2e95a8f81bbacf86865b26"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/smart-ptr": "1.57.0",
+        "boost/function": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/timer": "1.57.0",
+        "boost/algorithm": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/numeric-conversion": "1.57.0",
+        "boost/math": "1.57.0",
+        "boost/thread": "1.57.0",
+        "boost/multiprecision": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/954d3ab699ed474d9d2e95a8f81bbacf86865b26.zip",
+        "sha256": "f0dd64a8efd615b0fd9d2120ae591534fa0f2acbb88ed3a510cf6326de14582e",
+        "subPath": "test-954d3ab699ed474d9d2e95a8f81bbacf86865b26"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/smart-ptr": "1.56.0",
+        "boost/function": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/timer": "1.56.0",
+        "boost/algorithm": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/numeric-conversion": "1.56.0",
+        "boost/math": "1.56.0",
+        "boost/thread": "1.56.0",
+        "boost/multiprecision": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/4c402ac8e6e8c5be3edc36a26aa0223d2d5586cb.zip",
+        "sha256": "0ae20ff9f74248700ed99873efa44623f93518589dfc90ea58f86baa3cc6567e",
+        "subPath": "test-4c402ac8e6e8c5be3edc36a26aa0223d2d5586cb"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/smart-ptr": "1.55.0",
+        "boost/function": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/timer": "1.55.0",
+        "boost/algorithm": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/numeric-conversion": "1.55.0",
+        "boost/math": "1.55.0",
+        "boost/thread": "1.55.0",
+        "boost/multiprecision": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/4d92a0f0378713f62293ad16e54740fc2e12d0ea.zip",
+        "sha256": "e3f2a811cb7a23c2ea8f9afd9380d71caefa1dbe74b7f700ba04898d23f19146",
+        "subPath": "test-4d92a0f0378713f62293ad16e54740fc2e12d0ea"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/smart-ptr": "1.54.0",
+        "boost/function": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/timer": "1.54.0",
+        "boost/algorithm": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/numeric-conversion": "1.54.0",
+        "boost/math": "1.54.0",
+        "boost/thread": "1.54.0",
+        "boost/multiprecision": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/73da37b4cadfba3af22ae16d012eb918c5247e0d.zip",
+        "sha256": "8098ba4f7085a848ef2098ac169e2ef48e28feba3770b42fd714d23d0c5e161b",
+        "subPath": "test-73da37b4cadfba3af22ae16d012eb918c5247e0d"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/smart-ptr": "1.53.0",
+        "boost/function": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/timer": "1.53.0",
+        "boost/algorithm": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/numeric-conversion": "1.53.0",
+        "boost/math": "1.53.0",
+        "boost/thread": "1.53.0",
+        "boost/multiprecision": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/9e82941fd26c6f43dcde0f274b007082074e0ea9.zip",
+        "sha256": "08a0e8da428d533169b2e1bd1515db8625b97788dba9dfd4bb4997ea2b371f70",
+        "subPath": "test-9e82941fd26c6f43dcde0f274b007082074e0ea9"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/smart-ptr": "1.52.0",
+        "boost/function": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/timer": "1.52.0",
+        "boost/algorithm": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/numeric-conversion": "1.52.0",
+        "boost/math": "1.52.0",
+        "boost/thread": "1.52.0",
+        "boost/multiprecision": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/c84b9a996153dbeda725d692797e4b489547579c.zip",
+        "sha256": "90a91e6a822d6826bd70569844b05dd7f551c99d80de9133bb530bf8d95612ad",
+        "subPath": "test-c84b9a996153dbeda725d692797e4b489547579c"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/smart-ptr": "1.51.0",
+        "boost/function": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/timer": "1.51.0",
+        "boost/algorithm": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/numeric-conversion": "1.51.0",
+        "boost/math": "1.51.0",
+        "boost/thread": "1.51.0",
+        "boost/multiprecision": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/266909ba1052ddedd946444a06811947c3799880.zip",
+        "sha256": "e5709df52b2977bb6d0b4a377a445c574766848c6543d4dbc82a711c03f833e7",
+        "subPath": "test-266909ba1052ddedd946444a06811947c3799880"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/smart-ptr": "1.50.0",
+        "boost/function": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/timer": "1.50.0",
+        "boost/algorithm": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/numeric-conversion": "1.50.0",
+        "boost/math": "1.50.0",
+        "boost/thread": "1.50.0",
+        "boost/multiprecision": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/383037df97ca3c9c16a3cbc3bf38e8575245f47a.zip",
+        "sha256": "d3cd942a8edbd6e86f6fb2b3400693fe0772a3d5051ca04de5009e64b7fb58ef",
+        "subPath": "test-383037df97ca3c9c16a3cbc3bf38e8575245f47a"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/smart-ptr": "1.49.0",
+        "boost/function": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/timer": "1.49.0",
+        "boost/algorithm": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/numeric-conversion": "1.49.0",
+        "boost/math": "1.49.0",
+        "boost/thread": "1.49.0",
+        "boost/multiprecision": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/fb9585715afcc726d1bb3e202027c89d55d454a0.zip",
+        "sha256": "c3a739bc141d7afaf0c3f6842ac361ca44ccc439e8961cf662e6a23e22ba5e79",
+        "subPath": "test-fb9585715afcc726d1bb3e202027c89d55d454a0"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/smart-ptr": "1.48.0",
+        "boost/function": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/timer": "1.48.0",
+        "boost/algorithm": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/numeric-conversion": "1.48.0",
+        "boost/math": "1.48.0",
+        "boost/thread": "1.48.0",
+        "boost/multiprecision": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/33e01b5df6c00dda8b22501a1f4b5e648d83fbbc.zip",
+        "sha256": "2322e4ab0296629106fc0cfe643dacd73c718d909defab7ec63c6aac9b2ac31a",
+        "subPath": "test-33e01b5df6c00dda8b22501a1f4b5e648d83fbbc"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/smart-ptr": "1.47.0",
+        "boost/function": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/timer": "1.47.0",
+        "boost/algorithm": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/numeric-conversion": "1.47.0",
+        "boost/math": "1.47.0",
+        "boost/thread": "1.47.0",
+        "boost/multiprecision": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/test/archive/79f7b46310e2788f04d41cbb0f31f795d02a3157.zip",
+        "sha256": "ed17b64b45ebb28b22645a6479671525349cf355085e676c8c3050d583cb137c",
+        "subPath": "test-79f7b46310e2788f04d41cbb0f31f795d02a3157"
+      },
+      "buck": {
+        "url": "https://gist.githubusercontent.com/nikhedonia/af4d304def083dedd8f5d04d21dd8c6b/raw/c3a31c3c14c2d0400a0707f7a9cfc339d52d1c2e/boost.test.bzl",
+        "sha256": "717e1c6f47572215dfd8415925cc4fe660cbcfb982e9ead8e24348131a64f049"
+      },
+      "dependencies": {
+        "boost/detail": "1.46.1",
+        "boost/config": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/smart-ptr": "1.46.1",
+        "boost/function": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/preprocessor": "1.46.1",
+        "boost/timer": "1.46.1",
+        "boost/algorithm": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/numeric-conversion": "1.46.1",
+        "boost/math": "1.46.1",
+        "boost/thread": "1.46.1",
+        "boost/multiprecision": "1.46.1"
       }
     }
   }

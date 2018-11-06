@@ -1,0 +1,68 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compute/archive/d36ef02b7860b9bcf5ea4911b77f1aa77b5f4059.zip",
+        "sha256": "825ede75c2146aaedc0b7080d824df39642c518c00cadeb887680358a4ed88a0",
+        "subPath": "compute-d36ef02b7860b9bcf5ea4911b77f1aa77b5f4059"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compute/archive/d36ef02b7860b9bcf5ea4911b77f1aa77b5f4059.zip",
+        "sha256": "825ede75c2146aaedc0b7080d824df39642c518c00cadeb887680358a4ed88a0",
+        "subPath": "compute-d36ef02b7860b9bcf5ea4911b77f1aa77b5f4059"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compute/archive/a965a8dab6fe0b997bf3a17c298653a34d7c1714.zip",
+        "sha256": "ff10e72d4f763376910a659abccf1daa5da160195f6a33a3f6e9f6dbb0deee50",
+        "subPath": "compute-a965a8dab6fe0b997bf3a17c298653a34d7c1714"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compute/archive/a965a8dab6fe0b997bf3a17c298653a34d7c1714.zip",
+        "sha256": "ff10e72d4f763376910a659abccf1daa5da160195f6a33a3f6e9f6dbb0deee50",
+        "subPath": "compute-a965a8dab6fe0b997bf3a17c298653a34d7c1714"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compute/archive/82f588f24ed2640bca4bf3f31dfcb06703d9bc13.zip",
+        "sha256": "bf5fd3ba74155dc7ef8f30c893e9231a340880249d9017f11447825f636ba123",
+        "subPath": "compute-82f588f24ed2640bca4bf3f31dfcb06703d9bc13"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compute/archive/82f588f24ed2640bca4bf3f31dfcb06703d9bc13.zip",
+        "sha256": "bf5fd3ba74155dc7ef8f30c893e9231a340880249d9017f11447825f636ba123",
+        "subPath": "compute-82f588f24ed2640bca4bf3f31dfcb06703d9bc13"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compute/archive/86211062a771ab0b494116b4223b63a292ad7d11.zip",
+        "sha256": "fd109e78f2b388f6a9dad2b1abbca891f585e18be502181b9e9b4ad8a2314853",
+        "subPath": "compute-86211062a771ab0b494116b4223b63a292ad7d11"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/compute/archive/44f08e3932e8ec1101e1aa137e404c3da5fddb5c.zip",
+        "sha256": "f193ed718d079a8dd92d23e156453240512944e9318e458ce4e9bd6d088a5467",
+        "subPath": "compute-44f08e3932e8ec1101e1aa137e404c3da5fddb5c"
+      }
+    }
+  }
+}

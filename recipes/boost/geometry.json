@@ -1,0 +1,180 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/884ee298d9125d6294af0f3a471bb3cea1902b2c.zip",
+        "sha256": "1afc56def56075e359931931bdc7501cc89d989de6a8369b34b420b9a18757f1",
+        "subPath": "geometry-884ee298d9125d6294af0f3a471bb3cea1902b2c"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/76444d206f9406739bdd492c1217c835351104b6.zip",
+        "sha256": "a0bb236d70b705f97682859a7213e75c1b1507bf5a2541e834d9816066a227fb",
+        "subPath": "geometry-76444d206f9406739bdd492c1217c835351104b6"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/7afe64fccf1520377e53b1caba2295d7544ca9e1.zip",
+        "sha256": "0d41bec6a1c03d3b323a59349e1d2479fd6be5f27e594343f17989dbcd7f7cef",
+        "subPath": "geometry-7afe64fccf1520377e53b1caba2295d7544ca9e1"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/7afe64fccf1520377e53b1caba2295d7544ca9e1.zip",
+        "sha256": "0d41bec6a1c03d3b323a59349e1d2479fd6be5f27e594343f17989dbcd7f7cef",
+        "subPath": "geometry-7afe64fccf1520377e53b1caba2295d7544ca9e1"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/94cc0c6eab6508079ddaa8272c9d3a31a4dc9621.zip",
+        "sha256": "90ef58ec16c008bbcd81af8acdaee26bb8efbe3ebfec5b9ceb947e1617eb547b",
+        "subPath": "geometry-94cc0c6eab6508079ddaa8272c9d3a31a4dc9621"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/ed26d1d36dae4d547ef719f7b2a39c018d26c08f.zip",
+        "sha256": "895a960fd2ede03bf74d214ac0f09121e8b122fbd077da66704ae8e5bdb2c38e",
+        "subPath": "geometry-ed26d1d36dae4d547ef719f7b2a39c018d26c08f"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/8c7ea5af454b5cc06c79dcfa1df590762d679539.zip",
+        "sha256": "24c3de176c775a3d385533b6ece56b153ce51dc7197c4c64f88b9c0c161f2cbb",
+        "subPath": "geometry-8c7ea5af454b5cc06c79dcfa1df590762d679539"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/be442ef4528b4616f01face50056f59a281703fc.zip",
+        "sha256": "f108099010a18fc7283d21f059bbb274bf9542310ab95705d2f0d2f9ed57eb0b",
+        "subPath": "geometry-be442ef4528b4616f01face50056f59a281703fc"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/00321c095088ba507ef3a9ddab833bf9c39130fb.zip",
+        "sha256": "0f1b1b6158e89c58c48d05a17a39e1d3dcf0dd8aaffcf47057c8c99d7c7a9f1e",
+        "subPath": "geometry-00321c095088ba507ef3a9ddab833bf9c39130fb"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/2140e5cd3d984de99f037e59602b4e2c0f2b6c66.zip",
+        "sha256": "9d02cf4edae72b0ac0ccabbd430ddcbc6dc747361391c526afed48c61ea01231",
+        "subPath": "geometry-2140e5cd3d984de99f037e59602b4e2c0f2b6c66"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/bd9455207bb0012237c1853c3281ea95f146f91c.zip",
+        "sha256": "444ae82c645de19d23fb91380db00322be89ddb13d20cb854f530b5741f31693",
+        "subPath": "geometry-bd9455207bb0012237c1853c3281ea95f146f91c"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/c2266c00f8a965715476b1bd15f71645b0dd959d.zip",
+        "sha256": "64fdd21e6780807775c06f208e942f6114202742eab33cdc625163936366ce52",
+        "subPath": "geometry-c2266c00f8a965715476b1bd15f71645b0dd959d"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/44f6ec3d9aa8f7213571b081202e2100332a325d.zip",
+        "sha256": "07f985201cbed04cd493978dfd37a12ac72ced883632e2b48e0cba58cf41d50e",
+        "subPath": "geometry-44f6ec3d9aa8f7213571b081202e2100332a325d"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/835a047fba9514b50eb06fdfefb7740035f79360.zip",
+        "sha256": "cb190204835f48f753bd068d65df1721779044ddb5e75d0bf1a2038a1bc364a0",
+        "subPath": "geometry-835a047fba9514b50eb06fdfefb7740035f79360"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/6c1626e817cbb62b6879968c36d38848de076c23.zip",
+        "sha256": "27f0bc8dc453c6c8c6e6f237e99ea9706090435d0eb6cb30d8e7a93b82c19ad1",
+        "subPath": "geometry-6c1626e817cbb62b6879968c36d38848de076c23"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/8f84c2081162a0975891709f08d8b02325338248.zip",
+        "sha256": "bf9d78ab2dfc0853144e4711d13f1345111ec92ffe58f18883f6da06c110e90f",
+        "subPath": "geometry-8f84c2081162a0975891709f08d8b02325338248"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/03dffccc4071a20ff6ce8d6d72b1bc9410fded95.zip",
+        "sha256": "f44d019e35c6888906f882e472d333c295a3e7c0758d0c35148870b3c67f0f3e",
+        "subPath": "geometry-03dffccc4071a20ff6ce8d6d72b1bc9410fded95"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/82eacb75ee72a4589678765804a122e2c535d962.zip",
+        "sha256": "eb9043641c45b8d32aa29927ded757fb16936c840b44b6687145297e4c92d73f",
+        "subPath": "geometry-82eacb75ee72a4589678765804a122e2c535d962"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/2b689d9dfd2fcb74dbae715768094142ac10f67c.zip",
+        "sha256": "81f439eab1808757fabdf2b9d4dba12e81ee1bbed64110d24c965d8eacc367d0",
+        "subPath": "geometry-2b689d9dfd2fcb74dbae715768094142ac10f67c"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/b2c57b9fd9ff438dc4ad87b28b04e6c9423c71f1.zip",
+        "sha256": "09ab692de5e8784dbe5f03909c5b2c56e00f92aa0cc142e012745d915d6852b2",
+        "subPath": "geometry-b2c57b9fd9ff438dc4ad87b28b04e6c9423c71f1"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/ef0acdefc140ba36b96ade19605150a7ced912fa.zip",
+        "sha256": "14edd2aaf60179b552f9ca68e41435f70a1c85b924adf20460f03321373ad606",
+        "subPath": "geometry-ef0acdefc140ba36b96ade19605150a7ced912fa"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/geometry/archive/913255be21080a2797d47598b42699b3eb13fb32.zip",
+        "sha256": "61e924fc8f79ea7c6c1f04196680b92998fb912bcef3ce05a978334902413c82",
+        "subPath": "geometry-913255be21080a2797d47598b42699b3eb13fb32"
+      }
+    }
+  }
+}

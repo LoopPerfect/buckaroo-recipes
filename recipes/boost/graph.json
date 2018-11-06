@@ -7,6 +7,141 @@
     "project": "graph"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/da6e2b5efb84cf2d9ef78e36fd0db9df50f96554.zip",
+        "sha256": "ec9499744d97071c4a851163adc11dcba23087b9102e4ac8aa152ddba6b50fd6",
+        "subPath": "graph-da6e2b5efb84cf2d9ef78e36fd0db9df50f96554"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.67.0",
+        "boost/foreach": "1.67.0",
+        "boost/function": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/bind": "1.67.0",
+        "boost/lexical-cast": "1.67.0",
+        "boost/math": "1.67.0",
+        "boost/any": "1.67.0",
+        "boost/property-map": "1.67.0",
+        "boost/multi-index": "1.67.0",
+        "boost/xpressive": "1.67.0",
+        "boost/property-tree": "1.67.0",
+        "boost/parameter": "1.67.0",
+        "boost/random": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/7913228c9dab7ed88fb63b6b6214c37763aa2436.zip",
+        "sha256": "7ab4c17ede6456cd9aec1db94c81ffbf55a20a6b66fe70d82d02b048fbbfe6d5",
+        "subPath": "graph-7913228c9dab7ed88fb63b6b6214c37763aa2436"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.66.0",
+        "boost/foreach": "1.66.0",
+        "boost/function": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/bind": "1.66.0",
+        "boost/lexical-cast": "1.66.0",
+        "boost/math": "1.66.0",
+        "boost/any": "1.66.0",
+        "boost/property-map": "1.66.0",
+        "boost/multi-index": "1.66.0",
+        "boost/xpressive": "1.66.0",
+        "boost/property-tree": "1.66.0",
+        "boost/parameter": "1.66.0",
+        "boost/random": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/7913228c9dab7ed88fb63b6b6214c37763aa2436.zip",
+        "sha256": "7ab4c17ede6456cd9aec1db94c81ffbf55a20a6b66fe70d82d02b048fbbfe6d5",
+        "subPath": "graph-7913228c9dab7ed88fb63b6b6214c37763aa2436"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.65.1",
+        "boost/foreach": "1.65.1",
+        "boost/function": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/bind": "1.65.1",
+        "boost/lexical-cast": "1.65.1",
+        "boost/math": "1.65.1",
+        "boost/any": "1.65.1",
+        "boost/property-map": "1.65.1",
+        "boost/multi-index": "1.65.1",
+        "boost/xpressive": "1.65.1",
+        "boost/property-tree": "1.65.1",
+        "boost/parameter": "1.65.1",
+        "boost/random": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/7913228c9dab7ed88fb63b6b6214c37763aa2436.zip",
+        "sha256": "7ab4c17ede6456cd9aec1db94c81ffbf55a20a6b66fe70d82d02b048fbbfe6d5",
+        "subPath": "graph-7913228c9dab7ed88fb63b6b6214c37763aa2436"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.65.0",
+        "boost/foreach": "1.65.0",
+        "boost/function": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/bind": "1.65.0",
+        "boost/lexical-cast": "1.65.0",
+        "boost/math": "1.65.0",
+        "boost/any": "1.65.0",
+        "boost/property-map": "1.65.0",
+        "boost/multi-index": "1.65.0",
+        "boost/xpressive": "1.65.0",
+        "boost/property-tree": "1.65.0",
+        "boost/parameter": "1.65.0",
+        "boost/random": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/7913228c9dab7ed88fb63b6b6214c37763aa2436.zip",
+        "sha256": "7ab4c17ede6456cd9aec1db94c81ffbf55a20a6b66fe70d82d02b048fbbfe6d5",
+        "subPath": "graph-7913228c9dab7ed88fb63b6b6214c37763aa2436"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.64.0",
+        "boost/foreach": "1.64.0",
+        "boost/function": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/bind": "1.64.0",
+        "boost/lexical-cast": "1.64.0",
+        "boost/math": "1.64.0",
+        "boost/any": "1.64.0",
+        "boost/property-map": "1.64.0",
+        "boost/multi-index": "1.64.0",
+        "boost/xpressive": "1.64.0",
+        "boost/property-tree": "1.64.0",
+        "boost/parameter": "1.64.0",
+        "boost/random": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/graph/archive/7913228c9dab7ed88fb63b6b6214c37763aa2436.zip",
@@ -32,6 +167,465 @@
         "boost/property-tree": "1.63.0",
         "boost/parameter": "1.63.0",
         "boost/random": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/56d3e72155c5d81acb14d2e4aa9af3a38e9a3221.zip",
+        "sha256": "f358fe50ac774db2ed91dcd4a1441ad6a25ae783cbc2836abf2962a80afffc5d",
+        "subPath": "graph-56d3e72155c5d81acb14d2e4aa9af3a38e9a3221"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.62.0",
+        "boost/foreach": "1.62.0",
+        "boost/function": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/bind": "1.62.0",
+        "boost/lexical-cast": "1.62.0",
+        "boost/math": "1.62.0",
+        "boost/any": "1.62.0",
+        "boost/property-map": "1.62.0",
+        "boost/multi-index": "1.62.0",
+        "boost/xpressive": "1.62.0",
+        "boost/property-tree": "1.62.0",
+        "boost/parameter": "1.62.0",
+        "boost/random": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/ed989311185caf8384dd7e42315f58dcd349d3eb.zip",
+        "sha256": "36904e8dc093d9ce0076df0e6a4b998d7401277b199f097bce2ff7cb7f72127e",
+        "subPath": "graph-ed989311185caf8384dd7e42315f58dcd349d3eb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.61.0",
+        "boost/foreach": "1.61.0",
+        "boost/function": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/bind": "1.61.0",
+        "boost/lexical-cast": "1.61.0",
+        "boost/math": "1.61.0",
+        "boost/any": "1.61.0",
+        "boost/property-map": "1.61.0",
+        "boost/multi-index": "1.61.0",
+        "boost/xpressive": "1.61.0",
+        "boost/property-tree": "1.61.0",
+        "boost/parameter": "1.61.0",
+        "boost/random": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/daa2e69db178ead14d3f6e7c4845e6a0fb959ff2.zip",
+        "sha256": "4981dfed1d4fa5360722ac66c9f50906e6882a4665f0b3f8e644cac94617012b",
+        "subPath": "graph-daa2e69db178ead14d3f6e7c4845e6a0fb959ff2"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.60.0",
+        "boost/foreach": "1.60.0",
+        "boost/function": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/bind": "1.60.0",
+        "boost/lexical-cast": "1.60.0",
+        "boost/math": "1.60.0",
+        "boost/any": "1.60.0",
+        "boost/property-map": "1.60.0",
+        "boost/multi-index": "1.60.0",
+        "boost/xpressive": "1.60.0",
+        "boost/property-tree": "1.60.0",
+        "boost/parameter": "1.60.0",
+        "boost/random": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/70a2630932b8720f9bbdad9ca4f913d526ad2b6e.zip",
+        "sha256": "535cdc0b389c63832c5174f4e596f3200b8f9ebf8ad9f978d2d6a5fe1cd18850",
+        "subPath": "graph-70a2630932b8720f9bbdad9ca4f913d526ad2b6e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.59.0",
+        "boost/foreach": "1.59.0",
+        "boost/function": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/bind": "1.59.0",
+        "boost/lexical-cast": "1.59.0",
+        "boost/math": "1.59.0",
+        "boost/any": "1.59.0",
+        "boost/property-map": "1.59.0",
+        "boost/multi-index": "1.59.0",
+        "boost/xpressive": "1.59.0",
+        "boost/property-tree": "1.59.0",
+        "boost/parameter": "1.59.0",
+        "boost/random": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/70a2630932b8720f9bbdad9ca4f913d526ad2b6e.zip",
+        "sha256": "535cdc0b389c63832c5174f4e596f3200b8f9ebf8ad9f978d2d6a5fe1cd18850",
+        "subPath": "graph-70a2630932b8720f9bbdad9ca4f913d526ad2b6e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.58.0",
+        "boost/foreach": "1.58.0",
+        "boost/function": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/bind": "1.58.0",
+        "boost/lexical-cast": "1.58.0",
+        "boost/math": "1.58.0",
+        "boost/any": "1.58.0",
+        "boost/property-map": "1.58.0",
+        "boost/multi-index": "1.58.0",
+        "boost/xpressive": "1.58.0",
+        "boost/property-tree": "1.58.0",
+        "boost/parameter": "1.58.0",
+        "boost/random": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/70a2630932b8720f9bbdad9ca4f913d526ad2b6e.zip",
+        "sha256": "535cdc0b389c63832c5174f4e596f3200b8f9ebf8ad9f978d2d6a5fe1cd18850",
+        "subPath": "graph-70a2630932b8720f9bbdad9ca4f913d526ad2b6e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.57.0",
+        "boost/foreach": "1.57.0",
+        "boost/function": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/bind": "1.57.0",
+        "boost/lexical-cast": "1.57.0",
+        "boost/math": "1.57.0",
+        "boost/any": "1.57.0",
+        "boost/property-map": "1.57.0",
+        "boost/multi-index": "1.57.0",
+        "boost/xpressive": "1.57.0",
+        "boost/property-tree": "1.57.0",
+        "boost/parameter": "1.57.0",
+        "boost/random": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/70a2630932b8720f9bbdad9ca4f913d526ad2b6e.zip",
+        "sha256": "535cdc0b389c63832c5174f4e596f3200b8f9ebf8ad9f978d2d6a5fe1cd18850",
+        "subPath": "graph-70a2630932b8720f9bbdad9ca4f913d526ad2b6e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.56.0",
+        "boost/foreach": "1.56.0",
+        "boost/function": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/bind": "1.56.0",
+        "boost/lexical-cast": "1.56.0",
+        "boost/math": "1.56.0",
+        "boost/any": "1.56.0",
+        "boost/property-map": "1.56.0",
+        "boost/multi-index": "1.56.0",
+        "boost/xpressive": "1.56.0",
+        "boost/property-tree": "1.56.0",
+        "boost/parameter": "1.56.0",
+        "boost/random": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/2273d4ca1638716b5d468fe28b6a5d921826d1f1.zip",
+        "sha256": "e8f919d1f56d332a4a2470e3b48f2ee3d69c97c57b5b4deffe1905ccff3ef3f8",
+        "subPath": "graph-2273d4ca1638716b5d468fe28b6a5d921826d1f1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.55.0",
+        "boost/foreach": "1.55.0",
+        "boost/function": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/bind": "1.55.0",
+        "boost/lexical-cast": "1.55.0",
+        "boost/math": "1.55.0",
+        "boost/any": "1.55.0",
+        "boost/property-map": "1.55.0",
+        "boost/multi-index": "1.55.0",
+        "boost/xpressive": "1.55.0",
+        "boost/property-tree": "1.55.0",
+        "boost/parameter": "1.55.0",
+        "boost/random": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/87bfd13e901a65926811de3968c6d43421999669.zip",
+        "sha256": "7610906654e52da73218d74ee42788c2e48c3bf58ac439cb6b8266e3ae633c57",
+        "subPath": "graph-87bfd13e901a65926811de3968c6d43421999669"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.54.0",
+        "boost/foreach": "1.54.0",
+        "boost/function": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/bind": "1.54.0",
+        "boost/lexical-cast": "1.54.0",
+        "boost/math": "1.54.0",
+        "boost/any": "1.54.0",
+        "boost/property-map": "1.54.0",
+        "boost/multi-index": "1.54.0",
+        "boost/xpressive": "1.54.0",
+        "boost/property-tree": "1.54.0",
+        "boost/parameter": "1.54.0",
+        "boost/random": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/633dac16cf91fbf629093bc4514998237307c553.zip",
+        "sha256": "7223f7a5962dc501656c3f295656cf98b42e87333fe3c2690280a5d6a4a91b62",
+        "subPath": "graph-633dac16cf91fbf629093bc4514998237307c553"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.53.0",
+        "boost/foreach": "1.53.0",
+        "boost/function": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/bind": "1.53.0",
+        "boost/lexical-cast": "1.53.0",
+        "boost/math": "1.53.0",
+        "boost/any": "1.53.0",
+        "boost/property-map": "1.53.0",
+        "boost/multi-index": "1.53.0",
+        "boost/xpressive": "1.53.0",
+        "boost/property-tree": "1.53.0",
+        "boost/parameter": "1.53.0",
+        "boost/random": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/1dae73b0cf3989e736523c178e1486ac1cbcc25e.zip",
+        "sha256": "cea38fa9d99920683a8d7ce521726958249a8b1207de1e8debc11a1a1f73a8ef",
+        "subPath": "graph-1dae73b0cf3989e736523c178e1486ac1cbcc25e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.52.0",
+        "boost/foreach": "1.52.0",
+        "boost/function": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/bind": "1.52.0",
+        "boost/lexical-cast": "1.52.0",
+        "boost/math": "1.52.0",
+        "boost/any": "1.52.0",
+        "boost/property-map": "1.52.0",
+        "boost/multi-index": "1.52.0",
+        "boost/xpressive": "1.52.0",
+        "boost/property-tree": "1.52.0",
+        "boost/parameter": "1.52.0",
+        "boost/random": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/fa5b61bb38816f9800fd60289d75fb6438a60164.zip",
+        "sha256": "1c60f4c8473417a0f6d16e1e9179c9159dd65fa6bae8deea43f041c3d185803f",
+        "subPath": "graph-fa5b61bb38816f9800fd60289d75fb6438a60164"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.51.0",
+        "boost/foreach": "1.51.0",
+        "boost/function": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/bind": "1.51.0",
+        "boost/lexical-cast": "1.51.0",
+        "boost/math": "1.51.0",
+        "boost/any": "1.51.0",
+        "boost/property-map": "1.51.0",
+        "boost/multi-index": "1.51.0",
+        "boost/xpressive": "1.51.0",
+        "boost/property-tree": "1.51.0",
+        "boost/parameter": "1.51.0",
+        "boost/random": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/029dc68f71dd5352855319da6bcfc9ffc08b524b.zip",
+        "sha256": "e1ebd8830cd41222df0d0bccd25cf38a36e5dbb9a1abc81ac310a7eb9164195a",
+        "subPath": "graph-029dc68f71dd5352855319da6bcfc9ffc08b524b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.50.0",
+        "boost/foreach": "1.50.0",
+        "boost/function": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/bind": "1.50.0",
+        "boost/lexical-cast": "1.50.0",
+        "boost/math": "1.50.0",
+        "boost/any": "1.50.0",
+        "boost/property-map": "1.50.0",
+        "boost/multi-index": "1.50.0",
+        "boost/xpressive": "1.50.0",
+        "boost/property-tree": "1.50.0",
+        "boost/parameter": "1.50.0",
+        "boost/random": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/f29e549a9617588dee69021eb737eb304e115375.zip",
+        "sha256": "b819acc9f2e16fa94583b243f17e4e5f7890af5bf32cb2336d78ed17c529ece7",
+        "subPath": "graph-f29e549a9617588dee69021eb737eb304e115375"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.49.0",
+        "boost/foreach": "1.49.0",
+        "boost/function": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/bind": "1.49.0",
+        "boost/lexical-cast": "1.49.0",
+        "boost/math": "1.49.0",
+        "boost/any": "1.49.0",
+        "boost/property-map": "1.49.0",
+        "boost/multi-index": "1.49.0",
+        "boost/xpressive": "1.49.0",
+        "boost/property-tree": "1.49.0",
+        "boost/parameter": "1.49.0",
+        "boost/random": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/708e155b9427599eb76a613903f7f303009ad2e8.zip",
+        "sha256": "a6368447e6edce15dd9cd44b29f064165bdc8728daa53d2d225274ac91373708",
+        "subPath": "graph-708e155b9427599eb76a613903f7f303009ad2e8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.48.0",
+        "boost/foreach": "1.48.0",
+        "boost/function": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/bind": "1.48.0",
+        "boost/lexical-cast": "1.48.0",
+        "boost/math": "1.48.0",
+        "boost/any": "1.48.0",
+        "boost/property-map": "1.48.0",
+        "boost/multi-index": "1.48.0",
+        "boost/xpressive": "1.48.0",
+        "boost/property-tree": "1.48.0",
+        "boost/parameter": "1.48.0",
+        "boost/random": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/b339324c17d2e7e7d8349f3b6a26f333a680b42b.zip",
+        "sha256": "ab9788b9c0ad7187eef0b99360683e809ebea37a3d25aa067914462af5a78f1a",
+        "subPath": "graph-b339324c17d2e7e7d8349f3b6a26f333a680b42b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.47.0",
+        "boost/foreach": "1.47.0",
+        "boost/function": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/bind": "1.47.0",
+        "boost/lexical-cast": "1.47.0",
+        "boost/math": "1.47.0",
+        "boost/any": "1.47.0",
+        "boost/property-map": "1.47.0",
+        "boost/multi-index": "1.47.0",
+        "boost/xpressive": "1.47.0",
+        "boost/property-tree": "1.47.0",
+        "boost/parameter": "1.47.0",
+        "boost/random": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/graph/archive/73267572a2fe476aadc0ec1b1a238eefd038eb22.zip",
+        "sha256": "2e4eea634a0d3cf02528d36a2f6f5a8c2046034c739d1a40f373638da582f62d",
+        "subPath": "graph-73267572a2fe476aadc0ec1b1a238eefd038eb22"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/graph/f3d366fe996061675dc01ab61f1cc47129d42069/BUCK",
+        "sha256": "102b992cee4daed44b2ca135ce3d286cb316521829ced5d976140c4012882b74"
+      },
+      "dependencies": {
+        "boost/assert": "1.46.1",
+        "boost/foreach": "1.46.1",
+        "boost/function": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/bind": "1.46.1",
+        "boost/lexical-cast": "1.46.1",
+        "boost/math": "1.46.1",
+        "boost/any": "1.46.1",
+        "boost/property-map": "1.46.1",
+        "boost/multi-index": "1.46.1",
+        "boost/xpressive": "1.46.1",
+        "boost/property-tree": "1.46.1",
+        "boost/parameter": "1.46.1",
+        "boost/random": "1.46.1"
       }
     }
   }

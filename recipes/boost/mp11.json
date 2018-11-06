@@ -1,0 +1,20 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mp11/archive/8307f404f8e676f567b289e39bee0316d3cf0663.zip",
+        "sha256": "ca9a139b616a4cfe4835875f7aaf3640c78f11cab544ddd9f26f0c2a09794797",
+        "subPath": "mp11-8307f404f8e676f567b289e39bee0316d3cf0663"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/mp11/archive/a96ae790a43ad68433c773e8692bdeced24b6929.zip",
+        "sha256": "5bec4d7e1258fdb8cdd3ad6dac4d93a6bf95804a5f9c66658080ced5cacbdb9b",
+        "subPath": "mp11-a96ae790a43ad68433c773e8692bdeced24b6929"
+      }
+    }
+  }
+}

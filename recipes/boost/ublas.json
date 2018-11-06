@@ -7,6 +7,131 @@
     "project": "ublas"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/range": "1.67.0",
+        "boost/typeof": "1.67.0",
+        "boost/serialization": "1.67.0",
+        "boost/smart-ptr": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/range": "1.66.0",
+        "boost/typeof": "1.66.0",
+        "boost/serialization": "1.66.0",
+        "boost/smart-ptr": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/range": "1.65.1",
+        "boost/typeof": "1.65.1",
+        "boost/serialization": "1.65.1",
+        "boost/smart-ptr": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/range": "1.65.0",
+        "boost/typeof": "1.65.0",
+        "boost/serialization": "1.65.0",
+        "boost/smart-ptr": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/range": "1.64.0",
+        "boost/typeof": "1.64.0",
+        "boost/serialization": "1.64.0",
+        "boost/smart-ptr": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
@@ -30,6 +155,431 @@
         "boost/typeof": "1.63.0",
         "boost/serialization": "1.63.0",
         "boost/smart-ptr": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/range": "1.62.0",
+        "boost/typeof": "1.62.0",
+        "boost/serialization": "1.62.0",
+        "boost/smart-ptr": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/range": "1.61.0",
+        "boost/typeof": "1.61.0",
+        "boost/serialization": "1.61.0",
+        "boost/smart-ptr": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/range": "1.60.0",
+        "boost/typeof": "1.60.0",
+        "boost/serialization": "1.60.0",
+        "boost/smart-ptr": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8607b3eea238e590eca93bfe498c21f470155c1.zip",
+        "sha256": "3daa1e760da11ebf907fa989b0c1885a107c4b43d93185e279fe5cb30a90cd6e",
+        "subPath": "ublas-e8607b3eea238e590eca93bfe498c21f470155c1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/range": "1.59.0",
+        "boost/typeof": "1.59.0",
+        "boost/serialization": "1.59.0",
+        "boost/smart-ptr": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/6ef6cd8ba14d5a5e109324c5c781a2a407d8767f.zip",
+        "sha256": "f09c9302b0cc305b9d1265c48da3b50dffd89df25cea1f9fe8d5ed59e79c4880",
+        "subPath": "ublas-6ef6cd8ba14d5a5e109324c5c781a2a407d8767f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/range": "1.58.0",
+        "boost/typeof": "1.58.0",
+        "boost/serialization": "1.58.0",
+        "boost/smart-ptr": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/9465675c6d8a68d1124ac78c82454f5616d37d80.zip",
+        "sha256": "8404cb33431b0cdf4631c96a38688860256a064b39aedaab9d2fdf64deedd8a7",
+        "subPath": "ublas-9465675c6d8a68d1124ac78c82454f5616d37d80"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/range": "1.57.0",
+        "boost/typeof": "1.57.0",
+        "boost/serialization": "1.57.0",
+        "boost/smart-ptr": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/e8e79b518e2d4d6f203e2f08cca1af05921af88c.zip",
+        "sha256": "90087bffb9e26f438ca42bd90f69e11a7608941451960f5d1ffda01cabc38d3d",
+        "subPath": "ublas-e8e79b518e2d4d6f203e2f08cca1af05921af88c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/range": "1.56.0",
+        "boost/typeof": "1.56.0",
+        "boost/serialization": "1.56.0",
+        "boost/smart-ptr": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/ea1b77b80fa857195a74acc726c132e867f2834a.zip",
+        "sha256": "1c28c5016f631b2043e69ccf48e753e5ade52189078f4a48809ca0acd7f8ba26",
+        "subPath": "ublas-ea1b77b80fa857195a74acc726c132e867f2834a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/range": "1.55.0",
+        "boost/typeof": "1.55.0",
+        "boost/serialization": "1.55.0",
+        "boost/smart-ptr": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/df44f64adf8bf8ad3612e9380166578c57600a61.zip",
+        "sha256": "e0ba501d0ca6e2cea797e9abaa43a3a12f5cb2a8a33557b2c9d442c48af20729",
+        "subPath": "ublas-df44f64adf8bf8ad3612e9380166578c57600a61"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/range": "1.54.0",
+        "boost/typeof": "1.54.0",
+        "boost/serialization": "1.54.0",
+        "boost/smart-ptr": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/81bb492b7c3b29b85c007c591152ae56b86535f3.zip",
+        "sha256": "0553381f89732cad742dcfc5f76392efb61523cb6e53aa404227c851b1d7726d",
+        "subPath": "ublas-81bb492b7c3b29b85c007c591152ae56b86535f3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/range": "1.53.0",
+        "boost/typeof": "1.53.0",
+        "boost/serialization": "1.53.0",
+        "boost/smart-ptr": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/a42e29401741d87a33a98d1da19e9504698a009f.zip",
+        "sha256": "dd7e7cd22abc7eb5266cdf81096df7ee9fb3a0775a16015ce2135f92416c9cac",
+        "subPath": "ublas-a42e29401741d87a33a98d1da19e9504698a009f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/range": "1.52.0",
+        "boost/typeof": "1.52.0",
+        "boost/serialization": "1.52.0",
+        "boost/smart-ptr": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/c7f961b33029597e1dcc33a8af5287cb6f4950b7.zip",
+        "sha256": "6963ba69526de37ea98c77cdfe9c8d5b306f445f7e91587bca0aaeab53fa2fd5",
+        "subPath": "ublas-c7f961b33029597e1dcc33a8af5287cb6f4950b7"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/range": "1.51.0",
+        "boost/typeof": "1.51.0",
+        "boost/serialization": "1.51.0",
+        "boost/smart-ptr": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/dc72c99d22536507508e709086df984ad544bc1b.zip",
+        "sha256": "5c2b0c70f43eae3736dc36f4537af93dc5b27781afec4ca4152374dcc37382fc",
+        "subPath": "ublas-dc72c99d22536507508e709086df984ad544bc1b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/range": "1.50.0",
+        "boost/typeof": "1.50.0",
+        "boost/serialization": "1.50.0",
+        "boost/smart-ptr": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/a4eba4e0c28f102342a66be7bd7c1134e7e4a0ce.zip",
+        "sha256": "693a9ecc5a2b0beebdb2b5263897c6d8eef14f816f6027aee417584da39f61c0",
+        "subPath": "ublas-a4eba4e0c28f102342a66be7bd7c1134e7e4a0ce"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/range": "1.49.0",
+        "boost/typeof": "1.49.0",
+        "boost/serialization": "1.49.0",
+        "boost/smart-ptr": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/10dffe34e4bbf930f870aea7352a213369679623.zip",
+        "sha256": "8ecb4dc22e4268398499509f5c1c69f3ff83abdcd514cb82da19f57b6cb281c5",
+        "subPath": "ublas-10dffe34e4bbf930f870aea7352a213369679623"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/range": "1.48.0",
+        "boost/typeof": "1.48.0",
+        "boost/serialization": "1.48.0",
+        "boost/smart-ptr": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/209eff32a21a4875cd5b69cad82c620117e89e23.zip",
+        "sha256": "08ce9bafd284bafc186b6335fa633cb18eb633f8ab05d7814dc5ff6676bfe72b",
+        "subPath": "ublas-209eff32a21a4875cd5b69cad82c620117e89e23"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/range": "1.47.0",
+        "boost/typeof": "1.47.0",
+        "boost/serialization": "1.47.0",
+        "boost/smart-ptr": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/ublas/archive/1b1f86d90ce27090c61a5a2eb8375874650fbee8.zip",
+        "sha256": "66e3a802d3dcf67bdf801f4c7b2cf4a6962cbb09fc0fc23a6192676c8e07729b",
+        "subPath": "ublas-1b1f86d90ce27090c61a5a2eb8375874650fbee8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/ublas/787768873c8205f4cb04d65653714f2123a3bf15/BUCK",
+        "sha256": "1f0b03338163004c32b9df8eecbd07a1f89d174b81654c52ab34bafdceba40fc"
+      },
+      "dependencies": {
+        "boost/concept-check": "1.46.1",
+        "boost/config": "1.46.1",
+        "boost/static-assert": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/range": "1.46.1",
+        "boost/typeof": "1.46.1",
+        "boost/serialization": "1.46.1",
+        "boost/smart-ptr": "1.46.1"
       }
     }
   }

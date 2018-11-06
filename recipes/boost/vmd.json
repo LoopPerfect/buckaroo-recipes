@@ -1,0 +1,76 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/vmd/archive/9a31758d1b46995c72058d082302092b0adaaabb.zip",
+        "sha256": "b5dcabd497214b77918e094baeceebfea306758aba0dc4f68c2d1519d6a483bd",
+        "subPath": "vmd-9a31758d1b46995c72058d082302092b0adaaabb"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/vmd/archive/9a31758d1b46995c72058d082302092b0adaaabb.zip",
+        "sha256": "b5dcabd497214b77918e094baeceebfea306758aba0dc4f68c2d1519d6a483bd",
+        "subPath": "vmd-9a31758d1b46995c72058d082302092b0adaaabb"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/vmd/archive/ab61fc7dbaca831b4aabd2292b7dba1778f71a9c.zip",
+        "sha256": "502d14710025ae6d0daaa85b9222f9ff5792e0b1eeedb9676357b856c38bf20b",
+        "subPath": "vmd-ab61fc7dbaca831b4aabd2292b7dba1778f71a9c"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/vmd/archive/ab61fc7dbaca831b4aabd2292b7dba1778f71a9c.zip",
+        "sha256": "502d14710025ae6d0daaa85b9222f9ff5792e0b1eeedb9676357b856c38bf20b",
+        "subPath": "vmd-ab61fc7dbaca831b4aabd2292b7dba1778f71a9c"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/vmd/archive/ab61fc7dbaca831b4aabd2292b7dba1778f71a9c.zip",
+        "sha256": "502d14710025ae6d0daaa85b9222f9ff5792e0b1eeedb9676357b856c38bf20b",
+        "subPath": "vmd-ab61fc7dbaca831b4aabd2292b7dba1778f71a9c"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/vmd/archive/cea51572ca093eefe4f279ce4e5f04325adab7e9.zip",
+        "sha256": "eada7b323c56ae9f11030323287a64f62f4f1fad9c3b9649fc428909af69e638",
+        "subPath": "vmd-cea51572ca093eefe4f279ce4e5f04325adab7e9"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/vmd/archive/fd244116cda5922a29d588139c7f8377cfe9195f.zip",
+        "sha256": "4e3c613f6e934f193b3e7b29a6f5d667a159521b486d5273922309a81bcd59ba",
+        "subPath": "vmd-fd244116cda5922a29d588139c7f8377cfe9195f"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/vmd/archive/fd244116cda5922a29d588139c7f8377cfe9195f.zip",
+        "sha256": "4e3c613f6e934f193b3e7b29a6f5d667a159521b486d5273922309a81bcd59ba",
+        "subPath": "vmd-fd244116cda5922a29d588139c7f8377cfe9195f"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/vmd/archive/3044a7598f16cf4d0c5868e9083f64e232b08da0.zip",
+        "sha256": "c76d3f1db9800f38d498aa03bff65db2909bf7b93823969352676ea04305c6f9",
+        "subPath": "vmd-3044a7598f16cf4d0c5868e9083f64e232b08da0"
+      }
+    }
+  }
+}

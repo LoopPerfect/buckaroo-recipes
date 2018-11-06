@@ -7,6 +7,151 @@
     "project": "multiprecision"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/f688f63ea975afa34e5592b59f2d24401330e2d9.zip",
+        "sha256": "4c31002093466a779ef11a8b107cd5194a9fec61e7a8002f4fb9bea68556ef59",
+        "subPath": "multiprecision-f688f63ea975afa34e5592b59f2d24401330e2d9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.67.0",
+        "boost/random": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/lexical-cast": "1.67.0",
+        "boost/functional": "1.67.0",
+        "boost/math": "1.67.0",
+        "boost/rational": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/array": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/smart-ptr": "1.67.0",
+        "boost/throw-exception": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/64387787c27aeea31d293aec99fac356681ad0ee.zip",
+        "sha256": "e8247951612a5711f8f7846a02229ce27762008c5072eb3479bc3a72f4627055",
+        "subPath": "multiprecision-64387787c27aeea31d293aec99fac356681ad0ee"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.66.0",
+        "boost/random": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/lexical-cast": "1.66.0",
+        "boost/functional": "1.66.0",
+        "boost/math": "1.66.0",
+        "boost/rational": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/array": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/smart-ptr": "1.66.0",
+        "boost/throw-exception": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/64387787c27aeea31d293aec99fac356681ad0ee.zip",
+        "sha256": "e8247951612a5711f8f7846a02229ce27762008c5072eb3479bc3a72f4627055",
+        "subPath": "multiprecision-64387787c27aeea31d293aec99fac356681ad0ee"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.65.1",
+        "boost/random": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/lexical-cast": "1.65.1",
+        "boost/functional": "1.65.1",
+        "boost/math": "1.65.1",
+        "boost/rational": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/array": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/smart-ptr": "1.65.1",
+        "boost/throw-exception": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/64387787c27aeea31d293aec99fac356681ad0ee.zip",
+        "sha256": "e8247951612a5711f8f7846a02229ce27762008c5072eb3479bc3a72f4627055",
+        "subPath": "multiprecision-64387787c27aeea31d293aec99fac356681ad0ee"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.65.0",
+        "boost/random": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/lexical-cast": "1.65.0",
+        "boost/functional": "1.65.0",
+        "boost/math": "1.65.0",
+        "boost/rational": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/array": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/smart-ptr": "1.65.0",
+        "boost/throw-exception": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/34b6cb0475b379d82aa0edd413dde8951a56d328.zip",
+        "sha256": "f49c51e1855ad3bf5d9ebff8209b3624d9ca413c945ee4b7f3160931ec3e1f28",
+        "subPath": "multiprecision-34b6cb0475b379d82aa0edd413dde8951a56d328"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.64.0",
+        "boost/random": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/lexical-cast": "1.64.0",
+        "boost/functional": "1.64.0",
+        "boost/math": "1.64.0",
+        "boost/rational": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/array": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/smart-ptr": "1.64.0",
+        "boost/throw-exception": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/multiprecision/archive/47de2a9787004d33954da5d591987f03a27c8858.zip",
@@ -34,6 +179,296 @@
         "boost/config": "1.63.0",
         "boost/smart-ptr": "1.63.0",
         "boost/throw-exception": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/43560cca124aa0d4991c6e66d963c683e1453d5d.zip",
+        "sha256": "a4ea197a56a0cb746eb3063644c5fb646060e30c0614f299c3560d305c3a4a3e",
+        "subPath": "multiprecision-43560cca124aa0d4991c6e66d963c683e1453d5d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.62.0",
+        "boost/random": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/lexical-cast": "1.62.0",
+        "boost/functional": "1.62.0",
+        "boost/math": "1.62.0",
+        "boost/rational": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/array": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/smart-ptr": "1.62.0",
+        "boost/throw-exception": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/47ddd75af01219e260e62453585ccf347133c67a.zip",
+        "sha256": "078238786d6387ba8e66930eb6ef8a04d906e73ba5d218c861a0a3442ffdd3cd",
+        "subPath": "multiprecision-47ddd75af01219e260e62453585ccf347133c67a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.61.0",
+        "boost/random": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/lexical-cast": "1.61.0",
+        "boost/functional": "1.61.0",
+        "boost/math": "1.61.0",
+        "boost/rational": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/array": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/smart-ptr": "1.61.0",
+        "boost/throw-exception": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/8d6219cd37ca82b1a497864b1b68faa2b631b48b.zip",
+        "sha256": "bebce3ccc9b8dbc1ce0738cdd25a3902a4f69653a17b9ec9dd51b7693f9e0427",
+        "subPath": "multiprecision-8d6219cd37ca82b1a497864b1b68faa2b631b48b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.60.0",
+        "boost/random": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/lexical-cast": "1.60.0",
+        "boost/functional": "1.60.0",
+        "boost/math": "1.60.0",
+        "boost/rational": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/array": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/smart-ptr": "1.60.0",
+        "boost/throw-exception": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/4558e574d1d7bfd62550dac0b0b9b3e0ce9c3f38.zip",
+        "sha256": "21bd1ed8996c3912ccf2a8ad4a8b2a72583d9295f30498a0e4b7c26b9aee93bb",
+        "subPath": "multiprecision-4558e574d1d7bfd62550dac0b0b9b3e0ce9c3f38"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.59.0",
+        "boost/random": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/lexical-cast": "1.59.0",
+        "boost/functional": "1.59.0",
+        "boost/math": "1.59.0",
+        "boost/rational": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/array": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/smart-ptr": "1.59.0",
+        "boost/throw-exception": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/93d9d00c85c942452ef240a56a833b60ada5cab5.zip",
+        "sha256": "60182a459828ced432ec718fd874ae722b4392f62eb795224b7932a0197cc973",
+        "subPath": "multiprecision-93d9d00c85c942452ef240a56a833b60ada5cab5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.58.0",
+        "boost/random": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/lexical-cast": "1.58.0",
+        "boost/functional": "1.58.0",
+        "boost/math": "1.58.0",
+        "boost/rational": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/array": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/smart-ptr": "1.58.0",
+        "boost/throw-exception": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/4d9a5b5afeef7ce8eb99769638e6a0df2268cfc3.zip",
+        "sha256": "f6f1a5ed3843bf8312c74993018da4fa36be8be0f0726d5e10c46c27fa524a5a",
+        "subPath": "multiprecision-4d9a5b5afeef7ce8eb99769638e6a0df2268cfc3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.57.0",
+        "boost/random": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/lexical-cast": "1.57.0",
+        "boost/functional": "1.57.0",
+        "boost/math": "1.57.0",
+        "boost/rational": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/array": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/smart-ptr": "1.57.0",
+        "boost/throw-exception": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/64bba8a77997d04a13da53419cd47c2cbddf37fe.zip",
+        "sha256": "c22ddd9f6f98e742ed5f65fa70a6f6f6205b06d10e29f4ecf5e8c91a5e258091",
+        "subPath": "multiprecision-64bba8a77997d04a13da53419cd47c2cbddf37fe"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.56.0",
+        "boost/random": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/lexical-cast": "1.56.0",
+        "boost/functional": "1.56.0",
+        "boost/math": "1.56.0",
+        "boost/rational": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/array": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/smart-ptr": "1.56.0",
+        "boost/throw-exception": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/87b6301469a700f673ce2d6e789f4fe07bfd874e.zip",
+        "sha256": "f41efcf30921be364e918bbeae229dc4f17aac483c3be6aca6da6cc48f6b2b87",
+        "subPath": "multiprecision-87b6301469a700f673ce2d6e789f4fe07bfd874e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.55.0",
+        "boost/random": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/lexical-cast": "1.55.0",
+        "boost/functional": "1.55.0",
+        "boost/math": "1.55.0",
+        "boost/rational": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/array": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/smart-ptr": "1.55.0",
+        "boost/throw-exception": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/e53777594bf91485f81e08528286839a220d4013.zip",
+        "sha256": "8eb340a26b202d66ec813864b68b18bd1af32469349fa58332c681f7302f9a80",
+        "subPath": "multiprecision-e53777594bf91485f81e08528286839a220d4013"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.54.0",
+        "boost/random": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/lexical-cast": "1.54.0",
+        "boost/functional": "1.54.0",
+        "boost/math": "1.54.0",
+        "boost/rational": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/array": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/smart-ptr": "1.54.0",
+        "boost/throw-exception": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/multiprecision/archive/7f36c325c2a728742bb70acb750985fbecffd1e9.zip",
+        "sha256": "eac19f2bc3f76cc7553cad4fe5e32ab8da19e7ec5bdaa0db6ed161b082fe5755",
+        "subPath": "multiprecision-7f36c325c2a728742bb70acb750985fbecffd1e9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/multiprecision/6d431784feb60e6bccad204e1810fc953f0385ce/BUCK",
+        "sha256": "a57df58064870ba7c466a5b6b146ea656283ec84f8c49dc874f2ff61308ccb5d"
+      },
+      "dependencies": {
+        "boost/integer": "1.53.0",
+        "boost/random": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/lexical-cast": "1.53.0",
+        "boost/functional": "1.53.0",
+        "boost/math": "1.53.0",
+        "boost/rational": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/array": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/smart-ptr": "1.53.0",
+        "boost/throw-exception": "1.53.0"
       }
     }
   }

@@ -1,0 +1,132 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/6ff2719b6907b86596c3d43e88c1bcfdf29df560.zip",
+        "sha256": "39eb6d2ba393fab30c090d187a782380024685df2120fb07422ef0f96be2659c",
+        "subPath": "odeint-6ff2719b6907b86596c3d43e88c1bcfdf29df560"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/944fe8eed5c1d99d845062f0c0bb2aec1f13a2d5.zip",
+        "sha256": "83a5c27b5d4d8b635b32448fb520691492c469603091c5bfbe681e76c93268bc",
+        "subPath": "odeint-944fe8eed5c1d99d845062f0c0bb2aec1f13a2d5"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/944fe8eed5c1d99d845062f0c0bb2aec1f13a2d5.zip",
+        "sha256": "83a5c27b5d4d8b635b32448fb520691492c469603091c5bfbe681e76c93268bc",
+        "subPath": "odeint-944fe8eed5c1d99d845062f0c0bb2aec1f13a2d5"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/944fe8eed5c1d99d845062f0c0bb2aec1f13a2d5.zip",
+        "sha256": "83a5c27b5d4d8b635b32448fb520691492c469603091c5bfbe681e76c93268bc",
+        "subPath": "odeint-944fe8eed5c1d99d845062f0c0bb2aec1f13a2d5"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/fa99c05538dad6434f8e657807487aa1f5d0e365.zip",
+        "sha256": "f84e20d75d183d2f25f2343a31ecd123629136f5b2b4b99a5e51b64eace49a05",
+        "subPath": "odeint-fa99c05538dad6434f8e657807487aa1f5d0e365"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/fa99c05538dad6434f8e657807487aa1f5d0e365.zip",
+        "sha256": "f84e20d75d183d2f25f2343a31ecd123629136f5b2b4b99a5e51b64eace49a05",
+        "subPath": "odeint-fa99c05538dad6434f8e657807487aa1f5d0e365"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/fa99c05538dad6434f8e657807487aa1f5d0e365.zip",
+        "sha256": "f84e20d75d183d2f25f2343a31ecd123629136f5b2b4b99a5e51b64eace49a05",
+        "subPath": "odeint-fa99c05538dad6434f8e657807487aa1f5d0e365"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/fa99c05538dad6434f8e657807487aa1f5d0e365.zip",
+        "sha256": "f84e20d75d183d2f25f2343a31ecd123629136f5b2b4b99a5e51b64eace49a05",
+        "subPath": "odeint-fa99c05538dad6434f8e657807487aa1f5d0e365"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/fa99c05538dad6434f8e657807487aa1f5d0e365.zip",
+        "sha256": "f84e20d75d183d2f25f2343a31ecd123629136f5b2b4b99a5e51b64eace49a05",
+        "subPath": "odeint-fa99c05538dad6434f8e657807487aa1f5d0e365"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/779fa0eac90ec146247dcd1b79fbfdddf1f9a6bf.zip",
+        "sha256": "1ada9c9889db1f62de6fb97b5451b15f207cbc64f3c1120227937f0e822c8d84",
+        "subPath": "odeint-779fa0eac90ec146247dcd1b79fbfdddf1f9a6bf"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/f8e467b8ed7387895521ded7a3ca5444a8a3b545.zip",
+        "sha256": "ec301f88711e6ee8ffbe4622a7567ecd654b45dc58bef9bec30e3cf2ddadc1c6",
+        "subPath": "odeint-f8e467b8ed7387895521ded7a3ca5444a8a3b545"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/1e8a1f00177d0bc8c984a7b95f223cde36e45a36.zip",
+        "sha256": "770e382f051901afc03d22eb69748e9e4462f631103c4ab8cb081e19d69619a2",
+        "subPath": "odeint-1e8a1f00177d0bc8c984a7b95f223cde36e45a36"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/28a27fabdc922637ed4fff7610710712ce77d098.zip",
+        "sha256": "45aa11dfb71a1ada104538ad1af43ebacff63c1c9bd3ec2f3e424bc0be01c54f",
+        "subPath": "odeint-28a27fabdc922637ed4fff7610710712ce77d098"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/7c9d0d3b99fb7cdb65c69cedac73687641fdfe6a.zip",
+        "sha256": "2f63d722854b73102398434a1da737bb02d2bddb85613db68d84959c971896b3",
+        "subPath": "odeint-7c9d0d3b99fb7cdb65c69cedac73687641fdfe6a"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/86aeb2b1c6b4dd67554aa4096eb962fbbb94d0e3.zip",
+        "sha256": "8f5005a7d7341f794594a12b8ba1a44719bbe9c8203c737f3935005de980e0d5",
+        "subPath": "odeint-86aeb2b1c6b4dd67554aa4096eb962fbbb94d0e3"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/odeint/archive/94f123b58a6447e4da9c2dd2a4134069690ffde2.zip",
+        "sha256": "5e10a911f79884bc377d6e65c97b12d634cc7a649c4f67596967b4823f0df5e6",
+        "subPath": "odeint-94f123b58a6447e4da9c2dd2a4134069690ffde2"
+      }
+    }
+  }
+}

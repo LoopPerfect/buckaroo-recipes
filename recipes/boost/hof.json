@@ -1,0 +1,12 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/hof/archive/7e7610854ecec699af8503e44c48383828c44734.zip",
+        "sha256": "b49f255566196bb2d342722f3e555c6a65eb433dbdd7a9ab423a1029ca0869a0",
+        "subPath": "hof-7e7610854ecec699af8503e44c48383828c44734"
+      }
+    }
+  }
+}

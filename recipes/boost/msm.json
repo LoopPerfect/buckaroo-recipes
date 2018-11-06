@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/fc3671a41c583aefd6b40c15673b83589e4f4220.zip",
+        "sha256": "250ac320dcc385fce5b77a254d241b3fa0525de8d437680f5813dc3cf4197943",
+        "subPath": "msm-fc3671a41c583aefd6b40c15673b83589e4f4220"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/f1bce7c479e487b4821e10dfcd79bae96290d540.zip",
+        "sha256": "9cd57bc5e84fa95bcacf3568125d4d633dcc4e9ee98aa3802e6f95585cc6b3f4",
+        "subPath": "msm-f1bce7c479e487b4821e10dfcd79bae96290d540"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be.zip",
+        "sha256": "79982308112c1e4c1f2ae59aeee393a49fa5243a9f2a0176f56ac86038f53f98",
+        "subPath": "msm-c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be.zip",
+        "sha256": "79982308112c1e4c1f2ae59aeee393a49fa5243a9f2a0176f56ac86038f53f98",
+        "subPath": "msm-c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be.zip",
+        "sha256": "79982308112c1e4c1f2ae59aeee393a49fa5243a9f2a0176f56ac86038f53f98",
+        "subPath": "msm-c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be.zip",
+        "sha256": "79982308112c1e4c1f2ae59aeee393a49fa5243a9f2a0176f56ac86038f53f98",
+        "subPath": "msm-c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be.zip",
+        "sha256": "79982308112c1e4c1f2ae59aeee393a49fa5243a9f2a0176f56ac86038f53f98",
+        "subPath": "msm-c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be.zip",
+        "sha256": "79982308112c1e4c1f2ae59aeee393a49fa5243a9f2a0176f56ac86038f53f98",
+        "subPath": "msm-c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be.zip",
+        "sha256": "79982308112c1e4c1f2ae59aeee393a49fa5243a9f2a0176f56ac86038f53f98",
+        "subPath": "msm-c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be.zip",
+        "sha256": "79982308112c1e4c1f2ae59aeee393a49fa5243a9f2a0176f56ac86038f53f98",
+        "subPath": "msm-c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be.zip",
+        "sha256": "79982308112c1e4c1f2ae59aeee393a49fa5243a9f2a0176f56ac86038f53f98",
+        "subPath": "msm-c9d9eaad294e2beeb3d62eaeeb97a2dafa5a22be"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/030b83f5e02b7a944cc89268c524eb51edf89c35.zip",
+        "sha256": "1982f056645a3d8f556ac278b67a555c7c62b8f409eadc5a1646f6b30b9580b4",
+        "subPath": "msm-030b83f5e02b7a944cc89268c524eb51edf89c35"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/8f236bd846dc8379ddc58d24f75ca5f172ebdea4.zip",
+        "sha256": "f226849307c9451f39bb32ac1f4a4b658394161f6efcc8e3270b27d21c49da54",
+        "subPath": "msm-8f236bd846dc8379ddc58d24f75ca5f172ebdea4"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/1f0d63e688737d9a33be183907201b02650653b5.zip",
+        "sha256": "7fcd931e58f796802bf628ef0e7a6b16205672a8fc320104e4b01832cd0a1e18",
+        "subPath": "msm-1f0d63e688737d9a33be183907201b02650653b5"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/baa57860f0ba261f5378591f24e82b091a43cdc2.zip",
+        "sha256": "f6f4adea1e8843d0a4dcd95879c73b5851bf670f17d2429bf5a0b808ee9a5692",
+        "subPath": "msm-baa57860f0ba261f5378591f24e82b091a43cdc2"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/ee45ea72a2bb0f690422f4957bce4f98ca95af66.zip",
+        "sha256": "923a4da21d9a58c196216f632d86482e1fb6eba9c2f555e532f6a1daa56bc4f1",
+        "subPath": "msm-ee45ea72a2bb0f690422f4957bce4f98ca95af66"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/8a5837f53a5eab3654effd0b7bb02e8840c5a228.zip",
+        "sha256": "ba748ade51eccb0eb5dfd9b83fc11b57bd603f7e9210efbadf5f03900843731a",
+        "subPath": "msm-8a5837f53a5eab3654effd0b7bb02e8840c5a228"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/4f3e553a130db0917c7454ee6e01b8b062ed27fe.zip",
+        "sha256": "ad658aa89929d7c1932f4249d1e1662f8a195950d7d32ab8ae0e06c61483c0ae",
+        "subPath": "msm-4f3e553a130db0917c7454ee6e01b8b062ed27fe"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/ef3a0c3d74740bb2bcfaa8ad97efa8c32d3bd935.zip",
+        "sha256": "54c8565bc90699712e8a4e19dab590da8e6201e70cdf528b02cd4860071eb073",
+        "subPath": "msm-ef3a0c3d74740bb2bcfaa8ad97efa8c32d3bd935"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/38ccde78c837887d1c70acb752a9a4cbbe6656de.zip",
+        "sha256": "bf7683eea5141780056c4db0bf3bb921626a157c56c995c9f6688b1d44045eec",
+        "subPath": "msm-38ccde78c837887d1c70acb752a9a4cbbe6656de"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/aa18f4b0d728f3d1c07255f60d44588d0d0f5856.zip",
+        "sha256": "e4fe817064b408aa07dfdc0bce823eac202ea959d7700229e12b43a10b3eab14",
+        "subPath": "msm-aa18f4b0d728f3d1c07255f60d44588d0d0f5856"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/cec38ef7e8fe3c2ffa071d2055e7b054f298c3d4.zip",
+        "sha256": "a8d52aa59630df419a3954312f56ddd570386d7628510ceb4b1f79779ed4a290",
+        "subPath": "msm-cec38ef7e8fe3c2ffa071d2055e7b054f298c3d4"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/msm/archive/6abbe25b5f697828646a7e9a08b7a22a3bc05a07.zip",
+        "sha256": "f4f8b3d20571e02b0c58265cdd4bccaf09c37e514187a4cc63350a02732852a0",
+        "subPath": "msm-6abbe25b5f697828646a7e9a08b7a22a3bc05a07"
+      }
+    }
+  }
+}

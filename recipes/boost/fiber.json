@@ -7,6 +7,91 @@
     "project": "fiber"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fiber/archive/ad7b8b259c887bf6e323491e261728c82dcabf0b.zip",
+        "sha256": "d312d87162d7a80a955da5973250ae98f4a6c3376ee0eb5d18e25763e1de549e",
+        "subPath": "fiber-ad7b8b259c887bf6e323491e261728c82dcabf0b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fiber/1a991b9da4f9857cb73d3dd0737adc361bbf536e/BUCK",
+        "sha256": "71c90f272001cf53f2e4550cc0132e0b95391b2fb1e617e5afc595369eb67163"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/context": "1.67.0",
+        "boost/intrusive": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fiber/archive/02de640ef37866b6d6792ff0c039c48c648be45d.zip",
+        "sha256": "4f6685c0b1223d6223aca5b43f296f044336de1239e6acb788c9318e51a1e836",
+        "subPath": "fiber-02de640ef37866b6d6792ff0c039c48c648be45d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fiber/1a991b9da4f9857cb73d3dd0737adc361bbf536e/BUCK",
+        "sha256": "71c90f272001cf53f2e4550cc0132e0b95391b2fb1e617e5afc595369eb67163"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/context": "1.66.0",
+        "boost/intrusive": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/fiber/archive/440c7f799ae2e5a7718e5126d5b982bbd656cb72.zip",
+        "sha256": "1c1c01ac9a3b12ae1423fd84511f6430119ef2ae6230ded228b928ee2395acd6",
+        "subPath": "fiber-440c7f799ae2e5a7718e5126d5b982bbd656cb72"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fiber/1a991b9da4f9857cb73d3dd0737adc361bbf536e/BUCK",
+        "sha256": "71c90f272001cf53f2e4550cc0132e0b95391b2fb1e617e5afc595369eb67163"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/context": "1.65.1",
+        "boost/intrusive": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fiber/archive/fcb365d96be169fdc75c5013e7a7edd932df0c1e.zip",
+        "sha256": "b169729c8691d374294ddf629104a7419ebcc58e751281ce111618f780ada2bc",
+        "subPath": "fiber-fcb365d96be169fdc75c5013e7a7edd932df0c1e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fiber/1a991b9da4f9857cb73d3dd0737adc361bbf536e/BUCK",
+        "sha256": "71c90f272001cf53f2e4550cc0132e0b95391b2fb1e617e5afc595369eb67163"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/context": "1.65.0",
+        "boost/intrusive": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fiber/archive/fb3fa3da0e0a54e764de66cc4221879eeeec1a42.zip",
+        "sha256": "9079cb30513e05becb8b69e877b64e61d1a8898fc566ee52fb6c21856c8d1366",
+        "subPath": "fiber-fb3fa3da0e0a54e764de66cc4221879eeeec1a42"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fiber/1a991b9da4f9857cb73d3dd0737adc361bbf536e/BUCK",
+        "sha256": "71c90f272001cf53f2e4550cc0132e0b95391b2fb1e617e5afc595369eb67163"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/context": "1.64.0",
+        "boost/intrusive": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/fiber/archive/e83d33f6c0cf06fd98ef656a1150a3238fac335f.zip",
@@ -22,6 +107,23 @@
         "boost/assert": "1.63.0",
         "boost/context": "1.63.0",
         "boost/intrusive": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fiber/archive/a54425ddaabd2c4d5face61ce5ba6467a2d81926.zip",
+        "sha256": "9db337d999345c00b01396f8ed1f6704b9b48db660488b78583a7acf41dc9da9",
+        "subPath": "fiber-a54425ddaabd2c4d5face61ce5ba6467a2d81926"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fiber/1a991b9da4f9857cb73d3dd0737adc361bbf536e/BUCK",
+        "sha256": "71c90f272001cf53f2e4550cc0132e0b95391b2fb1e617e5afc595369eb67163"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/context": "1.62.0",
+        "boost/intrusive": "1.62.0"
       }
     }
   }

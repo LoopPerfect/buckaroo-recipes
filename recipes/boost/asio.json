@@ -7,6 +7,116 @@
     "project": "asio"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/25dc6780c2c73dd6a4d74e65e854fc0f705cbb60.zip",
+        "sha256": "277f76b717df5ece1e7057e935010a2d13242e368ac9fa289588358e2118f0cd",
+        "subPath": "asio-25dc6780c2c73dd6a4d74e65e854fc0f705cbb60"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.67.0",
+        "boost/system": "1.67.0",
+        "boost/coroutine": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/function": "1.67.0",
+        "boost/bind": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/regex": "1.67.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/310f245a35a20af59a4cd0030626a4de23c7309c.zip",
+        "sha256": "187c5319fd3eb5f815ac4dda4b229b1131f62c78a61bc4c626e26f71e509f299",
+        "subPath": "asio-310f245a35a20af59a4cd0030626a4de23c7309c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.66.0",
+        "boost/system": "1.66.0",
+        "boost/coroutine": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/function": "1.66.0",
+        "boost/bind": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/regex": "1.66.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/d53033eec64f806986f01641ee70bbf11c5db8cc.zip",
+        "sha256": "179630db08d0051af072363e2fa6cb897bb92f170eba0c82e8b2b216d89ec0a2",
+        "subPath": "asio-d53033eec64f806986f01641ee70bbf11c5db8cc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.65.1",
+        "boost/system": "1.65.1",
+        "boost/coroutine": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/function": "1.65.1",
+        "boost/bind": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/regex": "1.65.1",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/d53033eec64f806986f01641ee70bbf11c5db8cc.zip",
+        "sha256": "179630db08d0051af072363e2fa6cb897bb92f170eba0c82e8b2b216d89ec0a2",
+        "subPath": "asio-d53033eec64f806986f01641ee70bbf11c5db8cc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.65.0",
+        "boost/system": "1.65.0",
+        "boost/coroutine": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/function": "1.65.0",
+        "boost/bind": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/regex": "1.65.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/e62ac5aa6be84aad5a6f2ce83b9650dde29fcfad.zip",
+        "sha256": "f71687be699e614be562fe78ae4081b1a73761299bb9329d33e9ef34d8f0aebf",
+        "subPath": "asio-e62ac5aa6be84aad5a6f2ce83b9650dde29fcfad"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.64.0",
+        "boost/system": "1.64.0",
+        "boost/coroutine": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/function": "1.64.0",
+        "boost/bind": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/regex": "1.64.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/asio/archive/4fcaabffebfa4c46632e0143b83a6954b0cedb48.zip",
@@ -26,6 +136,380 @@
         "boost/bind": "1.63.0",
         "boost/config": "1.63.0",
         "boost/regex": "1.63.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/f2ed03374d187eee92a26545ef178855c83cd867.zip",
+        "sha256": "d09899a50250d66b442d23dc9e3af37b5a64ed66431b1c55ecb831fd2822a87f",
+        "subPath": "asio-f2ed03374d187eee92a26545ef178855c83cd867"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.62.0",
+        "boost/system": "1.62.0",
+        "boost/coroutine": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/function": "1.62.0",
+        "boost/bind": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/regex": "1.62.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/7041bc96db2574e2cb9aea614217cbc6dd0ea863.zip",
+        "sha256": "d36d4c77e93e9719fcbd764b6ef95a855759875a6eb85a42f61f4c8340af26e5",
+        "subPath": "asio-7041bc96db2574e2cb9aea614217cbc6dd0ea863"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.61.0",
+        "boost/system": "1.61.0",
+        "boost/coroutine": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/function": "1.61.0",
+        "boost/bind": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/regex": "1.61.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/7041bc96db2574e2cb9aea614217cbc6dd0ea863.zip",
+        "sha256": "d36d4c77e93e9719fcbd764b6ef95a855759875a6eb85a42f61f4c8340af26e5",
+        "subPath": "asio-7041bc96db2574e2cb9aea614217cbc6dd0ea863"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.60.0",
+        "boost/system": "1.60.0",
+        "boost/coroutine": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/function": "1.60.0",
+        "boost/bind": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/regex": "1.60.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/36f5fda32fd518714c00ae6fe23a352ed64a7f66.zip",
+        "sha256": "de56c97a1cd17bc12f87f20c76d7148717d7b0611f66c8722dcf84a35615a6ba",
+        "subPath": "asio-36f5fda32fd518714c00ae6fe23a352ed64a7f66"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.59.0",
+        "boost/system": "1.59.0",
+        "boost/coroutine": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/function": "1.59.0",
+        "boost/bind": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/regex": "1.59.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/36f5fda32fd518714c00ae6fe23a352ed64a7f66.zip",
+        "sha256": "de56c97a1cd17bc12f87f20c76d7148717d7b0611f66c8722dcf84a35615a6ba",
+        "subPath": "asio-36f5fda32fd518714c00ae6fe23a352ed64a7f66"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.58.0",
+        "boost/system": "1.58.0",
+        "boost/coroutine": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/function": "1.58.0",
+        "boost/bind": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/regex": "1.58.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/092171c193a166a907e796a74d2f9de0c3950fac.zip",
+        "sha256": "a17512094d1c161641edce3bf2af72ee67333781aac1fb8a65020c3c65120774",
+        "subPath": "asio-092171c193a166a907e796a74d2f9de0c3950fac"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.57.0",
+        "boost/system": "1.57.0",
+        "boost/coroutine": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/function": "1.57.0",
+        "boost/bind": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/regex": "1.57.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/4f11be277a7182d83a545fc4d37a92489ce4c0bc.zip",
+        "sha256": "a6fd7eb3bc3eff4491b166992e49e6f88693f3afc16cba27ced05818bd26f888",
+        "subPath": "asio-4f11be277a7182d83a545fc4d37a92489ce4c0bc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.56.0",
+        "boost/system": "1.56.0",
+        "boost/coroutine": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/function": "1.56.0",
+        "boost/bind": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/regex": "1.56.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/602da02b9823ac6e2b6821f1e8f9c315ec955344.zip",
+        "sha256": "5f57fdc77cd43c4b27c7fa3fc48552430036db6966eaee1245cb9b106e4b3862",
+        "subPath": "asio-602da02b9823ac6e2b6821f1e8f9c315ec955344"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.55.0",
+        "boost/system": "1.55.0",
+        "boost/coroutine": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/function": "1.55.0",
+        "boost/bind": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/regex": "1.55.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/55e8891c92346320084858ea5805ec265119576d.zip",
+        "sha256": "6bb575d0213aa057e8e0fe6de2ade2aea697448df565fd1560712c7e75b2d01c",
+        "subPath": "asio-55e8891c92346320084858ea5805ec265119576d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.54.0",
+        "boost/system": "1.54.0",
+        "boost/coroutine": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/function": "1.54.0",
+        "boost/bind": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/regex": "1.54.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/d04751166cbb0b8ddedd31d75ca6bf9ede4c41ff.zip",
+        "sha256": "94a27b1be68064cc319d32a7f24fc0ced27920015bae4ab4264006cd4eaa1ccc",
+        "subPath": "asio-d04751166cbb0b8ddedd31d75ca6bf9ede4c41ff"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.53.0",
+        "boost/system": "1.53.0",
+        "boost/coroutine": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/function": "1.53.0",
+        "boost/bind": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/regex": "1.53.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/87300a731b83149f5f3ec880a4b335908cf778b8.zip",
+        "sha256": "ae04161c816f9c67a027bddbe0a925c82dd2783aca1e0ec2ebca45ae5bced7f0",
+        "subPath": "asio-87300a731b83149f5f3ec880a4b335908cf778b8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.52.0",
+        "boost/system": "1.52.0",
+        "boost/coroutine": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/function": "1.52.0",
+        "boost/bind": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/regex": "1.52.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/92d8a7143e5ea62ff5550f00f4762f0ab0562027.zip",
+        "sha256": "fecb5daae954459765472650f4ff70db5b83101ba66e3033c44c9056da7702cd",
+        "subPath": "asio-92d8a7143e5ea62ff5550f00f4762f0ab0562027"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.51.0",
+        "boost/system": "1.51.0",
+        "boost/coroutine": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/function": "1.51.0",
+        "boost/bind": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/regex": "1.51.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/5dd7d8910686a5affe372abada25d38fb591a876.zip",
+        "sha256": "324270bbe7508ae5d0fb74022e9ae5d5821e3d62e1530fd21bc19d90a59b22b0",
+        "subPath": "asio-5dd7d8910686a5affe372abada25d38fb591a876"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.50.0",
+        "boost/system": "1.50.0",
+        "boost/coroutine": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/function": "1.50.0",
+        "boost/bind": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/regex": "1.50.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/f2bce83d4438722e38e5d84df5f2e2c73f6adc2b.zip",
+        "sha256": "c7ac63520f4f9d9de93ced8a6c608fcb062aa0c896f5c798fe0f729e5d9aab66",
+        "subPath": "asio-f2bce83d4438722e38e5d84df5f2e2c73f6adc2b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.49.0",
+        "boost/system": "1.49.0",
+        "boost/coroutine": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/function": "1.49.0",
+        "boost/bind": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/regex": "1.49.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/904f6b0b5524987cf78e087ce4ee656b39fa3350.zip",
+        "sha256": "d3439fd4ee1b75c06b45159bd313efd7a52af9f08ea39ea7fc1aeab08de2db5c",
+        "subPath": "asio-904f6b0b5524987cf78e087ce4ee656b39fa3350"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.48.0",
+        "boost/system": "1.48.0",
+        "boost/coroutine": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/function": "1.48.0",
+        "boost/bind": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/regex": "1.48.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/e587f29680a01d2c606db5c76b41f5153069e863.zip",
+        "sha256": "b4b63952567d1c1ab2e4184954e29c093972d857d86f99a305cc230a02a843d7",
+        "subPath": "asio-e587f29680a01d2c606db5c76b41f5153069e863"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.47.0",
+        "boost/system": "1.47.0",
+        "boost/coroutine": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/function": "1.47.0",
+        "boost/bind": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/regex": "1.47.0",
+        "openssl/openssl": "1.0.211"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/asio/archive/da1bd47e58d99687143fbb686e0b09afc704c7b8.zip",
+        "sha256": "fd08c8809e192c40a6927da660ef6a973c20ef57089b4071bf55f917cf6fa261",
+        "subPath": "asio-da1bd47e58d99687143fbb686e0b09afc704c7b8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/asio/b33f0a3a128e45ccf805e200d2f62e69e26dde77/BUCK",
+        "sha256": "d88426962cc3465f091fd13bbbf87318eb39f5997279db8810e6e0f00c8fc66d"
+      },
+      "dependencies": {
+        "boost/date-time": "1.46.1",
+        "boost/system": "1.46.1",
+        "boost/coroutine": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/function": "1.46.1",
+        "boost/bind": "1.46.1",
+        "boost/config": "1.46.1",
+        "boost/regex": "1.46.1",
         "openssl/openssl": "1.0.211"
       }
     }

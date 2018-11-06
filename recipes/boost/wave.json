@@ -7,6 +7,101 @@
     "project": "wave"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/f0370e68c7725ee3041a3293347a98ba44f83260.zip",
+        "sha256": "f8e402605fb51664bd63899d7065a6235a213a28e5c36ce783a313e31c2b3915",
+        "subPath": "wave-f0370e68c7725ee3041a3293347a98ba44f83260"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/spirit": "1.67.0",
+        "boost/multi-index": "1.67.0",
+        "boost/thread": "1.67.0",
+        "boost/atomic": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/95d786801c292bb4328dff12828bbc251f30b282.zip",
+        "sha256": "436e2df7ff1d62c36cce6ed07b96a01f4cf6ef80d554df40c961da6c4566fd64",
+        "subPath": "wave-95d786801c292bb4328dff12828bbc251f30b282"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/spirit": "1.66.0",
+        "boost/multi-index": "1.66.0",
+        "boost/thread": "1.66.0",
+        "boost/atomic": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/da322957c2649c425a77ab3adabbbd43bf4b0641.zip",
+        "sha256": "f15fc6af2bbbe3e974aae54def80d6e639156d1b7450ef667c218cddd0a3f57f",
+        "subPath": "wave-da322957c2649c425a77ab3adabbbd43bf4b0641"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/spirit": "1.65.1",
+        "boost/multi-index": "1.65.1",
+        "boost/thread": "1.65.1",
+        "boost/atomic": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/da322957c2649c425a77ab3adabbbd43bf4b0641.zip",
+        "sha256": "f15fc6af2bbbe3e974aae54def80d6e639156d1b7450ef667c218cddd0a3f57f",
+        "subPath": "wave-da322957c2649c425a77ab3adabbbd43bf4b0641"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/spirit": "1.65.0",
+        "boost/multi-index": "1.65.0",
+        "boost/thread": "1.65.0",
+        "boost/atomic": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/1d9bdb7631f79e60cca07f7790457707f176bc23.zip",
+        "sha256": "d70668eec483f12e3f93241145f0659a283b5a637ed85070009c64c4f8fdc5d5",
+        "subPath": "wave-1d9bdb7631f79e60cca07f7790457707f176bc23"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/spirit": "1.64.0",
+        "boost/multi-index": "1.64.0",
+        "boost/thread": "1.64.0",
+        "boost/atomic": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/wave/archive/1d9bdb7631f79e60cca07f7790457707f176bc23.zip",
@@ -24,6 +119,329 @@
         "boost/multi-index": "1.63.0",
         "boost/thread": "1.63.0",
         "boost/atomic": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/1d9bdb7631f79e60cca07f7790457707f176bc23.zip",
+        "sha256": "d70668eec483f12e3f93241145f0659a283b5a637ed85070009c64c4f8fdc5d5",
+        "subPath": "wave-1d9bdb7631f79e60cca07f7790457707f176bc23"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/spirit": "1.62.0",
+        "boost/multi-index": "1.62.0",
+        "boost/thread": "1.62.0",
+        "boost/atomic": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/1d9bdb7631f79e60cca07f7790457707f176bc23.zip",
+        "sha256": "d70668eec483f12e3f93241145f0659a283b5a637ed85070009c64c4f8fdc5d5",
+        "subPath": "wave-1d9bdb7631f79e60cca07f7790457707f176bc23"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/spirit": "1.61.0",
+        "boost/multi-index": "1.61.0",
+        "boost/thread": "1.61.0",
+        "boost/atomic": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/421a43e9fb9b914c0651e89051523033dc987b36.zip",
+        "sha256": "2c1ef128c62e76e54da2222b0d0e83371f5ab20c38842b5a6b52542670ad39bd",
+        "subPath": "wave-421a43e9fb9b914c0651e89051523033dc987b36"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/spirit": "1.60.0",
+        "boost/multi-index": "1.60.0",
+        "boost/thread": "1.60.0",
+        "boost/atomic": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/421a43e9fb9b914c0651e89051523033dc987b36.zip",
+        "sha256": "2c1ef128c62e76e54da2222b0d0e83371f5ab20c38842b5a6b52542670ad39bd",
+        "subPath": "wave-421a43e9fb9b914c0651e89051523033dc987b36"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/spirit": "1.59.0",
+        "boost/multi-index": "1.59.0",
+        "boost/thread": "1.59.0",
+        "boost/atomic": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/6905e1c50f33aee707744b591c1622a774560e1b.zip",
+        "sha256": "6ddb1d5529270a9401c4cd255df2aa4f80d6bf224e92f612afc5298926a3ee95",
+        "subPath": "wave-6905e1c50f33aee707744b591c1622a774560e1b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/spirit": "1.58.0",
+        "boost/multi-index": "1.58.0",
+        "boost/thread": "1.58.0",
+        "boost/atomic": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/6905e1c50f33aee707744b591c1622a774560e1b.zip",
+        "sha256": "6ddb1d5529270a9401c4cd255df2aa4f80d6bf224e92f612afc5298926a3ee95",
+        "subPath": "wave-6905e1c50f33aee707744b591c1622a774560e1b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/spirit": "1.57.0",
+        "boost/multi-index": "1.57.0",
+        "boost/thread": "1.57.0",
+        "boost/atomic": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/6905e1c50f33aee707744b591c1622a774560e1b.zip",
+        "sha256": "6ddb1d5529270a9401c4cd255df2aa4f80d6bf224e92f612afc5298926a3ee95",
+        "subPath": "wave-6905e1c50f33aee707744b591c1622a774560e1b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/spirit": "1.56.0",
+        "boost/multi-index": "1.56.0",
+        "boost/thread": "1.56.0",
+        "boost/atomic": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/3a22ea88c38a14ddc6cceeabf1e4f5763c2322ae.zip",
+        "sha256": "51441e5ae5872693b3d03dc453af9a32752fa0fea3b5ac37295b87daf6df0d0f",
+        "subPath": "wave-3a22ea88c38a14ddc6cceeabf1e4f5763c2322ae"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/spirit": "1.55.0",
+        "boost/multi-index": "1.55.0",
+        "boost/thread": "1.55.0",
+        "boost/atomic": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/020eeac5134457c1e6d61dd98029c024e682acf6.zip",
+        "sha256": "e2be545f63acbde16f53af719575d4ae33a73543897512e556f6110e89578035",
+        "subPath": "wave-020eeac5134457c1e6d61dd98029c024e682acf6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/spirit": "1.54.0",
+        "boost/multi-index": "1.54.0",
+        "boost/thread": "1.54.0",
+        "boost/atomic": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/bc0012e1e09ebebea551bb68bed72d42dbce350a.zip",
+        "sha256": "f850008d57cf7651d83e2e58de93e5a6d1d3c7f70a535b01483de7887eaf9811",
+        "subPath": "wave-bc0012e1e09ebebea551bb68bed72d42dbce350a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/spirit": "1.53.0",
+        "boost/multi-index": "1.53.0",
+        "boost/thread": "1.53.0",
+        "boost/atomic": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/a7e51b8afc1357248d4e9a7d21313dd554ffde47.zip",
+        "sha256": "07e1c39d966d6f35b5c52b8575885d8eeb2fd939e1784cb6c425d98e495cad7a",
+        "subPath": "wave-a7e51b8afc1357248d4e9a7d21313dd554ffde47"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/spirit": "1.52.0",
+        "boost/multi-index": "1.52.0",
+        "boost/thread": "1.52.0",
+        "boost/atomic": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/f6dcc5ae61cb2c3810b7cd53346675d1f0700433.zip",
+        "sha256": "e42b878568fda07b57be755f7879128b323f7fe2244cb8e1fa448f45ba58d595",
+        "subPath": "wave-f6dcc5ae61cb2c3810b7cd53346675d1f0700433"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/spirit": "1.51.0",
+        "boost/multi-index": "1.51.0",
+        "boost/thread": "1.51.0",
+        "boost/atomic": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/2ede083659afdf7b29580dc6e41d7b3dab96b59f.zip",
+        "sha256": "6c16a12572fd109eb675ce0e3068915521f1f969effe13679f4bbc49e46ccf9a",
+        "subPath": "wave-2ede083659afdf7b29580dc6e41d7b3dab96b59f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/spirit": "1.50.0",
+        "boost/multi-index": "1.50.0",
+        "boost/thread": "1.50.0",
+        "boost/atomic": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/7cb34c85fe5c0efac99727effd072508d7539567.zip",
+        "sha256": "7ea150ed5a8ee6d667dfabcbdbba90ac4d3b221d3975a29ed278292d96a3749d",
+        "subPath": "wave-7cb34c85fe5c0efac99727effd072508d7539567"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/spirit": "1.49.0",
+        "boost/multi-index": "1.49.0",
+        "boost/thread": "1.49.0",
+        "boost/atomic": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/27c2d68b4fabf443b0699acdb298eb2e49634c99.zip",
+        "sha256": "acae5991068e679ee6eab69bb983636065f2e9cde7bc72972b0755855787ad7f",
+        "subPath": "wave-27c2d68b4fabf443b0699acdb298eb2e49634c99"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/spirit": "1.48.0",
+        "boost/multi-index": "1.48.0",
+        "boost/thread": "1.48.0",
+        "boost/atomic": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/bdcf381ff947b401fc76029bc4197376f0354b12.zip",
+        "sha256": "35e818eda2eafbbaeaa49ec03a1d7dca8a342b9a2b8b089fe7686906dadddb17",
+        "subPath": "wave-bdcf381ff947b401fc76029bc4197376f0354b12"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/spirit": "1.47.0",
+        "boost/multi-index": "1.47.0",
+        "boost/thread": "1.47.0",
+        "boost/atomic": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/wave/archive/a9422429c7ce492b3e9f8e9f043bfcc679871059.zip",
+        "sha256": "c0354e8bd25d0678f17ea8e89231d9d719114375067bc3b909e43df59e24cde6",
+        "subPath": "wave-a9422429c7ce492b3e9f8e9f043bfcc679871059"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/wave/ddc38d631f4dc3d4fed95870ccf02e84e47c6c6d/BUCK",
+        "sha256": "1b2f7389f7d82f4e6b8dbcf96e2c225e9246571c96c9c4bcbf2b4c15b9a677bb"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/spirit": "1.46.1",
+        "boost/multi-index": "1.46.1",
+        "boost/thread": "1.46.1",
+        "boost/atomic": "1.46.1"
       }
     }
   }

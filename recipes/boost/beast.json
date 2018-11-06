@@ -1,0 +1,20 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/beast/archive/b4cb4f1fd3d9d1eca90f44e59e1ca0b5260d0c13.zip",
+        "sha256": "d31b0772435d5fb114686ad8b8168a9ac4f30d7f536604c52ea2faee6ef956e7",
+        "subPath": "beast-b4cb4f1fd3d9d1eca90f44e59e1ca0b5260d0c13"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/beast/archive/d52e8290453fe445c8700b4819fe8e4f45633a02.zip",
+        "sha256": "ca4fa59cf136a9c3356f6de8059cd9e8a5344d2d328fcd444b559e333ae13b93",
+        "subPath": "beast-d52e8290453fe445c8700b4819fe8e4f45633a02"
+      }
+    }
+  }
+}

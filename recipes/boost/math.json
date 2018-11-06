@@ -7,11 +7,131 @@
     "project": "math"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/99a11bd20267837d5453ee24f4d9c2dc17b5cd4f.zip",
+        "sha256": "f6f16397cb0da0036c375d3f27e9d1afd9fab068154182bef6d1bd192ca7ced6",
+        "subPath": "math-99a11bd20267837d5453ee24f4d9c2dc17b5cd4f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/predef": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/array": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/container": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/cf50717bbf05954f8f3a65a029e127001773c9e0.zip",
+        "sha256": "d91b6370ef94bf78a77a8e9e637b27c1dd6c63fe02311815e2ad7f081d256946",
+        "subPath": "math-cf50717bbf05954f8f3a65a029e127001773c9e0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/predef": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/array": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/container": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/5d12dab37383cf1e52539bb1d15180d462a681f5.zip",
+        "sha256": "a3e1de9c5be122e4f3f3445ac17edb08c37d3951a1e696b3e5440a799efd5084",
+        "subPath": "math-5d12dab37383cf1e52539bb1d15180d462a681f5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/predef": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/array": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/container": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/5d12dab37383cf1e52539bb1d15180d462a681f5.zip",
+        "sha256": "a3e1de9c5be122e4f3f3445ac17edb08c37d3951a1e696b3e5440a799efd5084",
+        "subPath": "math-5d12dab37383cf1e52539bb1d15180d462a681f5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/predef": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/array": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/container": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/60dc89c74ddf8933c93a9de7270b45ee82894dea.zip",
+        "sha256": "9846d6f08cd3631274739a416c6ee802b9889531eac498cb239be0627a073cd5",
+        "subPath": "math-60dc89c74ddf8933c93a9de7270b45ee82894dea"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/predef": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/array": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/container": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
-        "url": "https://github.com/boostorg/math/archive/boost-1.63.0.zip",
-        "sha256": "9be6e913aab1a9ed3f4d6361911aff8b9e52a9cbb12c19f1ea79e9252b97b011",
-        "subPath": "math-boost-1.63.0"
+        "url": "https://github.com/boostorg/math/archive/0b1d59cc128bfaa6da39561b8388dec58e408cc1.zip",
+        "sha256": "fd614e11edea4314d2db83ccd314317946b1ce56f375863f921dfe54c09491fe",
+        "subPath": "math-0b1d59cc128bfaa6da39561b8388dec58e408cc1"
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
@@ -29,6 +149,414 @@
         "boost/utility": "1.63.0",
         "boost/core": "1.63.0",
         "boost/container": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/242e9d669198415d165bb0213f730c00985bee9a.zip",
+        "sha256": "f379f9cef60e9cbbe140689bdbaad55c48a302bc3fbf2f4ee52c16edadc7c822",
+        "subPath": "math-242e9d669198415d165bb0213f730c00985bee9a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/predef": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/array": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/container": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/8a1815902fde572dab505a371edc7ad7ef53ecb0.zip",
+        "sha256": "15cc0621b3f26f84427d955d522c744543935313cb2eaeac4972d8383b987a6e",
+        "subPath": "math-8a1815902fde572dab505a371edc7ad7ef53ecb0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/predef": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/array": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/container": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/e7ca10d04e070ca1c18cc0d5dc21ae1218baf36e.zip",
+        "sha256": "1d210dcaf0380f00320e9abafaf9a2686f1e43654fd661171ba9c32cb06f56f6",
+        "subPath": "math-e7ca10d04e070ca1c18cc0d5dc21ae1218baf36e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/predef": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/array": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/container": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/e1ae526be1dcf79b83f65f89de1699a5ab947ce4.zip",
+        "sha256": "7d0df3184f68a4bddffb005067751a59aaa3a71689827a85072c7484fa9786c5",
+        "subPath": "math-e1ae526be1dcf79b83f65f89de1699a5ab947ce4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/predef": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/array": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/container": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/88baea211dae1450ec69e26b4f3db6ed26b3711e.zip",
+        "sha256": "65ebb2d5ccfadbd46388051cfe33c3a543d3497c3401284ac9a6620a2be14f88",
+        "subPath": "math-88baea211dae1450ec69e26b4f3db6ed26b3711e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/predef": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/array": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/container": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/3c4d1804e1556ccebb54fe6e823a66020526e6ae.zip",
+        "sha256": "70b118b6248380eb902b782e91f24820cfcf71e69f96fb32ae8e8966d94e548d",
+        "subPath": "math-3c4d1804e1556ccebb54fe6e823a66020526e6ae"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/predef": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/array": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/container": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/1e8dfa921803f5a52408770b319e2ac94c9bdcb8.zip",
+        "sha256": "f0afaec4e73daaf7ed0914a7fd56f6b0077a583f8ef66de25e6ddacd11120285",
+        "subPath": "math-1e8dfa921803f5a52408770b319e2ac94c9bdcb8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/predef": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/array": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/container": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/5cf8e6edd9fb5b09946aa813eafe621a9a6e4baa.zip",
+        "sha256": "fdf7f3da3b7ef0f4882bfaf2bfbbbcec51b9ff6cf6fd8c303c9f1e10f0964309",
+        "subPath": "math-5cf8e6edd9fb5b09946aa813eafe621a9a6e4baa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/predef": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/array": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/container": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/3060ade82f3e41dd4457b8768889bb751e1b06d9.zip",
+        "sha256": "42ff2b0ee87330a4100d75e793508ff243a6161e09db2f6fb48d81b87a779650",
+        "subPath": "math-3060ade82f3e41dd4457b8768889bb751e1b06d9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/predef": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/array": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/container": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/48a32d881286d14fc618f8531ee8d8ff475227ed.zip",
+        "sha256": "66445310787e285fbdd6e9e0d9ca848327a4ca8e1fa531aaaf3a200b5fa3e15f",
+        "subPath": "math-48a32d881286d14fc618f8531ee8d8ff475227ed"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/predef": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/array": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/container": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/45b49ab0fdca780db6ae70c584956487586b7975.zip",
+        "sha256": "eaf86dc63ad665d230217a44e4745431493daa211ad3be7210226df5ecaff2bf",
+        "subPath": "math-45b49ab0fdca780db6ae70c584956487586b7975"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/predef": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/array": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/container": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/fa63122087f040ca966b15838cfb2f5d7b9c1d22.zip",
+        "sha256": "9934dd8b6eff997bf7c26ae19fb7619db0ebd57dcd944e9d31530bbb15c18447",
+        "subPath": "math-fa63122087f040ca966b15838cfb2f5d7b9c1d22"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/predef": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/array": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/container": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/80efeb390ffd7e93750b82c60daf8a3548833bc1.zip",
+        "sha256": "d168cba4370cf8dd7face0f612ec72dd94ce77e5ef0b4e7b87fc74e3d96f838a",
+        "subPath": "math-80efeb390ffd7e93750b82c60daf8a3548833bc1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/predef": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/array": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/container": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/5f5b7387caeed660722f5e310f1c866a7c26a9e2.zip",
+        "sha256": "ec27320b702e9e62e714d59dab300cbb19f7031060acdf17e530f4c7511a8f40",
+        "subPath": "math-5f5b7387caeed660722f5e310f1c866a7c26a9e2"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/predef": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/array": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/container": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/a1b51d131eabd81a580e2aea4a6245755b6afc11.zip",
+        "sha256": "2ee7363aea14266732203e9345b3e7beacac34473e0d8a41c1fbaff8ffc574b8",
+        "subPath": "math-a1b51d131eabd81a580e2aea4a6245755b6afc11"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/predef": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/array": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/container": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/eb4c34c5400e0cc2030678b3abb4bf868715467b.zip",
+        "sha256": "2844200ef4fdddf73b0470c038c426fad25733bfb183e667024aea003bd3366c",
+        "subPath": "math-eb4c34c5400e0cc2030678b3abb4bf868715467b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/predef": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/array": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/container": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/math/archive/37ff2bc1562e308cd5796800092cbcef0ac024e7.zip",
+        "sha256": "6c55ab0a1ee015f710d51255d109a97336af1045a7354e2e7dd0cf4692bf866f",
+        "subPath": "math-37ff2bc1562e308cd5796800092cbcef0ac024e7"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/math/83343418d349b103bc58552aae3c6b4fd2a9133b/BUCK",
+        "sha256": "5687aa17aa00f93021f6d87f6fb81d0651b6c2ac7ac4de337a0dcca1571971b9"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/static-assert": "1.46.1",
+        "boost/predef": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/preprocessor": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/array": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/container": "1.46.1"
       }
     }
   }

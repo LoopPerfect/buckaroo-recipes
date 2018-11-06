@@ -1,0 +1,12 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/check_build/archive/d38f36646b099e5b4452bd020782fc66f6208a71.zip",
+        "sha256": "8a5f707aab7394ee98dc2d53327726b009ef349685747457c518dbcd2376d3db",
+        "subPath": "check_build-d38f36646b099e5b4452bd020782fc66f6208a71"
+      }
+    }
+  }
+}

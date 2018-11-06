@@ -7,6 +7,116 @@
     "project": "fusion"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/7899658d8eb23074844483caf04af91e922e642e.zip",
+        "sha256": "a4bef72738bd06f6cef946959e2649bde57562e251d4c9867c1a38c7bae77969",
+        "subPath": "fusion-7899658d8eb23074844483caf04af91e922e642e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/typeof": "1.67.0",
+        "boost/tuple": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/utility": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/71ad390cf0bf41975a309fbb5cb069a2e24d6d4d.zip",
+        "sha256": "f3ad00178c50f6e3f431e8746ef7c0b29a1b3449aa76d205ce1b73e2132a172b",
+        "subPath": "fusion-71ad390cf0bf41975a309fbb5cb069a2e24d6d4d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/typeof": "1.66.0",
+        "boost/tuple": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/utility": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/84d8afbb314c4ff14434fc20277fada4f07f110e.zip",
+        "sha256": "9f7a0dbbe69cf175007cad27763c885439c48c285e41d108f19e8a459d3cea38",
+        "subPath": "fusion-84d8afbb314c4ff14434fc20277fada4f07f110e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/typeof": "1.65.1",
+        "boost/tuple": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/utility": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/84d8afbb314c4ff14434fc20277fada4f07f110e.zip",
+        "sha256": "9f7a0dbbe69cf175007cad27763c885439c48c285e41d108f19e8a459d3cea38",
+        "subPath": "fusion-84d8afbb314c4ff14434fc20277fada4f07f110e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/typeof": "1.65.0",
+        "boost/tuple": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/utility": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/715a7fb729ad69c0ac4b8f3db729a07827dc2476.zip",
+        "sha256": "8865b8a668542a553bbd964f680932fbaaff867836a0dd32858e40681ffe8a8b",
+        "subPath": "fusion-715a7fb729ad69c0ac4b8f3db729a07827dc2476"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/typeof": "1.64.0",
+        "boost/tuple": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/utility": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/fusion/archive/715a7fb729ad69c0ac4b8f3db729a07827dc2476.zip",
@@ -27,6 +137,380 @@
         "boost/static-assert": "1.63.0",
         "boost/detail": "1.63.0",
         "boost/utility": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/904d3c2c0185add393153d3265d9f46f8948ec76.zip",
+        "sha256": "b72015ad137d6c791e9ff6a4660a8fffcce7138149e0693e70e76bce2c8babdd",
+        "subPath": "fusion-904d3c2c0185add393153d3265d9f46f8948ec76"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/typeof": "1.62.0",
+        "boost/tuple": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/utility": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/904d3c2c0185add393153d3265d9f46f8948ec76.zip",
+        "sha256": "b72015ad137d6c791e9ff6a4660a8fffcce7138149e0693e70e76bce2c8babdd",
+        "subPath": "fusion-904d3c2c0185add393153d3265d9f46f8948ec76"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/typeof": "1.61.0",
+        "boost/tuple": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/utility": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/53ba3de15aef744e72d86e91269e2cd90cff8140.zip",
+        "sha256": "cb45b4eb6b08a3ef536ee6c56b825ab0e884688911dede676ee93637e547b351",
+        "subPath": "fusion-53ba3de15aef744e72d86e91269e2cd90cff8140"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/typeof": "1.60.0",
+        "boost/tuple": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/utility": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/dc55e5e103b1dbdeb74ad04076d035864d1d7118.zip",
+        "sha256": "636030236b6e550fc89393ae37055b1cc2005f9bf6395346af71788b5233a9c6",
+        "subPath": "fusion-dc55e5e103b1dbdeb74ad04076d035864d1d7118"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/typeof": "1.59.0",
+        "boost/tuple": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/utility": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/639cf2459ddd85dea33594f7a0f96f762fdf3892.zip",
+        "sha256": "9ebae3bfa8a2fe2b1228fcca52597a5e0bb89259f9e5a50153899a0c0e4510d5",
+        "subPath": "fusion-639cf2459ddd85dea33594f7a0f96f762fdf3892"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/typeof": "1.58.0",
+        "boost/tuple": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/utility": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/3933df13fbd5f7e4b907c37cad216e2333f0fdba.zip",
+        "sha256": "36206d6819902f2c5de740334013076e4914e667f94f62c4c743f1e0db187d04",
+        "subPath": "fusion-3933df13fbd5f7e4b907c37cad216e2333f0fdba"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/typeof": "1.57.0",
+        "boost/tuple": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/utility": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/a0c1ec201842bd38ca9480e2cd764d9497b44b2d.zip",
+        "sha256": "7ed5a557590916110255ca5291fed8287236cbcb9ce81f2bdfd7ede84c0ea74e",
+        "subPath": "fusion-a0c1ec201842bd38ca9480e2cd764d9497b44b2d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/typeof": "1.56.0",
+        "boost/tuple": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/utility": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/4b541f1a1855640986636f15392b55c4e41db02b.zip",
+        "sha256": "e119cbb8ba0e5f5dd46c29e4dc8dc7fb7df1c4f32ab7c91f3a4a85876138a2b5",
+        "subPath": "fusion-4b541f1a1855640986636f15392b55c4e41db02b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/typeof": "1.55.0",
+        "boost/tuple": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/utility": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/2646684dfc809ed22d44e308844fa1d06e9c1f35.zip",
+        "sha256": "a60e1b51a8cd6cda09f04a8e8a8c96af906ff1dc01e24711fa73144242319dc8",
+        "subPath": "fusion-2646684dfc809ed22d44e308844fa1d06e9c1f35"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/typeof": "1.54.0",
+        "boost/tuple": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/utility": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/034828cdc33b440459aeb16dc6faad20d44beadf.zip",
+        "sha256": "c5a93ec9968f5b975094dcd746e7d80cc636f6c289f0b7f12e84709c9110eab5",
+        "subPath": "fusion-034828cdc33b440459aeb16dc6faad20d44beadf"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/typeof": "1.53.0",
+        "boost/tuple": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/utility": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/baac07f0e6361ab50801ce3505b6fd8a86e946a3.zip",
+        "sha256": "fb2f4f88c69eb6ecdc554276a94a064f1e4b95028802bb0de06b8596d023fd37",
+        "subPath": "fusion-baac07f0e6361ab50801ce3505b6fd8a86e946a3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/typeof": "1.52.0",
+        "boost/tuple": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/utility": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/8f9736a5f3efcdce6f03e4f865e5f8dde74e8326.zip",
+        "sha256": "2ee74175f7f6187407c503975b8d6bdd36b3656878950bf0514255fa6ebd209b",
+        "subPath": "fusion-8f9736a5f3efcdce6f03e4f865e5f8dde74e8326"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/typeof": "1.51.0",
+        "boost/tuple": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/utility": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/f58cbc45cbc16fa3b326995f44b491de2f2a7f25.zip",
+        "sha256": "75c1d11f6022df5d492595d4334b3b00b0b1f5de8205c09ded0d056cfe9ce720",
+        "subPath": "fusion-f58cbc45cbc16fa3b326995f44b491de2f2a7f25"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/typeof": "1.50.0",
+        "boost/tuple": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/utility": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/bed076889fd00c0144cdeee2783b2cab754fadce.zip",
+        "sha256": "af3cd1af842927d7ef99e17719d983ef90a7ff387e767d604cdf7395d15eca0e",
+        "subPath": "fusion-bed076889fd00c0144cdeee2783b2cab754fadce"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/typeof": "1.49.0",
+        "boost/tuple": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/utility": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/3abe58f3bb4caf6f33db0c5be6ef214b6a9fd584.zip",
+        "sha256": "65606d3fd41e5ce5a4262a6ffad6195f96b0217b18ea56fdebf9b73066f261c7",
+        "subPath": "fusion-3abe58f3bb4caf6f33db0c5be6ef214b6a9fd584"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/typeof": "1.48.0",
+        "boost/tuple": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/utility": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/fdd2d2d1c59875d1a3c95543e4dafc975fa51381.zip",
+        "sha256": "bd71475a0652846b3c1ad81e5a6d0af99c01afae504b95fc87af62edd2bc9a46",
+        "subPath": "fusion-fdd2d2d1c59875d1a3c95543e4dafc975fa51381"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/typeof": "1.47.0",
+        "boost/tuple": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/utility": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/fusion/archive/fd94a2c9b1b1d5c648ef3872a7875a7f423e87f6.zip",
+        "sha256": "f757623bb195ed83c72c7136feac45acda5c8e76f1657d36456ddfeb84864d9f",
+        "subPath": "fusion-fd94a2c9b1b1d5c648ef3872a7875a7f423e87f6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/fusion/a1b9b6682841917754b3b296aa42afc56e8eef51/BUCK",
+        "sha256": "fcf6a41979a5aa4fed58753addd54c07ec22d96f691a87dd0cb67fccaa7c7808"
+      },
+      "dependencies": {
+        "boost/preprocessor": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/config": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/typeof": "1.46.1",
+        "boost/tuple": "1.46.1",
+        "boost/static-assert": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/utility": "1.46.1"
       }
     }
   }

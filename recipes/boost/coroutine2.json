@@ -7,6 +7,91 @@
     "project": "coroutine2"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/coroutine2/archive/c2e5a526eb14011301bfbe7437dd33bfc7b0edb8.zip",
+        "sha256": "0686409a06eb0451f8fbea0d9e26b10ef4cd59d5542a474105d6841ebbcb885b",
+        "subPath": "coroutine2-c2e5a526eb14011301bfbe7437dd33bfc7b0edb8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine2/5ec18f76117d21fbe68282fcfcd65a3922876ffb/BUCK",
+        "sha256": "f4b534aad8db082474e76002f788e4f84da6db81f8b8723c6ab21d39aa80b6bb"
+      },
+      "dependencies": {
+        "boost/assert": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/context": "1.67.0",
+        "boost/pool": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/coroutine2/archive/b6fd25038d914854b5c4eb26e53d96e223114d1d.zip",
+        "sha256": "02458adb850074b6fc4f51c215e6474b0bc8ac8fa66bd37e9451f276d7542bce",
+        "subPath": "coroutine2-b6fd25038d914854b5c4eb26e53d96e223114d1d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine2/5ec18f76117d21fbe68282fcfcd65a3922876ffb/BUCK",
+        "sha256": "f4b534aad8db082474e76002f788e4f84da6db81f8b8723c6ab21d39aa80b6bb"
+      },
+      "dependencies": {
+        "boost/assert": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/context": "1.66.0",
+        "boost/pool": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/coroutine2/archive/6612cdc2516c02f12bc010a9eded05dd20c8b038.zip",
+        "sha256": "8b46fd4cff818c71c8955ee1b0c596e6981bc00b274b01c60483f5c7ddb146c0",
+        "subPath": "coroutine2-6612cdc2516c02f12bc010a9eded05dd20c8b038"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine2/5ec18f76117d21fbe68282fcfcd65a3922876ffb/BUCK",
+        "sha256": "f4b534aad8db082474e76002f788e4f84da6db81f8b8723c6ab21d39aa80b6bb"
+      },
+      "dependencies": {
+        "boost/assert": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/context": "1.65.1",
+        "boost/pool": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/coroutine2/archive/6612cdc2516c02f12bc010a9eded05dd20c8b038.zip",
+        "sha256": "8b46fd4cff818c71c8955ee1b0c596e6981bc00b274b01c60483f5c7ddb146c0",
+        "subPath": "coroutine2-6612cdc2516c02f12bc010a9eded05dd20c8b038"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine2/5ec18f76117d21fbe68282fcfcd65a3922876ffb/BUCK",
+        "sha256": "f4b534aad8db082474e76002f788e4f84da6db81f8b8723c6ab21d39aa80b6bb"
+      },
+      "dependencies": {
+        "boost/assert": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/context": "1.65.0",
+        "boost/pool": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/coroutine2/archive/0a66582d1426578309a243c9ca1c8674043e9339.zip",
+        "sha256": "8dbe829031374e389547d12bfde846b26931184991f75bdbdd5031a761a04757",
+        "subPath": "coroutine2-0a66582d1426578309a243c9ca1c8674043e9339"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine2/5ec18f76117d21fbe68282fcfcd65a3922876ffb/BUCK",
+        "sha256": "f4b534aad8db082474e76002f788e4f84da6db81f8b8723c6ab21d39aa80b6bb"
+      },
+      "dependencies": {
+        "boost/assert": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/context": "1.64.0",
+        "boost/pool": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/coroutine2/archive/790832c793562a72935930c2fb8a64c4923347ae.zip",
@@ -22,6 +107,74 @@
         "boost/config": "1.63.0",
         "boost/context": "1.63.0",
         "boost/pool": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/coroutine2/archive/bd14832683329cda687bfbb38947382681874e29.zip",
+        "sha256": "99cfa860d1e894346650df48f42eb9c34c29656e01acb552a8490d2e63c992ad",
+        "subPath": "coroutine2-bd14832683329cda687bfbb38947382681874e29"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine2/5ec18f76117d21fbe68282fcfcd65a3922876ffb/BUCK",
+        "sha256": "f4b534aad8db082474e76002f788e4f84da6db81f8b8723c6ab21d39aa80b6bb"
+      },
+      "dependencies": {
+        "boost/assert": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/context": "1.62.0",
+        "boost/pool": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/coroutine2/archive/16639d81b7f3267f9de5b09c74b8e4d94d2f8efc.zip",
+        "sha256": "40b1e1e544ae220480ce5925b030826ed9646bfa54694484f6753d1877e6d9ee",
+        "subPath": "coroutine2-16639d81b7f3267f9de5b09c74b8e4d94d2f8efc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine2/5ec18f76117d21fbe68282fcfcd65a3922876ffb/BUCK",
+        "sha256": "f4b534aad8db082474e76002f788e4f84da6db81f8b8723c6ab21d39aa80b6bb"
+      },
+      "dependencies": {
+        "boost/assert": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/context": "1.61.0",
+        "boost/pool": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/coroutine2/archive/fb8254cadbe05b1d8304e27bcba2845b598ce312.zip",
+        "sha256": "b92fc9e654e992466dd801b031515b885eb05c126d4781957e0708b635d332f7",
+        "subPath": "coroutine2-fb8254cadbe05b1d8304e27bcba2845b598ce312"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine2/5ec18f76117d21fbe68282fcfcd65a3922876ffb/BUCK",
+        "sha256": "f4b534aad8db082474e76002f788e4f84da6db81f8b8723c6ab21d39aa80b6bb"
+      },
+      "dependencies": {
+        "boost/assert": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/context": "1.60.0",
+        "boost/pool": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/coroutine2/archive/05f64409da020f5b21a19d62df594a7071e49e55.zip",
+        "sha256": "db42a3677e21a2c3dbf3e7028e91a479624727b694a9ab3630e10efdb8d0740d",
+        "subPath": "coroutine2-05f64409da020f5b21a19d62df594a7071e49e55"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/coroutine2/5ec18f76117d21fbe68282fcfcd65a3922876ffb/BUCK",
+        "sha256": "f4b534aad8db082474e76002f788e4f84da6db81f8b8723c6ab21d39aa80b6bb"
+      },
+      "dependencies": {
+        "boost/assert": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/context": "1.59.0",
+        "boost/pool": "1.59.0"
       }
     }
   }

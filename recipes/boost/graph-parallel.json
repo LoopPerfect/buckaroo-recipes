@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/6d4757c56f8d3d5bb2efa4c5d46119af305ef441.zip",
+        "sha256": "e0333e3c1e2f2f3351b5b38fda4fa2dc0b402685cba614d5fa8f2992d16dbe35",
+        "subPath": "graph_parallel-6d4757c56f8d3d5bb2efa4c5d46119af305ef441"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/6d4757c56f8d3d5bb2efa4c5d46119af305ef441.zip",
+        "sha256": "e0333e3c1e2f2f3351b5b38fda4fa2dc0b402685cba614d5fa8f2992d16dbe35",
+        "subPath": "graph_parallel-6d4757c56f8d3d5bb2efa4c5d46119af305ef441"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/6d4757c56f8d3d5bb2efa4c5d46119af305ef441.zip",
+        "sha256": "e0333e3c1e2f2f3351b5b38fda4fa2dc0b402685cba614d5fa8f2992d16dbe35",
+        "subPath": "graph_parallel-6d4757c56f8d3d5bb2efa4c5d46119af305ef441"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/6d4757c56f8d3d5bb2efa4c5d46119af305ef441.zip",
+        "sha256": "e0333e3c1e2f2f3351b5b38fda4fa2dc0b402685cba614d5fa8f2992d16dbe35",
+        "subPath": "graph_parallel-6d4757c56f8d3d5bb2efa4c5d46119af305ef441"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/6d4757c56f8d3d5bb2efa4c5d46119af305ef441.zip",
+        "sha256": "e0333e3c1e2f2f3351b5b38fda4fa2dc0b402685cba614d5fa8f2992d16dbe35",
+        "subPath": "graph_parallel-6d4757c56f8d3d5bb2efa4c5d46119af305ef441"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/6d4757c56f8d3d5bb2efa4c5d46119af305ef441.zip",
+        "sha256": "e0333e3c1e2f2f3351b5b38fda4fa2dc0b402685cba614d5fa8f2992d16dbe35",
+        "subPath": "graph_parallel-6d4757c56f8d3d5bb2efa4c5d46119af305ef441"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/314a10cc634c50c00291b7ff0ccfc841efc20a60.zip",
+        "sha256": "9fd2c231f7fb97484dff9ce5f1baa84c0ae69b075348f6b48a3ef90e6107db80",
+        "subPath": "graph_parallel-314a10cc634c50c00291b7ff0ccfc841efc20a60"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/5e4479facfa4eb5afe68f34b6307ea0d327c9027.zip",
+        "sha256": "2c7b4abdd4d6529ad99cd75fa0fecf0b25c688b4b1f0ac1366b037019e6a9164",
+        "subPath": "graph_parallel-5e4479facfa4eb5afe68f34b6307ea0d327c9027"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/5e4479facfa4eb5afe68f34b6307ea0d327c9027.zip",
+        "sha256": "2c7b4abdd4d6529ad99cd75fa0fecf0b25c688b4b1f0ac1366b037019e6a9164",
+        "subPath": "graph_parallel-5e4479facfa4eb5afe68f34b6307ea0d327c9027"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/5e4479facfa4eb5afe68f34b6307ea0d327c9027.zip",
+        "sha256": "2c7b4abdd4d6529ad99cd75fa0fecf0b25c688b4b1f0ac1366b037019e6a9164",
+        "subPath": "graph_parallel-5e4479facfa4eb5afe68f34b6307ea0d327c9027"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/5e4479facfa4eb5afe68f34b6307ea0d327c9027.zip",
+        "sha256": "2c7b4abdd4d6529ad99cd75fa0fecf0b25c688b4b1f0ac1366b037019e6a9164",
+        "subPath": "graph_parallel-5e4479facfa4eb5afe68f34b6307ea0d327c9027"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/5e4479facfa4eb5afe68f34b6307ea0d327c9027.zip",
+        "sha256": "2c7b4abdd4d6529ad99cd75fa0fecf0b25c688b4b1f0ac1366b037019e6a9164",
+        "subPath": "graph_parallel-5e4479facfa4eb5afe68f34b6307ea0d327c9027"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/5e4479facfa4eb5afe68f34b6307ea0d327c9027.zip",
+        "sha256": "2c7b4abdd4d6529ad99cd75fa0fecf0b25c688b4b1f0ac1366b037019e6a9164",
+        "subPath": "graph_parallel-5e4479facfa4eb5afe68f34b6307ea0d327c9027"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/3459b00b30398a72e3aee6d1ea2fb08926cbbd79.zip",
+        "sha256": "cba175732ab583994aed575c7b5fa4b3129ece622039bbadfd042e07c080075f",
+        "subPath": "graph_parallel-3459b00b30398a72e3aee6d1ea2fb08926cbbd79"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/8a0bdefd6fe05a704b9438bfc3d4befa0f1ed284.zip",
+        "sha256": "7679691cef9ef095051ce85064f2fcca5bf87724fce18a56b54f17bb055f2d93",
+        "subPath": "graph_parallel-8a0bdefd6fe05a704b9438bfc3d4befa0f1ed284"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/0a48d6f057e6138ca3364af707e45d5768fb20a9.zip",
+        "sha256": "61ab8e8061452d1a924b6db67065ddaf8440805af9d41e4fe73d048adeab7f7d",
+        "subPath": "graph_parallel-0a48d6f057e6138ca3364af707e45d5768fb20a9"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/0da5b9af24426cbc6c5146c973cf413d90ec752f.zip",
+        "sha256": "f5f04e385fde693afaacee31a6924d265d9413f023e08861723b675ef5797aa3",
+        "subPath": "graph_parallel-0da5b9af24426cbc6c5146c973cf413d90ec752f"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/ff1324ee301949d121b14cd7ab168346c280a419.zip",
+        "sha256": "1d9f33a4d085461ba1a97839a373f39889b77f7ca8bfe51f4e9c8f82fad91852",
+        "subPath": "graph_parallel-ff1324ee301949d121b14cd7ab168346c280a419"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/e6e2b797274512f78dea629135b1635d5b3cb1b7.zip",
+        "sha256": "6faee3811d48316ce432fb99cf6496208d9ecfccbc231b157c83eca5766748fb",
+        "subPath": "graph_parallel-e6e2b797274512f78dea629135b1635d5b3cb1b7"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/a4f7d2ced1731ad1c1115b76820d9d790c269bbb.zip",
+        "sha256": "658e44aa45217fb58989422e682af28ca4ce104f15b22b79be6916134f613c1f",
+        "subPath": "graph_parallel-a4f7d2ced1731ad1c1115b76820d9d790c269bbb"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/f9a73ec7237ce5c4d02d860409344659375e73c0.zip",
+        "sha256": "5852e908af20a63493d48f0ec1d016a4f3225e49c2169d3d1c71cecd278ffe96",
+        "subPath": "graph_parallel-f9a73ec7237ce5c4d02d860409344659375e73c0"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/c13cf48f822dc7479903f5123bee321247157d3d.zip",
+        "sha256": "0c4560ba9bcac61b1b330472b94d03e07fd59f23df4df0c1c7f4c1fd0a625511",
+        "subPath": "graph_parallel-c13cf48f822dc7479903f5123bee321247157d3d"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/graph_parallel/archive/a7e0a9fc783f93577e37f9b08474add96aa715e2.zip",
+        "sha256": "f993585dbc7b6389cc0588bfc38b3837edbdee58357b741168f7c128102ddd42",
+        "subPath": "graph_parallel-a7e0a9fc783f93577e37f9b08474add96aa715e2"
+      }
+    }
+  }
+}

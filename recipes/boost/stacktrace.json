@@ -1,0 +1,36 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/stacktrace/archive/e99f858990323e240701bceb0b43cc50cd801e2e.zip",
+        "sha256": "fe48e01118f5a9cfca1c2ed6262d092a593e1a5d99e3be10b91687795b39a292",
+        "subPath": "stacktrace-e99f858990323e240701bceb0b43cc50cd801e2e"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/stacktrace/archive/75f79a117759e547393494e105ff1bce510cbca1.zip",
+        "sha256": "02f1356831ac3525720de6e65d8e5828bd5ac494c17b464a2b189a15f3a78e81",
+        "subPath": "stacktrace-75f79a117759e547393494e105ff1bce510cbca1"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/stacktrace/archive/8364ad1f5e93e1db9ea0cf5306ba8a1aa5b2b40d.zip",
+        "sha256": "330933b15e560996e5c3fcfd5d33ea14fd003a6f8823559589ae9fd074579aed",
+        "subPath": "stacktrace-8364ad1f5e93e1db9ea0cf5306ba8a1aa5b2b40d"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/stacktrace/archive/d663d8b471c6f6532fda6f830e921c5157f78fdb.zip",
+        "sha256": "2fec531f69eb8a3a82baac188254af986bbd7a8952563c44677c45fde8ef26e0",
+        "subPath": "stacktrace-d663d8b471c6f6532fda6f830e921c5157f78fdb"
+      }
+    }
+  }
+}

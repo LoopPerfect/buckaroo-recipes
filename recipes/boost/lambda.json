@@ -7,6 +7,101 @@
     "project": "lambda"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/b8a2f400acceb3f1bc399287837499bfecd57cf5.zip",
+        "sha256": "96d46dd3a439204c48aba2578b4d401eb368c612f682a40903a731c3e40c217b",
+        "subPath": "lambda-b8a2f400acceb3f1bc399287837499bfecd57cf5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/bind": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/type-traits": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/e8eda93ef0cef64039af59d56e8cfea96826beb0.zip",
+        "sha256": "da40bb72a7201fd5cdef02bcd6a3f9b29f1a1648ba9e9bfee7f713af96a91525",
+        "subPath": "lambda-e8eda93ef0cef64039af59d56e8cfea96826beb0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/bind": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/type-traits": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/4c0ef8e469b101fe5b85ff0381ab07fa2ec56287.zip",
+        "sha256": "f66fb34aae915870c76fcf9299a7ec7b6e07ee15723ce7523ef2625c2e44f999",
+        "subPath": "lambda-4c0ef8e469b101fe5b85ff0381ab07fa2ec56287"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/bind": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/type-traits": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/4c0ef8e469b101fe5b85ff0381ab07fa2ec56287.zip",
+        "sha256": "f66fb34aae915870c76fcf9299a7ec7b6e07ee15723ce7523ef2625c2e44f999",
+        "subPath": "lambda-4c0ef8e469b101fe5b85ff0381ab07fa2ec56287"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/bind": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/type-traits": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/4c0ef8e469b101fe5b85ff0381ab07fa2ec56287.zip",
+        "sha256": "f66fb34aae915870c76fcf9299a7ec7b6e07ee15723ce7523ef2625c2e44f999",
+        "subPath": "lambda-4c0ef8e469b101fe5b85ff0381ab07fa2ec56287"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/bind": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/type-traits": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/lambda/archive/8d9106ab17b618d570741bb53aa8326611e87236.zip",
@@ -24,6 +119,329 @@
         "boost/utility": "1.63.0",
         "boost/mpl": "1.63.0",
         "boost/type-traits": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/b788075b6d23a05751548cc3d03fd93e0e77d3ec.zip",
+        "sha256": "1c03dac603c17e3d223c06903d30dce97b7a03ef4b9f71aee13273c9e3ba33de",
+        "subPath": "lambda-b788075b6d23a05751548cc3d03fd93e0e77d3ec"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/bind": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/type-traits": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/b788075b6d23a05751548cc3d03fd93e0e77d3ec.zip",
+        "sha256": "1c03dac603c17e3d223c06903d30dce97b7a03ef4b9f71aee13273c9e3ba33de",
+        "subPath": "lambda-b788075b6d23a05751548cc3d03fd93e0e77d3ec"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/bind": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/type-traits": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/b788075b6d23a05751548cc3d03fd93e0e77d3ec.zip",
+        "sha256": "1c03dac603c17e3d223c06903d30dce97b7a03ef4b9f71aee13273c9e3ba33de",
+        "subPath": "lambda-b788075b6d23a05751548cc3d03fd93e0e77d3ec"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/bind": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/type-traits": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/4c4387a277506510b6e98116973b97d85632fdfd.zip",
+        "sha256": "42172050171e45c429dcff51c4f27fccb7db44bcaf0f3c38ef97cb1fabba6ea0",
+        "subPath": "lambda-4c4387a277506510b6e98116973b97d85632fdfd"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/bind": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/type-traits": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/677be04dd77ff1017c55a2259b794faabbca638a.zip",
+        "sha256": "d4b5cc0368ff0372e561c750db5254c65629592529bae21e7d7a26cc4baa3899",
+        "subPath": "lambda-677be04dd77ff1017c55a2259b794faabbca638a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/bind": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/type-traits": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/677be04dd77ff1017c55a2259b794faabbca638a.zip",
+        "sha256": "d4b5cc0368ff0372e561c750db5254c65629592529bae21e7d7a26cc4baa3899",
+        "subPath": "lambda-677be04dd77ff1017c55a2259b794faabbca638a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/bind": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/type-traits": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/677be04dd77ff1017c55a2259b794faabbca638a.zip",
+        "sha256": "d4b5cc0368ff0372e561c750db5254c65629592529bae21e7d7a26cc4baa3899",
+        "subPath": "lambda-677be04dd77ff1017c55a2259b794faabbca638a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/bind": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/type-traits": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/9931b7c557a4dee215943540c105729974284dbd.zip",
+        "sha256": "89be7062b78fac0018ca1df2fe65c5d71c5c817ff3b26bb88a063d5ec44b639b",
+        "subPath": "lambda-9931b7c557a4dee215943540c105729974284dbd"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/bind": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/type-traits": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/d50fe8340aa2aaf2fe304cfc6938ecf8ff589453.zip",
+        "sha256": "76c05253ed9783fa580e6d3699c6f6b903c45612d667f6cd08e2853da570d934",
+        "subPath": "lambda-d50fe8340aa2aaf2fe304cfc6938ecf8ff589453"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/bind": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/type-traits": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/b291b0d5fe3703f031139832c0d134b14e2064a5.zip",
+        "sha256": "2c32361fc6d3fdd23572899556307b24790212d662bb5dc8762cef4768ab15fe",
+        "subPath": "lambda-b291b0d5fe3703f031139832c0d134b14e2064a5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/bind": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/type-traits": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/522d95581eb123593fa4655afd1164b4a115fe7c.zip",
+        "sha256": "c4e8e7f32c3435f9b156f553b903411ce33c1a285273bd4118923ee6e1827d8d",
+        "subPath": "lambda-522d95581eb123593fa4655afd1164b4a115fe7c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/bind": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/type-traits": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/98badbb1a7c9d934f6df412fcf5ac996cf8e13ad.zip",
+        "sha256": "2ab8cb5c68bcaa4d3198c1cf1c147bfc5a0db006ceb868a22d4f70d936267f7a",
+        "subPath": "lambda-98badbb1a7c9d934f6df412fcf5ac996cf8e13ad"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/bind": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/type-traits": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/9bd163bde7cfdbb66a299c62c7101d828850032c.zip",
+        "sha256": "72485ec7c08f2de7608abff948552453d814856b0dac108684aba37ac591b6f9",
+        "subPath": "lambda-9bd163bde7cfdbb66a299c62c7101d828850032c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/bind": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/type-traits": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/1018ec418fac895f9f6cb85a0229b53565575009.zip",
+        "sha256": "e055ff2d1b944dda4a3b33f4a5b56e6e0835701d285141209381d9fd710331a1",
+        "subPath": "lambda-1018ec418fac895f9f6cb85a0229b53565575009"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/bind": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/type-traits": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/4fb4219c196e90cbca5a5addb0d15237658f63bb.zip",
+        "sha256": "465a773e0290754ee280fca2ad53161bbb685b308c6fda58e3c7ce73fc2b8545",
+        "subPath": "lambda-4fb4219c196e90cbca5a5addb0d15237658f63bb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/bind": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/type-traits": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/1150a26338c9394da1f42d92737fcfa2ab1be9f1.zip",
+        "sha256": "f6cde0d0abd9d722ad9959a2ff280214cc989fdef5095fa2bb8e2015b4b14a7b",
+        "subPath": "lambda-1150a26338c9394da1f42d92737fcfa2ab1be9f1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/bind": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/type-traits": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/lambda/archive/0d36f4c661283479d797c628a0b9a9eb69c0071d.zip",
+        "sha256": "2d79ad7b667cbd21f4b2332023a8ea9ae44659a11cd75360803c65201d72b6cc",
+        "subPath": "lambda-0d36f4c661283479d797c628a0b9a9eb69c0071d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/lambda/b9a68bc24f7d85995c97bbe271835eff52b205e5/BUCK",
+        "sha256": "a56b5bc669b7a2dcc49181dcfab93386a1508b3da3629f353804fdd4347a7c25"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/bind": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/type-traits": "1.46.1"
       }
     }
   }

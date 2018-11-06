@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/a383ecdd88a9ad9b96d3f993fcf44bdcdcb1f638.zip",
+        "sha256": "0259bc6d39daf284d12d9492b9bb959a58322bb4d44c4f0989b890a4caae8f7e",
+        "subPath": "python-a383ecdd88a9ad9b96d3f993fcf44bdcdcb1f638"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/7c33ff0c59af12b8490d4f84ed0d8a2581e34150.zip",
+        "sha256": "10de02a66882831b20a313cfe2d78af5d93b66d0c985297c5d376be2da187c22",
+        "subPath": "python-7c33ff0c59af12b8490d4f84ed0d8a2581e34150"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/fed4f0d0f97be42da4f2505953a92b2cebdd14ec.zip",
+        "sha256": "da1d1bd5883dd3d1964fc2dea0bd391bba1f197213a44b6d04cc2b269aea859d",
+        "subPath": "python-fed4f0d0f97be42da4f2505953a92b2cebdd14ec"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/fed4f0d0f97be42da4f2505953a92b2cebdd14ec.zip",
+        "sha256": "da1d1bd5883dd3d1964fc2dea0bd391bba1f197213a44b6d04cc2b269aea859d",
+        "subPath": "python-fed4f0d0f97be42da4f2505953a92b2cebdd14ec"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/7d3df3d3a7ac181d1e33200b36ef2a19bace27a9.zip",
+        "sha256": "d342349519e58726aafba3d927bc705dffaf23897b0eaa013d0050470458c2d1",
+        "subPath": "python-7d3df3d3a7ac181d1e33200b36ef2a19bace27a9"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/aaf90227703cf29d81ed83a1212890ede45d64fb.zip",
+        "sha256": "3601d8eba2e93bfafdf7329dce442ca334ff805574fb19d9da9aad5d600a8c66",
+        "subPath": "python-aaf90227703cf29d81ed83a1212890ede45d64fb"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/63e3079a163cc3c4d476182005413f81117b1c80.zip",
+        "sha256": "86373afb43b9bdc56d15122ad1311042071bd9193b77b36afce382548f530b57",
+        "subPath": "python-63e3079a163cc3c4d476182005413f81117b1c80"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/5233f45da4d0f00822e19a715983b7c043a1fda8.zip",
+        "sha256": "1aeea4d45d9659b3b73e0b5baecffd311d96464cf5b3efc6100f2967b65e5833",
+        "subPath": "python-5233f45da4d0f00822e19a715983b7c043a1fda8"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/42b06fa3a3d1f8922e35362eaa34ac77874d896d.zip",
+        "sha256": "5568689ea526688db511ad83a9143cd80ccb9d21d3326091292d4fb6ec061255",
+        "subPath": "python-42b06fa3a3d1f8922e35362eaa34ac77874d896d"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/99022d2eb8fab7a433321b8b67249b87bacc44fb.zip",
+        "sha256": "e8711393b590d155328adac3bdf92f8785641d74e44a8d232cf06b4fdedad3df",
+        "subPath": "python-99022d2eb8fab7a433321b8b67249b87bacc44fb"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/e1e9eb303a339fd2d6c77bb24e6f277c945bd244.zip",
+        "sha256": "1aac9dd379f1631e673e4016808c70c84174a7cd9a268e0e68c4222e3b8be803",
+        "subPath": "python-e1e9eb303a339fd2d6c77bb24e6f277c945bd244"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/832a1edd79905b8b8f3d5b573d4d8072e88fc938.zip",
+        "sha256": "dde60ea22d76d8d19b4ce62c4e0a131444a82da31ca5a057aa6d3aa134770a9a",
+        "subPath": "python-832a1edd79905b8b8f3d5b573d4d8072e88fc938"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/832a1edd79905b8b8f3d5b573d4d8072e88fc938.zip",
+        "sha256": "dde60ea22d76d8d19b4ce62c4e0a131444a82da31ca5a057aa6d3aa134770a9a",
+        "subPath": "python-832a1edd79905b8b8f3d5b573d4d8072e88fc938"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/32ba64a8248d99b1852e77ff4388d9d8a991c4a9.zip",
+        "sha256": "bd84d4bd5ee9af08fdd7960bdf23247ce631690758267051e6709bda289eb86b",
+        "subPath": "python-32ba64a8248d99b1852e77ff4388d9d8a991c4a9"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/13dd0aeb342a73b546cb9405f3d6825a73a75629.zip",
+        "sha256": "76bc144c203b46d7483a63a186fb01418bafa40d863ea5ef686e33d1608230b2",
+        "subPath": "python-13dd0aeb342a73b546cb9405f3d6825a73a75629"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/8a32e1c9d6e00dc0d626f044cc6e2b43efdfb5d6.zip",
+        "sha256": "6f06c0e70b6c4fd9d68d2cc636b00f0a8d4edb877116c1b2160b1fbd012a5bd2",
+        "subPath": "python-8a32e1c9d6e00dc0d626f044cc6e2b43efdfb5d6"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/5e9ddabb52325a164445cfccce5f09d8f11dbe6b.zip",
+        "sha256": "d26bf2f96dee6f20ed81e8eb28203ef87472249b73c70ddee87b88a3f6620dd9",
+        "subPath": "python-5e9ddabb52325a164445cfccce5f09d8f11dbe6b"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/f54dfbcc22f2e1590a064182db940e2b2136caf6.zip",
+        "sha256": "c74bc4c62e2e0d6db5c34ec8f650f5d6922a8d91474399ae0cc6eaf43101b879",
+        "subPath": "python-f54dfbcc22f2e1590a064182db940e2b2136caf6"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/d202bd5ae966411c3e2b2803cfdc4bbadcb7b9fe.zip",
+        "sha256": "aed7a8c0b5ad8e8c03658f0325489e67eb3bf27f336c6d9fb16d9d7beebf4b8e",
+        "subPath": "python-d202bd5ae966411c3e2b2803cfdc4bbadcb7b9fe"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/339c626f8619b79c033578da45cca9105ec19a8e.zip",
+        "sha256": "f1a2ce3153345754a0ac9ae6daff9cf193c6b1f36cf2af54eecd462adfff8f78",
+        "subPath": "python-339c626f8619b79c033578da45cca9105ec19a8e"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/59bc78dae151252518156d06ba66508daeede844.zip",
+        "sha256": "6248c2c3508bcf0f5ec26c4fb1ca4b1a92fcd0a80e81fec2e2f1f780726b32c5",
+        "subPath": "python-59bc78dae151252518156d06ba66508daeede844"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/9fd177c198532d5945e97c0aa1885f7d0b48f5ac.zip",
+        "sha256": "31d6e9c895f66f5e7c4ee18ea22391bab1258e742687139de475845dd9476c0e",
+        "subPath": "python-9fd177c198532d5945e97c0aa1885f7d0b48f5ac"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/python/archive/297b2500b0ce144c2d93c0cbd003f21a05541f22.zip",
+        "sha256": "8459cf9edd6415b0a46b97b2eb2c2640dc65bf255ea1abe283cb1a40b1578d9e",
+        "subPath": "python-297b2500b0ce144c2d93c0cbd003f21a05541f22"
+      }
+    }
+  }
+}

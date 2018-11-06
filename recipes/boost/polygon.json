@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/8ffe9e08615dc9f56e4058fb51fe3254cb7443e0.zip",
+        "sha256": "9ab9668fa0f7e96d41156925505322dc3447b5e2e317dd32f117d454661f7707",
+        "subPath": "polygon-8ffe9e08615dc9f56e4058fb51fe3254cb7443e0"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/8ffe9e08615dc9f56e4058fb51fe3254cb7443e0.zip",
+        "sha256": "9ab9668fa0f7e96d41156925505322dc3447b5e2e317dd32f117d454661f7707",
+        "subPath": "polygon-8ffe9e08615dc9f56e4058fb51fe3254cb7443e0"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8.zip",
+        "sha256": "59b3aefb7110b88efb5f93e712ec1a3bfe9906beb3943abff4a7cd81cbd0e08f",
+        "subPath": "polygon-c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8.zip",
+        "sha256": "59b3aefb7110b88efb5f93e712ec1a3bfe9906beb3943abff4a7cd81cbd0e08f",
+        "subPath": "polygon-c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8.zip",
+        "sha256": "59b3aefb7110b88efb5f93e712ec1a3bfe9906beb3943abff4a7cd81cbd0e08f",
+        "subPath": "polygon-c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8.zip",
+        "sha256": "59b3aefb7110b88efb5f93e712ec1a3bfe9906beb3943abff4a7cd81cbd0e08f",
+        "subPath": "polygon-c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8.zip",
+        "sha256": "59b3aefb7110b88efb5f93e712ec1a3bfe9906beb3943abff4a7cd81cbd0e08f",
+        "subPath": "polygon-c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8.zip",
+        "sha256": "59b3aefb7110b88efb5f93e712ec1a3bfe9906beb3943abff4a7cd81cbd0e08f",
+        "subPath": "polygon-c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8.zip",
+        "sha256": "59b3aefb7110b88efb5f93e712ec1a3bfe9906beb3943abff4a7cd81cbd0e08f",
+        "subPath": "polygon-c9e6a3dfc2c6eb1f2aaf4352ddab93302c4b59d8"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/76a4b7b8d19d01d3ea349fe9d203701f084d30b5.zip",
+        "sha256": "d4fa21a33a1c620f88d780bab2cf8dbbd54745dfade789909f71ba1f6ad5d39b",
+        "subPath": "polygon-76a4b7b8d19d01d3ea349fe9d203701f084d30b5"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/3189de98d8299075d725bb59beb5c89cf53195e4.zip",
+        "sha256": "4a9d89141b4353e7717d13d51a9993bae1148dbdefb6adc5e4dbaed7c5c7fcce",
+        "subPath": "polygon-3189de98d8299075d725bb59beb5c89cf53195e4"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/a580d5bb128d4f60d443cc9b6092002b83eb5aa0.zip",
+        "sha256": "0cd69b95c6801ee0e91a719d10c1f37132c6c0b41ca3c3c10a8ddc1adafaf6d6",
+        "subPath": "polygon-a580d5bb128d4f60d443cc9b6092002b83eb5aa0"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/a580d5bb128d4f60d443cc9b6092002b83eb5aa0.zip",
+        "sha256": "0cd69b95c6801ee0e91a719d10c1f37132c6c0b41ca3c3c10a8ddc1adafaf6d6",
+        "subPath": "polygon-a580d5bb128d4f60d443cc9b6092002b83eb5aa0"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/96fdea4573729b74accf30a8ecefcefd45752bc1.zip",
+        "sha256": "05012f78d6cd13b7f0db030ced3ad552080a24afc3032949735507e6bf769838",
+        "subPath": "polygon-96fdea4573729b74accf30a8ecefcefd45752bc1"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/29a7a0348d951af314f41caaeff9489fc4a37355.zip",
+        "sha256": "e59dc446163a8ac66cf1d86f4fbacdb63720d0b0b9ba7fc1f2aec48d7d8255df",
+        "subPath": "polygon-29a7a0348d951af314f41caaeff9489fc4a37355"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/87391d7819f26fb20f49355ebcd3047debca706e.zip",
+        "sha256": "068e5d54c86e350dff50e33470f17fca0c9b036ede0196132adb92e6dee5505e",
+        "subPath": "polygon-87391d7819f26fb20f49355ebcd3047debca706e"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/eddf0e287c97e370f1f3e21158142fbe219a2fb5.zip",
+        "sha256": "146ff5dcb3c25ffeae7f7157c034058ee99db7e8ebedea74dc9ee799defef43f",
+        "subPath": "polygon-eddf0e287c97e370f1f3e21158142fbe219a2fb5"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/fe5858ff2c46d59f1ff8e386d6a48d1321189926.zip",
+        "sha256": "c5924939b73ae94d840c6c05d8095891950293ed1170ad0668891882cebae43a",
+        "subPath": "polygon-fe5858ff2c46d59f1ff8e386d6a48d1321189926"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/b42a059f6d85a0248c49468c91f9b04e4ac13862.zip",
+        "sha256": "4fb0ff03008ab4a5a91b88836910feba9090a9d994b600d71db4ba61ad57e5bf",
+        "subPath": "polygon-b42a059f6d85a0248c49468c91f9b04e4ac13862"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/408ea939b001662cfd065df84d41052e53e11f5d.zip",
+        "sha256": "5532a80b7fb4e79b4bdf416d60dcfd55c40316ef34b8fad43be0505d2dbf2015",
+        "subPath": "polygon-408ea939b001662cfd065df84d41052e53e11f5d"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/e28930b438e89e8ec9ee9710a3586865d49b55fd.zip",
+        "sha256": "e28557df8391ef2157ef7813e30d1f91fb3434551359ec94bbefab87ca7bf4f8",
+        "subPath": "polygon-e28930b438e89e8ec9ee9710a3586865d49b55fd"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/b59afce6c95df345f89ef8ac954366ebe1c2fe30.zip",
+        "sha256": "69a31923174d3a570e4135cde7ef874b0502bd58bdb53e2e896466e948982ecd",
+        "subPath": "polygon-b59afce6c95df345f89ef8ac954366ebe1c2fe30"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/polygon/archive/265cdb9aba65946a60841480fbb33de4075983da.zip",
+        "sha256": "415a25d44cec7f6794a55561207f6eb94c0442fa40202adb7659101cf75ec0c4",
+        "subPath": "polygon-265cdb9aba65946a60841480fbb33de4075983da"
+      }
+    }
+  }
+}

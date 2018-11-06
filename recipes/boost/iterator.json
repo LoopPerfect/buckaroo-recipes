@@ -7,6 +7,131 @@
     "project": "iterator"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/b2adecb951af025698618f19a3c838bd314966dc.zip",
+        "sha256": "b398fdc7f16aef471b5ca1de35df1b27d558d9f29395bb8ffd8920997614e7ab",
+        "subPath": "iterator-b2adecb951af025698618f19a3c838bd314966dc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/function-types": "1.67.0",
+        "boost/optional": "1.67.0",
+        "boost/concept-check": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/7e5a32b3ea44f58a2a7de47ff5651bb5206b9872.zip",
+        "sha256": "d6a6f8ba332460bfc7350f0fdbccb2254ac8680d607b497ddce540ea8b37b32f",
+        "subPath": "iterator-7e5a32b3ea44f58a2a7de47ff5651bb5206b9872"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/function-types": "1.66.0",
+        "boost/optional": "1.66.0",
+        "boost/concept-check": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/ed027c2cceaffe84ed349591601bc71d9aabfba5.zip",
+        "sha256": "466ba8e5fdc3aaec25d9ddb2b6f321a56bd30c5b87e3776f2e7c13c8187d32de",
+        "subPath": "iterator-ed027c2cceaffe84ed349591601bc71d9aabfba5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/function-types": "1.65.1",
+        "boost/optional": "1.65.1",
+        "boost/concept-check": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/ed027c2cceaffe84ed349591601bc71d9aabfba5.zip",
+        "sha256": "466ba8e5fdc3aaec25d9ddb2b6f321a56bd30c5b87e3776f2e7c13c8187d32de",
+        "subPath": "iterator-ed027c2cceaffe84ed349591601bc71d9aabfba5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/function-types": "1.65.0",
+        "boost/optional": "1.65.0",
+        "boost/concept-check": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/7b627fa6797b992e8114ce06bff76e15ae474ac6.zip",
+        "sha256": "5c2a8681a8f13ae6c9fe48d1782647dbc7ddac34c91cb62429045df520049fce",
+        "subPath": "iterator-7b627fa6797b992e8114ce06bff76e15ae474ac6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/function-types": "1.64.0",
+        "boost/optional": "1.64.0",
+        "boost/concept-check": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/iterator/archive/f2d07f76b5fd9ebd43dd85f4bc548022da3a47c3.zip",
@@ -30,6 +155,431 @@
         "boost/function-types": "1.63.0",
         "boost/optional": "1.63.0",
         "boost/concept-check": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/22dd100dfded2e8e450b8a079ff2b482f46a9ccc.zip",
+        "sha256": "1b790fb7d8d10e4a607f74a8997cfe355bfc08686512eb7bb70a28812a1d66ec",
+        "subPath": "iterator-22dd100dfded2e8e450b8a079ff2b482f46a9ccc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/function-types": "1.62.0",
+        "boost/optional": "1.62.0",
+        "boost/concept-check": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/22dd100dfded2e8e450b8a079ff2b482f46a9ccc.zip",
+        "sha256": "1b790fb7d8d10e4a607f74a8997cfe355bfc08686512eb7bb70a28812a1d66ec",
+        "subPath": "iterator-22dd100dfded2e8e450b8a079ff2b482f46a9ccc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/function-types": "1.61.0",
+        "boost/optional": "1.61.0",
+        "boost/concept-check": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/22dd100dfded2e8e450b8a079ff2b482f46a9ccc.zip",
+        "sha256": "1b790fb7d8d10e4a607f74a8997cfe355bfc08686512eb7bb70a28812a1d66ec",
+        "subPath": "iterator-22dd100dfded2e8e450b8a079ff2b482f46a9ccc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/function-types": "1.60.0",
+        "boost/optional": "1.60.0",
+        "boost/concept-check": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/ece225bbdaf22f017bab62f52916ac99260bfca0.zip",
+        "sha256": "a196c63c329291b9235d69630bebad9a0a078212e29fd940930139a7de89b476",
+        "subPath": "iterator-ece225bbdaf22f017bab62f52916ac99260bfca0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/function-types": "1.59.0",
+        "boost/optional": "1.59.0",
+        "boost/concept-check": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/46f9e1753f79ca20f0e5123ddec2481f79d55df8.zip",
+        "sha256": "d882256924e5e24ee91ef36fd2c1b7f35d89b874e03a4faa2c025b0f34f3683a",
+        "subPath": "iterator-46f9e1753f79ca20f0e5123ddec2481f79d55df8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/function-types": "1.58.0",
+        "boost/optional": "1.58.0",
+        "boost/concept-check": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/46f9e1753f79ca20f0e5123ddec2481f79d55df8.zip",
+        "sha256": "d882256924e5e24ee91ef36fd2c1b7f35d89b874e03a4faa2c025b0f34f3683a",
+        "subPath": "iterator-46f9e1753f79ca20f0e5123ddec2481f79d55df8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/function-types": "1.57.0",
+        "boost/optional": "1.57.0",
+        "boost/concept-check": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/4283d202614181dbd258fe0f074297330c03716a.zip",
+        "sha256": "e74f2fe48c96b525f6ab5ee168ede441d27fed568356d859c3b2ab423def1927",
+        "subPath": "iterator-4283d202614181dbd258fe0f074297330c03716a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/function-types": "1.56.0",
+        "boost/optional": "1.56.0",
+        "boost/concept-check": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/b126e2b48da633ea961bd0d6f98ff711d10e895b.zip",
+        "sha256": "f15d899e86affd2e96af270254d8d563c8929f945ebaae6988a155bb644d9f57",
+        "subPath": "iterator-b126e2b48da633ea961bd0d6f98ff711d10e895b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/function-types": "1.55.0",
+        "boost/optional": "1.55.0",
+        "boost/concept-check": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/a6a33012092192e2ba95f707e888476bc270c5f8.zip",
+        "sha256": "198e02b61ac690a7ef6dc80e9b06d823b495c80b85bd0b882e6d57a0a1a8075b",
+        "subPath": "iterator-a6a33012092192e2ba95f707e888476bc270c5f8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/function-types": "1.54.0",
+        "boost/optional": "1.54.0",
+        "boost/concept-check": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/e1a585f2f01f3b4c382a5df3a418b1bf9996863c.zip",
+        "sha256": "4add1357ed79bd859783c4783e73ecc3b535b0605a28c816e1a86d3e0ad2ed6a",
+        "subPath": "iterator-e1a585f2f01f3b4c382a5df3a418b1bf9996863c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/function-types": "1.53.0",
+        "boost/optional": "1.53.0",
+        "boost/concept-check": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/57f493d703d9c84d4f0008ad889535a1af563697.zip",
+        "sha256": "dea43e16bae42179f1594fd06d336372e01698a1a6821dd2b24d035efe6a4ce8",
+        "subPath": "iterator-57f493d703d9c84d4f0008ad889535a1af563697"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/function-types": "1.52.0",
+        "boost/optional": "1.52.0",
+        "boost/concept-check": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/d6b886d7bbd74844bcba31d93364aaf4bf9d8580.zip",
+        "sha256": "8b2d29ace73061086f2c72d8c603e59461ff172aa64389253948a03a47bacef4",
+        "subPath": "iterator-d6b886d7bbd74844bcba31d93364aaf4bf9d8580"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/function-types": "1.51.0",
+        "boost/optional": "1.51.0",
+        "boost/concept-check": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/db4679fd714902ff843cc999e2230f1efb25993f.zip",
+        "sha256": "9b0faf714ef92e18a4c1d6537cdcc87ed03f0222f9dfe4192199550f28a1b49e",
+        "subPath": "iterator-db4679fd714902ff843cc999e2230f1efb25993f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/function-types": "1.50.0",
+        "boost/optional": "1.50.0",
+        "boost/concept-check": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/177566cb17bafecc3229d87594aac54c69f8c034.zip",
+        "sha256": "0e629e48768ac0c7cc0a6160fa7e8820214bff9deb49c73a15bf00f6a84deee8",
+        "subPath": "iterator-177566cb17bafecc3229d87594aac54c69f8c034"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/function-types": "1.49.0",
+        "boost/optional": "1.49.0",
+        "boost/concept-check": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/e7b47484182585174425f1ff042285a760f7b547.zip",
+        "sha256": "3a30eaa90a18cad1a7ed5931cd07b146503572ce43d8e33263c4a9b049459554",
+        "subPath": "iterator-e7b47484182585174425f1ff042285a760f7b547"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/function-types": "1.48.0",
+        "boost/optional": "1.48.0",
+        "boost/concept-check": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/f82d60ab23b3a642db3611a37b086c2b30fca4aa.zip",
+        "sha256": "2a373d98818b665f627ad67835b5f8be016c662ddca3a9de05ba3f7e800dde1f",
+        "subPath": "iterator-f82d60ab23b3a642db3611a37b086c2b30fca4aa"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/function-types": "1.47.0",
+        "boost/optional": "1.47.0",
+        "boost/concept-check": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/iterator/archive/3f67f56b0ce9c17771c6f932b4a604e9e0b7c247.zip",
+        "sha256": "43eaa6238a6cf597a9478388c0e36885e143e0397fff386a56cf7fa85fbd2a18",
+        "subPath": "iterator-3f67f56b0ce9c17771c6f932b4a604e9e0b7c247"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/iterator/4ac0194c0c22a7fbbabe68707da68134a847af90/BUCK",
+        "sha256": "e3363436bfadbab8d5d5c0912eb719d170af905f00b13f26c1c2e0ce6b912f03"
+      },
+      "dependencies": {
+        "boost/fusion": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/config": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/static-assert": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/function-types": "1.46.1",
+        "boost/optional": "1.46.1",
+        "boost/concept-check": "1.46.1"
       }
     }
   }

@@ -1,0 +1,180 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/0189b8dece3b22f9c94f464fae2e033a2ad964ed.zip",
+        "sha256": "bace790d73f32c3d278fabfef6ced71088f9ab5e8bacaeea1e55f154c5d904a3",
+        "subPath": "quickbook-0189b8dece3b22f9c94f464fae2e033a2ad964ed"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/96b0916206a8fed1621794c7db776b455f143dc1.zip",
+        "sha256": "a58cb42a967b7524c09e4fd7cfbfe4d72884299edc805bc387b063f604ed910e",
+        "subPath": "quickbook-96b0916206a8fed1621794c7db776b455f143dc1"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/fb92ce0e6ef4547eb761f4e15b6ce383be611a9e.zip",
+        "sha256": "869fd190c60bbb5da64b25f2901acbcdc19f891e70c6df737fb31ebb1218ce09",
+        "subPath": "quickbook-fb92ce0e6ef4547eb761f4e15b6ce383be611a9e"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/fb92ce0e6ef4547eb761f4e15b6ce383be611a9e.zip",
+        "sha256": "869fd190c60bbb5da64b25f2901acbcdc19f891e70c6df737fb31ebb1218ce09",
+        "subPath": "quickbook-fb92ce0e6ef4547eb761f4e15b6ce383be611a9e"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/e7a7880107f34c6577870beceafefecf312faf8b.zip",
+        "sha256": "99826d571aefcdf6fbd8a58f7d1447ee119dc07bcf92dd9b4c4add0982e11f96",
+        "subPath": "quickbook-e7a7880107f34c6577870beceafefecf312faf8b"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/a325f560a0f02fbb748e065654f66d5be76fc8b5.zip",
+        "sha256": "04fd09d71c129b163ba1f3604e447183b52a08797fc94d87e65a6402cd2b943d",
+        "subPath": "quickbook-a325f560a0f02fbb748e065654f66d5be76fc8b5"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/a325f560a0f02fbb748e065654f66d5be76fc8b5.zip",
+        "sha256": "04fd09d71c129b163ba1f3604e447183b52a08797fc94d87e65a6402cd2b943d",
+        "subPath": "quickbook-a325f560a0f02fbb748e065654f66d5be76fc8b5"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/a325f560a0f02fbb748e065654f66d5be76fc8b5.zip",
+        "sha256": "04fd09d71c129b163ba1f3604e447183b52a08797fc94d87e65a6402cd2b943d",
+        "subPath": "quickbook-a325f560a0f02fbb748e065654f66d5be76fc8b5"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/08663596f8fd32046c346ebded75dcdc505c9bbe.zip",
+        "sha256": "a2f474b1e37688be3af4f06ca195ff67d19f2291ef015db1e15f08b83e3322aa",
+        "subPath": "quickbook-08663596f8fd32046c346ebded75dcdc505c9bbe"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/08663596f8fd32046c346ebded75dcdc505c9bbe.zip",
+        "sha256": "a2f474b1e37688be3af4f06ca195ff67d19f2291ef015db1e15f08b83e3322aa",
+        "subPath": "quickbook-08663596f8fd32046c346ebded75dcdc505c9bbe"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/08663596f8fd32046c346ebded75dcdc505c9bbe.zip",
+        "sha256": "a2f474b1e37688be3af4f06ca195ff67d19f2291ef015db1e15f08b83e3322aa",
+        "subPath": "quickbook-08663596f8fd32046c346ebded75dcdc505c9bbe"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/08663596f8fd32046c346ebded75dcdc505c9bbe.zip",
+        "sha256": "a2f474b1e37688be3af4f06ca195ff67d19f2291ef015db1e15f08b83e3322aa",
+        "subPath": "quickbook-08663596f8fd32046c346ebded75dcdc505c9bbe"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/08663596f8fd32046c346ebded75dcdc505c9bbe.zip",
+        "sha256": "a2f474b1e37688be3af4f06ca195ff67d19f2291ef015db1e15f08b83e3322aa",
+        "subPath": "quickbook-08663596f8fd32046c346ebded75dcdc505c9bbe"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/88a6af4049728986826aa379e4593d837a7a594f.zip",
+        "sha256": "2aba7b82316d354143399ee9f7a60d99cc9a1ef70ffb7322bfdb4791f7d8452b",
+        "subPath": "quickbook-88a6af4049728986826aa379e4593d837a7a594f"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/5e2b81966eede405894f277d3e5bf3776b7d78e6.zip",
+        "sha256": "19be586abfec5c8d228e474e524944085478aea47399683c6043f652dcef54f2",
+        "subPath": "quickbook-5e2b81966eede405894f277d3e5bf3776b7d78e6"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/400126bb3f9d3c63720dcfdf843a64dad7c142de.zip",
+        "sha256": "529e6c2ac313be0f7cbb1bd0cde1e805c57f48d55418a7a57fb2b514455c87d9",
+        "subPath": "quickbook-400126bb3f9d3c63720dcfdf843a64dad7c142de"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/20a0c1011a7dca87b95937f00da09576dc9b2a22.zip",
+        "sha256": "bc06fa3de59e142fba04b88d18bafc0cfa3e9855d2627c0ab2f74e12b0eefc3a",
+        "subPath": "quickbook-20a0c1011a7dca87b95937f00da09576dc9b2a22"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/7d83303e6864d4699c346efa7fdc7ebc0ee3cdbd.zip",
+        "sha256": "72c920971aefe8bd0e1e0feb49f02b44b2079281e44452e68ba433ba424f3a57",
+        "subPath": "quickbook-7d83303e6864d4699c346efa7fdc7ebc0ee3cdbd"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/655a25e295061f4bf34edbd5a0269d90a7efa1fb.zip",
+        "sha256": "130f6d3e5441c07e38914a03cc77369c3da3672f0624107d4f2f9777a152ecfd",
+        "subPath": "quickbook-655a25e295061f4bf34edbd5a0269d90a7efa1fb"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/71a51d72cd5126ccbda91b4368363b3eeee3b80e.zip",
+        "sha256": "750b98e477c369300e37aa7dd08e98a79f5b7eb34796a8568d59ca4124f103a8",
+        "subPath": "quickbook-71a51d72cd5126ccbda91b4368363b3eeee3b80e"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/0a7c43496b27a2f0a9d9c76e7c4150d35228d0e7.zip",
+        "sha256": "3335280045fe256889a24d3a81e7b24c0837b87827c6dccfe5e69b64367ce7fd",
+        "subPath": "quickbook-0a7c43496b27a2f0a9d9c76e7c4150d35228d0e7"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/quickbook/archive/237ee1553a4c213e254a5d72cca370a0e0134c14.zip",
+        "sha256": "aafb0bb7e0f9d9b40313801abb4da7534ff673faa9afc6718e689a5477e43d27",
+        "subPath": "quickbook-237ee1553a4c213e254a5d72cca370a0e0134c14"
+      }
+    }
+  }
+}

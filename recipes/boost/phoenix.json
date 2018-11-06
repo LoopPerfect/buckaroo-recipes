@@ -7,6 +7,141 @@
     "project": "phoenix"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/faffaf8e59a7e6c9aaeeb9d033e2bd5f06775c9f.zip",
+        "sha256": "d575c7cb0f372b8a262467794c021c909091d7b31c7756580612a1860c6d4bb0",
+        "subPath": "phoenix-faffaf8e59a7e6c9aaeeb9d033e2bd5f06775c9f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/proto": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/predef": "1.67.0",
+        "boost/fusion": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/function": "1.67.0",
+        "boost/intrusive": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/range": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/7afb9a83696b3bbd6162f1ca51e8b4c1d6ec6935.zip",
+        "sha256": "a6eb5af467b19fcfb88c70b072d5fcd1f2a65a04e082e63b312f18dba3a9569c",
+        "subPath": "phoenix-7afb9a83696b3bbd6162f1ca51e8b4c1d6ec6935"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/proto": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/predef": "1.66.0",
+        "boost/fusion": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/function": "1.66.0",
+        "boost/intrusive": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/range": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/7afb9a83696b3bbd6162f1ca51e8b4c1d6ec6935.zip",
+        "sha256": "a6eb5af467b19fcfb88c70b072d5fcd1f2a65a04e082e63b312f18dba3a9569c",
+        "subPath": "phoenix-7afb9a83696b3bbd6162f1ca51e8b4c1d6ec6935"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/proto": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/predef": "1.65.1",
+        "boost/fusion": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/function": "1.65.1",
+        "boost/intrusive": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/range": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/7afb9a83696b3bbd6162f1ca51e8b4c1d6ec6935.zip",
+        "sha256": "a6eb5af467b19fcfb88c70b072d5fcd1f2a65a04e082e63b312f18dba3a9569c",
+        "subPath": "phoenix-7afb9a83696b3bbd6162f1ca51e8b4c1d6ec6935"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/proto": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/predef": "1.65.0",
+        "boost/fusion": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/function": "1.65.0",
+        "boost/intrusive": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/range": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6.zip",
+        "sha256": "f790bfcb95a58e7dc8a60594bf49503ca9ed6b7142530a39497624b965ec6908",
+        "subPath": "phoenix-04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/proto": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/predef": "1.64.0",
+        "boost/fusion": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/function": "1.64.0",
+        "boost/intrusive": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/range": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/phoenix/archive/04ea2ac3d2ea972c61a7f8afa5c865aa1a7deff6.zip",
@@ -32,6 +167,438 @@
         "boost/intrusive": "1.63.0",
         "boost/assert": "1.63.0",
         "boost/range": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/5e7bd92055f5c1d5c5d0242a99a960823b1a822e.zip",
+        "sha256": "49fd395fc0be6418522aa3742c5783b222e40a7cc39299fb3a5b4c7e09b5367f",
+        "subPath": "phoenix-5e7bd92055f5c1d5c5d0242a99a960823b1a822e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/proto": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/predef": "1.62.0",
+        "boost/fusion": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/function": "1.62.0",
+        "boost/intrusive": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/range": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/6727a26607bcccb1b0d379ee02b1bdd857711593.zip",
+        "sha256": "a0e4d7c8af708a033ce590afa4fc546e49b230b54b3933cc0091dc3aeaa42883",
+        "subPath": "phoenix-6727a26607bcccb1b0d379ee02b1bdd857711593"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/proto": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/predef": "1.61.0",
+        "boost/fusion": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/function": "1.61.0",
+        "boost/intrusive": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/range": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/6727a26607bcccb1b0d379ee02b1bdd857711593.zip",
+        "sha256": "a0e4d7c8af708a033ce590afa4fc546e49b230b54b3933cc0091dc3aeaa42883",
+        "subPath": "phoenix-6727a26607bcccb1b0d379ee02b1bdd857711593"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/proto": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/predef": "1.60.0",
+        "boost/fusion": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/function": "1.60.0",
+        "boost/intrusive": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/range": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/1a5348e5e46b348a816d30df30a724375c5a527e.zip",
+        "sha256": "d58a8177d8ece02a7ed11a5e4bdf8863b1b7b620760c250259468dcaa4c02cc0",
+        "subPath": "phoenix-1a5348e5e46b348a816d30df30a724375c5a527e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/proto": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/predef": "1.59.0",
+        "boost/fusion": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/function": "1.59.0",
+        "boost/intrusive": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/range": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/bdfd6992cd2dbc305dfb21c04b2238785bf5f3da.zip",
+        "sha256": "82270f3904e8fdc643bcea765dfa5c93baa03565efff3fb08520a6277798da18",
+        "subPath": "phoenix-bdfd6992cd2dbc305dfb21c04b2238785bf5f3da"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/proto": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/predef": "1.58.0",
+        "boost/fusion": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/function": "1.58.0",
+        "boost/intrusive": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/range": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/41e1b6dc791eb0964089b1eb814b2d5392933b81.zip",
+        "sha256": "fc460026d3857344fa57308f6692b8d4ca3b24b2a717c8201d016992f0cba356",
+        "subPath": "phoenix-41e1b6dc791eb0964089b1eb814b2d5392933b81"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/proto": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/predef": "1.57.0",
+        "boost/fusion": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/function": "1.57.0",
+        "boost/intrusive": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/range": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/41e1b6dc791eb0964089b1eb814b2d5392933b81.zip",
+        "sha256": "fc460026d3857344fa57308f6692b8d4ca3b24b2a717c8201d016992f0cba356",
+        "subPath": "phoenix-41e1b6dc791eb0964089b1eb814b2d5392933b81"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/proto": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/predef": "1.56.0",
+        "boost/fusion": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/function": "1.56.0",
+        "boost/intrusive": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/range": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/d706e8cdb7a995adf1bff756b36b4f0dfa576597.zip",
+        "sha256": "8928b8e4fd55db4ef2d2e67a83b577d6d0171dbc61723fd5513dbbb7930b6719",
+        "subPath": "phoenix-d706e8cdb7a995adf1bff756b36b4f0dfa576597"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/proto": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/predef": "1.55.0",
+        "boost/fusion": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/function": "1.55.0",
+        "boost/intrusive": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/range": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/7e076cc07268aa983a218b0430d64e6d8aed9e44.zip",
+        "sha256": "cc7522e6ac804f3791e769b7cc90ee442096b6c38690b6849e41d10985c3b7e7",
+        "subPath": "phoenix-7e076cc07268aa983a218b0430d64e6d8aed9e44"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/proto": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/predef": "1.54.0",
+        "boost/fusion": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/function": "1.54.0",
+        "boost/intrusive": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/range": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/3a55702d0cd8d9c3dda6f59cd5702b02ee76504c.zip",
+        "sha256": "61964eb002e597a3c4277dc5abf09b2be683bde279247fdd1deddd07820e54b5",
+        "subPath": "phoenix-3a55702d0cd8d9c3dda6f59cd5702b02ee76504c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/proto": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/predef": "1.53.0",
+        "boost/fusion": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/function": "1.53.0",
+        "boost/intrusive": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/range": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/402b080efe955d672e37bd249cb95acf3e97b768.zip",
+        "sha256": "9d55a65eee6076f2dc8b03d1e11d9a1e441d8e5c9a31b2e7751cad8f4893e63c",
+        "subPath": "phoenix-402b080efe955d672e37bd249cb95acf3e97b768"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/proto": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/predef": "1.52.0",
+        "boost/fusion": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/function": "1.52.0",
+        "boost/intrusive": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/range": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/b87e0c081cfd7b5df911120769f1fbfb1c237423.zip",
+        "sha256": "6519295262cf0c1e6406a1861ecf20c45a0096b5937563ee8c8ef68d038004ca",
+        "subPath": "phoenix-b87e0c081cfd7b5df911120769f1fbfb1c237423"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/proto": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/predef": "1.51.0",
+        "boost/fusion": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/function": "1.51.0",
+        "boost/intrusive": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/range": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/c2592e0cabb77da229a345a00ea5c8b5565d47c5.zip",
+        "sha256": "2c77c7ca7259d583f3af1bf196d3eef0eb9eecdc37ac0ba94429d9b7efbbe5b5",
+        "subPath": "phoenix-c2592e0cabb77da229a345a00ea5c8b5565d47c5"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/proto": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/predef": "1.50.0",
+        "boost/fusion": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/function": "1.50.0",
+        "boost/intrusive": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/range": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/e1dec7dbc56e473d190972f72ab5c6007f32f0e2.zip",
+        "sha256": "a12280b5c17403b56a86a3363350353206900cf65483f5782ae26e2093cea7f7",
+        "subPath": "phoenix-e1dec7dbc56e473d190972f72ab5c6007f32f0e2"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/proto": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/predef": "1.49.0",
+        "boost/fusion": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/function": "1.49.0",
+        "boost/intrusive": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/range": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/8c42bc66e780182e501810b1ba9bd77602caafa0.zip",
+        "sha256": "4d4ff96bc4ebf674424a54c021d01d78fe16f7e9a8a7cdce9e55108be2ad33b0",
+        "subPath": "phoenix-8c42bc66e780182e501810b1ba9bd77602caafa0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/proto": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/predef": "1.48.0",
+        "boost/fusion": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/function": "1.48.0",
+        "boost/intrusive": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/range": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/phoenix/archive/77f0d35fcce186634957118f4aa46303b0de6153.zip",
+        "sha256": "1495acaf7656a83ae67b3a7dcc405ece48ba9be3120adba03bdb2716fbb9868c",
+        "subPath": "phoenix-77f0d35fcce186634957118f4aa46303b0de6153"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/phoenix/bef92713feaa1ad9faaa16c7f9f5deb5171d7c45/BUCK",
+        "sha256": "7ebc5a5c3203c9960aff8287e56620ca2899ab330876d6b8cca9ab1868c5ce5e"
+      },
+      "dependencies": {
+        "boost/type-traits": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/proto": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/predef": "1.47.0",
+        "boost/fusion": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/function": "1.47.0",
+        "boost/intrusive": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/range": "1.47.0"
       }
     }
   }

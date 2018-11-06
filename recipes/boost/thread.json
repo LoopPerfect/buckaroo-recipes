@@ -7,6 +7,146 @@
     "project": "thread"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/d268106bf8d6d3ed94411e47b1c3eac49458b085.zip",
+        "sha256": "eeb39eb6b41add0f3cc57e3ddc609708b4245824d01e245e288e72a65a959586",
+        "subPath": "thread-d268106bf8d6d3ed94411e47b1c3eac49458b085"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/move": "1.67.0",
+        "boost/system": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/bind": "1.67.0",
+        "boost/atomic": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/date-time": "1.67.0",
+        "boost/chrono": "1.67.0",
+        "boost/io": "1.67.0",
+        "boost/function": "1.67.0",
+        "boost/algorithm": "1.67.0",
+        "boost/winapi": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/65681f4033196dbbda8ff91be0e6fd82f6c20c0e.zip",
+        "sha256": "e88bb725901ccb786137f64244124bb927101b897f78bb7a4e195ac729f5debb",
+        "subPath": "thread-65681f4033196dbbda8ff91be0e6fd82f6c20c0e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/move": "1.66.0",
+        "boost/system": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/bind": "1.66.0",
+        "boost/atomic": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/date-time": "1.66.0",
+        "boost/chrono": "1.66.0",
+        "boost/io": "1.66.0",
+        "boost/function": "1.66.0",
+        "boost/algorithm": "1.66.0",
+        "boost/winapi": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/748fdee203f2bb2166df3fbdb0b10d80c84b8a00.zip",
+        "sha256": "c7ceafddf2379647e89c8a2f9b3891158dc043e9175877f1b66aaf8e61c3655c",
+        "subPath": "thread-748fdee203f2bb2166df3fbdb0b10d80c84b8a00"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/move": "1.65.1",
+        "boost/system": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/bind": "1.65.1",
+        "boost/atomic": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/date-time": "1.65.1",
+        "boost/chrono": "1.65.1",
+        "boost/io": "1.65.1",
+        "boost/function": "1.65.1",
+        "boost/algorithm": "1.65.1",
+        "boost/winapi": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/32229388f51feba5af16eb5c99c746b459d14569.zip",
+        "sha256": "fef82d3b4d40f98b49df1e4467bd900241b0de3bcfaead302fdfb95b96481fee",
+        "subPath": "thread-32229388f51feba5af16eb5c99c746b459d14569"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/move": "1.65.0",
+        "boost/system": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/bind": "1.65.0",
+        "boost/atomic": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/date-time": "1.65.0",
+        "boost/chrono": "1.65.0",
+        "boost/io": "1.65.0",
+        "boost/function": "1.65.0",
+        "boost/algorithm": "1.65.0",
+        "boost/winapi": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/5363e099e439d4188878941d5fd4ef0ae5299c22.zip",
+        "sha256": "e6608ed151e098d44ce0985c3ede457a6d70c0781f470bfd0dc157e80f717c5c",
+        "subPath": "thread-5363e099e439d4188878941d5fd4ef0ae5299c22"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/move": "1.64.0",
+        "boost/system": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/bind": "1.64.0",
+        "boost/atomic": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/date-time": "1.64.0",
+        "boost/chrono": "1.64.0",
+        "boost/io": "1.64.0",
+        "boost/function": "1.64.0",
+        "boost/algorithm": "1.64.0",
+        "boost/winapi": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/thread/archive/3391bf87c68717e3d6ef1cdfa868a8fcc01ec7b5.zip",
@@ -33,6 +173,482 @@
         "boost/function": "1.63.0",
         "boost/algorithm": "1.63.0",
         "boost/winapi": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/11f18980ca147bd3b5f30bc74ae698bd0e4d8a03.zip",
+        "sha256": "7397bf3994b1b5e4205b434c7ca51feab71d3d4272a6b8b3ff027415f7c21ee0",
+        "subPath": "thread-11f18980ca147bd3b5f30bc74ae698bd0e4d8a03"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/move": "1.62.0",
+        "boost/system": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/bind": "1.62.0",
+        "boost/atomic": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/date-time": "1.62.0",
+        "boost/chrono": "1.62.0",
+        "boost/io": "1.62.0",
+        "boost/function": "1.62.0",
+        "boost/algorithm": "1.62.0",
+        "boost/winapi": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/2494f3fc7a6dcaa990d2801ba7f91ffa3728b136.zip",
+        "sha256": "23ca3a5fe16dad1c0eedb01dba6c6586d88d1225f71c5032a7f852ef77cd93e8",
+        "subPath": "thread-2494f3fc7a6dcaa990d2801ba7f91ffa3728b136"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/move": "1.61.0",
+        "boost/system": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/bind": "1.61.0",
+        "boost/atomic": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/date-time": "1.61.0",
+        "boost/chrono": "1.61.0",
+        "boost/io": "1.61.0",
+        "boost/function": "1.61.0",
+        "boost/algorithm": "1.61.0",
+        "boost/winapi": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/83f877a238c6c2907a5f915ba368cf9aa552a79a.zip",
+        "sha256": "e93c92d9b9596cdcd61beb43ec5e7ccbd5c75967b8545919795712d4b0a57d7a",
+        "subPath": "thread-83f877a238c6c2907a5f915ba368cf9aa552a79a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/move": "1.60.0",
+        "boost/system": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/bind": "1.60.0",
+        "boost/atomic": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/date-time": "1.60.0",
+        "boost/chrono": "1.60.0",
+        "boost/io": "1.60.0",
+        "boost/function": "1.60.0",
+        "boost/algorithm": "1.60.0",
+        "boost/winapi": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/f25bc8bbabff15f13ddc5055deed9588bad78f2e.zip",
+        "sha256": "04b6b6c86722b941e9cb46b3d608927c34d2294b7d4ecdb425418253d3a8dffd",
+        "subPath": "thread-f25bc8bbabff15f13ddc5055deed9588bad78f2e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/move": "1.59.0",
+        "boost/system": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/bind": "1.59.0",
+        "boost/atomic": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/date-time": "1.59.0",
+        "boost/chrono": "1.59.0",
+        "boost/io": "1.59.0",
+        "boost/function": "1.59.0",
+        "boost/algorithm": "1.59.0",
+        "boost/winapi": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/0f6a3ebbe5f9c0e5b37f83cd1dc8b2d2461b0d3a.zip",
+        "sha256": "85c11a2f39f4d4ccde8d77ab87d812855255250d37d8ac24d9341b9567aff18f",
+        "subPath": "thread-0f6a3ebbe5f9c0e5b37f83cd1dc8b2d2461b0d3a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/move": "1.58.0",
+        "boost/system": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/bind": "1.58.0",
+        "boost/atomic": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/date-time": "1.58.0",
+        "boost/chrono": "1.58.0",
+        "boost/io": "1.58.0",
+        "boost/function": "1.58.0",
+        "boost/algorithm": "1.58.0",
+        "boost/winapi": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/5fb51a74fed35728be852dc3b429508fda865d02.zip",
+        "sha256": "370b6bd737de3db1db136226bc44c1b3e15efdabc17692abc29c9e1fac87da09",
+        "subPath": "thread-5fb51a74fed35728be852dc3b429508fda865d02"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/move": "1.57.0",
+        "boost/system": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/bind": "1.57.0",
+        "boost/atomic": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/date-time": "1.57.0",
+        "boost/chrono": "1.57.0",
+        "boost/io": "1.57.0",
+        "boost/function": "1.57.0",
+        "boost/algorithm": "1.57.0",
+        "boost/winapi": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/0b2a61bca07136a564be5a545b2581a23b1b52f9.zip",
+        "sha256": "47ce407173517e45eb626394884170f17983dc297acdf6196bfae6f5943c77ac",
+        "subPath": "thread-0b2a61bca07136a564be5a545b2581a23b1b52f9"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/move": "1.56.0",
+        "boost/system": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/bind": "1.56.0",
+        "boost/atomic": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/date-time": "1.56.0",
+        "boost/chrono": "1.56.0",
+        "boost/io": "1.56.0",
+        "boost/function": "1.56.0",
+        "boost/algorithm": "1.56.0",
+        "boost/winapi": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/94654d4db559e02a8b5c312e13f46106b692807e.zip",
+        "sha256": "86f9e39b33b1e30d302ce61d43e6365b6d4f4c9202e2e711789e2ad73a65ce54",
+        "subPath": "thread-94654d4db559e02a8b5c312e13f46106b692807e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/move": "1.55.0",
+        "boost/system": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/bind": "1.55.0",
+        "boost/atomic": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/date-time": "1.55.0",
+        "boost/chrono": "1.55.0",
+        "boost/io": "1.55.0",
+        "boost/function": "1.55.0",
+        "boost/algorithm": "1.55.0",
+        "boost/winapi": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/57bd3b07691252305e764d19af7f104f68b3982f.zip",
+        "sha256": "5f2483c1ea04db5801a2fc1162948084878e063ea7ce5b3ceea33f2d152f60ad",
+        "subPath": "thread-57bd3b07691252305e764d19af7f104f68b3982f"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/move": "1.54.0",
+        "boost/system": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/bind": "1.54.0",
+        "boost/atomic": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/date-time": "1.54.0",
+        "boost/chrono": "1.54.0",
+        "boost/io": "1.54.0",
+        "boost/function": "1.54.0",
+        "boost/algorithm": "1.54.0",
+        "boost/winapi": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/4735c2f81f041c39069b4aa396310c86c962da06.zip",
+        "sha256": "a85f4ec0839b04128c4197597bf1f8f11e31ef00ad77db335e2fd86abb618e85",
+        "subPath": "thread-4735c2f81f041c39069b4aa396310c86c962da06"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/move": "1.53.0",
+        "boost/system": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/bind": "1.53.0",
+        "boost/atomic": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/date-time": "1.53.0",
+        "boost/chrono": "1.53.0",
+        "boost/io": "1.53.0",
+        "boost/function": "1.53.0",
+        "boost/algorithm": "1.53.0",
+        "boost/winapi": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/7648e33c188f3f4c3f0d9a37bc94c21149de0061.zip",
+        "sha256": "5629728e74d98398471b936273812e635bc0792c0424f8390434f25d674285e8",
+        "subPath": "thread-7648e33c188f3f4c3f0d9a37bc94c21149de0061"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/move": "1.52.0",
+        "boost/system": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/bind": "1.52.0",
+        "boost/atomic": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/date-time": "1.52.0",
+        "boost/chrono": "1.52.0",
+        "boost/io": "1.52.0",
+        "boost/function": "1.52.0",
+        "boost/algorithm": "1.52.0",
+        "boost/winapi": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/0b71353f2884fc43d15f3a268281f1327abfdf74.zip",
+        "sha256": "cce55f3671a0bcb0974e1159928f9260faa41c36f2e08dcb41391cb6539810f8",
+        "subPath": "thread-0b71353f2884fc43d15f3a268281f1327abfdf74"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/move": "1.51.0",
+        "boost/system": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/bind": "1.51.0",
+        "boost/atomic": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/date-time": "1.51.0",
+        "boost/chrono": "1.51.0",
+        "boost/io": "1.51.0",
+        "boost/function": "1.51.0",
+        "boost/algorithm": "1.51.0",
+        "boost/winapi": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/ce7cca611dc056fff09bd5b8512d17529e8b2bb6.zip",
+        "sha256": "a24092587775258f9ac7b298ecb30b21d73094f161a845cdbcbc4c81b00bf3aa",
+        "subPath": "thread-ce7cca611dc056fff09bd5b8512d17529e8b2bb6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/move": "1.50.0",
+        "boost/system": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/bind": "1.50.0",
+        "boost/atomic": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/date-time": "1.50.0",
+        "boost/chrono": "1.50.0",
+        "boost/io": "1.50.0",
+        "boost/function": "1.50.0",
+        "boost/algorithm": "1.50.0",
+        "boost/winapi": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/cf4dd909d586ed54921e8e5c6d430f08165da0d3.zip",
+        "sha256": "9cffbf24fb218689cc7445e717e5cfe0d586d696e09c1e27820c719302981cdc",
+        "subPath": "thread-cf4dd909d586ed54921e8e5c6d430f08165da0d3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/move": "1.49.0",
+        "boost/system": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/bind": "1.49.0",
+        "boost/atomic": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/date-time": "1.49.0",
+        "boost/chrono": "1.49.0",
+        "boost/io": "1.49.0",
+        "boost/function": "1.49.0",
+        "boost/algorithm": "1.49.0",
+        "boost/winapi": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/29f6f419ec6a51547a0fe8e22836c60be58a24a8.zip",
+        "sha256": "75fa3697d3d0898a13837df1c13be38f48bc9c857eb99627e9ecfda19ad5a8f8",
+        "subPath": "thread-29f6f419ec6a51547a0fe8e22836c60be58a24a8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/move": "1.48.0",
+        "boost/system": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/bind": "1.48.0",
+        "boost/atomic": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/date-time": "1.48.0",
+        "boost/chrono": "1.48.0",
+        "boost/io": "1.48.0",
+        "boost/function": "1.48.0",
+        "boost/algorithm": "1.48.0",
+        "boost/winapi": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/8ecef385cd3f3032793ca52d56f1b89046248798.zip",
+        "sha256": "1795143ae2ef068427b677ad4230b297fbe996229f7cb23644f8c70b3ef70e19",
+        "subPath": "thread-8ecef385cd3f3032793ca52d56f1b89046248798"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/move": "1.47.0",
+        "boost/system": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/bind": "1.47.0",
+        "boost/atomic": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/date-time": "1.47.0",
+        "boost/chrono": "1.47.0",
+        "boost/io": "1.47.0",
+        "boost/function": "1.47.0",
+        "boost/algorithm": "1.47.0",
+        "boost/winapi": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/thread/archive/886ef2a01c313953efc70a6c4f21ac901f5c0bd4.zip",
+        "sha256": "d98b6487af377184f1fc2221be1bd4ebda9c6b119a7839200200f28e994b912e",
+        "subPath": "thread-886ef2a01c313953efc70a6c4f21ac901f5c0bd4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/thread/6d6746d8e088d172d4a2305f316e79219c34e0e2/BUCK",
+        "sha256": "042117f14b2814ecca26128703c905e7188cfb1ffea90385b6851274feab94c6"
+      },
+      "dependencies": {
+        "boost/config": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/move": "1.46.1",
+        "boost/system": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/bind": "1.46.1",
+        "boost/atomic": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/date-time": "1.46.1",
+        "boost/chrono": "1.46.1",
+        "boost/io": "1.46.1",
+        "boost/function": "1.46.1",
+        "boost/algorithm": "1.46.1",
+        "boost/winapi": "1.46.1"
       }
     }
   }

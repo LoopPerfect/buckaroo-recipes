@@ -7,6 +7,81 @@
     "project": "interprocess"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/98009e33047947e79af1233b2253a9fdea7beac3.zip",
+        "sha256": "bfa82334331264319e85fe00a981f36f3e3c06ba996e1944a3eaccb50031efdc",
+        "subPath": "interprocess-98009e33047947e79af1233b2253a9fdea7beac3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.67.0",
+        "boost/date-time": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/9a605d3816a3ceadfedcc39efa4941d5ed5dfc43.zip",
+        "sha256": "fc45d37caf0cd95ab508f81a3cad8db6c1122bd4339ead6b9b25ca488bf73399",
+        "subPath": "interprocess-9a605d3816a3ceadfedcc39efa4941d5ed5dfc43"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.66.0",
+        "boost/date-time": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/8eed6de857e3bae560af0cbc422b1afaf84cb2ba.zip",
+        "sha256": "7384501a077bb2e1c04aba8f159d7f07534c6a4ef7ce276d6f63d0a5b2fc109b",
+        "subPath": "interprocess-8eed6de857e3bae560af0cbc422b1afaf84cb2ba"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.65.1",
+        "boost/date-time": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/8eed6de857e3bae560af0cbc422b1afaf84cb2ba.zip",
+        "sha256": "7384501a077bb2e1c04aba8f159d7f07534c6a4ef7ce276d6f63d0a5b2fc109b",
+        "subPath": "interprocess-8eed6de857e3bae560af0cbc422b1afaf84cb2ba"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.65.0",
+        "boost/date-time": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/541d428bca0183f72090b4e80321deb64677062e.zip",
+        "sha256": "22ba8f1da44cab13008fd68b001fbf4ce4642f3fec0cccdd9592476e809f4849",
+        "subPath": "interprocess-541d428bca0183f72090b4e80321deb64677062e"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.64.0",
+        "boost/date-time": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/interprocess/archive/033e5ce0379e343f657050ff3a16e1a219df4fca.zip",
@@ -20,6 +95,246 @@
       "dependencies": {
         "boost/config": "1.63.0",
         "boost/date-time": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/446d4cdf37b924d3a173011aa297497ea8c9ad24.zip",
+        "sha256": "f5446e56cba3e546b7cbe8543e7f156362e23c5c646c4c236e10b0c699600e11",
+        "subPath": "interprocess-446d4cdf37b924d3a173011aa297497ea8c9ad24"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.62.0",
+        "boost/date-time": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/71ad203b6cd5e67621446a1d9fd2c49ac62f8bd1.zip",
+        "sha256": "47e194dca9a60ca808d73008e44373a2001802658143c4a545dca20137c125f1",
+        "subPath": "interprocess-71ad203b6cd5e67621446a1d9fd2c49ac62f8bd1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.61.0",
+        "boost/date-time": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/6df7e27c788524c38abea6344f35413433315f2b.zip",
+        "sha256": "ea24a2da6fb3afe2b5f9dc807e51f7aa3dce2401a014656cab0e9fd33f129b5b",
+        "subPath": "interprocess-6df7e27c788524c38abea6344f35413433315f2b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.60.0",
+        "boost/date-time": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/e352a84dd2d31fcad14f721c8359d25a5f9dc9fc.zip",
+        "sha256": "7315c8d310160599c8d6a81d73c5116815c37ac3bf521674c2f08174249eb0d7",
+        "subPath": "interprocess-e352a84dd2d31fcad14f721c8359d25a5f9dc9fc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.59.0",
+        "boost/date-time": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/5c00dab95808c9cb4d8f728ed00abb7ee4385870.zip",
+        "sha256": "1b96a672892d93ceb1030b68ea2b76585ec2f8630e83f28136e5b9bd1790c38f",
+        "subPath": "interprocess-5c00dab95808c9cb4d8f728ed00abb7ee4385870"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.58.0",
+        "boost/date-time": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/060efcfffb4291f93186b206eef4a9bd390afee0.zip",
+        "sha256": "9147c782f5c64575e55229a602a171fb69f06f4abd15391404850c3a1e35e7c5",
+        "subPath": "interprocess-060efcfffb4291f93186b206eef4a9bd390afee0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.57.0",
+        "boost/date-time": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/ed77ae663ab9d1a7e484ed6fc8b7d0c43a7a0b78.zip",
+        "sha256": "d12e4ad057c0028b839b216456f77676398163038158f994890cf61760703b28",
+        "subPath": "interprocess-ed77ae663ab9d1a7e484ed6fc8b7d0c43a7a0b78"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.56.0",
+        "boost/date-time": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/3e6dcc0a57447e0b7d9711634ad22cdf5f849f0d.zip",
+        "sha256": "5da3d71d70d2a21f3bee336a48b2791f9236944f138896884f5b9a1bad59c2d0",
+        "subPath": "interprocess-3e6dcc0a57447e0b7d9711634ad22cdf5f849f0d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.55.0",
+        "boost/date-time": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/eb410424d88332ead8bdd1673c54cd6b0da7cd07.zip",
+        "sha256": "bc859a429fdc76c275fe8187724c6d491eea7f5b6e44ca4066001fd81119db42",
+        "subPath": "interprocess-eb410424d88332ead8bdd1673c54cd6b0da7cd07"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.54.0",
+        "boost/date-time": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/aed47bfb925e70519afd41bf4142b8fed7a15cbc.zip",
+        "sha256": "e999f573661bd0003a3645a08832c514652617e4f67fca9bdee95b41c5a25135",
+        "subPath": "interprocess-aed47bfb925e70519afd41bf4142b8fed7a15cbc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.53.0",
+        "boost/date-time": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/f5d2d1572ea44aac4fe161935c0b0e38381a9de1.zip",
+        "sha256": "af5554f695434c92b9095ce3b91bf1cb9030b74a6397627fbadcf5dac2915c8f",
+        "subPath": "interprocess-f5d2d1572ea44aac4fe161935c0b0e38381a9de1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.52.0",
+        "boost/date-time": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/5fa13737e4409d2e19e2d3f2e0de79292fd7cec4.zip",
+        "sha256": "3ffe9c4ec0cd1c8a2b6fd916f8982a42fcd04007a660a38908668b2409b5aa47",
+        "subPath": "interprocess-5fa13737e4409d2e19e2d3f2e0de79292fd7cec4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.51.0",
+        "boost/date-time": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/f51f53a8be5c471d990d40a2bd7971467de3c262.zip",
+        "sha256": "cdbfd91b2a0063b42aac69d01bfa70b9d77c4490a05b8debabb0b48b5d9639d5",
+        "subPath": "interprocess-f51f53a8be5c471d990d40a2bd7971467de3c262"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.50.0",
+        "boost/date-time": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/a5de840b7a3f3a7d152c200f4f2ce6b6ec4178f4.zip",
+        "sha256": "ffe62a4470d8b14e937fb46e18fa6ff6dadf0872edc1701758be2c9168ea7455",
+        "subPath": "interprocess-a5de840b7a3f3a7d152c200f4f2ce6b6ec4178f4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.49.0",
+        "boost/date-time": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/654d1d69d6b95e36993d471c23fa769108fcea3c.zip",
+        "sha256": "15e523d4852379c798fe8ea93f09e7ea31b9a882c10fd598dbb2d17f6957eb5c",
+        "subPath": "interprocess-654d1d69d6b95e36993d471c23fa769108fcea3c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.48.0",
+        "boost/date-time": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/interprocess/archive/0043a49c3ea341100bf5996f481dd7c14740f004.zip",
+        "sha256": "c595efd1c397a7a3ff7bad5bc780d38c7d09dbe2e6bd21b2366c512c3bd41c3b",
+        "subPath": "interprocess-0043a49c3ea341100bf5996f481dd7c14740f004"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/interprocess/8cfcb22b73059e57a26ab94bdd054d8e89c1a446/BUCK",
+        "sha256": "3a8aae2e95350952b250cecc195ff5ab23768c14607d551ab3614d3c36a6fc8c"
+      },
+      "dependencies": {
+        "boost/config": "1.47.0",
+        "boost/date-time": "1.47.0"
       }
     }
   }

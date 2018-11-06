@@ -7,6 +7,101 @@
     "project": "intrusive"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/9d5d08b516db6ea9ae745063c588ba270cb0a603.zip",
+        "sha256": "dd0248eba3a44ee4475d1f6bee7da135351ee755011a986777986ce938e2f981",
+        "subPath": "intrusive-9d5d08b516db6ea9ae745063c588ba270cb0a603"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.67.0",
+        "boost/static-assert": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/functional": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/15500ebba10be1b6b1c09a1c3792aeb11dd10340.zip",
+        "sha256": "e418993c07b3f5147c70a2b38796e3c016d5a9755d8eed41d1a2b2f425360c11",
+        "subPath": "intrusive-15500ebba10be1b6b1c09a1c3792aeb11dd10340"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.66.0",
+        "boost/static-assert": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/functional": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/6e4953d3af2923758f373bd494ec65f763f3da87.zip",
+        "sha256": "0ec1cc4f6015390c27bed8be52cc24f6fa35d127f70ee6ac7445194e7dcacdb7",
+        "subPath": "intrusive-6e4953d3af2923758f373bd494ec65f763f3da87"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.65.1",
+        "boost/static-assert": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/functional": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/6e4953d3af2923758f373bd494ec65f763f3da87.zip",
+        "sha256": "0ec1cc4f6015390c27bed8be52cc24f6fa35d127f70ee6ac7445194e7dcacdb7",
+        "subPath": "intrusive-6e4953d3af2923758f373bd494ec65f763f3da87"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.65.0",
+        "boost/static-assert": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/functional": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/e6830cfe4c5db4fb279866439d02d03ae5407603.zip",
+        "sha256": "21e504f1176e1dcc6b1333f4ab0753daf9a5f8fa5326e22a6c29edc2a3fc4aa7",
+        "subPath": "intrusive-e6830cfe4c5db4fb279866439d02d03ae5407603"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.64.0",
+        "boost/static-assert": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/functional": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/intrusive/archive/190900e1b00f6dcd1132baf584231e69acd70e76.zip",
@@ -24,6 +119,310 @@
         "boost/config": "1.63.0",
         "boost/assert": "1.63.0",
         "boost/functional": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/bbb4f724d037a6ab5ee0d9bde292f0691564960c.zip",
+        "sha256": "8956d93961a4264f8cee1ba83a3a5aeb6a0bd392f80b4c3d21ded7f051c151e9",
+        "subPath": "intrusive-bbb4f724d037a6ab5ee0d9bde292f0691564960c"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.62.0",
+        "boost/static-assert": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/functional": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/4cf38987a88e1bb1157f1b8957bc0fc167b576e4.zip",
+        "sha256": "31e009a607b914895009c7c8f496fd4e93c8871dd906a220dc9319a5081ba495",
+        "subPath": "intrusive-4cf38987a88e1bb1157f1b8957bc0fc167b576e4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.61.0",
+        "boost/static-assert": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/functional": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/259e4a939f3b69c79cd136d87f9f6479deb98104.zip",
+        "sha256": "e77f48559197398d7b69fc46bfe73a0bc668d2e7379c817bbbfb6efd9be81365",
+        "subPath": "intrusive-259e4a939f3b69c79cd136d87f9f6479deb98104"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.60.0",
+        "boost/static-assert": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/functional": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/5cdf047f6ac162c75c619aae0076cd285ce0c5af.zip",
+        "sha256": "ba2ebf92249bb4a8ae3aff277cd76f3452a1e0eb4bf2307e74a756f9efa16f9a",
+        "subPath": "intrusive-5cdf047f6ac162c75c619aae0076cd285ce0c5af"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.59.0",
+        "boost/static-assert": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/functional": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/1231ddd0e1c8a6b0a800633b7bb931e35187ad47.zip",
+        "sha256": "53ec687df4dd2f61cd2359b2990e27b966b95dbf45b0b3035824a13c33a2db3e",
+        "subPath": "intrusive-1231ddd0e1c8a6b0a800633b7bb931e35187ad47"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.58.0",
+        "boost/static-assert": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/functional": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/414ca9f33821b26eb4f223236a3e5a20dc79cd64.zip",
+        "sha256": "bb66c618741a40325b8e08e68e3d8a80f15f7bc825ac7712e26e9343e002ae18",
+        "subPath": "intrusive-414ca9f33821b26eb4f223236a3e5a20dc79cd64"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.57.0",
+        "boost/static-assert": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/functional": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/911cb4a2b8f37951deb3558a5373d49ae011f674.zip",
+        "sha256": "e0569626d0f8af1f1a83b20d0e261b5a462933bd97fdcc15849639c89749c2c2",
+        "subPath": "intrusive-911cb4a2b8f37951deb3558a5373d49ae011f674"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.56.0",
+        "boost/static-assert": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/functional": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/6388f56dcf8ac89586ee107f29aa2e7a0955f0d8.zip",
+        "sha256": "252de0966c7b5f334d290f0a2faa84df048220fd1bfce6e44c2d1697c33ead8b",
+        "subPath": "intrusive-6388f56dcf8ac89586ee107f29aa2e7a0955f0d8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.55.0",
+        "boost/static-assert": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/functional": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/21faea7da4226d2bc1480d8f5acf303f1b100865.zip",
+        "sha256": "e7eb5eeb30d7c8db8da0602221ac90956ed002e0dc8776b3f48931e785b5aed4",
+        "subPath": "intrusive-21faea7da4226d2bc1480d8f5acf303f1b100865"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.54.0",
+        "boost/static-assert": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/functional": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/1f46e9b31b96d6005fdf0e6f33b8c9927ce9b8e3.zip",
+        "sha256": "0812b7d94eb8310a1c926136f7eef3f286fe5571f6a5d0ec38acbffefb459dc5",
+        "subPath": "intrusive-1f46e9b31b96d6005fdf0e6f33b8c9927ce9b8e3"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.53.0",
+        "boost/static-assert": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/functional": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/9f8a8cd2f8495f87b09a5a699d4cb81ee1255de4.zip",
+        "sha256": "cce22f25456dff84c5df893a4546db35be3cee845024e1f5b479c3dce999429b",
+        "subPath": "intrusive-9f8a8cd2f8495f87b09a5a699d4cb81ee1255de4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.52.0",
+        "boost/static-assert": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/functional": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/517f2a2189e74b3f62393a42afd07d9fd768de42.zip",
+        "sha256": "b30c40343941e84f24eab3c895a809fcd6c5f947e653ecba118cc0dd877c235e",
+        "subPath": "intrusive-517f2a2189e74b3f62393a42afd07d9fd768de42"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.51.0",
+        "boost/static-assert": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/functional": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/a11257849b4810444ea1e45b43c579ea0d343064.zip",
+        "sha256": "192f0e76a443b8d4efc85c213605053829c3e15d09f1fdd1a14d0993e36b89f9",
+        "subPath": "intrusive-a11257849b4810444ea1e45b43c579ea0d343064"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.50.0",
+        "boost/static-assert": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/functional": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/681d5680723718bcb5247b0801f304e2d79adc5b.zip",
+        "sha256": "2d28c001cb09ed6ad735be35bf2a61e45d5462ccdf23341f8733f06a62d6737c",
+        "subPath": "intrusive-681d5680723718bcb5247b0801f304e2d79adc5b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.49.0",
+        "boost/static-assert": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/functional": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/ac59d9dd68bf2d66887ecc7b7292c4e3afb09ab8.zip",
+        "sha256": "f742f37ab87f6f3c80bd012acc5ca509e290f52c6c32e9f37abb84fd52416bc8",
+        "subPath": "intrusive-ac59d9dd68bf2d66887ecc7b7292c4e3afb09ab8"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.48.0",
+        "boost/static-assert": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/functional": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/intrusive/archive/18ad5c24a0114de7e00866e4489aad6fe6b0b231.zip",
+        "sha256": "ff8f6cf499e0ba20751d58b4138cde8a257e07be172e95fd0d59548f16a02e9e",
+        "subPath": "intrusive-18ad5c24a0114de7e00866e4489aad6fe6b0b231"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/intrusive/1e89d46d09c49d4ee9264234bdb64355fef03fa1/BUCK",
+        "sha256": "6b8dba563cc31f637d5243bcf274c69cc3d2631d6acae2718e7dad4929bdebe1"
+      },
+      "dependencies": {
+        "boost/move": "1.47.0",
+        "boost/static-assert": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/functional": "1.47.0"
       }
     }
   }

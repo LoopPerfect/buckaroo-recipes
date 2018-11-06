@@ -7,6 +7,96 @@
     "project": "hana"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/hana/archive/e53c547207c4364f051d5ca7c244ffa03267af69.zip",
+        "sha256": "f16e3f4ec37ebbc16fe619fa92e50c28db22ac5eb9b274a10968afb75eb57099",
+        "subPath": "hana-e53c547207c4364f051d5ca7c244ffa03267af69"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/hana/81d75a2c22e9ba083a9d58d108fafacead76d1d2/BUCK",
+        "sha256": "4c461f7360adca013fa0b776a1eb52b6b44d9db049a3bb1fa806104ebfec03a1"
+      },
+      "dependencies": {
+        "boost/core": "1.67.0",
+        "boost/fusion": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/tuple": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/hana/archive/5b1c2ada83ba531ccb644e65fb03e7bd3e12b8cf.zip",
+        "sha256": "5669c8f6c2d1c1c158ce439fe522cff9a485352ae2275cf719cd51e7e69c358d",
+        "subPath": "hana-5b1c2ada83ba531ccb644e65fb03e7bd3e12b8cf"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/hana/81d75a2c22e9ba083a9d58d108fafacead76d1d2/BUCK",
+        "sha256": "4c461f7360adca013fa0b776a1eb52b6b44d9db049a3bb1fa806104ebfec03a1"
+      },
+      "dependencies": {
+        "boost/core": "1.66.0",
+        "boost/fusion": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/tuple": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/hana/archive/e507494b5f7f51026e8afa317b3ca2c058a4d290.zip",
+        "sha256": "f8ad91dd82527e1f2637b331cbfdfd689d281ec67afec465d37982806190657c",
+        "subPath": "hana-e507494b5f7f51026e8afa317b3ca2c058a4d290"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/hana/81d75a2c22e9ba083a9d58d108fafacead76d1d2/BUCK",
+        "sha256": "4c461f7360adca013fa0b776a1eb52b6b44d9db049a3bb1fa806104ebfec03a1"
+      },
+      "dependencies": {
+        "boost/core": "1.65.1",
+        "boost/fusion": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/tuple": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/hana/archive/e507494b5f7f51026e8afa317b3ca2c058a4d290.zip",
+        "sha256": "f8ad91dd82527e1f2637b331cbfdfd689d281ec67afec465d37982806190657c",
+        "subPath": "hana-e507494b5f7f51026e8afa317b3ca2c058a4d290"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/hana/81d75a2c22e9ba083a9d58d108fafacead76d1d2/BUCK",
+        "sha256": "4c461f7360adca013fa0b776a1eb52b6b44d9db049a3bb1fa806104ebfec03a1"
+      },
+      "dependencies": {
+        "boost/core": "1.65.0",
+        "boost/fusion": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/tuple": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/hana/archive/9fc85989f7ebe4d2510c65a5bea174f066fff226.zip",
+        "sha256": "5f2396da57aac136641e8d6ad188e17980e2f5b0efd4be54666f8d8c2e1d47f2",
+        "subPath": "hana-9fc85989f7ebe4d2510c65a5bea174f066fff226"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/hana/81d75a2c22e9ba083a9d58d108fafacead76d1d2/BUCK",
+        "sha256": "4c461f7360adca013fa0b776a1eb52b6b44d9db049a3bb1fa806104ebfec03a1"
+      },
+      "dependencies": {
+        "boost/core": "1.64.0",
+        "boost/fusion": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/tuple": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/hana/archive/7a3e0480d442c393ed7bcc1ca72a3e1821319ff0.zip",
@@ -23,6 +113,42 @@
         "boost/config": "1.63.0",
         "boost/mpl": "1.63.0",
         "boost/tuple": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/hana/archive/9c4c84b3830ca40f32951eaca93dd6f40837fff1.zip",
+        "sha256": "b223bf12a65d460b292f743a548ef4496c01618701d99fdc3a4e712c5ef2dff9",
+        "subPath": "hana-9c4c84b3830ca40f32951eaca93dd6f40837fff1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/hana/81d75a2c22e9ba083a9d58d108fafacead76d1d2/BUCK",
+        "sha256": "4c461f7360adca013fa0b776a1eb52b6b44d9db049a3bb1fa806104ebfec03a1"
+      },
+      "dependencies": {
+        "boost/core": "1.62.0",
+        "boost/fusion": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/tuple": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/hana/archive/c29086e9e16ca713c9d3e47a46d8fae5ff707b98.zip",
+        "sha256": "e27a0f6fd8c4cb6ad4aa213b49eaacefa6b2bc7e6ba3a4aca0bc15b1fc7647d4",
+        "subPath": "hana-c29086e9e16ca713c9d3e47a46d8fae5ff707b98"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/hana/81d75a2c22e9ba083a9d58d108fafacead76d1d2/BUCK",
+        "sha256": "4c461f7360adca013fa0b776a1eb52b6b44d9db049a3bb1fa806104ebfec03a1"
+      },
+      "dependencies": {
+        "boost/core": "1.61.0",
+        "boost/fusion": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/tuple": "1.61.0"
       }
     }
   }

@@ -7,6 +7,156 @@
     "project": "signals2"
   },
   "versions": {
+    "1.67.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/70dc91fccd6f552ac223cae52fcec27ec16b0f4b.zip",
+        "sha256": "a787b96a06ffd7c46e706afce81a2f68baa74572724399918189a306bd98af49",
+        "subPath": "signals2-70dc91fccd6f552ac223cae52fcec27ec16b0f4b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.67.0",
+        "boost/assert": "1.67.0",
+        "boost/config": "1.67.0",
+        "boost/smart-ptr": "1.67.0",
+        "boost/preprocessor": "1.67.0",
+        "boost/type-traits": "1.67.0",
+        "boost/detail": "1.67.0",
+        "boost/core": "1.67.0",
+        "boost/mpl": "1.67.0",
+        "boost/variant": "1.67.0",
+        "boost/parameter": "1.67.0",
+        "boost/utility": "1.67.0",
+        "boost/optional": "1.67.0",
+        "boost/throw-exception": "1.67.0",
+        "boost/tuple": "1.67.0",
+        "boost/iterator": "1.67.0",
+        "boost/multi-index": "1.67.0"
+      }
+    },
+    "1.66.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/8c39c4cdbf6a38f9b64948e13411914c8f35d4fb.zip",
+        "sha256": "52d38b9bedb9f2af66c09d4d5d1f1a637241cf5df77084ee1800e3d284cf3834",
+        "subPath": "signals2-8c39c4cdbf6a38f9b64948e13411914c8f35d4fb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.66.0",
+        "boost/assert": "1.66.0",
+        "boost/config": "1.66.0",
+        "boost/smart-ptr": "1.66.0",
+        "boost/preprocessor": "1.66.0",
+        "boost/type-traits": "1.66.0",
+        "boost/detail": "1.66.0",
+        "boost/core": "1.66.0",
+        "boost/mpl": "1.66.0",
+        "boost/variant": "1.66.0",
+        "boost/parameter": "1.66.0",
+        "boost/utility": "1.66.0",
+        "boost/optional": "1.66.0",
+        "boost/throw-exception": "1.66.0",
+        "boost/tuple": "1.66.0",
+        "boost/iterator": "1.66.0",
+        "boost/multi-index": "1.66.0"
+      }
+    },
+    "1.65.1": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/3eb4d1eaf821d457e9019ca8f82eb181baf83797.zip",
+        "sha256": "b2b9849e4a82e287883e291368664339773ccea8f955fc687c2cfc2bf8fbde91",
+        "subPath": "signals2-3eb4d1eaf821d457e9019ca8f82eb181baf83797"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.65.1",
+        "boost/assert": "1.65.1",
+        "boost/config": "1.65.1",
+        "boost/smart-ptr": "1.65.1",
+        "boost/preprocessor": "1.65.1",
+        "boost/type-traits": "1.65.1",
+        "boost/detail": "1.65.1",
+        "boost/core": "1.65.1",
+        "boost/mpl": "1.65.1",
+        "boost/variant": "1.65.1",
+        "boost/parameter": "1.65.1",
+        "boost/utility": "1.65.1",
+        "boost/optional": "1.65.1",
+        "boost/throw-exception": "1.65.1",
+        "boost/tuple": "1.65.1",
+        "boost/iterator": "1.65.1",
+        "boost/multi-index": "1.65.1"
+      }
+    },
+    "1.65.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/3eb4d1eaf821d457e9019ca8f82eb181baf83797.zip",
+        "sha256": "b2b9849e4a82e287883e291368664339773ccea8f955fc687c2cfc2bf8fbde91",
+        "subPath": "signals2-3eb4d1eaf821d457e9019ca8f82eb181baf83797"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.65.0",
+        "boost/assert": "1.65.0",
+        "boost/config": "1.65.0",
+        "boost/smart-ptr": "1.65.0",
+        "boost/preprocessor": "1.65.0",
+        "boost/type-traits": "1.65.0",
+        "boost/detail": "1.65.0",
+        "boost/core": "1.65.0",
+        "boost/mpl": "1.65.0",
+        "boost/variant": "1.65.0",
+        "boost/parameter": "1.65.0",
+        "boost/utility": "1.65.0",
+        "boost/optional": "1.65.0",
+        "boost/throw-exception": "1.65.0",
+        "boost/tuple": "1.65.0",
+        "boost/iterator": "1.65.0",
+        "boost/multi-index": "1.65.0"
+      }
+    },
+    "1.64.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/a1f9133246093571b4903ccfbf3aed1fae22a0e6.zip",
+        "sha256": "67eb8e29770f748bacf219c33930c21a2839e2712ec044ae327dc657b82515a7",
+        "subPath": "signals2-a1f9133246093571b4903ccfbf3aed1fae22a0e6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.64.0",
+        "boost/assert": "1.64.0",
+        "boost/config": "1.64.0",
+        "boost/smart-ptr": "1.64.0",
+        "boost/preprocessor": "1.64.0",
+        "boost/type-traits": "1.64.0",
+        "boost/detail": "1.64.0",
+        "boost/core": "1.64.0",
+        "boost/mpl": "1.64.0",
+        "boost/variant": "1.64.0",
+        "boost/parameter": "1.64.0",
+        "boost/utility": "1.64.0",
+        "boost/optional": "1.64.0",
+        "boost/throw-exception": "1.64.0",
+        "boost/tuple": "1.64.0",
+        "boost/iterator": "1.64.0",
+        "boost/multi-index": "1.64.0"
+      }
+    },
     "1.63.0": {
       "source": {
         "url": "https://github.com/boostorg/signals2/archive/0807acf604989bc72cbb60a9a55f43f976a18372.zip",
@@ -35,6 +185,516 @@
         "boost/tuple": "1.63.0",
         "boost/iterator": "1.63.0",
         "boost/multi-index": "1.63.0"
+      }
+    },
+    "1.62.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/cd139d7b14b15c0b9374994d5726e644b7d26b56.zip",
+        "sha256": "b6ec16b98d1521ee9c56b04b3c26d572adf10061fbe53536754a5313e22de26b",
+        "subPath": "signals2-cd139d7b14b15c0b9374994d5726e644b7d26b56"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.62.0",
+        "boost/assert": "1.62.0",
+        "boost/config": "1.62.0",
+        "boost/smart-ptr": "1.62.0",
+        "boost/preprocessor": "1.62.0",
+        "boost/type-traits": "1.62.0",
+        "boost/detail": "1.62.0",
+        "boost/core": "1.62.0",
+        "boost/mpl": "1.62.0",
+        "boost/variant": "1.62.0",
+        "boost/parameter": "1.62.0",
+        "boost/utility": "1.62.0",
+        "boost/optional": "1.62.0",
+        "boost/throw-exception": "1.62.0",
+        "boost/tuple": "1.62.0",
+        "boost/iterator": "1.62.0",
+        "boost/multi-index": "1.62.0"
+      }
+    },
+    "1.61.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/311f88914b9147fae4a5584ca7bb3868ab77dabb.zip",
+        "sha256": "95f40e77e4f9ee6b2df147fde28310c31ca62a6379f12a6615def76cd63e7f95",
+        "subPath": "signals2-311f88914b9147fae4a5584ca7bb3868ab77dabb"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.61.0",
+        "boost/assert": "1.61.0",
+        "boost/config": "1.61.0",
+        "boost/smart-ptr": "1.61.0",
+        "boost/preprocessor": "1.61.0",
+        "boost/type-traits": "1.61.0",
+        "boost/detail": "1.61.0",
+        "boost/core": "1.61.0",
+        "boost/mpl": "1.61.0",
+        "boost/variant": "1.61.0",
+        "boost/parameter": "1.61.0",
+        "boost/utility": "1.61.0",
+        "boost/optional": "1.61.0",
+        "boost/throw-exception": "1.61.0",
+        "boost/tuple": "1.61.0",
+        "boost/iterator": "1.61.0",
+        "boost/multi-index": "1.61.0"
+      }
+    },
+    "1.60.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/513580ec5301e694f147e3a273cb69a9652cf1bc.zip",
+        "sha256": "87d8037898ea7157bfe6e7427c7c91e5670dac22fcbe50ae47784638a14b44d8",
+        "subPath": "signals2-513580ec5301e694f147e3a273cb69a9652cf1bc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.60.0",
+        "boost/assert": "1.60.0",
+        "boost/config": "1.60.0",
+        "boost/smart-ptr": "1.60.0",
+        "boost/preprocessor": "1.60.0",
+        "boost/type-traits": "1.60.0",
+        "boost/detail": "1.60.0",
+        "boost/core": "1.60.0",
+        "boost/mpl": "1.60.0",
+        "boost/variant": "1.60.0",
+        "boost/parameter": "1.60.0",
+        "boost/utility": "1.60.0",
+        "boost/optional": "1.60.0",
+        "boost/throw-exception": "1.60.0",
+        "boost/tuple": "1.60.0",
+        "boost/iterator": "1.60.0",
+        "boost/multi-index": "1.60.0"
+      }
+    },
+    "1.59.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/45efa525ce791f38756072eee931f3a20cf87841.zip",
+        "sha256": "38ee8b9d70e4bbbde22fe0b77fc546156116395db6d9479f6f9641f9250fa7d7",
+        "subPath": "signals2-45efa525ce791f38756072eee931f3a20cf87841"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.59.0",
+        "boost/assert": "1.59.0",
+        "boost/config": "1.59.0",
+        "boost/smart-ptr": "1.59.0",
+        "boost/preprocessor": "1.59.0",
+        "boost/type-traits": "1.59.0",
+        "boost/detail": "1.59.0",
+        "boost/core": "1.59.0",
+        "boost/mpl": "1.59.0",
+        "boost/variant": "1.59.0",
+        "boost/parameter": "1.59.0",
+        "boost/utility": "1.59.0",
+        "boost/optional": "1.59.0",
+        "boost/throw-exception": "1.59.0",
+        "boost/tuple": "1.59.0",
+        "boost/iterator": "1.59.0",
+        "boost/multi-index": "1.59.0"
+      }
+    },
+    "1.58.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/4982d8a8ef2155173dc5536d6f9d978fd788fa6a.zip",
+        "sha256": "53528cf29f65718950a358ed8f3a567f13030514b2fae70af4ad9cfc30aa0f9d",
+        "subPath": "signals2-4982d8a8ef2155173dc5536d6f9d978fd788fa6a"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.58.0",
+        "boost/assert": "1.58.0",
+        "boost/config": "1.58.0",
+        "boost/smart-ptr": "1.58.0",
+        "boost/preprocessor": "1.58.0",
+        "boost/type-traits": "1.58.0",
+        "boost/detail": "1.58.0",
+        "boost/core": "1.58.0",
+        "boost/mpl": "1.58.0",
+        "boost/variant": "1.58.0",
+        "boost/parameter": "1.58.0",
+        "boost/utility": "1.58.0",
+        "boost/optional": "1.58.0",
+        "boost/throw-exception": "1.58.0",
+        "boost/tuple": "1.58.0",
+        "boost/iterator": "1.58.0",
+        "boost/multi-index": "1.58.0"
+      }
+    },
+    "1.57.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/f3cd4d389910ff955c706374b36a9b8dec9b101d.zip",
+        "sha256": "b7e3e50e5c99e29abf9367e17afa0b92dfa51059a3ade4f8d801470653b173eb",
+        "subPath": "signals2-f3cd4d389910ff955c706374b36a9b8dec9b101d"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.57.0",
+        "boost/assert": "1.57.0",
+        "boost/config": "1.57.0",
+        "boost/smart-ptr": "1.57.0",
+        "boost/preprocessor": "1.57.0",
+        "boost/type-traits": "1.57.0",
+        "boost/detail": "1.57.0",
+        "boost/core": "1.57.0",
+        "boost/mpl": "1.57.0",
+        "boost/variant": "1.57.0",
+        "boost/parameter": "1.57.0",
+        "boost/utility": "1.57.0",
+        "boost/optional": "1.57.0",
+        "boost/throw-exception": "1.57.0",
+        "boost/tuple": "1.57.0",
+        "boost/iterator": "1.57.0",
+        "boost/multi-index": "1.57.0"
+      }
+    },
+    "1.56.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/5516d08b21e991f4f1eab8e33388b157e21efcdc.zip",
+        "sha256": "a98d373e4271df2cef6250f547ad2734d6e91405bc30a607f7c8a848e9b178eb",
+        "subPath": "signals2-5516d08b21e991f4f1eab8e33388b157e21efcdc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.56.0",
+        "boost/assert": "1.56.0",
+        "boost/config": "1.56.0",
+        "boost/smart-ptr": "1.56.0",
+        "boost/preprocessor": "1.56.0",
+        "boost/type-traits": "1.56.0",
+        "boost/detail": "1.56.0",
+        "boost/core": "1.56.0",
+        "boost/mpl": "1.56.0",
+        "boost/variant": "1.56.0",
+        "boost/parameter": "1.56.0",
+        "boost/utility": "1.56.0",
+        "boost/optional": "1.56.0",
+        "boost/throw-exception": "1.56.0",
+        "boost/tuple": "1.56.0",
+        "boost/iterator": "1.56.0",
+        "boost/multi-index": "1.56.0"
+      }
+    },
+    "1.55.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/02563be5276aa645da60e2f1b757e5c6faf44dc0.zip",
+        "sha256": "71e850232eefe3d79c1ac15291954e98d612677690d90ee68c877ef32c138d3f",
+        "subPath": "signals2-02563be5276aa645da60e2f1b757e5c6faf44dc0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.55.0",
+        "boost/assert": "1.55.0",
+        "boost/config": "1.55.0",
+        "boost/smart-ptr": "1.55.0",
+        "boost/preprocessor": "1.55.0",
+        "boost/type-traits": "1.55.0",
+        "boost/detail": "1.55.0",
+        "boost/core": "1.55.0",
+        "boost/mpl": "1.55.0",
+        "boost/variant": "1.55.0",
+        "boost/parameter": "1.55.0",
+        "boost/utility": "1.55.0",
+        "boost/optional": "1.55.0",
+        "boost/throw-exception": "1.55.0",
+        "boost/tuple": "1.55.0",
+        "boost/iterator": "1.55.0",
+        "boost/multi-index": "1.55.0"
+      }
+    },
+    "1.54.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/70c4f6ab42b5e52c46bd1ad2b4cc41cc7fc01cbc.zip",
+        "sha256": "6cd94d9d4ea1c3dc254859a28563fd48c47a30249ec2df02ed284e709493cfaf",
+        "subPath": "signals2-70c4f6ab42b5e52c46bd1ad2b4cc41cc7fc01cbc"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.54.0",
+        "boost/assert": "1.54.0",
+        "boost/config": "1.54.0",
+        "boost/smart-ptr": "1.54.0",
+        "boost/preprocessor": "1.54.0",
+        "boost/type-traits": "1.54.0",
+        "boost/detail": "1.54.0",
+        "boost/core": "1.54.0",
+        "boost/mpl": "1.54.0",
+        "boost/variant": "1.54.0",
+        "boost/parameter": "1.54.0",
+        "boost/utility": "1.54.0",
+        "boost/optional": "1.54.0",
+        "boost/throw-exception": "1.54.0",
+        "boost/tuple": "1.54.0",
+        "boost/iterator": "1.54.0",
+        "boost/multi-index": "1.54.0"
+      }
+    },
+    "1.53.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/d40763649b46e6a9ed211170b2e10273a40a12ee.zip",
+        "sha256": "457f6287e8c2f309ea1ccca5ebc1afd13000a84b8d8927bc2d3b2c0f28d9efba",
+        "subPath": "signals2-d40763649b46e6a9ed211170b2e10273a40a12ee"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.53.0",
+        "boost/assert": "1.53.0",
+        "boost/config": "1.53.0",
+        "boost/smart-ptr": "1.53.0",
+        "boost/preprocessor": "1.53.0",
+        "boost/type-traits": "1.53.0",
+        "boost/detail": "1.53.0",
+        "boost/core": "1.53.0",
+        "boost/mpl": "1.53.0",
+        "boost/variant": "1.53.0",
+        "boost/parameter": "1.53.0",
+        "boost/utility": "1.53.0",
+        "boost/optional": "1.53.0",
+        "boost/throw-exception": "1.53.0",
+        "boost/tuple": "1.53.0",
+        "boost/iterator": "1.53.0",
+        "boost/multi-index": "1.53.0"
+      }
+    },
+    "1.52.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/b39e17aa6881076d4a2fd45d5ee2cecafb9090d4.zip",
+        "sha256": "3234477cd703d1efec1f149bbf5ecae8a579084d6fd1d72c7a7300a2b6745ff5",
+        "subPath": "signals2-b39e17aa6881076d4a2fd45d5ee2cecafb9090d4"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.52.0",
+        "boost/assert": "1.52.0",
+        "boost/config": "1.52.0",
+        "boost/smart-ptr": "1.52.0",
+        "boost/preprocessor": "1.52.0",
+        "boost/type-traits": "1.52.0",
+        "boost/detail": "1.52.0",
+        "boost/core": "1.52.0",
+        "boost/mpl": "1.52.0",
+        "boost/variant": "1.52.0",
+        "boost/parameter": "1.52.0",
+        "boost/utility": "1.52.0",
+        "boost/optional": "1.52.0",
+        "boost/throw-exception": "1.52.0",
+        "boost/tuple": "1.52.0",
+        "boost/iterator": "1.52.0",
+        "boost/multi-index": "1.52.0"
+      }
+    },
+    "1.51.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/d292682ef1836aea8222cc6b55c8eaa58b639389.zip",
+        "sha256": "8b9f3c6b210ad16fd1a5c257d4259d2b03e7059e105270b3f0f7c9e0cb037777",
+        "subPath": "signals2-d292682ef1836aea8222cc6b55c8eaa58b639389"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.51.0",
+        "boost/assert": "1.51.0",
+        "boost/config": "1.51.0",
+        "boost/smart-ptr": "1.51.0",
+        "boost/preprocessor": "1.51.0",
+        "boost/type-traits": "1.51.0",
+        "boost/detail": "1.51.0",
+        "boost/core": "1.51.0",
+        "boost/mpl": "1.51.0",
+        "boost/variant": "1.51.0",
+        "boost/parameter": "1.51.0",
+        "boost/utility": "1.51.0",
+        "boost/optional": "1.51.0",
+        "boost/throw-exception": "1.51.0",
+        "boost/tuple": "1.51.0",
+        "boost/iterator": "1.51.0",
+        "boost/multi-index": "1.51.0"
+      }
+    },
+    "1.50.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/98cff898c1b44de8c4f3af5805fa35e05ff8e8b0.zip",
+        "sha256": "022831743fe51ca90e644a6c1c608fbf3c11d56d9ed1463c7f17d01ed16edc38",
+        "subPath": "signals2-98cff898c1b44de8c4f3af5805fa35e05ff8e8b0"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.50.0",
+        "boost/assert": "1.50.0",
+        "boost/config": "1.50.0",
+        "boost/smart-ptr": "1.50.0",
+        "boost/preprocessor": "1.50.0",
+        "boost/type-traits": "1.50.0",
+        "boost/detail": "1.50.0",
+        "boost/core": "1.50.0",
+        "boost/mpl": "1.50.0",
+        "boost/variant": "1.50.0",
+        "boost/parameter": "1.50.0",
+        "boost/utility": "1.50.0",
+        "boost/optional": "1.50.0",
+        "boost/throw-exception": "1.50.0",
+        "boost/tuple": "1.50.0",
+        "boost/iterator": "1.50.0",
+        "boost/multi-index": "1.50.0"
+      }
+    },
+    "1.49.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/ceda2bc1b7206f2c9074e5d0e0055e140d1b95e6.zip",
+        "sha256": "4c425d28dca52a53c4a2c582f14ce492d254726900170bd1823a5d9dee2d965a",
+        "subPath": "signals2-ceda2bc1b7206f2c9074e5d0e0055e140d1b95e6"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.49.0",
+        "boost/assert": "1.49.0",
+        "boost/config": "1.49.0",
+        "boost/smart-ptr": "1.49.0",
+        "boost/preprocessor": "1.49.0",
+        "boost/type-traits": "1.49.0",
+        "boost/detail": "1.49.0",
+        "boost/core": "1.49.0",
+        "boost/mpl": "1.49.0",
+        "boost/variant": "1.49.0",
+        "boost/parameter": "1.49.0",
+        "boost/utility": "1.49.0",
+        "boost/optional": "1.49.0",
+        "boost/throw-exception": "1.49.0",
+        "boost/tuple": "1.49.0",
+        "boost/iterator": "1.49.0",
+        "boost/multi-index": "1.49.0"
+      }
+    },
+    "1.48.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/64e5776ac3a7bc45fe0417dcb94850358c31bd1b.zip",
+        "sha256": "b04b7bc5d097d0542a092156ad01d6b473415576b560cdf1440c5d67832ab030",
+        "subPath": "signals2-64e5776ac3a7bc45fe0417dcb94850358c31bd1b"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.48.0",
+        "boost/assert": "1.48.0",
+        "boost/config": "1.48.0",
+        "boost/smart-ptr": "1.48.0",
+        "boost/preprocessor": "1.48.0",
+        "boost/type-traits": "1.48.0",
+        "boost/detail": "1.48.0",
+        "boost/core": "1.48.0",
+        "boost/mpl": "1.48.0",
+        "boost/variant": "1.48.0",
+        "boost/parameter": "1.48.0",
+        "boost/utility": "1.48.0",
+        "boost/optional": "1.48.0",
+        "boost/throw-exception": "1.48.0",
+        "boost/tuple": "1.48.0",
+        "boost/iterator": "1.48.0",
+        "boost/multi-index": "1.48.0"
+      }
+    },
+    "1.47.0": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/380946f7da4ad7bf201a4cf9c8ad40bdff7fc7fe.zip",
+        "sha256": "7583f3ef77c880ada2cc81a05f512870976c028c6f059b02082b51c47ccca592",
+        "subPath": "signals2-380946f7da4ad7bf201a4cf9c8ad40bdff7fc7fe"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.47.0",
+        "boost/assert": "1.47.0",
+        "boost/config": "1.47.0",
+        "boost/smart-ptr": "1.47.0",
+        "boost/preprocessor": "1.47.0",
+        "boost/type-traits": "1.47.0",
+        "boost/detail": "1.47.0",
+        "boost/core": "1.47.0",
+        "boost/mpl": "1.47.0",
+        "boost/variant": "1.47.0",
+        "boost/parameter": "1.47.0",
+        "boost/utility": "1.47.0",
+        "boost/optional": "1.47.0",
+        "boost/throw-exception": "1.47.0",
+        "boost/tuple": "1.47.0",
+        "boost/iterator": "1.47.0",
+        "boost/multi-index": "1.47.0"
+      }
+    },
+    "1.46.1": {
+      "source": {
+        "url": "https://github.com/boostorg/signals2/archive/f36a2929cf1e3344f8a8c61858fe7d820562ac47.zip",
+        "sha256": "0621ea458d4696c24948f414ffafef6c6a24c19943afdc672a546dd9016d021c",
+        "subPath": "signals2-f36a2929cf1e3344f8a8c61858fe7d820562ac47"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/signals2/08fcb8a38c1ad73046484bc1f63cea0dbce5a401/BUCK",
+        "sha256": "03342d4e7f16471b45ab4e905892641076ab4cf1bf8a0522f4bd0f05bfcd2647"
+      },
+      "dependencies": {
+        "boost/function": "1.46.1",
+        "boost/assert": "1.46.1",
+        "boost/config": "1.46.1",
+        "boost/smart-ptr": "1.46.1",
+        "boost/preprocessor": "1.46.1",
+        "boost/type-traits": "1.46.1",
+        "boost/detail": "1.46.1",
+        "boost/core": "1.46.1",
+        "boost/mpl": "1.46.1",
+        "boost/variant": "1.46.1",
+        "boost/parameter": "1.46.1",
+        "boost/utility": "1.46.1",
+        "boost/optional": "1.46.1",
+        "boost/throw-exception": "1.46.1",
+        "boost/tuple": "1.46.1",
+        "boost/iterator": "1.46.1",
+        "boost/multi-index": "1.46.1"
       }
     }
   }

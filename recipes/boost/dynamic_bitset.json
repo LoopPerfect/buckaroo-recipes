@@ -1,0 +1,188 @@
+{
+  "versions": {
+    "1.67.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/4f54d83981e0661071cb54a3bfde16fde3c350e6.zip",
+        "sha256": "98355d266b0d2c061620dfb5c943ff6e9047f1f8b2f2deccb702e68e1cd1b2c6",
+        "subPath": "dynamic_bitset-4f54d83981e0661071cb54a3bfde16fde3c350e6"
+      }
+    },
+    "1.66.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/184d1ba7ad9500c174fa79ab79e6b7ee692e1e81.zip",
+        "sha256": "d6b37401bda4687b114f8234d0a10e24671177bc9601adcc12102d9e7eb975a2",
+        "subPath": "dynamic_bitset-184d1ba7ad9500c174fa79ab79e6b7ee692e1e81"
+      }
+    },
+    "1.65.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/f4e49ff56faf0f718745659b2e256bfaaf1f4add.zip",
+        "sha256": "d8a15f51e9157ee13939ebfce52c0902c83265323d15bfb1d16ef87e10d13ffe",
+        "subPath": "dynamic_bitset-f4e49ff56faf0f718745659b2e256bfaaf1f4add"
+      }
+    },
+    "1.65.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/f4e49ff56faf0f718745659b2e256bfaaf1f4add.zip",
+        "sha256": "d8a15f51e9157ee13939ebfce52c0902c83265323d15bfb1d16ef87e10d13ffe",
+        "subPath": "dynamic_bitset-f4e49ff56faf0f718745659b2e256bfaaf1f4add"
+      }
+    },
+    "1.64.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/e49b08a2899987256dffe8da5b933d74d8b7655b.zip",
+        "sha256": "b828c053f1028dcb5e5ba93e096add44d675810c5b716c9430092018c371017b",
+        "subPath": "dynamic_bitset-e49b08a2899987256dffe8da5b933d74d8b7655b"
+      }
+    },
+    "1.63.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/7259281f5bfecd6d8a19404685a8d9bdba6831d4.zip",
+        "sha256": "5121eee3252a2ec17d7e860f33455d6f730fbfe1980e215b7027d6cce448ab95",
+        "subPath": "dynamic_bitset-7259281f5bfecd6d8a19404685a8d9bdba6831d4"
+      }
+    },
+    "1.62.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/7259281f5bfecd6d8a19404685a8d9bdba6831d4.zip",
+        "sha256": "5121eee3252a2ec17d7e860f33455d6f730fbfe1980e215b7027d6cce448ab95",
+        "subPath": "dynamic_bitset-7259281f5bfecd6d8a19404685a8d9bdba6831d4"
+      }
+    },
+    "1.61.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/0f4801078386906ba271a0cbdd91df25bf4b0156.zip",
+        "sha256": "e6e9dc5e9a50e117b32211ce6beb27460b76b8212a4a444ba3cccb34adf5c03f",
+        "subPath": "dynamic_bitset-0f4801078386906ba271a0cbdd91df25bf4b0156"
+      }
+    },
+    "1.60.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/0f4801078386906ba271a0cbdd91df25bf4b0156.zip",
+        "sha256": "e6e9dc5e9a50e117b32211ce6beb27460b76b8212a4a444ba3cccb34adf5c03f",
+        "subPath": "dynamic_bitset-0f4801078386906ba271a0cbdd91df25bf4b0156"
+      }
+    },
+    "1.59.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/0f4801078386906ba271a0cbdd91df25bf4b0156.zip",
+        "sha256": "e6e9dc5e9a50e117b32211ce6beb27460b76b8212a4a444ba3cccb34adf5c03f",
+        "subPath": "dynamic_bitset-0f4801078386906ba271a0cbdd91df25bf4b0156"
+      }
+    },
+    "1.58.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/9879dd05b51e151c551bbc09db46f54dc18bc209.zip",
+        "sha256": "7060c4865d710e019dbedaa20129ed59011eb2d619518c15f290540c5b8b4a23",
+        "subPath": "dynamic_bitset-9879dd05b51e151c551bbc09db46f54dc18bc209"
+      }
+    },
+    "1.57.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/1611aeb16aca49ce23179cbae3b2c220f52a3a18.zip",
+        "sha256": "b8554e13a6647f74a78649c374927d0c263ad8b7ae113065042b68524e8f9959",
+        "subPath": "dynamic_bitset-1611aeb16aca49ce23179cbae3b2c220f52a3a18"
+      }
+    },
+    "1.56.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/1611aeb16aca49ce23179cbae3b2c220f52a3a18.zip",
+        "sha256": "b8554e13a6647f74a78649c374927d0c263ad8b7ae113065042b68524e8f9959",
+        "subPath": "dynamic_bitset-1611aeb16aca49ce23179cbae3b2c220f52a3a18"
+      }
+    },
+    "1.55.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/631a9d47e72f71c811e800135d1ef5d28012d328.zip",
+        "sha256": "0fb3771e3b0cb17728e10ac13b29bc0509a9b3c4b1d74aea933d5f188a3f13b8",
+        "subPath": "dynamic_bitset-631a9d47e72f71c811e800135d1ef5d28012d328"
+      }
+    },
+    "1.54.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/7aae4d79aeef4f1d518799ad58ca6b6b9b958133.zip",
+        "sha256": "dd0e0bb2e10e55e08ce143263c70062ebf197c5005bec3ef9134b6d415090fcf",
+        "subPath": "dynamic_bitset-7aae4d79aeef4f1d518799ad58ca6b6b9b958133"
+      }
+    },
+    "1.53.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/c803e3d3671b4b928d8d328b667214fef0c68152.zip",
+        "sha256": "1eca2bae26390cefa0604c1c78bcc5ebad72c454c791a4006572e6df6ce02108",
+        "subPath": "dynamic_bitset-c803e3d3671b4b928d8d328b667214fef0c68152"
+      }
+    },
+    "1.52.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/6cb9cf71dec029fda75bd54869adaf612c10a333.zip",
+        "sha256": "206fd25a1d6f1bde83903cb7c7c5b8702ee7b8dabaf28e4407c0ef3c7f77d828",
+        "subPath": "dynamic_bitset-6cb9cf71dec029fda75bd54869adaf612c10a333"
+      }
+    },
+    "1.51.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/c0e47bb5b73ae992a1b6475e0efb2f00395a0d80.zip",
+        "sha256": "4777778742ddf5771ff472643ead6acaa68d5185acff4a7ce88918ef2afd9890",
+        "subPath": "dynamic_bitset-c0e47bb5b73ae992a1b6475e0efb2f00395a0d80"
+      }
+    },
+    "1.50.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/0fc52e805a431311c941a82dcbc18514c84527d4.zip",
+        "sha256": "1c11fd7c4c2f8e156bd3d2a7b0e8c44af3aaa32382030bf77744fa02d08f437c",
+        "subPath": "dynamic_bitset-0fc52e805a431311c941a82dcbc18514c84527d4"
+      }
+    },
+    "1.49.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/c08ae9b5b2579e97fd69a2ff816982f501cb7ee3.zip",
+        "sha256": "18b7ba32db71a323242db844ae0e30a2217d1365e6ad478045d7844c622e174e",
+        "subPath": "dynamic_bitset-c08ae9b5b2579e97fd69a2ff816982f501cb7ee3"
+      }
+    },
+    "1.48.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/dd03364551d8170730e78a0fd95ecd459ad6cf3c.zip",
+        "sha256": "15926c4599669c7184915bc0a52d5b3c69a4e90d81f05d812020754e5d998aa1",
+        "subPath": "dynamic_bitset-dd03364551d8170730e78a0fd95ecd459ad6cf3c"
+      }
+    },
+    "1.47.0": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/9fc25926c28c73969ccfc828d5cd83378a4e687a.zip",
+        "sha256": "cfeea419df787a7fbd09d7b4b1cea35f72bedc7c9d04677b725e67dd784013a0",
+        "subPath": "dynamic_bitset-9fc25926c28c73969ccfc828d5cd83378a4e687a"
+      }
+    },
+    "1.46.1": {
+      "dependencies": {},
+      "source": {
+        "url": "https://github.com/boostorg/dynamic_bitset/archive/418f21e5213d490f190180ba4d6ea31efe8b59a9.zip",
+        "sha256": "16b5e3337ce31f325d3584b335a88ad7bbc7353b6f9db752c3114e89f1ec427c",
+        "subPath": "dynamic_bitset-418f21e5213d490f190180ba4d6ea31efe8b59a9"
+      }
+    }
+  }
+}
