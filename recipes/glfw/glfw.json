@@ -9,13 +9,9 @@
   "versions": {
     "3.2.1": {
       "source": {
-        "url": "https://github.com/glfw/glfw/archive/999f3556fdd80983b10051746264489f2cb1ef16.zip",
-        "sha256": "f98d5b3f7e1822078ea3d369a9d040838f5d1367b0207497a78ed1c47697c0d4",
-        "subPath": "glfw-999f3556fdd80983b10051746264489f2cb1ef16"
-      },
-      "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/glfw/e0adff2dbcafe27bf0b5349a9290df5f81697b97/BUCK",
-        "sha256": "8fefc4356c21f982b8b0b1da665eb1981a9a74354ef79ddc90d8aaf4dd5550de"
+        "url": "https://github.com/buckaroo-pm/glfw/archive/61613dcfc41ca833d1617a697c585712811345c5.zip",
+        "sha256": "6b1bedaa50386ffbf12f305cb74ceed5566b5e1d14c6846e17d52b6b0e82f8af",
+        "subPath": "glfw-61613dcfc41ca833d1617a697c585712811345c5"
       }
     }
   }
