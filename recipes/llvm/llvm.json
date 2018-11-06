@@ -1,0 +1,18 @@
+{
+  "name": "llvm",
+  "license": "MIT",
+  "url": "https://llvm.org/",
+  "github": {
+    "owner": "buckaroo-pm",
+    "project": "llvm"
+  },
+  "versions": {
+    "7.0.0": {
+      "source": {
+        "url": "https://github.com/buckaroo-pm/llvm/archive/7e77bee5c9f72a024dcdafe30aac463052199b80.zip",
+        "sha256": "63fbfbac7fbf7cc4f5dbdf2a5a700c39f3b7f4223d88408abc3dd0cdf3275d4c",
+        "subPath": "llvm-7e77bee5c9f72a024dcdafe30aac463052199b80"
+      }
+    }
+  }
+}
