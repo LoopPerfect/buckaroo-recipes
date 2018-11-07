@@ -1,0 +1,22 @@
+{
+  "name": "argh",
+  "license": "MIT",
+  "url": "https://github.com/adishavit/argh",
+  "github": {
+    "owner": "adishavit",
+    "project": "argh"
+  },
+  "versions": {
+    "1.2.1": {
+      "source": {
+        "url": "https://github.com/adishavit/argh/archive/eac6629dca5a368048b4d2eeec30f760efd867a1.zip",
+        "sha256": "fedfc1ac578303c8170a065aedd2ca5bd4c3178a7d90060f03072902b4d5110f",
+        "subPath": "argh-eac6629dca5a368048b4d2eeec30f760efd867a1"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/adishavit/argh/6e3034b7232aea5e8aa45d7b7caf9cb8b33fafd9/BUCK",
+        "sha256": "a59f53b2d3c43f073d6f8b0db6ba6ca043d6563e942175341631318a47b0fcf4"
+      }
+    }
+  }
+}
