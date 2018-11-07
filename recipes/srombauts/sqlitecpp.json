@@ -1,0 +1,18 @@
+{
+  "name": "SQLiteCpp",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/SRombauts/SQLiteCpp",
+  "github": {
+    "owner": "SRombauts",
+    "project": "SQLiteCPP"
+  },
+  "versions": {
+    "2.2.0": {
+      "source": {
+        "url": "https://github.com/buckaroo-pm/SRombauts-SQLiteCpp/archive/7ead3acbb6d2bc531e5cb02defbaac69deafdc5c.zip",
+        "sha256": "72444ed7063694c014e5f3cefe87725883a1bbae777a841499a0cb899178be2c",
+        "subPath": "SRombauts-SQLiteCpp-7ead3acbb6d2bc531e5cb02defbaac69deafdc5c"
+      }
+    }
+  }
+}
