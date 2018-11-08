@@ -1,0 +1,18 @@
+{
+  "name": "FLTK",
+  "license": "GPL-2.0",
+  "url": "http://www.fltk.org",
+  "github": {
+    "owner": "fltk",
+    "project": "fltk"
+  },
+  "versions": {
+    "1.3.4.1": {
+      "source": {
+        "url": "https://github.com/buckaroo-pm/fltk/archive/c8ed1cb465ec48c715405b69996aee096dd92306.zip",
+        "sha256": "1a783feb52406a7e6d1f19226e66a258f4ae1fdb49eea950a494f112003bc5ba",
+        "subPath": "fltk-c8ed1cb465ec48c715405b69996aee096dd92306"
+      }
+    }
+  }
+}
