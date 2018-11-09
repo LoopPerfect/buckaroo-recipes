@@ -1,0 +1,19 @@
+{
+  "name": "c10",
+  "license": "",
+  "url": "https://pytorch.org/",
+  "github": {
+    "owner": "pytorch",
+    "project": "pytorch"
+  },
+  "versions": {
+    "1.0.0": {
+      "source": {
+        "url": "https://github.com/buckaroo-pm/pytorch/archive/3d2c34f610652a2b169435882e30a566341c9ac0.zip",
+        "sha256": "68187781c5eeaccf92be6dcc259f9fdf8d91aa4604a2b9e27a29bf1a77e03cd6",
+        "subPath": "pytorch-3d2c34f610652a2b169435882e30a566341c9ac0"
+      }, 
+      "target": "c10:c10"
+    }
+  }
+}
