@@ -16,7 +16,8 @@
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/docopt.cpp/3c43e756cbf265ed1505287003cba626c58594bf/BUCK",
         "sha256": "903d338b520c18defb64165341dd2f5d17823ebaae71e8538ef28c74271ae950"
-      }
+      }, 
+      "target": "docopt.cpp"
     }
   }
 }
