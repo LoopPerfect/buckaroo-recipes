@@ -27,7 +27,8 @@
       "buck": {
         "url": "https://raw.githubusercontent.com/njlr/libsodium/b50d00ad91cf683ca017c0d38c784c8eba6500b1/BUCK",
         "sha256": "deb05862c0c8a99f10b8c3d525459b27622f603271a151e564ea27dad19939f2"
-      }
+      },
+      "target": "//:sodium"
     }
   }
 }
