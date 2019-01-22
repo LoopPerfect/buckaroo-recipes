@@ -1,3 +1,7 @@
+# :skull: The recipes have moved! Please see the [new Buckaroo PM org](https://github.com/buckaroo-pm). :skull: 
+
+----
+
 # Buckaroo Recipes
 The official book of recipes for Buckaroo 📒
 
